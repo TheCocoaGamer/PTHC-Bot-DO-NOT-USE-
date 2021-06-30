@@ -1,0 +1,433 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7777
+Type 'help' for a list of commands.
+
+Terracord: [06/20/2021 17:00:49 -05:00] [Info] Connecting to Discord...
+Terracord: [06/20/2021 17:00:49 -05:00] [Info] 17:00:49 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/20/2021 17:00:50 -05:00] [Info] 17:00:50 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 2m
+Invalid command entered. Type /help for a list of valid commands.
+: user del 352243064179392512
+Account removed successfully.
+Server successfully deleted account: 352243064179392512.
+: user add 352243064179392512 znec default
+Server started
+Account 352243064179392512 has been added to group default!
+Server added Account 352243064179392512 to group default
+: user del 262003003186216973
+Account removed successfully.
+Server successfully deleted account: 262003003186216973.
+: user add 262003003186216973 rwa7 default
+Account 262003003186216973 has been added to group default!
+Server added Account 262003003186216973 to group default
+: user del 609779161229426688
+Account removed successfully.
+Server successfully deleted account: 609779161229426688.
+: user add 609779161229426688 rtwv default
+Account 609779161229426688 has been added to group default!
+Server added Account 609779161229426688 to group default
+: user del 414496759809572876
+Account removed successfully.
+Server successfully deleted account: 414496759809572876.
+: user add 414496759809572876 j2q8 default
+Account 414496759809572876 has been added to group default!
+Server added Account 414496759809572876 to group default
+: user del 244501248861011968
+Account removed successfully.
+Server successfully deleted account: 244501248861011968.
+: user add 244501248861011968 leyg default
+Account 244501248861011968 has been added to group default!
+Server added Account 244501248861011968 to group default
+: user del 411350663281508352
+Account removed successfully.
+Server successfully deleted account: 411350663281508352.
+: user add 411350663281508352 hrvm default
+Account 411350663281508352 has been added to group default!
+Server added Account 411350663281508352 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ej9y default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 bs7o default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 352243064179392512
+Account removed successfully.
+Server successfully deleted account: 352243064179392512.
+: user add 352243064179392512 7hw4 default
+Account 352243064179392512 has been added to group default!
+Server added Account 352243064179392512 to group default
+: user del 609779161229426688
+Account removed successfully.
+Server successfully deleted account: 609779161229426688.
+: user add 609779161229426688 duic default
+Account 609779161229426688 has been added to group default!
+Server added Account 609779161229426688 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 pe6w default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 262003003186216973
+Account removed successfully.
+Server successfully deleted account: 262003003186216973.
+: user add 262003003186216973 y875 default
+Account 262003003186216973 has been added to group default!
+Server added Account 262003003186216973 to group default
+: user del 262003003186216973
+Account removed successfully.
+Server successfully deleted account: 262003003186216973.
+: user add 262003003186216973 ee73 default
+Account 262003003186216973 has been added to group default!
+Server added Account 262003003186216973 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 73wh default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 602549842367217665
+Account removed successfully.
+Server successfully deleted account: 602549842367217665.
+: user add 602549842367217665 5mmh default
+Account 602549842367217665 has been added to group default!
+Server added Account 602549842367217665 to group default
+: user del 689529267658555448
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '689529267658555448' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 689529267658555448 bhgy default
+Account 689529267658555448 has been added to group default!
+Server added Account 689529267658555448 to group default
+: user del 244501248861011968
+Account removed successfully.
+Server successfully deleted account: 244501248861011968.
+: user add 244501248861011968 573w default
+Account 244501248861011968 has been added to group default!
+Server added Account 244501248861011968 to group default
+: user del 417138170430357524
+Account removed successfully.
+Server successfully deleted account: 417138170430357524.
+: user add 417138170430357524 5hjz default
+Account 417138170430357524 has been added to group default!
+Server added Account 417138170430357524 to group default
+: user del 622841744958160917
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '622841744958160917' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 622841744958160917 ve72 default
+Account 622841744958160917 has been added to group default!
+Server added Account 622841744958160917 to group default
+: user del 262003003186216973
+Account removed successfully.
+Server successfully deleted account: 262003003186216973.
+: user add 262003003186216973 72ms default
+Terracord: [06/20/2021 17:00:51 -05:00] [Info] 17:00:51 Gateway     Connected
+Account 262003003186216973 has been added to group default!
+Server added Account 262003003186216973 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 zgz5 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 h0sh default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 244501248861011968
+Account removed successfully.
+Server successfully deleted account: 244501248861011968.
+: user add 244501248861011968 2kg1 default
+Account 244501248861011968 has been added to group default!
+Server added Account 244501248861011968 to group default
+: user del 411350663281508352
+Account removed successfully.
+Server successfully deleted account: 411350663281508352.
+: user add 411350663281508352 xdw2 default
+Account 411350663281508352 has been added to group default!
+Server added Account 411350663281508352 to group default
+: user del 352243064179392512
+Account removed successfully.
+Server successfully deleted account: 352243064179392512.
+: user add 352243064179392512 gmto default
+Account 352243064179392512 has been added to group default!
+Server added Account 352243064179392512 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 29gb default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 244501248861011968
+Account removed successfully.
+Server successfully deleted account: 244501248861011968.
+: user add 244501248861011968 5ist default
+Account 244501248861011968 has been added to group default!
+Server added Account 244501248861011968 to group default
+: user del 386908595930791936
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '386908595930791936' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 386908595930791936 37lv default
+Terracord: [06/20/2021 17:00:52 -05:00] [Info] Relay available. Connected to Discord as DontKickMe#5026.
+Account 386908595930791936 has been added to group default!
+Server added Account 386908595930791936 to group default
+: user del 262003003186216973
+Terracord: [06/20/2021 17:00:52 -05:00] [Info] 17:00:52 Gateway     Ready
+Account removed successfully.
+Server successfully deleted account: 262003003186216973.
+: user add 262003003186216973 rig6 default
+Account 262003003186216973 has been added to group default!
+Server added Account 262003003186216973 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 5fln default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 2kg2 default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 jjgs default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 7deg default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 v7hy default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 c34u default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 ynym default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 5ets default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 m7ii default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 o9wc default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 ewvl default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 ruhm default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 lhww default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 5mpa default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 94vj default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 b297 default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 5h8p default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 5zfg default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 kbzv default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 wdvz default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 69rv default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 mz8y default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 0umo default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 qo36 default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 sfwf default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 0uku default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 0c4b default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 bdaw default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 lyew default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 w64z default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 ajj8 default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 69sa default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 vynl default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 h5lk default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: 127.0.0.1:54738 is connecting...
+127.0.0.1:54742 is connecting...
+Terracord: [06/20/2021 17:02:12 -05:00] [Info] **:green_circle: Owner has joined the server.**
+Owner has SSC data in the database, but has the tshock.ignore.ssc permission. This means their SSC data is being ignored.
+You may wish to consider removing the tshock.ignore.ssc permission or negating it for this player.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Owner authenticated successfully as user Owner.
+Owner has joined.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Owner authenticated successfully as user: 376522837693038593.
+Terracord: [06/20/2021 17:03:29 -05:00] [Info] Server broadcast: Owner has enabled PvP!
+
+: Owner executed: /playing.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Owner authenticated successfully as user: Owner.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Owner authenticated successfully as user: Owner.
+playing
+Server executed: /playing.
+Online Players (1/69)
+Owner
+:

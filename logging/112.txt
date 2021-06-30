@@ -1,0 +1,35 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7778
+Type 'help' for a list of commands.
+
+Terracord: [06/30/2021 00:10:53 -05:00] [Info] Connecting to Discord...
+Terracord: [06/30/2021 00:10:53 -05:00] [Info] 00:10:53 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/30/2021 00:10:55 -05:00] [Info] 00:10:55 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 5m
+Server executed: /grace begin 5m.
+Terracord: [06/30/2021 00:10:55 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: ususer del 376522837693038593
+Invalid command entered. Type /help for a list of valid commands.
+: user add 376522837693038593 9pew default
+Server started
+User 376522837693038593 already exists!
+: Terracord: [06/30/2021 00:10:56 -05:00] [Info] 00:10:56 Gateway     Connected
+Terracord: [06/30/2021 00:10:57 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/30/2021 00:10:57 -05:00] [Info] 00:10:57 Gateway     Ready
+98.220.227.57:53765 is connecting...
+Terracord: [06/30/2021 00:12:37 -05:00] [Info] **:green_circle: peepee has joined the server.**
+peepee has joined.
+Terracord: [06/30/2021 00:15:55 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/30/2021 00:15:55 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+playing
+Server executed: /playing.
+Online Players (1/69)
+peepee
+:  

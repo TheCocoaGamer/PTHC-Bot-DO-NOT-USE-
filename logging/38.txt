@@ -1,0 +1,4796 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7777
+Type 'help' for a list of commands.
+
+Terracord: [06/24/2021 18:56:21 -05:00] [Info] Connecting to Discord...
+Terracord: [06/24/2021 18:56:21 -05:00] [Info] 18:56:21 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/24/2021 18:56:22 -05:00] [Info] 18:56:22 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 12m
+Server executed: /grace begin 12m.
+Terracord: [06/24/2021 18:56:22 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 571084111532261446
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '571084111532261446' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 571084111532261446 9bl1 default
+Server started
+Account 571084111532261446 has been added to group default!
+Server added Account 571084111532261446 to group default
+: user del 419317290119462917
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '419317290119462917' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 419317290119462917 adc2 default
+Account 419317290119462917 has been added to group default!
+Server added Account 419317290119462917 to group default
+: user del 602217909032321045
+Account removed successfully.
+Server successfully deleted account: 602217909032321045.
+: user add 602217909032321045 geao default
+Account 602217909032321045 has been added to group default!
+Server added Account 602217909032321045 to group default
+: user del 244501248861011968
+Account removed successfully.
+Server successfully deleted account: 244501248861011968.
+: user add 244501248861011968 ic9w default
+Account 244501248861011968 has been added to group default!
+Server added Account 244501248861011968 to group default
+: user del 688426500286185472
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '688426500286185472' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 688426500286185472 s2bv default
+Account 688426500286185472 has been added to group default!
+Server added Account 688426500286185472 to group default
+: user del 516314535125319691
+Account removed successfully.
+Server successfully deleted account: 516314535125319691.
+: user add 516314535125319691 i1ma default
+Account 516314535125319691 has been added to group default!
+Server added Account 516314535125319691 to group default
+: user del 782433450312466433
+Account removed successfully.
+Server successfully deleted account: 782433450312466433.
+: user add 782433450312466433 n6v1 default
+71.197.184.18:61272 is connecting...
+Account 782433450312466433 has been added to group default!
+Server added Account 782433450312466433 to group default
+: user del 528306483197378560
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '528306483197378560' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 528306483197378560 ewh7 default
+Account 528306483197378560 has been added to group default!
+Server added Account 528306483197378560 to group default
+: user del 711702800954032159
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '711702800954032159' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 711702800954032159 6xjq default
+Account 711702800954032159 has been added to group default!
+Server added Account 711702800954032159 to group default
+: user del 262003003186216973
+Terracord: [06/24/2021 18:56:22 -05:00] [Info] 18:56:22 Gateway     Connected
+Account removed successfully.
+Server successfully deleted account: 262003003186216973.
+: user add 262003003186216973 rcan default
+Account 262003003186216973 has been added to group default!
+Server added Account 262003003186216973 to group default
+: user del 262003003186216973
+Account removed successfully.
+Server successfully deleted account: 262003003186216973.
+: user add 26200300318624.191.205.252:59048 is connecting...
+216973Terracord: [06/24/2021 18:56:23 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/24/2021 18:56:23 -05:00] [Info] 18:56:23 Gateway     Ready
+ 5sqi default
+Account 262003003186216973 has been added to group default!
+Server added Account 262003003186216973 to group default
+: 137.103.122.119:55247 is connecting...
+Terracord: [06/24/2021 18:56:24 -05:00] [Info] **:green_circle: Zoethecat has joined the server.**
+Terracord: [06/24/2021 18:56:24 -05:00] [Info] **:green_circle: animpolitesnaal has joined the server.**
+Terracord: [06/24/2021 18:56:24 -05:00] [Info] **:green_circle: DeadCows57 has joined the server.**
+user dZoethecat has joined.
+el 41713817DeadCows57 has joined.
+0430357524
+Account removed successfully.
+Server successfully deleted account: 417138170430357524.
+: user ad192.136.208.53:53717 is connecting...
+animpolitesnaal has joined.
+d 41713Terracord: [06/24/2021 18:56:26 -05:00] [Info] **:green_circle: krem bad has joined the server.**
+8170430Zoethecat authenticated successfully as user: 516314535125319691.
+357524109.252.65.110:20712 is connecting...
+ ybsh dkrem bad has joined.
+efault
+Account 417138170430357524 has been added to group default!
+Server added Account 417138170430357524 to group default
+: 47.45.116.158:61918 is connecting...
+70.137.105.70:51642 is connecting...
+Terracord: [06/24/2021 18:56:27 -05:00] [Info] **:green_circle: yo soy mi has joined the server.**
+Terracord: [06/24/2021 18:56:27 -05:00] [Info] **:green_circle: heroy_105 has joined the server.**
+190.237.0.235:33834 is connecting...
+Terracord: [06/24/2021 18:56:27 -05:00] [Info] **:green_circle: samster has joined the server.**
+user del 31471875921661yo soy mi has joined.
+1samster has joined.
+3Terracord: [06/24/2021 18:56:28 -05:00] [Info] **:green_circle: patatag# has joined the server.**
+28
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '314718759216611328' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 3147187592heroy_105 has joined.
+16611328 8kf7 defaupatatag# has joined.
+lt
+krem bad authenticated successfully as user: 782433450312466433.
+Account 314718759216611328 has been added to group default!
+Server added Account 314718759216611328 to group default
+: yo soy mi authenticated successfully as user: 262003003186216973.
+user del 680611418545848462
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '680611418545848462' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 680611418545848462 aheroy_105 authenticated successfully as user: 244501248861011968.
+gn0 default
+Account 680611418545848462 has been added to group default!
+Server added Account 680611418545848462 to group default
+: user del 31471875921661132patatag# authenticated successfully as user: 417138170430357524.
+8
+Account removed successfully.
+Server successfully deleted account: 314718759216611328.
+: user add 3124.61.211.167:55827 is connecting...
+47187Terracord: [06/24/2021 18:56:35 -05:00] [Info] **:green_circle: Caxew has joined the server.**
+59216611328 4gsj defCaxew has joined.
+ault
+Account 314718759216611328 has been added to group default!
+Server added Account 314718759216611328 to group default
+: DeadCows57 authenticated successfully as user: 528306483197378560.
+Caxew authenticated successfully as user: 419317290119462917.
+106.69.216.248:59224 is connecting...
+Terracord: [06/24/2021 18:56:42 -05:00] [Info] **:green_circle: e has joined the server.**
+e has joined.
+samster authenticated successfully as user: 711702800954032159.
+animpolitesnaal authenticated successfully as user: 602217909032321045.
+e tried to execute /register.
+Terracord: [06/24/2021 18:57:12 -05:00] [Info] animpolitesnaal said: damnit i was eating pizza
+animpolitesnaal: damnit i was eating pizza
+Terracord: [06/24/2021 18:57:22 -05:00] [Info] e said: i'm glitched
+e: i'm glitched
+104.60.250.25:63944 is connecting...
+Terracord: [06/24/2021 18:57:24 -05:00] [Info] **:green_circle: DeificBuffalo47 has joined the server.**
+DeificBuffalo47 has joined.
+103.164.235.2:52831 is connecting...
+Terracord: [06/24/2021 18:57:35 -05:00] [Info] **:green_circle: Heinz has joined the server.**
+Heinz has joined.
+e executed: /help.
+DeificBuffalo47 authenticated successfully as user: 688426500286185472.
+Terracord: [06/24/2021 18:57:41 -05:00] [Info] <TheCocoaGamer@Discord> paste the login e
+<TheCocoaGamer@Discord> paste the login e
+Heinz authenticated successfully as user: 314718759216611328.
+108.236.41.87:62179 is connecting...
+Terracord: [06/24/2021 18:57:44 -05:00] [Info] **:green_circle: Senor Steam has joined the server.**
+Terracord: [06/24/2021 18:57:44 -05:00] [Info] <TheCocoaGamer@Discord> does it not work
+<TheCocoaGamer@Discord> does it not work
+Senor Steam has joined.
+Terracord: [06/24/2021 18:57:45 -05:00] [Info] Heinz said: hi
+Heinz: hi
+playing
+Server executed: /playing.
+Online Players (13/69)
+Zoethecat, animpolitesnaal, DeadCows57, krem bad, heroy_105, samster,
+yo soy mi, patatag#, Caxew, e, DeificBuffalo47, Heinz, Senor Steam
+: 192.136.208.53:53717 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked krem bad for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 18:57:57 -05:00] [Info] **:red_circle: krem bad has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Senor Steam authenticated successfully as user: 680611418545848462.
+Terracord: [06/24/2021 18:58:05 -05:00] [Info] Caxew said: hep
+Caxew: hep
+Terracord: [06/24/2021 18:58:11 -05:00] [Info] <TheCocoaGamer@Discord> ?
+<TheCocoaGamer@Discord> ?
+Terracord: [06/24/2021 18:58:17 -05:00] [Info] <TheCocoaGamer@Discord> is everyone good
+<TheCocoaGamer@Discord> is everyone good
+192.136.208.53:63820 is connecting...
+Terracord: [06/24/2021 18:58:20 -05:00] [Info] **:green_circle: why vulture has joined the server.**
+why vulture has joined.
+Terracord: [06/24/2021 18:58:22 -05:00] [Info] Heinz said: i guess
+Heinz: i guess
+Terracord: [06/24/2021 18:58:23 -05:00] [Info] <TheCocoaGamer@Discord> no one stuck at login
+<TheCocoaGamer@Discord> no one stuck at login
+Terracord: [06/24/2021 18:58:23 -05:00] [Info] e said: no
+e: no
+why vulture authenticated successfully as user: 782433450312466433.
+Terracord: [06/24/2021 18:58:29 -05:00] [Info] e said: i can't get the login to work
+e: i can't get the login to work
+Terracord: [06/24/2021 18:58:30 -05:00] [Info] <TheCocoaGamer@Discord> did pasting the code work e?
+<TheCocoaGamer@Discord> did pasting the code work e?
+Terracord: [06/24/2021 18:58:35 -05:00] [Info] e said: which code
+e: which code
+Terracord: [06/24/2021 18:58:35 -05:00] [Info] Heinz said: yeh
+Heinz: yeh
+Terracord: [06/24/2021 18:58:41 -05:00] [Info] <TheCocoaGamer@Discord> that the bot dmed you
+<TheCocoaGamer@Discord> that the bot dmed you
+Terracord: [06/24/2021 18:58:43 -05:00] [Info] Heinz said: that bot dmed you
+Heinz: that bot dmed you
+137.103.122.119:55247 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked DeadCows57 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 18:58:44 -05:00] [Info] **:red_circle: DeadCows57 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/24/2021 18:58:47 -05:00] [Info] <TheCocoaGamer@Discord> the bot gave you a dm of the code to put in
+<TheCocoaGamer@Discord> the bot gave you a dm of the code to put in
+Terracord: [06/24/2021 18:58:51 -05:00] [Info] <TheCocoaGamer@Discord> itll be like
+<TheCocoaGamer@Discord> itll be like
+Terracord: [06/24/2021 18:58:54 -05:00] [Info] e said: I got no code
+e: I got no code
+Terracord: [06/24/2021 18:58:58 -05:00] [Info] <TheCocoaGamer@Discord> /login <discord id> <special pass>
+<TheCocoaGamer@Discord> /login <discord id> <special pass>
+68.117.147.122:57845 is connecting...
+Terracord: [06/24/2021 18:58:58 -05:00] [Info] **:green_circle: Corbit has joined the server.**
+Corbit has joined.
+Terracord: [06/24/2021 18:59:02 -05:00] [Info] Corbit said: https://www.youtube.com/watch?v=yWdUEtUoHSs&t=212s
+Corbit: https://www.youtube.com/watch?v=yWdUEtUoHSs&t=212s
+Terracord: [06/24/2021 18:59:04 -05:00] [Info] Corbit said: wait
+Corbit: wait
+Terracord: [06/24/2021 18:59:04 -05:00] [Info] <TheCocoaGamer@Discord> then react to the bottom message to get a new one
+<TheCocoaGamer@Discord> then react to the bottom message to get a new one
+Terracord: [06/24/2021 18:59:09 -05:00] [Info] Corbit said: wrong thing to copy and paste
+Corbit: wrong thing to copy and paste
+Terracord: [06/24/2021 18:59:14 -05:00] [Info] <TheCocoaGamer@Discord> yea lol
+<TheCocoaGamer@Discord> yea lol
+user del 576515133010870272
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '576515133010870272' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 576515133010870272 x4lr default
+Account 576515133010870272 has been added to group default!
+Server added Account 576515133010870272 to group default
+: Corbit authenticated successfully as user: 571084111532261446.
+e authenticated successfully as user: 576515133010870272.
+Terracord: [06/24/2021 18:59:23 -05:00] [Info] Corbit said: there we go
+Corbit: there we go
+Terracord: [06/24/2021 18:59:26 -05:00] [Info] e said: yay
+e: yay
+Terracord: [06/24/2021 18:59:33 -05:00] [Info] Corbit said: so do we enable pvp immediately?
+Corbit: so do we enable pvp immediately?
+Terracord: [06/24/2021 18:59:39 -05:00] [Info] <TheCocoaGamer@Discord> pvp gets enabled automatically
+<TheCocoaGamer@Discord> pvp gets enabled automatically
+playing
+Server executed: /playing.
+Online Players (13/69)
+Zoethecat, animpolitesnaal, Corbit, why vulture, heroy_105, samster,
+yo soy mi, patatag#, Caxew, e, DeificBuffalo47, Heinz, Senor Steam
+: Terracord: [06/24/2021 18:59:46 -05:00] [Info] Heinz said: nah
+Heinz: nah
+r zoethecat test
+Server executed: /r zoethecat test.
+You haven't previously received any whispers. Please use /whisper to whisper to other people.
+: whisper zoe70.137.105.70:51642 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked yo soy mi for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 18:59:55 -05:00] [Info] **:red_circle: yo soy mi has left the server.**
+Terracord: [06/24/2021 18:59:55 -05:00] [Info] Server broadcast: yo soy mi let their arms get torn off by Jungle Bat.
+thecat test24.191.205.252:59048 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked animpolitesnaal for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 18:59:58 -05:00] [Info] **:red_circle: animpolitesnaal has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/24/2021 19:00:00 -05:00] [Info] Heinz said: pvp didn't enabled automatically
+Heinz: pvp didn't enabled automatically
+Terracord: [06/24/2021 19:00:04 -05:00] [Info] Heinz said: idk why
+Heinz: idk why
+
+Server executed: /whisper zoethecat test.
+<To Zoethecat> test
+: Terracord: [06/24/2021 19:00:10 -05:00] [Info] <TheCocoaGamer@Discord> it isnt gonna enable
+<TheCocoaGamer@Discord> it isnt gonna enable
+70.137.105.70:51644 is connecting...
+Terracord: [06/24/2021 19:00:11 -05:00] [Info] **:green_circle: yo soy tu has joined the server.**
+yo soy tu has joined.
+Terracord: [06/24/2021 19:00:13 -05:00] [Info] <TheCocoaGamer@Discord> grace is still active
+<TheCocoaGamer@Discord> grace is still active
+yo soy tu authenticated successfully as user: 262003003186216973.
+whisper Terracord: [06/24/2021 19:00:17 -05:00] [Info] Heinz said: ooh
+Heinz: ooh
+zoethecat make sure you watch Terracord: [06/24/2021 19:00:22 -05:00] [Info] patatag# said: lmao thanks for dying
+patatag#: lmao thanks for dying
+heroy
+Server executed: /whisper zoethecat make sure you watch heroy.
+<To Zoethecat> make sure you watch heroy
+: playing
+Server executed: /playing.
+Online Players (12/69)
+Zoethecat, yo soy tu, Corbit, why vulture, heroy_105, samster, patatag#,
+Caxew, e, DeificBuffalo47, Heinz, Senor Steam
+: Terracord: [06/24/2021 19:00:40 -05:00] [Info] yo soy tu said: you were my light
+yo soy tu: you were my light
+Terracord: [06/24/2021 19:00:43 -05:00] [Info] yo soy tu said: but you died
+yo soy tu: but you died
+Terracord: [06/24/2021 19:00:47 -05:00] [Info] yo soy tu said: i died
+yo soy tu: i died
+Terracord: [06/24/2021 19:00:48 -05:00] [Info] yo soy tu said: sorry
+yo soy tu: sorry
+Terracord: [06/24/2021 19:01:01 -05:00] [Info] Command sent: playing
+TheCocoaGamer executed: /playing.
+Terracord: [06/24/2021 19:01:01 -05:00] [Info] <TheCocoaGamer@Discord> !playing
+<TheCocoaGamer@Discord> !playing
+Terracord: [06/24/2021 19:01:07 -05:00] [Info] <TheCocoaGamer@Discord> 12 players coolio
+<TheCocoaGamer@Discord> 12 players coolio
+Terracord: [06/24/2021 19:01:26 -05:00] [Info] Heinz said: eey my internet lagging
+Heinz: eey my internet lagging
+Terracord: [06/24/2021 19:01:34 -05:00] [Info] yo soy tu said: guide op
+yo soy tu: guide op
+Terracord: [06/24/2021 19:01:42 -05:00] [Info] Corbit said: yeeee
+Corbit: yeeee
+Corbit executed: /playing.
+Terracord: [06/24/2021 19:01:49 -05:00] [Info] yo soy tu said: damn
+yo soy tu: damn
+Terracord: [06/24/2021 19:01:56 -05:00] [Info] yo soy tu said: is he abandoning us
+yo soy tu: is he abandoning us
+Terracord: [06/24/2021 19:01:57 -05:00] [Info] heroy_105 said: **[Golden Key]**
+heroy_105: [Golden Key]
+whisper zoethecat make sure you kill him, i want to see if he has that
+Server executed: /whisper zoethecat make sure you kill him, i want to see if he has that.
+<To Zoethecat> make sure you kill him, i want to see if he has that
+: whisper zoethecat i feel like a man hiring a hitman lol
+Server executed: /whisper zoethecat i feel like a man hiring a hitman lol.
+<To Zoethecat> i feel like a man hiring a hitman lol
+: help
+Server executed: /help.
+Commands (1/4):
+/setup, /user, /login, /logout, /password, /register, /accountinfo, /ban,
+/broadcast, /displaylogs, /group, /itemban, /projban, /tileban, /region,
+/kick, /mute, /overridessc, /savessc, /uploadssc, /tempgroup, /su, /sudo,
+/userinfo, /annoy, /rocket, /firework, /checkupdates, /off, /off-nosave,
+Type /help 2 for more.
+: accountinfo zoethecat
+Server executed: /accountinfo zoethecat.
+User zoethecat does not exist.
+: accountinfo 516314535125319691
+Server executed: /accountinfo 516314535125319691.
+516314535125319691's last login occured 6/24/2021 6:56 PM UTC-5.
+516314535125319691's group is default.
+516314535125319691's last known IP is 71.197.184.18.
+516314535125319691's register date is 6/24/2021 6:56 PM UTC-5.
+: Terracord: [06/24/2021 19:03:56 -05:00] [Info] Heinz said: hi
+Heinz: hi
+account
+Invalid command entered. Type /help for a list of valid commands.
+: help
+Server executed: /help.
+Commands (1/4):
+/setup, /user, /login, /logout, /password, /register, /accountinfo, /ban,
+/broadcast, /displaylogs, /group, /itemban, /projban, /tileban, /region,
+/kick, /mute, /overridessc, /savessc, /uploadssc, /tempgroup, /su, /sudo,
+/userinfo, /annoy, /rocket, /firework, /checkupdates, /off, /off-nosave,
+Type /help 2 for more.
+: help2
+Invalid command entered. Type /help for a list of valid commands.
+: help 2
+Server executed: /help 2.
+Commands (2/4):
+/reload, /serverpassword, /version, /whitelist, /give, /item, /butcher,
+/renamenpc, /maxspawns, /spawnboss, /spawnmob, /spawnrate, /clearangler,
+/home, /spawn, /tp, /tphere, /tpnpc, /tppos, /pos, /tpallow, /worldmode,
+/antibuild, /grow, /forcehalloween, /forcexmas, /worldevent, /hardmode,
+Type /help 3 for more.
+: help 3
+Server executed: /help 3.
+Commands (3/4):
+/protectspawn, /save, /setspawn, /setdungeon, /settle, /time, /wind,
+/worldinfo, /buff, /clear, /gbuff, /godmode, /heal, /kill, /me, /party,
+/reply, /rest, /slap, /serverinfo, /warp, /whisper, /wallow,
+/dump-reference-data, /sync, /aliases, /help, /motd, /playing, /rules, /grace,
+Type /help 4 for more.
+: help 4
+Server executed: /help 4.
+Commands (4/4):
+/team, /ghost
+: 24.61.211.167:55827 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Caxew for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 19:04:25 -05:00] [Info] **:red_circle: Caxew has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+103.164.235.2:52831 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Heinz for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 19:04:32 -05:00] [Info] **:red_circle: Heinz has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/24/2021 19:04:38 -05:00] [Info] Senor Steam said: **[Leaf Wand]** from tree
+Senor Steam: [Leaf Wand] from tree
+Terracord: [06/24/2021 19:05:17 -05:00] [Info] yo soy tu said: never
+yo soy tu: never
+Terracord: [06/24/2021 19:05:19 -05:00] [Info] yo soy tu said: leaving
+yo soy tu: leaving
+Terracord: [06/24/2021 19:05:23 -05:00] [Info] yo soy tu said: i lied
+yo soy tu: i lied
+106.69.216.248:59224 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked e for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 19:05:30 -05:00] [Info] **:red_circle: e has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/24/2021 19:05:36 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+70.137.105.70:51644 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked yo soy tu for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 19:05:36 -05:00] [Info] **:red_circle: yo soy tu has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+106.69.216.248:59280 is connecting...
+Terracord: [06/24/2021 19:05:57 -05:00] [Info] **:green_circle: E2 has joined the server.**
+E2 has joined.
+Terracord: [06/24/2021 19:06:10 -05:00] [Info] E2 said: am i allowed back
+E2: am i allowed back
+Terracord: [06/24/2021 19:06:17 -05:00] [Info] E2 said: or is it all over
+E2: or is it all over
+Terracord: [06/24/2021 19:06:23 -05:00] [Info] Zoethecat said: one extra life during grace
+Zoethecat: one extra life during grace
+Terracord: [06/24/2021 19:06:27 -05:00] [Info] E2 said: yes
+E2: yes
+E2 authenticated successfully as user: 576515133010870272.
+user del 419317290119462917
+Account removed successfully.
+Server successfully deleted account: 419317290119462917.
+: user add 419317290119462917 bind default
+Account 419317290119462917 has been added to group default!
+Server added Account 419317290119462917 to group default
+: Terracord: [06/24/2021 19:06:59 -05:00] [Info] <TheCocoaGamer@Discord> actually multiple in pthc
+<TheCocoaGamer@Discord> actually multiple in pthc
+Terracord: [06/24/2021 19:07:03 -05:00] [Info] <TheCocoaGamer@Discord> in thc it is only one
+<TheCocoaGamer@Discord> in thc it is only one
+playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, E2, Corbit, why vulture, heroy_105, samster, patatag#,
+DeificBuffalo47, Senor Steam
+: 24.61.211.167:55915 is connecting...
+Terracord: [06/24/2021 19:07:32 -05:00] [Info] **:green_circle: Bob has joined the server.**
+Bob has joined.
+Bob authenticated successfully as user: 419317290119462917.
+70.137.105.70:51653 is connecting...
+Terracord: [06/24/2021 19:07:41 -05:00] [Info] **:green_circle: yo soy nos has joined the server.**
+yo soy nos has joined.
+yo soy nos authenticated successfully as user: 262003003186216973.
+playing
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, E2, Corbit, why vulture, heroy_105, samster, Bob, patatag#,
+yo soy nos, DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, E2, Corbit, why vulture, heroy_105, samster, Bob, patatag#,
+yo soy nos, DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, E2, Corbit, why vulture, heroy_105, samster, Bob, patatag#,
+yo soy nos, DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, E2, Corbit, why vulture, heroy_105, samster, Bob, patatag#,
+yo soy nos, DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, E2, Corbit, why vulture, heroy_105, samster, Bob, patatag#,
+yo soy nos, DeificBuffalo47, Senor Steam
+: plplaayiyngin
+Invalid command entered. Type /help for a list of valid commands.
+: gp
+Invalid command entered. Type /help for a list of valid commands.
+: laying
+Invalid command entered. Type /help for a list of valid commands.
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, E2, Corbit, why vulture, heroy_105, samster, Bob, patatag#,
+yo soy nos, DeificBuffalo47, Senor Steam
+: 106.69.216.248:59280 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked E2 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 19:08:04 -05:00] [Info] **:red_circle: E2 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (10/69)
+Zoethecat, Corbit, why vulture, heroy_105, samster, Bob, patatag#, yo soy nos,
+DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Zoethecat, Corbit, why vulture, heroy_105, samster, Bob, patatag#, yo soy nos,
+DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Zoethecat, Corbit, why vulture, heroy_105, samster, Bob, patatag#, yo soy nos,
+DeificBuffalo47, Senor Steam
+: 99.246.7.85:54891 is connecting...
+Terracord: [06/24/2021 19:08:11 -05:00] [Info] **:green_circle: bittlefatding has joined the server.**
+bittlefatding has joined.
+playing
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, bittlefatding, Corbit, why vulture, heroy_105, samster, Bob,
+patatag#, yo soy nos, DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, bittlefatding, Corbit, why vulture, heroy_105, samster, Bob,
+patatag#, yo soy nos, DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, bittlefatding, Corbit, why vulture, heroy_105, samster, Bob,
+patatag#, yo soy nos, DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, bittlefatding, Corbit, why vulture, heroy_105, samster, Bob,
+patatag#, yo soy nos, DeificBuffalo47, Senor Steam
+: playing106.69.216.248:59304 is connecting...
+
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, bittlefatding, Corbit, why vulture, heroy_105, samster, Bob,
+patatag#, yo soy nos, DeificBuffalo47, Senor Steam
+: Terracord: [06/24/2021 19:08:21 -05:00] [Info] yo soy nos said: shortsword fight
+yo soy nos: shortsword fight
+Terracord: [06/24/2021 19:08:22 -05:00] [Info] **:green_circle: e3 has joined the server.**
+Terracord: [06/24/2021 19:08:22 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/24/2021 19:08:22 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+Terracord: [06/24/2021 19:08:23 -05:00] [Info] yo soy nos said: begin
+yo soy nos: begin
+playe3 has joined.
+ing
+Server executed: /playing.
+Online Players (12/69)
+Zoethecat, bittlefatding, Corbit, why vulture, heroy_105, samster, Bob,
+patatag#, yo soy nos, e3, DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (12/69)
+Zoethecat, bittlefatding, Corbit, why vulture, heroy_105, samster, Bob,
+patatag#, yo soy nos, e3, DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (12/69)
+Zoethecat, bittlefatding, Corbit, why vulture, heroy_105, samster, Bob,
+patatag#, yo soy nos, e3, DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (12/69)
+Zoethecat, bittlefatding, Corbit, why vulture, heroy_105, samster, Bob,
+patatag#, yo soy nos, e3, DeificBuffalo47, Senor Steam
+: Terracord: [06/24/2021 19:08:31 -05:00] [Info] yo soy nos said: dced already
+yo soy nos: dced already
+e3 authenticated successfully as user: 576515133010870272.
+playing
+Server executed: /playing.
+Online Players (12/69)
+Zoethecat, bittlefatding, Corbit, why vulture, heroy_105, samster, Bob,
+patatag#, yo soy nos, e3, DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (12/69)
+Zoethecat, bittlefatding, Corbit, why vulture, heroy_105, samster, Bob,
+patatag#, yo soy nos, e3, DeificBuffalo47, Senor Steam
+: Terracord: [06/24/2021 19:08:36 -05:00] [Info] **:red_circle: bittlefatding has left the server.**
+bittlefatding has left.
+playing
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, Corbit, why vulture, heroy_105, samster, Bob, patatag#, yo soy nos,
+e3, DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, Corbit, why vulture, heroy_105, samster, Bob, patatag#, yo soy nos,
+e3, DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, Corbit, why vulture, heroy_105, samster, Bob, patatag#, yo soy nos,
+e3, DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, Corbit, why vulture, heroy_105, samster, Bob, patatag#, yo soy nos,
+e3, DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, Corbit, why vulture, heroy_105, samster, Bob, patatag#, yo soy nos,
+e3, DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, Corbit, why vulture, heroy_105, samster, Bob, patatag#, yo soy nos,
+e3, DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, Corbit, why vulture, heroy_105, samster, Bob, patatag#, yo soy nos,
+e3, DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, Corbit, why vulture, heroy_105, samster, Bob, patatag#, yo soy nos,
+e3, DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, Corbit, why vulture, heroy_105, samster, Bob, patatag#, yo soy nos,
+e3, DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, Corbit, why vulture, heroy_105, samster, Bob, patatag#, yo soy nos,
+e3, DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, Corbit, why vulture, heroy_105, samster, Bob, patatag#, yo soy nos,
+e3, DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, Corbit, why vulture, heroy_105, samster, Bob, patatag#, yo soy nos,
+e3, DeificBuffalo47, Senor Steam
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Zoethecat, Corbit, why vulture, heroy_105, samster, Bob, patatag#, yo soy nos,
+e3, DeificBuffalo47, Senor Steam
+: playin108.236.41.87:62179 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Senor Steam for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 19:09:05 -05:00] [Info] **:red_circle: Senor Steam has left the server.**
+Terracord: [06/24/2021 19:09:05 -05:00] [Info] Server broadcast: Senor Steam's vital organs were ruptured by why vulture's Wooden Arrow.
+g
+Server executed: /playing.
+Online Players (10/69)
+Zoethecat, Corbit, why vulture, heroy_105, samster, Bob, patatag#, yo soy nos,
+e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Zoethecat, Corbit, why vulture, heroy_105, samster, Bob, patatag#, yo soy nos,
+e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Zoethecat, Corbit, why vulture, heroy_105, samster, Bob, patatag#, yo soy nos,
+e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Zoethecat, Corbit, why vulture, heroy_105, samster, Bob, patatag#, yo soy nos,
+e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Zoethecat, Corbit, why vulture, heroy_105, samster, Bob, patatag#, yo soy nos,
+e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Zoethecat, Corbit, why vulture, heroy_105, samster, Bob, patatag#, yo soy nos,
+e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Zoethecat, Corbit, why vulture, heroy_105, samster, Bob, patatag#, yo soy nos,
+e3, DeificBuffalo47
+: 192.136.208.53:63820 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked why vulture for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 19:09:19 -05:00] [Info] **:red_circle: why vulture has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: Terracord: [06/24/2021 19:09:30 -05:00] [Info] Bob said: hello
+Bob: hello
+playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing99.246.7.85:54997 is connecting...
+
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: Terracord: [06/24/2021 19:09:41 -05:00] [Info] **:green_circle: littlecatking has joined the server.**
+littlecatking has joined.
+playing
+Server executed: /playing.
+Online Players (10/69)
+Zoethecat, littlecatking, Corbit, heroy_105, samster, Bob, patatag#,
+yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Zoethecat, littlecatking, Corbit, heroy_105, samster, Bob, patatag#,
+yo soy nos, e3, DeificBuffalo47
+: littlecatking tried to execute /register.
+playing
+Server executed: /playing.
+Online Players (10/69)
+Zoethecat, littlecatking, Corbit, heroy_105, samster, Bob, patatag#,
+yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Zoethecat, littlecatking, Corbit, heroy_105, samster, Bob, patatag#,
+yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Zoethecat, littlecatking, Corbit, heroy_105, samster, Bob, patatag#,
+yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Zoethecat, littlecatking, Corbit, heroy_105, samster, Bob, patatag#,
+yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Zoethecat, littlecatking, Corbit, heroy_105, samster, Bob, patatag#,
+yo soy nos, e3, DeificBuffalo47
+: 99.246.7.85:54997 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked littlecatking for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 19:09:56 -05:00] [Info] **:red_circle: littlecatking has left the server.**
+Terracord: [06/24/2021 19:09:56 -05:00] [Info] Server broadcast: littlecatking was torn in half by Zoethecat's Bullet.
+playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: yo soy nos executed: /who.
+playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playingTerracord: [06/24/2021 19:11:59 -05:00] [Info] Zoethecat said: laggy pvp is awful
+Zoethecat: laggy pvp is awful
+
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: Terracord: [06/24/2021 19:12:16 -05:00] [Info] Bob said: bruh ur complaining i dont even have anything
+Bob: bruh ur complaining i dont even have anything
+playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Zoethecat, Corbit, heroy_105, samster, Bob, patatag#, yo soy nos, e3,
+DeificBuffalo47
+: Terracord: [06/24/2021 19:14:03 -05:00] [Info] yo soy nos said: is anyone recording their screens?
+yo soy nos: is anyone recording their screens?
+playing47.45.116.158:61918 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked samster for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 19:14:04 -05:00] [Info] **:red_circle: samster has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: Terracord: [06/24/2021 19:14:46 -05:00] [Info] yo soy nos said: i need my absolute domination over everyone archived
+yo soy nos: i need my absolute domination over everyone archived
+playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, yo soy nos, e3, DeificBuffalo47
+: 70.137.105.70:51653 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked yo soy nos for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+pTerracord: [06/24/2021 19:15:20 -05:00] [Info] **:red_circle: yo soy nos has left the server.**
+Terracord: [06/24/2021 19:15:20 -05:00] [Info] Server broadcast: yo soy nos was decapitated by Zoethecat's Trident.
+laying
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: Terracord: [06/24/2021 19:15:40 -05:00] [Info] Bob said: hi
+Bob: hi
+playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playingTerracord: [06/24/2021 19:15:43 -05:00] [Info] Corbit said: there goes absolute domination
+Corbit: there goes absolute domination
+
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: Terracord: [06/24/2021 19:15:46 -05:00] [Info] Bob said: frend
+Bob: frend
+playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: Terracord: [06/24/2021 19:15:53 -05:00] [Info] Bob said: ty
+Bob: ty
+playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: 24.13.35.153:52524 is connecting...
+Terracord: [06/24/2021 19:17:34 -05:00] [Info] **:green_circle: SquixyPixl has joined the server.**
+playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: SquixyPixl has joined.
+playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, SquixyPixl, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playTerracord: [06/24/2021 19:17:39 -05:00] [Info] Zoethecat said: it's after grace
+Zoethecat: it's after grace
+ing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, SquixyPixl, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, SquixyPixl, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playingTerracord: [06/24/2021 19:17:44 -05:00] [Info] Zoethecat said: you're too late to join
+Zoethecat: you're too late to join
+
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, SquixyPixl, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, SquixyPixl, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: Terracord: [06/24/2021 19:17:47 -05:00] [Info] SquixyPixl said: k
+SquixyPixl: k
+playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, SquixyPixl, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (8/69)
+Zoethecat, SquixyPixl, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: Terracord: [06/24/2021 19:17:51 -05:00] [Info] **:red_circle: SquixyPixl has left the server.**
+SquixyPixl has left.
+playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: Zoethecat executed: /playing.
+playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: Terracord: [06/24/2021 19:19:37 -05:00] [Info] e3 said: enchanted sword
+e3: enchanted sword
+playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: Terracord: [06/24/2021 19:20:09 -05:00] [Info] Server broadcast: Screams echo around you...
+playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: Terracord: [06/24/2021 19:20:44 -05:00] [Info] Corbit said: ohno
+Corbit: ohno
+playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: Terracord: [06/24/2021 19:20:53 -05:00] [Info] Corbit said: wall creepers are scary
+Corbit: wall creepers are scary
+playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: Terracord: [06/24/2021 19:21:03 -05:00] [Info] e3 said: this is corruption
+e3: this is corruption
+playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: plTerracord: [06/24/2021 19:21:30 -05:00] [Info] Server broadcast: Eater of Worlds has awoken!
+aying
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3, DeificBuffalo47
+: 104.60.250.25:63944 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked DeificBuffalo47 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 19:21:56 -05:00] [Info] **:red_circle: DeificBuffalo47 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (6/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Zoethecat, Corbit, heroy_105, Bob, patatag#, e3
+: 24.61.211.167:55915 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Bob for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 19:22:10 -05:00] [Info] **:red_circle: Bob has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: Terracord: [06/24/2021 19:22:13 -05:00] [Info] e3 said: YES
+e3: YES
+playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: Terracord: [06/24/2021 19:22:16 -05:00] [Info] e3 said: I GOT A KILL
+e3: I GOT A KILL
+playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: Zoethecat executed: /playing.
+playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playinTerracord: [06/24/2021 19:22:29 -05:00] [Info] Zoethecat said: congrats lol
+Zoethecat: congrats lol
+g
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: 99.246.7.85:56194 is connecting...
+playingTerracord: [06/24/2021 19:27:26 -05:00] [Info] **:green_circle: littlecatking has joined the server.**
+
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: Terracord: [06/24/2021 19:27:26 -05:00] [Info] **:red_circle: littlecatking has left the server.**
+playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playiTerracord: [06/24/2021 19:27:59 -05:00] [Info] Server broadcast: Eater of Worlds has been defeated!
+ng
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: Terracord: [06/24/2021 19:28:02 -05:00] [Info] e3 said: YAY
+e3: YAY
+playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Zoethecat, Corbit, heroy_105, patatag#, e3
+: 71.197.184.18:61272 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Zoethecat for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 19:28:58 -05:00] [Info] **:red_circle: Zoethecat has left the server.**
+Terracord: [06/24/2021 19:28:58 -05:00] [Info] Server broadcast: Zoethecat's vital organs were ruptured by heroy_105's Bullet.
+plTerracord: [06/24/2021 19:28:58 -05:00] [Info] Corbit said: **[Crowno Devours His Lunch (2)]** ah yes 2 of them
+Corbit: [Crowno Devours His Lunch (2)] ah yes 2 of them
+aying
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing71.87.98.3:56084 is connecting...
+
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: Terracord: [06/24/2021 19:29:20 -05:00] [Info] **:green_circle: ReEeEe has joined the server.**
+ReEeEe has joined.
+playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: Terracord: [06/24/2021 19:29:34 -05:00] [Info] e3 said: after grace soz
+e3: after grace soz
+playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: Corbit executed: /playing.
+playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: Terracord: [06/24/2021 19:30:07 -05:00] [Info] ReEeEe said: wait what is happening
+ReEeEe: wait what is happening
+playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: Terracord: [06/24/2021 19:30:11 -05:00] [Info] e3 said: pthc
+e3: pthc
+playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: Terracord: [06/24/2021 19:30:18 -05:00] [Info] e3 said: you're after grace so you have to leave
+e3: you're after grace so you have to leave
+Terracord: [06/24/2021 19:30:19 -05:00] [Info] ReEeEe said: i cannot move
+ReEeEe: i cannot move
+playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: Terracord: [06/24/2021 19:30:35 -05:00] [Info] ReEeEe said: or atack
+ReEeEe: or atack
+playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: Terracord: [06/24/2021 19:30:42 -05:00] [Info] ReEeEe said: or mine
+ReEeEe: or mine
+playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: Terracord: [06/24/2021 19:30:45 -05:00] [Info] e3 said: you need to leave
+e3: you need to leave
+playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ReEeEe, Corbit, heroy_105, patatag#, e3
+: Terracord: [06/24/2021 19:30:54 -05:00] [Info] **:red_circle: ReEeEe has left the server.**
+ReEeEe has left.
+playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Corbit, heroy_105, patatag#, e3
+: 68.117.147.122:57845 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Corbit for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 19:31:26 -05:00] [Info] **:red_circle: Corbit has left the server.**
+Terracord: [06/24/2021 19:31:26 -05:00] [Info] Server broadcast: Corbit tried to swim in lava.
+playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playingTerracord: [06/24/2021 19:31:30 -05:00] [Info] e3 said: oof
+e3: oof
+
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: pTerracord: [06/24/2021 19:33:19 -05:00] [Info] e3 said: help
+e3: help
+laying
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: e3 executed: /help.
+playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playe3 executed: /playing.
+ing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: Terracord: [06/24/2021 19:33:49 -05:00] [Info] e3 said: 3 left
+e3: 3 left
+playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: Terracord: [06/24/2021 19:35:17 -05:00] [Info] Server broadcast: heroy_105 has defeated the 50th Eater of Souls!
+playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: Terracord: [06/24/2021 19:35:35 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: Terracord: [06/24/2021 19:36:07 -05:00] [Info] Server broadcast: A meteorite has landed!
+playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: Terracord: [06/24/2021 19:36:24 -05:00] [Info] Server broadcast: Screams echo around you...
+playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: Terracord: [06/24/2021 19:37:36 -05:00] [Info] Server broadcast: Eater of Worlds has awoken!
+playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: plaTerracord: [06/24/2021 19:38:43 -05:00] [Info] patatag# said: why dont you die
+ypatatag#: why dont you die
+ing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: Terracord: [06/24/2021 19:38:46 -05:00] [Info] patatag# said: fuck this lag
+patatag#: fuck this lag
+playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: Terracord: [06/24/2021 19:39:09 -05:00] [Info] Command sent: playing
+zoethecat executed: /playing.
+Terracord: [06/24/2021 19:39:09 -05:00] [Info] <zoethecat@Discord> !playing
+<zoethecat@Discord> !playing
+playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playiTerracord: [06/24/2021 19:40:37 -05:00] [Info] Server broadcast: A goblin army is approaching from the west!
+ng
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: Terracord: [06/24/2021 19:41:12 -05:00] [Info] Server broadcast: A goblin army has arrived!
+playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, patatag#, e3
+: 106.69.216.248:59304 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked e3 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 19:41:28 -05:00] [Info] **:red_circle: e3 has left the server.**
+Terracord: [06/24/2021 19:41:28 -05:00] [Info] Server broadcast: e3's flailing about was finally stopped by Chaos Ball.
+playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag#
+: 190.237.0.235:33834 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked patatag# for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 19:43:28 -05:00] [Info] **:red_circle: patatag# has left the server.**
+pError on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+laying
+Server executed: /playing.
+Online Players (1/69)
+heroy_105
+:

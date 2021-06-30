@@ -1,0 +1,4516 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7778
+Type 'help' for a list of commands.
+
+Terracord: [06/29/2021 14:01:46 -05:00] [Info] Connecting to Discord...
+Terracord: [06/29/2021 14:01:46 -05:00] [Info] 14:01:46 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/29/2021 14:01:47 -05:00] [Info] 14:01:47 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 25m
+Server executed: /grace begin 25m.
+Terracord: [06/29/2021 14:01:47 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: ususer del 570187358683529217
+Invalid command entered. Type /help for a list of valid commands.
+: user add 570187358683529217 99nl default
+Server started
+User 570187358683529217 already exists!
+: user del 855775526039453726
+70.137.105.70:49175 is connecting...
+Account removed successfully.
+Server successfully deleted account: 855775526039453726.
+: user add 855775526039453726 taq3 default
+Terracord: [06/29/2021 14:01:48 -05:00] [Info] 14:01:48 Gateway     Connected
+Account 855775526039453726 has been added to group default!
+Server added Account 855775526039453726 to group default
+: user del 636718232799281162
+Account removed successfully.
+Server successfully deleted account: 636718232799281162.
+: user add 636718232799281162 n2bx default
+67.169.170.162:50218 is connecting...
+Account 636718232799281162 has been added to group default!
+Server added Account 636718232799281162 to group default
+: user del 456110220322668566
+Terracord: [06/29/2021 14:01:48 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/29/2021 14:01:48 -05:00] [Info] 14:01:48 Gateway     Ready
+Account removed successfully.
+Server successfully deleted account: 456110220322668566.
+: user add 456110220322668566 w5ox default
+Account 456110220322668566 has been added to group default!
+Server added Account 456110220322668566 to group default
+: user del 262003003186216973
+Account removed successfully.
+Server successfully deleted account: 262003003186216973.
+: user add 262003003186216973 2zi0 default
+Account 262003003186216973 has been added to group default!
+Server added Account 262003003186216973 to group default
+: 74.110.196.221:53165 is connecting...
+Terracord: [06/29/2021 14:01:49 -05:00] [Info] **:green_circle: honky feline has joined the server.**
+Terracord: [06/29/2021 14:01:50 -05:00] [Info] **:green_circle: Dev has joined the server.**
+Terracord: [06/29/2021 14:01:50 -05:00] [Info] **:green_circle: Bluberry108 has joined the server.**
+honky feline has joined.
+Dev has joined.
+Bluberry108 has joined.
+honky feline authenticated successfully as user: 262003003186216973.
+162.157.69.233:59324 is connecting...
+96.33.39.151:53023 is connecting...
+Terracord: [06/29/2021 14:01:53 -05:00] [Info] **:green_circle: Wolywog has joined the server.**
+Terracord: [06/29/2021 14:01:53 -05:00] [Info] **:green_circle: dumper burner has joined the server.**
+Wolywog has joined.
+dumper burner has joined.
+105.108.120.132:56744 is connecting...
+Terracord: [06/29/2021 14:01:55 -05:00] [Info] **:green_circle: iskander has joined the server.**
+iskander has joined.
+Wolywog authenticated successfully as user: 636718232799281162.
+dumper burner authenticated successfully as user: 456110220322668566.
+iskander authenticated successfully as user: 855775526039453726.
+user del 244501248861011968
+Account removed successfully.
+Server successfully deleted account: 244501248861011968.
+: user add 244501248861011968 420r default
+Account 244501248861011968 has been added to group default!
+Server added Account 244501248861011968 to group default
+: user del 632016986658045961
+Account removed successfully.
+Server successfully deleted account: 632016986658045961.
+: user add 632016986658045961 g3d1 default
+Account 632016986658045961 has been added to group default!
+Server added Account 632016986658045961 to group default
+: user del 570187358683529217
+Account removed successfully.
+Server successfully deleted account: 570187358683529217.
+: user add 570187358683529217 ceq3 default
+Account 570187358683529217 has been added to group default!
+Server added Account 570187358683529217 to group default
+: Bluberry108 authenticated successfully as user: 632016986658045961.
+Dev authenticated successfully as user: 570187358683529217.
+Terracord: [06/29/2021 14:02:46 -05:00] [Info] Bluberry108 said: **[Leaf Wand]**
+Bluberry108: [Leaf Wand]
+109.252.65.110:13214 is connecting...
+Terracord: [06/29/2021 14:02:54 -05:00] [Info] **:green_circle: heroy_105 has joined the server.**
+heroy_105 has joined.
+heroy_105 authenticated successfully as user: 244501248861011968.
+162.157.69.233:59324 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Wolywog for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 14:04:12 -05:00] [Info] **:red_circle: Wolywog has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+user del 643950324075462656
+Account removed successfully.
+Server successfully deleted account: 643950324075462656.
+: user add 643950324075462656 oh1x default
+Account 643950324075462656 has been added to group default!
+Server added Account 643950324075462656 to group default
+: 47.5.141.86:60955 is connecting...
+Terracord: [06/29/2021 14:05:02 -05:00] [Info] **:green_circle: Chookagong = pro has joined the server.**
+Chookagong = pro has joined.
+67.169.170.162:50218 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Bluberry108 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 14:05:09 -05:00] [Info] **:red_circle: Bluberry108 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Chookagong = pro authenticated successfully as user: 643950324075462656.
+67.169.170.162:50367 is connecting...
+Terracord: [06/29/2021 14:05:17 -05:00] [Info] **:green_circle: Bluberry108 has joined the server.**
+Bluberry108 has joined.
+Bluberry108 authenticated successfully as user: 632016986658045961.
+Terracord: [06/29/2021 14:05:22 -05:00] [Info] Bluberry108 said: lag
+Bluberry108: lag
+96.33.39.151:53023 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked dumper burner for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 14:06:04 -05:00] [Info] **:red_circle: dumper burner has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+92.7.7.93:52164 is connecting...
+Terracord: [06/29/2021 14:06:26 -05:00] [Info] **:green_circle: Empranion has joined the server.**
+Empranion has joined.
+96.33.39.151:60282 is connecting...
+Terracord: [06/29/2021 14:06:29 -05:00] [Info] **:green_circle: dumper has joined the server.**
+dumper has joined.
+dumper authenticated successfully as user: 456110220322668566.
+Terracord: [06/29/2021 14:06:38 -05:00] [Info] Chookagong = pro said: does anyone want to team
+Chookagong = pro: does anyone want to team
+Terracord: [06/29/2021 14:06:41 -05:00] [Info] Empranion said: why isnt my password working
+Empranion: why isnt my password working
+Terracord: [06/29/2021 14:06:45 -05:00] [Info] Chookagong = pro said: idk
+Chookagong = pro: idk
+user del 629638292740243468
+Account removed successfully.
+Server successfully deleted account: 629638292740243468.
+: user add 629638292740243468 caTerracord: [06/29/2021 14:06:51 -05:00] [Info] Dev said: React again
+Dev: React again
+wd default
+Account 629638292740243468 has been added to group default!
+Server added Account 629638292740243468 to group default
+: Empranion authenticated successfully as user: 629638292740243468.
+Terracord: [06/29/2021 14:06:55 -05:00] [Info] Bluberry108 said: react with green again
+Bluberry108: react with green again
+Terracord: [06/29/2021 14:06:56 -05:00] [Info] Dev said: bots wierd
+Dev: bots wierd
+Terracord: [06/29/2021 14:07:58 -05:00] [Info] Empranion said: pthc
+Empranion: pthc
+user del 609779161229426688
+Account removed successfully.
+Server successfully deleted account: 609779161229426688.
+: user add 609779161229426688 s9uz default
+Account 609779161229426688 has been added to group default!
+Server added Account 609779161229426688 to group default
+: 47.5.141.86:60955 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Chookagong = pro for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 14:08:27 -05:00] [Info] **:red_circle: Chookagong = pro has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+47.5.141.86:63718 is connecting...
+Terracord: [06/29/2021 14:08:32 -05:00] [Info] **:green_circle: chookagong has joined the server.**
+chookagong has joined.
+chookagong authenticated successfully as user: 643950324075462656.
+Terracord: [06/29/2021 14:08:45 -05:00] [Info] Bluberry108 said: this guy
+Bluberry108: this guy
+Empranion executed: /playing.
+user del 318028763776679936
+Account removed successfully.
+Server successfully deleted account: 318028763776679936.
+: user add 318028763776679936 j2pw default
+Account 318028763776679936 has been added to group default!
+Server added Account 318028763776679936 to group default
+: 80.229.138.39:50066 is connecting...
+Terracord: [06/29/2021 14:09:34 -05:00] [Info] **:green_circle: poopypants has joined the server.**
+poopypants has joined.
+poopypants authenticated successfully as user: 609779161229426688.
+96.33.39.151:60282 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked dumper for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 14:10:01 -05:00] [Info] **:red_circle: dumper has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/29/2021 14:10:07 -05:00] [Info] poopypants said: hi emp
+poopypants: hi emp
+Terracord: [06/29/2021 14:10:10 -05:00] [Info] Empranion said: hey
+Empranion: hey
+Terracord: [06/29/2021 14:10:13 -05:00] [Info] Empranion said: team?
+Empranion: team?
+Terracord: [06/29/2021 14:10:17 -05:00] [Info] poopypants said: eys
+poopypants: eys
+Terracord: [06/29/2021 14:10:18 -05:00] [Info] poopypants said: yes
+poopypants: yes
+82.15.210.146:58960 is connecting...
+Terracord: [06/29/2021 14:10:24 -05:00] [Info] **:green_circle: lipolo has joined the server.**
+lipolo has joined.
+lipolo authenticated successfully as user: 318028763776679936.
+poopypants executed: /whisper empranion .
+Empranion executed: /whisper poopypants.
+Empranion executed: /whisper poppypants come to right side im waiting.
+Terracord: [06/29/2021 14:11:22 -05:00] [Info] iskander said: **[Spelunker Glowstick (999)]**
+iskander: [Spelunker Glowstick (999)]
+Terracord: [06/29/2021 14:11:23 -05:00] [Info] iskander said: yeah
+iskander: yeah
+Empranion executed: /whisper poopypants hey.
+Empranion executed: /whisper poopypants im on the right.
+Terracord: [06/29/2021 14:11:48 -05:00] [Info] chookagong said: isk team?
+chookagong: isk team?
+Terracord: [06/29/2021 14:12:03 -05:00] [Info] iskander said: sure
+iskander: sure
+Terracord: [06/29/2021 14:12:06 -05:00] [Info] chookagong said: join yellow
+chookagong: join yellow
+Empranion executed: /whisper poopypants no.
+Terracord: [06/29/2021 14:12:30 -05:00] [Info] Bluberry108 said: crap i have no teamate
+Bluberry108: crap i have no teamate
+poopypants executed: /r blue.
+Empranion executed: /whisper poopypants do i have to type in "/whisper poopypants" everytime?.
+Terracord: [06/29/2021 14:12:39 -05:00] [Info] heroy_105 said: same
+heroy_105: same
+67.169.170.162:50367 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Bluberry108 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 14:12:46 -05:00] [Info] **:red_circle: Bluberry108 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Empranion executed: /r cool.
+Terracord: [06/29/2021 14:13:04 -05:00] [Info] Server broadcast: Skeletron has awoken!
+Terracord: [06/29/2021 14:13:10 -05:00] [Info] poopypants said: wtf
+poopypants: wtf
+67.169.170.162:50464 is connecting...
+Terracord: [06/29/2021 14:13:13 -05:00] [Info] **:green_circle: Bluberrry108 has joined the server.**
+Bluberrry108 has joined.
+Terracord: [06/29/2021 14:13:17 -05:00] [Info] Dev said: Welcome to Heroy
+Dev: Welcome to Heroy
+Bluberrry108 authenticated successfully as user: 632016986658045961.
+Terracord: [06/29/2021 14:13:33 -05:00] [Info] Dev said: HE IS JUST SLAUGTERING SKELETRON
+Dev: HE IS JUST SLAUGTERING SKELETRON
+Terracord: [06/29/2021 14:13:54 -05:00] [Info] iskander said: most of the time it is usally Heroy Axis vs anyone other team Allies
+iskander: most of the time it is usally Heroy Axis vs anyone other team Allies
+Terracord: [06/29/2021 14:14:03 -05:00] [Info] Dev said: True
+Dev: True
+Terracord: [06/29/2021 14:14:23 -05:00] [Info] Dev said: Join the anti Heroy allince
+Dev: Join the anti Heroy allince
+Terracord: [06/29/2021 14:14:32 -05:00] [Info] poopypants said: no
+poopypants: no
+Terracord: [06/29/2021 14:14:36 -05:00] [Info] iskander said: i hate the french
+iskander: i hate the french
+Terracord: [06/29/2021 14:14:36 -05:00] [Info] iskander said: no
+iskander: no
+Terracord: [06/29/2021 14:14:48 -05:00] [Info] poopypants said: whoa
+poopypants: whoa
+Terracord: [06/29/2021 14:15:05 -05:00] [Info] Empranion said: based
+Empranion: based
+Terracord: [06/29/2021 14:15:20 -05:00] [Info] honky feline said: i hate humans in general
+honky feline: i hate humans in general
+Terracord: [06/29/2021 14:15:31 -05:00] [Info] iskander said: cringe
+iskander: cringe
+Empranion executed: /r other side has been looted.
+Terracord: [06/29/2021 14:15:35 -05:00] [Info] chookagong said: very
+chookagong: very
+Terracord: [06/29/2021 14:15:37 -05:00] [Info] Server broadcast: Skeletron has been defeated!
+Terracord: [06/29/2021 14:15:52 -05:00] [Info] chookagong said: this dude killed skeletron with wood armor in 10 minutes
+chookagong: this dude killed skeletron with wood armor in 10 minutes
+Terracord: [06/29/2021 14:16:00 -05:00] [Info] iskander said: get used to it
+iskander: get used to it
+Terracord: [06/29/2021 14:16:03 -05:00] [Info] lipolo said: legend
+lipolo: legend
+Terracord: [06/29/2021 14:16:03 -05:00] [Info] Dev said: Thats heroy
+Dev: Thats heroy
+Terracord: [06/29/2021 14:16:08 -05:00] [Info] iskander said: will happen every game
+iskander: will happen every game
+Terracord: [06/29/2021 14:16:21 -05:00] [Info] Dev said: Hes the Crabbar and advent32 of PTHC
+Dev: Hes the Crabbar and advent32 of PTHC
+Terracord: [06/29/2021 14:16:36 -05:00] [Info] chookagong said: i would try to fight skeletron but i dont want to risk it
+chookagong: i would try to fight skeletron but i dont want to risk it
+Terracord: [06/29/2021 14:16:44 -05:00] [Info] iskander said: its normal mode
+iskander: its normal mode
+Terracord: [06/29/2021 14:16:50 -05:00] [Info] iskander said: there is no risk
+iskander: there is no risk
+Terracord: [06/29/2021 14:17:02 -05:00] [Info] chookagong said: i just feel like the hands are too unpredictable
+chookagong: i just feel like the hands are too unpredictable
+Terracord: [06/29/2021 14:17:04 -05:00] [Info] chookagong said: and i have 100 health
+chookagong: and i have 100 health
+Terracord: [06/29/2021 14:17:07 -05:00] [Info] Empranion said: there is big loot pile here and below
+Empranion: there is big loot pile here and below
+Terracord: [06/29/2021 14:17:11 -05:00] [Info] chookagong said: most hits are gonna do like 20
+chookagong: most hits are gonna do like 20
+Terracord: [06/29/2021 14:17:11 -05:00] [Info] Bluberrry108 said: he is pretty easy but it takes awile to kill
+Bluberrry108: he is pretty easy but it takes awile to kill
+Empranion executed: /r oops i forgot to whssper.
+Empranion executed: /r you get that.
+Terracord: [06/29/2021 14:18:29 -05:00] [Info] iskander said: **[Teleportation Potion]** wish these worked
+iskander: [Teleportation Potion] wish these worked
+Terracord: [06/29/2021 14:18:36 -05:00] [Info] chookagong said: they dont work?
+chookagong: they dont work?
+Terracord: [06/29/2021 14:18:40 -05:00] [Info] iskander said: sadly
+iskander: sadly
+67.169.170.162:50464 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Bluberrry108 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 14:18:44 -05:00] [Info] **:red_circle: Bluberrry108 has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/29/2021 14:18:44 -05:00] [Info] chookagong said: rip
+chookagong: rip
+Empranion executed: /r im using spelunker.
+Terracord: [06/29/2021 14:18:55 -05:00] [Info] chookagong said: do you have any wormhole potions
+chookagong: do you have any wormhole potions
+Terracord: [06/29/2021 14:19:01 -05:00] [Info] iskander said: one
+iskander: one
+67.169.170.162:50488 is connecting...
+Terracord: [06/29/2021 14:19:03 -05:00] [Info] **:green_circle: Bluberry108 has joined the server.**
+Bluberry108 has joined.
+Bluberry108 authenticated successfully as user: 632016986658045961.
+Empranion executed: /r I COUlDNT SEE AHH.
+Terracord: [06/29/2021 14:20:32 -05:00] [Info] <iskander@Discord> hi
+<iskander@Discord> hi
+Terracord: [06/29/2021 14:20:34 -05:00] [Info] iskander said: hi me
+iskander: hi me
+Empranion executed: /r have no healing.
+Terracord: [06/29/2021 14:20:47 -05:00] [Info] <iskander@Discord> hi
+<iskander@Discord> hi
+Empranion executed: /r thx.
+Terracord: [06/29/2021 14:20:58 -05:00] [Info] iskander said: hello
+iskander: hello
+iskander executed: /who.
+Empranion executed: /r [Wooden Arrow (970)].
+Terracord: [06/29/2021 14:21:10 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+Terracord: [06/29/2021 14:21:57 -05:00] [Info] chookagong said: well im lost
+chookagong: well im lost
+67.169.170.162:50488 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Bluberry108 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 14:22:02 -05:00] [Info] **:red_circle: Bluberry108 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Empranion executed: /r need to smelt my ore.
+Terracord: [06/29/2021 14:22:09 -05:00] [Info] Server broadcast: iskander has teleported to chookagong
+Terracord: [06/29/2021 14:22:15 -05:00] [Info] Server broadcast: Screams echo around you...
+67.169.170.162:50494 is connecting...
+Terracord: [06/29/2021 14:22:17 -05:00] [Info] **:green_circle: Bluberry108 has joined the server.**
+Bluberry108 has joined.
+Bluberry108 authenticated successfully as user: 632016986658045961.
+Empranion executed: /r you have bow right?.
+Terracord: [06/29/2021 14:22:27 -05:00] [Info] chookagong said: yooo ty
+chookagong: yooo ty
+Terracord: [06/29/2021 14:22:28 -05:00] [Info] iskander said: make me proud
+iskander: make me proud
+Empranion executed: /r shall i keep? [Silver Bar (10)].
+Terracord: [06/29/2021 14:22:34 -05:00] [Info] chookagong said: ok
+chookagong: ok
+Terracord: [06/29/2021 14:22:37 -05:00] [Info] chookagong said: can i have some spelunker
+chookagong: can i have some spelunker
+Terracord: [06/29/2021 14:22:40 -05:00] [Info] poopypants said: sword
+poopypants: sword
+Empranion executed: /r i can make a pick.
+Terracord: [06/29/2021 14:22:43 -05:00] [Info] chookagong said: glowsticks
+chookagong: glowsticks
+Terracord: [06/29/2021 14:22:49 -05:00] [Info] chookagong said: ty
+chookagong: ty
+Terracord: [06/29/2021 14:22:51 -05:00] [Info] iskander said: np
+iskander: np
+Empranion executed: /r accidental bomb kill.
+Empranion executed: /r blessing in dissguise.
+Empranion executed: /r pot.
+Empranion executed: /r ice blade would be big.
+Terracord: [06/29/2021 14:24:02 -05:00] [Info] Server broadcast: Brain of Cthulhu has awoken!
+Terracord: [06/29/2021 14:24:08 -05:00] [Info] chookagong said: why do i hear boss music
+chookagong: why do i hear boss music
+70.137.105.70:49175 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked honky feline for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 14:24:13 -05:00] [Info] **:red_circle: honky feline has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/29/2021 14:24:18 -05:00] [Info] chookagong said: aw hell naw
+chookagong: aw hell naw
+70.137.105.70:49194 is connecting...
+Terracord: [06/29/2021 14:24:19 -05:00] [Info] **:green_circle: ad has joined the server.**
+ad has joined.
+ad authenticated successfully as user: 262003003186216973.
+Terracord: [06/29/2021 14:24:23 -05:00] [Info] chookagong said: its going for me
+chookagong: its going for me
+Empranion executed: /r there is no pressure plate.
+Empranion executed: /r wtf.
+poopypants executed: /r lag.
+Empranion executed: /r it was hiding under water making it not visible whatt.
+poopypants executed: /r you know for 10k you could do a voice reveal.
+poopypants executed: /r just an idea.
+Empranion executed: /r flare gun.....
+Empranion executed: /r it gives debuff i guess.
+Terracord: [06/29/2021 14:26:04 -05:00] [Info] heroy_105 said: how dare u
+heroy_105: how dare u
+70.137.105.70:49194 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked ad for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 14:26:05 -05:00] [Info] **:red_circle: ad has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/29/2021 14:26:17 -05:00] [Info] iskander said: what i do?
+iskander: what i do?
+Empranion executed: /r ice creatures are more harmed from fire attacks.
+Empranion executed: /r yeah.
+Empranion executed: /r litterally the most unknown terraria fact.
+Terracord: [06/29/2021 14:26:47 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/29/2021 14:26:47 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+Terracord: [06/29/2021 14:27:01 -05:00] [Info] lipolo said: *chuckles* im in danger
+lipolo: *chuckles* im in danger
+Empranion executed: /r yeah ik.
+Terracord: [06/29/2021 14:27:41 -05:00] [Info] iskander said: hi
+iskander: hi
+105.108.120.132:56744 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked iskander for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 14:27:46 -05:00] [Info] **:red_circle: iskander has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/29/2021 14:27:55 -05:00] [Info] <iskander@Discord> that was unlucky lol
+<iskander@Discord> that was unlucky lol
+playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: 105.108.120.132:57032 is connecting...
+105.108.120.132:57032 was booted: Kicked: You need to join with a hardcore player.
+Kicked  for : 'You need to join with a hardcore player.'
+playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: plaEmpranion executed: /r do you, want to cure world hunger? Or find out obamas last name.
+ying
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: 105.108.120.132:57035 is connecting...
+playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: Terracord: [06/29/2021 14:28:29 -05:00] [Info] **:green_circle: a has joined the server.**
+playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: a has joined.
+playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: Terracord: [06/29/2021 14:28:36 -05:00] [Info] chookagong said: isk did u die?
+pchookagong: isk did u die?
+laying
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: Terracord: [06/29/2021 14:28:41 -05:00] [Info] a said: ye,
+a: ye,
+playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: Terracord: [06/29/2021 14:28:44 -05:00] [Info] a said: how do i spectate
+a: how do i spectate
+playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: Terracord: [06/29/2021 14:28:48 -05:00] [Info] heroy_105 said: no
+heroy_105: no
+playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: Terracord: [06/29/2021 14:28:53 -05:00] [Info] heroy_105 said: just exit
+heroy_105: just exit
+playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: Terracord: [06/29/2021 14:28:57 -05:00] [Info] Dev said: If you died you must leave
+Dev: If you died you must leave
+playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playingTerracord: [06/29/2021 14:29:03 -05:00] [Info] heroy_105 said: and spectate in game chat
+heroy_105: and spectate in game chat
+
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: [Server API] Warning Plugin "TShock" has had an unhandled exception thrown by one of its ServerChat handlers:
+System.OutOfMemoryException: Exception of type 'System.OutOfMemoryException' was thrown.
+   at System.Text.StringBuilder.ToString()
+   at System.Text.RegularExpressions.RegexParser.Escape(String input)
+   at System.Text.RegularExpressions.Regex.Escape(String str)
+   at FragLand.TerracordPlugin.Util.ConvertChannelMentions(String message, DiscordSocketClient discordClient)
+   at FragLand.TerracordPlugin.Terracord.OnChat(PlayerChatEventArgs args)
+   at TShockAPI.Hooks.PlayerHooks.OnPlayerChat(TSPlayer ply, String rawtext, String& tshockText)
+   at TShockAPI.TShock.OnChat(ServerChatEventArgs args)
+   at TerrariaApi.Server.HandlerCollection`1.Invoke(ArgsType args) in D:\a\TShock\TShock\TerrariaServerAPI\TerrariaServerAPI\TerrariaApi.Server\HandlerCollection.cs:line 109
+<heroy_105> #gamechat
+Terracord: [06/29/2021 14:29:15 -05:00] [Info] a said: a bit cringe
+a: a bit cringe
+playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: Terracord: [06/29/2021 14:29:21 -05:00] [Info] chookagong said: yeah
+chookagong: yeah
+playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (8/69)
+a, Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playingTerracord: [06/29/2021 14:29:38 -05:00] [Info] **:red_circle: a has left the server.**
+
+Server executed: /playing.
+Online Players (8/69)
+a has left.
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: Empranion executed: /r sry.
+playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: Empranion executed: /r band of regen.
+playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: Empranion executed: /r healing potion.
+playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: pEmpranion executed: /r guarding regen.
+laying
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: Empranion executed: /r thx.
+playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playingEmpranion executed: /r life crystal.
+
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: Empranion executed: /r you can have.
+playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: pTerracord: [06/29/2021 14:30:56 -05:00] [Info] chookagong said: i will win for my fallen teammate
+chookagong: i will win for my fallen teammate
+laying
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: Empranion executed: /r yeah.
+playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playingTerracord: [06/29/2021 14:31:16 -05:00] [Info] chookagong said: unless i find out everyone is stacked
+chookagong: unless i find out everyone is stacked
+
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playingEmpranion executed: /r hermes.
+
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playing
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: playinTerracord: [06/29/2021 14:32:37 -05:00] [Info] <Omori@Discord> dfev
+g<Omori@Discord> dfev
+
+Server executed: /playing.
+Online Players (7/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, lipolo, poopypants
+: 82.15.210.146:58960 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked lipolo for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 14:32:38 -05:00] [Info] **:red_circle: lipolo has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Terracord: [06/29/2021 14:33:00 -05:00] [Info] <lipolo@Discord> i just got attacked by heroy
+<lipolo@Discord> i just got attacked by heroy
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Terracord: [06/29/2021 14:33:02 -05:00] [Info] <lipolo@Discord> muramasa
+<lipolo@Discord> muramasa
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Terracord: [06/29/2021 14:33:05 -05:00] [Info] <lipolo@Discord> full plat
+<lipolo@Discord> full plat
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playingTerracord: [06/29/2021 14:33:10 -05:00] [Info] chookagong said: oh
+chookagong: oh
+
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Terracord: [06/29/2021 14:33:12 -05:00] [Info] chookagong said: yikes
+chookagong: yikes
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Terracord: [06/29/2021 14:33:18 -05:00] [Info] <lipolo@Discord> jeez
+<lipolo@Discord> jeez
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Terracord: [06/29/2021 14:33:20 -05:00] [Info] <lipolo@Discord> stacked
+<lipolo@Discord> stacked
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Terracord: [06/29/2021 14:33:21 -05:00] [Info] chookagong said: heroy has muramasa and full plat?
+chookagong: heroy has muramasa and full plat?
+pEmpranion executed: /r i have life crystal?.
+layingTerracord: [06/29/2021 14:33:23 -05:00] [Info] <iskander@Discord> sneed!
+<iskander@Discord> sneed!
+
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Terracord: [06/29/2021 14:33:26 -05:00] [Info] <lipolo@Discord> yea
+<lipolo@Discord> yea
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Empranion executed: /r thanks.
+Terracord: [06/29/2021 14:33:31 -05:00] [Info] <lipolo@Discord> he does
+<lipolo@Discord> he does
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Terracord: [06/29/2021 14:33:37 -05:00] [Info] chookagong said: can i use boulders to kill
+chookagong: can i use boulders to kill
+Terracord: [06/29/2021 14:33:37 -05:00] [Info] Bluberry108 said: oh crap
+Bluberry108: oh crap
+Terracord: [06/29/2021 14:33:38 -05:00] [Info] chookagong said: or lava
+chookagong: or lava
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Terracord: [06/29/2021 14:33:46 -05:00] [Info] <lipolo@Discord> you could try
+<lipolo@Discord> you could try
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Terracord: [06/29/2021 14:33:51 -05:00] [Info] <iskander@Discord> would be hard
+<iskander@Discord> would be hard
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Terracord: [06/29/2021 14:34:30 -05:00] [Info] <iskander@Discord> the meta is basically getting a gold/plat bow and frostbite arrows and then rushing skeletron
+<iskander@Discord> the meta is basically getting a gold/plat bow and frostbite arrows and then rushing skeletron
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Terracord: [06/29/2021 14:34:45 -05:00] [Info] <iskander@Discord> getting muramasa and you are set to win
+<iskander@Discord> getting muramasa and you are set to win
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Terracord: [06/29/2021 14:34:53 -05:00] [Info] chookagong said: so im guessing everything he has is above iron
+chookagong: so im guessing everything he has is above iron
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Terracord: [06/29/2021 14:35:03 -05:00] [Info] <iskander@Discord> yes
+<iskander@Discord> yes
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Terracord: [06/29/2021 14:35:25 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Terracord: [06/29/2021 14:35:34 -05:00] [Info] chookagong said: im guessing thats heroy
+chookagong: im guessing thats heroy
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Terracord: [06/29/2021 14:35:40 -05:00] [Info] Server broadcast: Screams echo around you...
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Empranion executed: /r 13.
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: pTerracord: [06/29/2021 14:35:54 -05:00] [Info] Server broadcast: Brain of Cthulhu has awoken!
+laying
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Empranion executed: /r almost got pushed into it.
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Terracord: [06/29/2021 14:36:27 -05:00] [Info] Server broadcast: Brain of Cthulhu has been defeated!
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Terracord: [06/29/2021 14:36:32 -05:00] [Info] chookagong said: its been 30 seconds
+chookagong: its been 30 seconds
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Terracord: [06/29/2021 14:36:44 -05:00] [Info] heroy_105 said: record?
+heroy_105: record?
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: Terracord: [06/29/2021 14:36:48 -05:00] [Info] chookagong said: world record
+chookagong: world record
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playiTerracord: [06/29/2021 14:37:22 -05:00] [Info] chookagong said: heroy makes me feel like giving up
+chookagong: heroy makes me feel like giving up
+ng
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105, poopypants
+: 80.229.138.39:50066 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked poopypants for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 14:37:25 -05:00] [Info] **:red_circle: poopypants has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: Terracord: [06/29/2021 14:37:30 -05:00] [Info] heroy_105 said: dont dew it
+heroy_105: dont dew it
+playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: Terracord: [06/29/2021 14:37:35 -05:00] [Info] chookagong said: y not
+chookagong: y not
+playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: Empranion executed: /r NOOOOOOO.
+playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playiTerracord: [06/29/2021 14:37:41 -05:00] [Info] heroy_105 said: you will miss fun part
+heroy_105: you will miss fun part
+ng
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: Terracord: [06/29/2021 14:37:45 -05:00] [Info] Empranion said: NOOOOO
+Empranion: NOOOOO
+playingTerracord: [06/29/2021 14:37:46 -05:00] [Info] chookagong said: dying to you?
+chookagong: dying to you?
+
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: Terracord: [06/29/2021 14:38:03 -05:00] [Info] heroy_105 said: it's a secret
+heroy_105: it's a secret
+playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: plaTerracord: [06/29/2021 14:38:58 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+ying
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: Terracord: [06/29/2021 14:39:52 -05:00] [Info] Server broadcast: Screams echo around you...
+playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: heroy_105 summoned the Eye of Cthulhu!
+Terracord: [06/29/2021 14:40:29 -05:00] [Info] Server broadcast: Eye of Cthulhu has awoken!
+playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playingTerracord: [06/29/2021 14:40:47 -05:00] [Info] chookagong said: are you really fighting eoc underground
+chookagong: are you really fighting eoc underground
+
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: Terracord: [06/29/2021 14:41:06 -05:00] [Info] Server broadcast: Eye of Cthulhu has been defeated!
+playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Bluberry108, Dev, chookagong, Empranion, heroy_105
+: 74.110.196.221:53165 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Dev for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 14:41:24 -05:00] [Info] **:red_circle: Dev has left the server.**
+pError on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+laying
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: heroy_105 summoned the Eye of Cthulhu!
+Terracord: [06/29/2021 14:41:30 -05:00] [Info] Server broadcast: Eye of Cthulhu has awoken!
+playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: Terracord: [06/29/2021 14:41:32 -05:00] [Info] Server broadcast: A meteorite has landed!
+playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: Terracord: [06/29/2021 14:41:34 -05:00] [Info] <Devalous@Discord> FUCK
+<Devalous@Discord> FUCK
+playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: Terracord: [06/29/2021 14:41:43 -05:00] [Info] <Devalous@Discord> I couldn't recall fast enough
+<Devalous@Discord> I couldn't recall fast enough
+playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: Terracord: [06/29/2021 14:41:47 -05:00] [Info] chookagong said: from what
+chookagong: from what
+playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: Terracord: [06/29/2021 14:42:04 -05:00] [Info] <Devalous@Discord> ice slimes
+<Devalous@Discord> ice slimes
+playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: Terracord: [06/29/2021 14:42:12 -05:00] [Info] chookagong said: tragic
+chookagong: tragic
+plaTerracord: [06/29/2021 14:42:12 -05:00] [Info] Server broadcast: Eye of Cthulhu has been defeated!
+ying
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: Bluberry108 executed: /playing.
+playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: heroy_105 executed: /who.
+playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playingTerracord: [06/29/2021 14:44:22 -05:00] [Info] chookagong said: who else here is alive
+chookagong: who else here is alive
+
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: Terracord: [06/29/2021 14:44:31 -05:00] [Info] Bluberry108 said: do /players
+Bluberry108: do /players
+playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: chookagong executed: /playing.
+playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: Terracord: [06/29/2021 14:47:01 -05:00] [Info] chookagong said: is teaming after grace allowed
+chookagong: is teaming after grace allowed
+playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: Terracord: [06/29/2021 14:47:13 -05:00] [Info] heroy_105 said: yes
+heroy_105: yes
+playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: Terracord: [06/29/2021 14:47:18 -05:00] [Info] Bluberry108 said: d
+Bluberry108: d
+playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: Terracord: [06/29/2021 14:50:57 -05:00] [Info] chookagong said: bluberry
+chookagong: bluberry
+playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: Terracord: [06/29/2021 14:50:59 -05:00] [Info] chookagong said: do u want to team
+chookagong: do u want to team
+playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: pchookagong executed: /playing.
+laying
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: Terracord: [06/29/2021 14:53:23 -05:00] [Info] <Omori@Discord> CHickaon
+<Omori@Discord> CHickaon
+playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Bluberry108, chookagong, Empranion, heroy_105
+: 47.5.141.86:63718 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked chookagong for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 14:55:38 -05:00] [Info] **:red_circle: chookagong has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: Terracord: [06/29/2021 14:55:47 -05:00] [Info] <Chookagong@Discord> i hate this
+<Chookagong@Discord> i hate this
+plTerracord: [06/29/2021 14:55:48 -05:00] [Info] heroy_105 said: how unfortunate
+heroy_105: how unfortunate
+aying
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: Bluberry108 executed: /playing.
+playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: Terracord: [06/29/2021 14:58:06 -05:00] [Info] Empranion said: right i gtg
+Empranion: right i gtg
+playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: Terracord: [06/29/2021 14:58:12 -05:00] [Info] heroy_105 said: why
+heroy_105: why
+playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: Terracord: [06/29/2021 14:58:14 -05:00] [Info] Empranion said: uhh so
+Empranion: uhh so
+playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: Terracord: [06/29/2021 14:58:23 -05:00] [Info] Bluberry108 said: welp im screwed
+Bluberry108: welp im screwed
+playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playTerracord: [06/29/2021 14:58:33 -05:00] [Info] Bluberry108 said: gg heroy
+Bluberry108: gg heroy
+ing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: Terracord: [06/29/2021 14:58:42 -05:00] [Info] heroy_105 said: can we at least fight
+heroy_105: can we at least fight
+playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: Terracord: [06/29/2021 14:58:50 -05:00] [Info] heroy_105 said: or everyone will just quit
+heroy_105: or everyone will just quit
+playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playingTerracord: [06/29/2021 14:58:55 -05:00] [Info] heroy_105 said: (
+heroy_105: (
+
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: Terracord: [06/29/2021 14:58:58 -05:00] [Info] Empranion said: wow
+Empranion: wow
+playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: Terracord: [06/29/2021 14:59:00 -05:00] [Info] Bluberry108 said: um ok
+Bluberry108: um ok
+playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: Terracord: [06/29/2021 14:59:25 -05:00] [Info] heroy_105 said: but where we will fight
+heroy_105: but where we will fight
+playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: Terracord: [06/29/2021 14:59:26 -05:00] [Info] Bluberry108 said: 1 sec
+Bluberry108: 1 sec
+playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: Terracord: [06/29/2021 14:59:30 -05:00] [Info] <Chookagong@Discord> why would anyone want to fight someone with full necro armor and a gun
+<Chookagong@Discord> why would anyone want to fight someone with full necro armor and a gun
+playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playTerracord: [06/29/2021 14:59:40 -05:00] [Info] Empranion said: whattt
+Empranion: whattt
+ing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: Terracord: [06/29/2021 14:59:45 -05:00] [Info] Empranion said: why one se
+Empranion: why one se
+playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: Terracord: [06/29/2021 14:59:50 -05:00] [Info] Empranion said: fine
+Empranion: fine
+playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Bluberry108, Empranion, heroy_105
+: 67.169.170.162:50494 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Bluberry108 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 15:00:01 -05:00] [Info] **:red_circle: Bluberry108 has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: Terracord: [06/29/2021 15:00:04 -05:00] [Info] Empranion said: BRUH
+Empranion: BRUH
+playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: Terracord: [06/29/2021 15:00:12 -05:00] [Info] <Bluberry108@Discord> gg
+<Bluberry108@Discord> gg
+playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: Terracord: [06/29/2021 15:00:25 -05:00] [Info] <Bluberry108@Discord> i  didnt know that would kill me
+<Bluberry108@Discord> i  didnt know that would kill me
+playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: Terracord: [06/29/2021 15:00:39 -05:00] [Info] <Bluberry108@Discord> i forgot to make full lead
+<Bluberry108@Discord> i forgot to make full lead
+playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: Terracord: [06/29/2021 15:00:52 -05:00] [Info] <Nathan8er77@Discord> i died that way but accidently
+<Nathan8er77@Discord> i died that way but accidently
+playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playingTerracord: [06/29/2021 15:01:10 -05:00] [Info] <Bluberry108@Discord> dirt bombs delete you
+<Bluberry108@Discord> dirt bombs delete you
+
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: Terracord: [06/29/2021 15:01:11 -05:00] [Info] <Nathan8er77@Discord> hello game chat
+<Nathan8er77@Discord> hello game chat
+playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: Terracord: [06/29/2021 15:01:22 -05:00] [Info] Empranion said: guys think of a really dumb way for me to die i need to go
+Empranion: guys think of a really dumb way for me to die i need to go
+playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: Terracord: [06/29/2021 15:01:30 -05:00] [Info] <Nathan8er77@Discord> explosives XD
+<Nathan8er77@Discord> explosives XD
+playTerracord: [06/29/2021 15:01:32 -05:00] [Info] <Devalous@Discord> silt
+<Devalous@Discord> silt
+ing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: Terracord: [06/29/2021 15:01:46 -05:00] [Info] <Bluberry108@Discord> eye of cthulu
+<Bluberry108@Discord> eye of cthulu
+playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: Empranion summoned the Eye of Cthulhu!
+Terracord: [06/29/2021 15:01:49 -05:00] [Info] Server broadcast: Eye of Cthulhu has awoken!
+playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: Terracord: [06/29/2021 15:01:50 -05:00] [Info] <Devalous@Discord> silt
+<Devalous@Discord> silt
+playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: plTerracord: [06/29/2021 15:01:54 -05:00] [Info] <Bluberry108@Discord> hah
+<Bluberry108@Discord> hah
+aying
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: Terracord: [06/29/2021 15:01:58 -05:00] [Info] <iskander@Discord> dumb way? boulder
+<iskander@Discord> dumb way? boulder
+playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: Terracord: [06/29/2021 15:02:01 -05:00] [Info] Empranion said: omg big eye oh no so scary!!?!??!
+Empranion: omg big eye oh no so scary!!?!??!
+playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: Terracord: [06/29/2021 15:02:07 -05:00] [Info] Empranion said: how to fight?!?!
+Empranion: how to fight?!?!
+playing
+Server executed: /playing.
+Online Players (2/69)
+Empranion, heroy_105
+: 92.7.7.93:52164 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Empranion for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 15:02:08 -05:00] [Info] **:red_circle: Empranion has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (1/69)
+heroy_105
+:  

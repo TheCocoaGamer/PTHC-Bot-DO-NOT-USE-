@@ -1,0 +1,3498 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7778
+Type 'help' for a list of commands.
+
+Terracord: [06/28/2021 19:45:36 -05:00] [Info] Connecting to Discord...
+Terracord: [06/28/2021 19:45:36 -05:00] [Info] 19:45:36 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/28/2021 19:45:36 -05:00] [Info] 19:45:36 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 20m
+Server executed: /grace begin 20m.
+Terracord: [06/28/2021 19:45:37 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 570187358683529217
+Server started
+Account removed successfully.
+Server successfully deleted account: 570187358683529217.
+: user add 570187358683529217 z82a default
+Account 570187358683529217 has been added to group default!
+Server added Account 570187358683529217 to group default
+: user del 262003003186216973
+Account removed successfully.
+Server successfully deleted account: 262003003186216973.
+: user add 262003003186216973 3zco default
+Account 262003003186216973 has been added to group default!
+Server added Account 262003003186216973 to group default
+: user del 643950324075462656
+192.136.208.53:51401 is connecting...
+74.110.196.221:63201 is connecting...
+Terracord: [06/28/2021 19:45:37 -05:00] [Info] 19:45:37 Gateway     Connected
+Account removed successfully.
+Server successfully deleted account: 643950324075462656.
+: user add 643950324075462656 ay2z default
+Account 643950324075462656 has been added to group default!
+Server added Account 643950324075462656 to group default
+: user del 636718232799281162
+Account removed successfully.
+Server successfully deleted account: 636718232799281162.
+: user add 636718232799281162 lr8l default
+Account 636718232799281162 has been added to group default!
+Server added Account 636718232799281162 to group default
+: user del 773552794887258122
+Account removed successfully.
+Server successfully deleted account: 773552794887258122.
+: user add 773552794887258122 mc6e default
+Terracord: [06/28/2021 19:45:38 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Account 773552794887258122 has been added to group default!
+Server added Account 773552794887258122 to group default
+: user del 692133379952607313
+Terracord: [06/28/2021 19:45:38 -05:00] [Info] 19:45:38 Gateway     Ready
+Account removed successfully.
+Server successfully deleted account: 692133379952607313.
+: user add 692133379952607313 iv4x default
+Account 692133379952607313 has been added to group default!
+Server added Account 692133379952607313 to group default
+: user del 632016986658045961
+70.137.105.70:65280 is connecting...
+Account removed successfully.
+Server successfully deleted account: 632016986658045961.
+: user add 632016986658045961 l0uz default
+Account 632016986658045961 has been added to group default!
+Server added Account 632016986658045961 to group default
+: user del 456110220322668566
+Account removed successfully.
+Server successfully deleted account: 456110220322668566.
+: user add 456110220322668566 cwnq default
+Account 456110220322668566 has been added to group default!
+Server added Account 456110220322668566 to group default
+: user del 782433450312466433
+Account removed successfully.
+Server successfully deleted account: 782433450312466433.
+: user add 782433450312466433 byvk default
+Account 782433450312466433 has been added to group default!
+Server added Account 782433450312466433 to group default
+: user del 376522837693038593
+47.5.141.86:57393 is connecting...
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 bn1p default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 463897258136698885
+Account removed successfully.
+Server successfully deleted account: 463897258136698885.
+: user add 463897258136698885 cpol default
+Account 463897258136698885 has been added to group default!
+Server added Account 463897258136698885 to group default
+: Terracord: [06/28/2021 19:45:39 -05:00] [Info] **:green_circle: Tle Kemrlnag has joined the server.**
+Terracord: [06/28/2021 19:45:39 -05:00] [Info] **:green_circle: Dev has joined the server.**
+Terracord: [06/28/2021 19:45:40 -05:00] [Info] **:green_circle: IGNHUHFFFF has joined the server.**
+Terracord: [06/28/2021 19:45:40 -05:00] [Info] **:green_circle: Chookagong = pro has joined the server.**
+Tle Kemrlnag has joined.
+Dev has joined.
+IGNHUHFFFF has joined.
+Chookagong = pro has joined.
+98.220.227.57:63110 is connecting...
+Terracord: [06/28/2021 19:45:42 -05:00] [Info] **:green_circle: [c/fe3239:Supremas] has joined the server.**
+Chookagong = pro authenticated successfully as user: 643950324075462656.
+96.33.39.151:57637 is connecting...
+IGNHUHFFFF authenticated successfully as user: 262003003186216973.
+Terracord: [06/28/2021 19:45:42 -05:00] [Info] **:green_circle: dumpster burm has joined the server.**
+Supremas has joined.
+Dev authenticated successfully as user: 570187358683529217.
+dumpster burm has joined.
+Tle Kemrlnag authenticated successfully as user: 782433450312466433.
+dumpster burm authenticated successfully as user: 456110220322668566.
+[c/fe3239:Supremas] authenticated successfully as user: 376522837693038593.
+Terracord: [06/28/2021 19:45:46 -05:00] [Info] Chookagong = pro said: anyone who wants to team join blue
+Chookagong = pro: anyone who wants to team join blue
+173.168.136.13:61833 is connecting...
+Terracord: [06/28/2021 19:45:52 -05:00] [Info] **:green_circle: Goldblock has joined the server.**
+162.157.69.233:56176 is connecting...
+Terracord: [06/28/2021 19:45:53 -05:00] [Info] **:green_circle: Wolywog has joined the server.**
+Goldblock has joined.
+Wolywog has joined.
+Wolywog authenticated successfully as user: 636718232799281162.
+67.169.170.162:58116 is connecting...
+Terracord: [06/28/2021 19:46:00 -05:00] [Info] **:green_circle: Bluberry108 has joined the server.**
+Goldblock authenticated successfully as user: 773552794887258122.
+Bluberry108 has joined.
+Terracord: [06/28/2021 19:46:18 -05:00] [Info] Chookagong = pro said: if anyone wants 2 team join blue
+Chookagong = pro: if anyone wants 2 team join blue
+Bluberry108 authenticated successfully as user: 632016986658045961.
+67.169.170.162:58116 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Bluberry108 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 19:47:14 -05:00] [Info] **:red_circle: Bluberry108 has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+162.157.69.233:56176 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Wolywog for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 19:47:15 -05:00] [Info] **:red_circle: Wolywog has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+162.157.69.233:56177 is connecting...
+Terracord: [06/28/2021 19:47:30 -05:00] [Info] **:green_circle: Wolywog has joined the server.**
+Wolywog has joined.
+67.169.170.162:58130 is connecting...
+Terracord: [06/28/2021 19:47:35 -05:00] [Info] **:green_circle: Bluberry108 has joined the server.**
+Bluberry108 has joined.
+Wolywog authenticated successfully as user: 636718232799281162.
+Bluberry108 authenticated successfully as user: 632016986658045961.
+192.136.208.53:51401 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Tle Kemrlnag for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 19:47:41 -05:00] [Info] **:red_circle: Tle Kemrlnag has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/28/2021 19:47:44 -05:00] [Info] Bluberry108 said: bruh
+Bluberry108: bruh
+Terracord: [06/28/2021 19:47:50 -05:00] [Info] Bluberry108 said: t
+Bluberry108: t
+192.136.208.53:63788 is connecting...
+Terracord: [06/28/2021 19:48:01 -05:00] [Info] **:green_circle: ARGH has joined the server.**
+ARGH has joined.
+70.137.105.70:65280 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked IGNHUHFFFF for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 19:48:04 -05:00] [Info] **:red_circle: IGNHUHFFFF has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+ARGH authenticated successfully as user: 782433450312466433.
+70.137.105.70:65285 is connecting...
+Terracord: [06/28/2021 19:48:11 -05:00] [Info] **:green_circle: e has joined the server.**
+e has joined.
+e authenticated successfully as user: 262003003186216973.
+67.169.170.162:58130 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Bluberry108 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 19:48:22 -05:00] [Info] **:red_circle: Bluberry108 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+67.169.170.162:58141 is connecting...
+Terracord: [06/28/2021 19:48:40 -05:00] [Info] **:green_circle: Bluberry108 has joined the server.**
+Terracord: [06/28/2021 19:48:41 -05:00] [Info] **:red_circle: Dev has left the server.**
+Dev has left.
+Bluberry108 has joined.
+74.110.196.221:60655 is connecting...
+Terracord: [06/28/2021 19:48:45 -05:00] [Info] **:green_circle: Dev has joined the server.**
+Bluberry108 authenticated successfully as user: 632016986658045961.
+Dev has joined.
+Dev authenticated successfully as user: 570187358683529217.
+Terracord: [06/28/2021 19:49:54 -05:00] [Info] **:red_circle: Wolywog has left the server.**
+Wolywog has left.
+Terracord: [06/28/2021 19:50:12 -05:00] [Info] <Wolywog@Discord> uhh
+<Wolywog@Discord> uhh
+162.157.69.233:56189 is connecting...
+Terracord: [06/28/2021 19:50:19 -05:00] [Info] **:green_circle: Wolywog has joined the server.**
+Wolywog has joined.
+Wolywog authenticated successfully as user: 636718232799281162.
+Terracord: [06/28/2021 19:50:30 -05:00] [Info] Bluberry108 said: type /login 632016986658045961 l0uz
+Bluberry108: type /login 632016986658045961 l0uz
+Terracord: [06/28/2021 19:50:50 -05:00] [Info] Dev said: react with green and you'll get your code
+Dev: react with green and you'll get your code
+Terracord: [06/28/2021 19:53:01 -05:00] [Info] [c/fe3239:Supremas] said: dude
+Supremas: dude
+Terracord: [06/28/2021 19:53:04 -05:00] [Info] Chookagong = pro said: what
+Chookagong = pro: what
+Terracord: [06/28/2021 19:53:04 -05:00] [Info] [c/fe3239:Supremas] said: you killed a ladybug
+Supremas: you killed a ladybug
+Terracord: [06/28/2021 19:53:06 -05:00] [Info] [c/fe3239:Supremas] said: -5 luck
+Supremas: -5 luck
+Terracord: [06/28/2021 19:53:08 -05:00] [Info] [c/fe3239:Supremas] said: tsktsktsk
+Supremas: tsktsktsk
+Terracord: [06/28/2021 19:53:09 -05:00] [Info] Chookagong = pro said: nooo
+Chookagong = pro: nooo
+Terracord: [06/28/2021 19:53:10 -05:00] [Info] Dev said: LMAO
+Dev: LMAO
+user del 783827119436201984
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '783827119436201984' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 783827119436201984 1vgq default
+Account 783827119436201984 has been added to group default!
+Server added Account 783827119436201984 to group default
+: Terracord: [06/28/2021 19:55:41 -05:00] [Info] **:red_circle: Wolywog has left the server.**
+Wolywog has left.
+173.168.136.13:61833 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Goldblock for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 19:55:56 -05:00] [Info] **:red_circle: Goldblock has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+179.54.155.116:62145 is connecting...
+179.54.155.116:62145 was booted: Kicked: You need to join with a hardcore player.
+Kicked  for : 'You need to join with a hardcore player.'
+67.169.170.162:58141 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Bluberry108 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 19:56:43 -05:00] [Info] **:red_circle: Bluberry108 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+96.33.39.151:57637 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked dumpster burm for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 19:56:45 -05:00] [Info] **:red_circle: dumpster burm has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+179.54.155.116:62187 is connecting...
+Terracord: [06/28/2021 19:56:59 -05:00] [Info] **:green_circle: Brenogamer06 has joined the server.**
+Brenogamer06 has joined.
+Brenogamer06 authenticated successfully as user: 783827119436201984.
+67.169.170.162:54788 is connecting...
+Terracord: [06/28/2021 19:58:05 -05:00] [Info] **:green_circle: Bluberry108 has joined the server.**
+Bluberry108 has joined.
+Bluberry108 executed: /help.
+Bluberry108 authenticated successfully as user: 632016986658045961.
+Bluberry108 executed: /sync.
+179.54.155.116:62187 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Brenogamer06 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 19:58:33 -05:00] [Info] **:red_circle: Brenogamer06 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Bluberry108 executed: /me.
+Terracord: [06/28/2021 19:59:01 -05:00] [Info] Bluberry108 said: bruh i went afk and forgot to box
+Bluberry108: bruh i went afk and forgot to box
+Terracord: [06/28/2021 19:59:06 -05:00] [Info] Dev said: ?
+Dev: ?
+Terracord: [06/28/2021 19:59:26 -05:00] [Info] Dev said: How could you forget to box
+Dev: How could you forget to box
+Terracord: [06/28/2021 19:59:44 -05:00] [Info] Bluberry108 said: it was urgent the trash needed to be taken out
+Bluberry108: it was urgent the trash needed to be taken out
+Terracord: [06/28/2021 20:01:35 -05:00] [Info] Chookagong = pro said: gtg soon
+Chookagong = pro: gtg soon
+Terracord: [06/28/2021 20:02:28 -05:00] [Info] **:red_circle: Dev has left the server.**
+Dev has left.
+74.110.196.221:50796 is connecting...
+Terracord: [06/28/2021 20:02:32 -05:00] [Info] **:green_circle: Dev has joined the server.**
+Dev has joined.
+Dev authenticated successfully as user: 570187358683529217.
+67.169.170.162:54788 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Bluberry108 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 20:05:10 -05:00] [Info] **:red_circle: Bluberry108 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+ARGH summoned the Eye of Cthulhu!
+Terracord: [06/28/2021 20:05:17 -05:00] [Info] Server broadcast: Eye of Cthulhu has awoken!
+67.169.170.162:52541 is connecting...
+Terracord: [06/28/2021 20:05:27 -05:00] [Info] **:green_circle: Bluberry108 has joined the server.**
+Bluberry108 has joined.
+Terracord: [06/28/2021 20:05:31 -05:00] [Info] Dev said: don't kill me
+Dev: don't kill me
+Bluberry108 authenticated successfully as user: 632016986658045961.
+Terracord: [06/28/2021 20:05:34 -05:00] [Info] e said: no
+e: no
+Terracord: [06/28/2021 20:05:37 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/28/2021 20:05:37 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+Terracord: [06/28/2021 20:05:46 -05:00] [Info] Bluberry108 said: im screwed
+Bluberry108: im screwed
+74.110.196.221:50796 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Terracord: [06/28/2021 20:05:53 -05:00] [Info] **:red_circle: Dev has left the server.**
+Kicked Dev for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/28/2021 20:05:58 -05:00] [Info] <Devalous@Discord> gg
+<Devalous@Discord> gg
+Terracord: [06/28/2021 20:06:07 -05:00] [Info] e said: i needed those torches tank you
+e: i needed those torches tank you
+Terracord: [06/28/2021 20:06:29 -05:00] [Info] e said: gg
+e: gg
+playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: Bluberry108 executed: /playing.
+playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playinge executed: /who.
+
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: Terracord: [06/28/2021 20:20:23 -05:00] [Info] [c/fe3239:Supremas] said: wth
+Supremas: wth
+playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: Terracord: [06/28/2021 20:20:25 -05:00] [Info] [c/fe3239:Supremas] said: you guys are so nice
+Supremas: you guys are so nice
+Terracord: [06/28/2021 20:20:26 -05:00] [Info] [c/fe3239:Supremas] said: thanks
+Supremas: thanks
+playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: plTerracord: [06/28/2021 20:20:31 -05:00] [Info] Chookagong = pro said: what
+Chookagong = pro: what
+aying
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: Terracord: [06/28/2021 20:20:33 -05:00] [Info] Bluberry108 said: ?
+Bluberry108: ?
+playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: Terracord: [06/28/2021 20:20:39 -05:00] [Info] ARGH said: **[Flower Boots]**
+ARGH: [Flower Boots]
+Terracord: [06/28/2021 20:20:39 -05:00] [Info] [c/fe3239:Supremas] said: i was afk for the past 10-15 mins
+Supremas: i was afk for the past 10-15 mins
+playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: plaTerracord: [06/28/2021 20:20:51 -05:00] [Info] e said: i shouldve found you and killed you
+e: i shouldve found you and killed you
+ying
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: Terracord: [06/28/2021 20:21:31 -05:00] [Info] Server broadcast: Skeletron has awoken!
+playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: Terracord: [06/28/2021 20:24:08 -05:00] [Info] Server broadcast: Skeletron has been defeated!
+playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ARGH, e, Chookagong = pro, Supremas, Bluberry108
+: playing98.220.227.57:63110 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked [c/fe3239:Supremas] for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 20:24:19 -05:00] [Info] **:red_circle: [c/fe3239:Supremas] has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: Terracord: [06/28/2021 20:24:35 -05:00] [Info] <TheCocoaGamer@Discord> big brian
+<TheCocoaGamer@Discord> big brian
+playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: e executed: /who.
+playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: Terracord: [06/28/2021 20:25:29 -05:00] [Info] e said: what the hell
+e: what the hell
+playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: Bluberry108 executed: /playing.
+playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: Terracord: [06/28/2021 20:28:58 -05:00] [Info] Chookagong = pro said: since i prob wont even win
+Chookagong = pro: since i prob wont even win
+playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: Terracord: [06/28/2021 20:29:13 -05:00] [Info] Chookagong = pro said: im gonna recall
+Chookagong = pro: im gonna recall
+playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playine executed: /who.
+gTerracord: [06/28/2021 20:29:21 -05:00] [Info] Bluberry108 said: ok
+Bluberry108: ok
+
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: Terracord: [06/28/2021 20:30:06 -05:00] [Info] Chookagong = pro said: hey everyone
+Chookagong = pro: hey everyone
+playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: Terracord: [06/28/2021 20:30:08 -05:00] [Info] Chookagong = pro said: come and get me
+Chookagong = pro: come and get me
+playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: Terracord: [06/28/2021 20:30:16 -05:00] [Info] Bluberry108 said: nah
+Bluberry108: nah
+playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: Terracord: [06/28/2021 20:30:22 -05:00] [Info] e said: trap
+e: trap
+playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: Terracord: [06/28/2021 20:30:26 -05:00] [Info] Bluberry108 said: yep
+Bluberry108: yep
+playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: Terracord: [06/28/2021 20:30:29 -05:00] [Info] Chookagong = pro said: im literally up here waiting
+Chookagong = pro: im literally up here waiting
+playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: Terracord: [06/28/2021 20:30:36 -05:00] [Info] Bluberry108 said: for us to die
+Bluberry108: for us to die
+playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: Terracord: [06/28/2021 20:30:41 -05:00] [Info] Bluberry108 said: and fall for it
+Bluberry108: and fall for it
+playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: Terracord: [06/28/2021 20:30:59 -05:00] [Info] Chookagong = pro said: just walk here then
+Chookagong = pro: just walk here then
+playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: Terracord: [06/28/2021 20:31:57 -05:00] [Info] Chookagong = pro said: gtg
+Chookagong = pro: gtg
+playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: Terracord: [06/28/2021 20:32:04 -05:00] [Info] e said: die from fall dmg
+e: die from fall dmg
+playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: plTerracord: [06/28/2021 20:32:09 -05:00] [Info] e said: so we can get your stuff
+e: so we can get your stuff
+aying
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ARGH, e, Chookagong = pro, Bluberry108
+: playingTerracord: [06/28/2021 20:32:24 -05:00] [Info] **:red_circle: Chookagong = pro has left the server.**
+Chookagong = pro has left.
+
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: Terracord: [06/28/2021 20:32:28 -05:00] [Info] Bluberry108 said: ok
+Bluberry108: ok
+playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playinTerracord: [06/28/2021 20:32:46 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+g
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playTerracord: [06/28/2021 20:32:48 -05:00] [Info] Server broadcast: Screams echo around you...
+ing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: Terracord: [06/28/2021 20:32:51 -05:00] [Info] e said: finally
+e: finally
+playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playingTerracord: [06/28/2021 20:32:57 -05:00] [Info] e said: wondering why it took you guys so long lol
+e: wondering why it took you guys so long lol
+
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: Terracord: [06/28/2021 20:32:59 -05:00] [Info] Bluberry108 said: oh god
+Bluberry108: oh god
+playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ARGH, e, Bluberry108
+: 67.169.170.162:52541 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Bluberry108 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 20:33:29 -05:00] [Info] **:red_circle: Bluberry108 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playTerracord: [06/28/2021 20:34:00 -05:00] [Info] <Bluberry108@Discord> noooooo I was doing so good the railway led to lava
+<Bluberry108@Discord> noooooo I was doing so good the railway led to lava
+ing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: e executed: /who.
+pTerracord: [06/28/2021 20:34:07 -05:00] [Info] e said: o
+e: o
+laying
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: Terracord: [06/28/2021 20:34:08 -05:00] [Info] e said: 1v1
+e: 1v1
+playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: Terracord: [06/28/2021 20:34:15 -05:00] [Info] Server broadcast: Eater of Worlds has awoken!
+playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: playing
+Server executed: /playing.
+Online Players (2/69)
+ARGH, e
+: 70.137.105.70:65285 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked e for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 20:34:32 -05:00] [Info] **:red_circle: e has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (1/69)
+ARGH
+:  

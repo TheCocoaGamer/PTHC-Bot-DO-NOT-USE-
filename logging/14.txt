@@ -1,0 +1,92 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7777
+Type 'help' for a list of commands.
+
+: grace begin 18m
+Server executed: /grace begin 18m.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 244501248861011968
+Account removed successfully.
+Server successfully deleted account: 244501248861011968.
+: user add 244501248861011968 3mdc default
+Server started
+Account 244501248861011968 has been added to group default!
+Server added Account 244501248861011968 to group default
+: user del 145527890832785408
+Account removed successfully.
+Server successfully deleted account: 145527890832785408.
+: user add 145527890832785408 bzsx default
+Account 145527890832785408 has been added to group default!
+Server added Account 145527890832785408 to group default
+: user del 414496759809572876
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '414496759809572876' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 414496759809572876 cjy3 default
+Account 414496759809572876 has been added to group default!
+Server added Account 414496759809572876 to group default
+: user del 602549842367217665
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '602549842367217665' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 602549842367217665 o8wz default
+Account 602549842367217665 has been added to group default!
+Server added Account 602549842367217665 to group default
+: user del 705857573101895700
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '705857573101895700' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 705857573101895700 wtyg default
+Account 705857573101895700 has been added to group default!
+Server added Account 705857573101895700 to group default
+: 184.148.234.191:62528 is connecting...
+draco bbut wont die has joined.
+draco bbut wont die authenticated successfully as user: 705857573101895700.
+draco bbut wont die: im alone wat
+46.39.45.139:53044 is connecting...
+heroy_105 has joined.
+heroy_105 authenticated successfully as user: 244501248861011968.
+heroy_105: ohno
+draco bbut wont die: how tf
+draco bbut wont die: this is bs
+draco bbut wont die: why arent the explosive traps gone
+heroy_105: cus it's pthc
+draco bbut wont die: right...
+draco bbut wont die has left.
+184.148.234.191:62581 is connecting...
+draco b ut wont die has joined.
+draco b ut wont die authenticated successfully as user: 705857573101895700.
+draco b ut wont die has left.
+188.127.170.93:54455 is connecting...
+Alaso2 has joined.
+Alaso2 has left.
+188.127.170.93:54473 is connecting...
+Alaso2 has joined.
+Alaso2 tried to execute /register.
+Alaso2 tried to execute /register .
+Alaso2: how do I join?
+Alaso2 executed: /playing.
+heroy_105: bot should send you a message about that in dms
+Alaso2: I dont have any dms from the bot
+Alaso2 tried to execute /register alaso.
+The grace period has ended.
+You are now at the mercy of yourself and others.
+Alaso2 has left.
+playing
+Server executed: /playing.
+Online Players (1/69)
+heroy_105
+:

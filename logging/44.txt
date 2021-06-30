@@ -1,0 +1,1961 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7777
+Type 'help' for a list of commands.
+
+Terracord: [06/25/2021 05:51:39 -05:00] [Info] Connecting to Discord...
+Terracord: [06/25/2021 05:51:39 -05:00] [Info] 05:51:39 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/25/2021 05:51:40 -05:00] [Info] 05:51:40 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 60m
+Server executed: /grace begin 60m.
+Terracord: [06/25/2021 05:51:40 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 644380837625724959
+Server started
+Account removed successfully.
+Server successfully deleted account: 644380837625724959.
+: user add 644380837625724959 zohk default
+Account 644380837625724959 has been added to group default!
+Server added Account 644380837625724959 to group default
+: user del 753949752843829249
+Account removed successfully.
+Server successfully deleted account: 753949752843829249.
+: user add 753949752843829249 1eyk default
+Account 753949752843829249 has been added to group default!
+Server added Account 753949752843829249 to group default
+: user del 655342932341293066
+Account removed successfully.
+Server successfully deleted account: 655342932341293066.
+: user add 655342932341293066 utbq default
+Account 655342932341293066 has been added to group default!
+Server added Account 655342932341293066 to group default
+: user del 554700515506782208
+Account removed successfully.
+Server successfully deleted account: 554700515506782208.
+: user add 554700515506782208 vycm default
+Account 554700515506782208 has been added to group default!
+Server added Account 554700515506782208 to group default
+: user del 433707057200496660
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '433707057200496660' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 433707057200496660 m6qb default
+Account 433707057200496660 has been added to group default!
+Server added Account 433707057200496660 to group default
+: Terracord: [06/25/2021 05:51:40 -05:00] [Info] 05:51:40 Gateway     Connected
+Terracord: [06/25/2021 05:51:41 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/25/2021 05:51:41 -05:00] [Info] 05:51:41 Gateway     Ready
+49.145.78.200:21595 is connecting...
+Terracord: [06/25/2021 05:51:43 -05:00] [Info] **:green_circle: Potato has joined the server.**
+213.230.113.244:24503 is connecting...
+177.10.71.118:59814 is connecting...
+84.126.155.112:63655 is connecting...
+Terracord: [06/25/2021 05:51:44 -05:00] [Info] **:green_circle: AlvarGD has joined the server.**
+Potato has joined.
+Terracord: [06/25/2021 05:51:45 -05:00] [Info] **:green_circle: Nahnio has joined the server.**
+Terracord: [06/25/2021 05:51:45 -05:00] [Info] **:green_circle: YoMamaIsARAZOAN has joined the server.**
+AlvarGD has joined.
+Nahnio has joined.
+YoMamaIsARAZOAN has joined.
+AlvarGD authenticated successfully as user: 655342932341293066.
+YoMamaIsARAZOAN authenticated successfully as user: 644380837625724959.
+Nahnio authenticated successfully as user: 433707057200496660.
+Terracord: [06/25/2021 05:51:59 -05:00] [Info] AlvarGD said: afmjksfvñdlgbhnañogbnlñkgjnfzglbhkjnhglkrgnjzgbns.hgjnsrfjgkngñllkertnghñljngkjnhgñanhgñakljgnañlhjnañtlhgkjnaelhñg´
+AlvarGD: afmjksfvñdlgbhnañogbnlñkgjnfzglbhkjnhglkrgnjzgbns.hgjnsrfjgkngñllkertnghñljngkjnhgñanhgñakljgnañlhjnañtlhgkjnaelhñg´
+Potato authenticated successfully as user: 753949752843829249.
+88.117.193.238:27954 is connecting...
+Terracord: [06/25/2021 05:52:12 -05:00] [Info] **:green_circle: Felixx has joined the server.**
+Felixx has joined.
+Felixx authenticated successfully as user: 554700515506782208.
+84.126.155.112:63655 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked AlvarGD for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 05:53:16 -05:00] [Info] **:red_circle: AlvarGD has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+84.126.155.112:63675 is connecting...
+Terracord: [06/25/2021 05:53:55 -05:00] [Info] **:green_circle: AlvarGD2 has joined the server.**
+AlvarGD2 has joined.
+Terracord: [06/25/2021 05:54:11 -05:00] [Info] Nahnio said: AAAAAAAAAAAA
+Nahnio: AAAAAAAAAAAA
+AlvarGD2 authenticated successfully as user: 655342932341293066.
+177.10.71.118:59814 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Nahnio for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 05:54:47 -05:00] [Info] **:red_circle: Nahnio has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 05:55:27 -05:00] [Info] AlvarGD2 said: gold portal 5 gold hmm
+AlvarGD2: gold portal 5 gold hmm
+Terracord: [06/25/2021 05:55:59 -05:00] [Info] AlvarGD2 said: im gonna unironically fish
+AlvarGD2: im gonna unironically fish
+user del 433707057200496660
+Account removed successfully.
+Server successfully deleted account: 433707057200496660.
+: user add 433707057200496660 e13e default
+Account 433707057200496660 has been added to group default!
+Server added Account 433707057200496660 to group default
+: 177.10.71.118:59484 is connecting...
+Terracord: [06/25/2021 05:57:12 -05:00] [Info] **:green_circle: Nahnio has joined the server.**
+Nahnio has joined.
+Nahnio authenticated successfully as user: 433707057200496660.
+49.145.78.200:21595 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Potato for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 05:57:39 -05:00] [Info] **:red_circle: Potato has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+49.145.78.200:21656 is connecting...
+Terracord: [06/25/2021 05:58:04 -05:00] [Info] **:green_circle: Potato has joined the server.**
+Potato has joined.
+Potato authenticated successfully as user: 753949752843829249.
+Terracord: [06/25/2021 05:58:37 -05:00] [Info] Potato said: what
+Potato: what
+Terracord: [06/25/2021 05:58:41 -05:00] [Info] Potato said: 2 living tree wands in a row
+Potato: 2 living tree wands in a row
+Terracord: [06/25/2021 05:58:48 -05:00] [Info] Nahnio said: gib 1 plz
+Nahnio: gib 1 plz
+Terracord: [06/25/2021 05:58:53 -05:00] [Info] YoMamaIsARAZOAN said: noooo
+YoMamaIsARAZOAN: noooo
+Terracord: [06/25/2021 05:58:54 -05:00] [Info] AlvarGD2 said: THEY HAVE A 1/333 CHANCE OF DROPPING
+AlvarGD2: THEY HAVE A 1/333 CHANCE OF DROPPING
+Terracord: [06/25/2021 05:58:55 -05:00] [Info] Potato said: i used up all my luck
+Potato: i used up all my luck
+Terracord: [06/25/2021 05:59:03 -05:00] [Info] Potato said: sad
+Potato: sad
+Terracord: [06/25/2021 05:59:21 -05:00] [Info] Potato said:  i will take these 2 wands to victory
+Potato:  i will take these 2 wands to victory
+213.230.113.244:24503 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked YoMamaIsARAZOAN for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 06:00:46 -05:00] [Info] **:red_circle: YoMamaIsARAZOAN has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+213.230.113.244:40878 is connecting...
+Terracord: [06/25/2021 06:01:00 -05:00] [Info] **:green_circle: Arazoan has joined the server.**
+Arazoan has joined.
+Arazoan authenticated successfully as user: 644380837625724959.
+Terracord: [06/25/2021 06:01:20 -05:00] [Info] Nahnio said: hey there potato
+Nahnio: hey there potato
+Terracord: [06/25/2021 06:01:24 -05:00] [Info] Potato said: helloo
+Potato: helloo
+Terracord: [06/25/2021 06:01:25 -05:00] [Info] Nahnio said: i see you up there
+Nahnio: i see you up there
+Terracord: [06/25/2021 06:01:27 -05:00] [Info] Arazoan said: i hate my luck
+Arazoan: i hate my luck
+Terracord: [06/25/2021 06:01:32 -05:00] [Info] Potato said: you hate your luck?
+Potato: you hate your luck?
+Terracord: [06/25/2021 06:01:36 -05:00] [Info] Nahnio said: idk
+Nahnio: idk
+Terracord: [06/25/2021 06:01:37 -05:00] [Info] Potato said: i used all my luck
+Potato: i used all my luck
+Terracord: [06/25/2021 06:01:55 -05:00] [Info] Nahnio said: HELP
+Nahnio: HELP
+Terracord: [06/25/2021 06:01:56 -05:00] [Info] AlvarGD2 said: merchant is coming
+AlvarGD2: merchant is coming
+Terracord: [06/25/2021 06:01:57 -05:00] [Info] Nahnio said: THERE IS WORM
+Nahnio: THERE IS WORM
+Terracord: [06/25/2021 06:02:04 -05:00] [Info] Nahnio said: WORM COMING MY WAY
+Nahnio: WORM COMING MY WAY
+Terracord: [06/25/2021 06:02:05 -05:00] [Info] Potato said: good luck nah
+Potato: good luck nah
+Terracord: [06/25/2021 06:02:06 -05:00] [Info] AlvarGD2 said: this is vanilly
+AlvarGD2: this is vanilly
+Terracord: [06/25/2021 06:02:12 -05:00] [Info] **:red_circle: Nahnio has left the server.**
+Nahnio has left.
+Terracord: [06/25/2021 06:02:13 -05:00] [Info] Arazoan said: is this teaming&?
+Arazoan: is this teaming&?
+177.10.71.118:59312 is connecting...
+Terracord: [06/25/2021 06:02:16 -05:00] [Info] **:green_circle: Nahnio has joined the server.**
+Nahnio has joined.
+Terracord: [06/25/2021 06:02:18 -05:00] [Info] AlvarGD2 said: no
+AlvarGD2: no
+Terracord: [06/25/2021 06:02:20 -05:00] [Info] Nahnio said: HEY
+Nahnio: HEY
+Nahnio authenticated successfully as user: 433707057200496660.
+Terracord: [06/25/2021 06:02:26 -05:00] [Info] Server broadcast: Isaac the Merchant has arrived!
+Terracord: [06/25/2021 06:02:28 -05:00] [Info] Potato said: AHH
+Potato: AHH
+Terracord: [06/25/2021 06:02:28 -05:00] [Info] Nahnio said: could have helped meh :(
+Nahnio: could have helped meh :(
+Terracord: [06/25/2021 06:02:29 -05:00] [Info] Potato said: WORM
+Potato: WORM
+Terracord: [06/25/2021 06:02:32 -05:00] [Info] Potato said: AHH
+Potato: AHH
+49.145.78.200:21656 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Potato for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 06:02:33 -05:00] [Info] **:red_circle: Potato has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 06:02:35 -05:00] [Info] Arazoan said: ISAAC?
+Arazoan: ISAAC?
+Terracord: [06/25/2021 06:02:36 -05:00] [Info] Nahnio said: YEA
+Nahnio: YEA
+Terracord: [06/25/2021 06:02:38 -05:00] [Info] Nahnio said: DEAL WITH IT
+Nahnio: DEAL WITH IT
+Terracord: [06/25/2021 06:02:46 -05:00] [Info] Arazoan said: NO WAY
+Arazoan: NO WAY
+49.145.78.200:21714 is connecting...
+Terracord: [06/25/2021 06:02:58 -05:00] [Info] **:green_circle: Potato has joined the server.**
+Potato has joined.
+Potato authenticated successfully as user: 753949752843829249.
+Terracord: [06/25/2021 06:03:09 -05:00] [Info] Potato said: there goes my tree wands
+Potato: there goes my tree wands
+Terracord: [06/25/2021 06:03:19 -05:00] [Info] Nahnio said: did you die?
+Nahnio: did you die?
+Terracord: [06/25/2021 06:03:22 -05:00] [Info] Potato said: worm
+Potato: worm
+Terracord: [06/25/2021 06:03:29 -05:00] [Info] Nahnio said: just rejoin lol
+Nahnio: just rejoin lol
+Terracord: [06/25/2021 06:04:00 -05:00] [Info] **:red_circle: Arazoan has left the server.**
+Arazoan has left.
+213.230.113.244:47527 is connecting...
+Terracord: [06/25/2021 06:04:10 -05:00] [Info] **:green_circle: Arazoan has joined the server.**
+Arazoan has joined.
+86.108.18.46:6605 is connecting...
+Terracord: [06/25/2021 06:04:21 -05:00] [Info] **:green_circle: Tasooki has joined the server.**
+Tasooki has joined.
+Arazoan authenticated successfully as user: 644380837625724959.
+84.126.155.112:63675 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked AlvarGD2 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 06:04:34 -05:00] [Info] **:red_circle: AlvarGD2 has left the server.**
+Terracord: [06/25/2021 06:04:34 -05:00] [Info] Server broadcast: AlvarGD2 had their head removed by Zombie.
+Terracord: [06/25/2021 06:04:42 -05:00] [Info] Potato said: pls
+Potato: pls
+Terracord: [06/25/2021 06:04:45 -05:00] [Info] Potato said: i need a golden chest
+Potato: i need a golden chest
+Terracord: [06/25/2021 06:04:48 -05:00] [Info] Potato said: rng help me
+Potato: rng help me
+Terracord: [06/25/2021 06:04:49 -05:00] [Info] <Medo@Discord> Cope
+<Medo@Discord> Cope
+Terracord: [06/25/2021 06:04:58 -05:00] [Info] **:red_circle: Nahnio has left the server.**
+Nahnio has left.
+177.10.71.118:59159 is connecting...
+Terracord: [06/25/2021 06:05:02 -05:00] [Info] **:green_circle: Nahnio has joined the server.**
+Nahnio has joined.
+Terracord: [06/25/2021 06:05:07 -05:00] [Info] Nahnio said: i found a gold chest
+Nahnio: i found a gold chest
+Terracord: [06/25/2021 06:05:07 -05:00] [Info] <Medo@Discord> I couldn't resist
+<Medo@Discord> I couldn't resist
+Nahnio authenticated successfully as user: 433707057200496660.
+Terracord: [06/25/2021 06:05:16 -05:00] [Info] Tasooki said: do i jsut have to /login my discord ign?
+Tasooki: do i jsut have to /login my discord ign?
+user del 655342932341293066
+Account removed successfully.
+Server successfully deleted account: 655342932341293066.
+: user add 655342932341293066 gx7l default
+Account 655342932341293066 has been added to group default!
+Server added Account 655342932341293066 to group default
+: Terracord: [06/25/2021 06:05:37 -05:00] [Info] Potato said: the thingy that pthc bot gave
+Potato: the thingy that pthc bot gave
+Terracord: [06/25/2021 06:05:39 -05:00] [Info] Tasooki said: im confused
+Tasooki: im confused
+Terracord: [06/25/2021 06:05:39 -05:00] [Info] Potato said: type it in
+Potato: type it in
+84.126.155.112:63693 is connecting...
+Terracord: [06/25/2021 06:05:45 -05:00] [Info] **:green_circle: AlvarGD3 has joined the server.**
+Terracord: [06/25/2021 06:05:47 -05:00] [Info] Potato said: copy paste it*
+Potato: copy paste it*
+AlvarGD3 has joined.
+user del 628134932455227403
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '628134932455227403' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 628134932455227403 lzja default
+Account 628134932455227403 has been added to group default!
+Server added Account 628134932455227403 to group default
+: user del 628134932455227403
+Account removed successfully.
+Server successfully deleted account: 628134932455227403.
+: user add 628134932455227403 a4ky default
+Account 628134932455227403 has been added to group default!
+Server added Account 628134932455227403 to group default
+: Terracord: [06/25/2021 06:05:57 -05:00] [Info] Nahnio said: OH WHY
+Nahnio: OH WHY
+AlvarGD3 authenticated successfully as user: 655342932341293066.
+5.29.9.179:1055 is connecting...
+Terracord: [06/25/2021 06:06:19 -05:00] [Info] **:green_circle: just for thc has joined the server.**
+just for thc has joined.
+213.230.113.244:47527 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Arazoan for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 06:06:30 -05:00] [Info] **:red_circle: Arazoan has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+just for thc tried to execute /register.
+Terracord: [06/25/2021 06:06:32 -05:00] [Info] Tasooki said: what part of it
+Tasooki: what part of it
+84.126.155.112:63693 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked AlvarGD3 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 06:06:33 -05:00] [Info] **:red_circle: AlvarGD3 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 06:06:33 -05:00] [Info] Tasooki said: lmao
+Tasooki: lmao
+Terracord: [06/25/2021 06:06:36 -05:00] [Info] Tasooki said: m confused
+Tasooki: m confused
+213.230.113.244:65346 is connecting...
+213.230.113.244:65346 was booted: Kicked: You need to join with a hardcore player.
+Kicked  for : 'You need to join with a hardcore player.'
+Terracord: [06/25/2021 06:06:38 -05:00] [Info] just for thc said: ./register imblue
+just for thc: ./register imblue
+Potato tried to execute /register a.
+Terracord: [06/25/2021 06:06:58 -05:00] [Info] Potato said: check your dm
+Potato: check your dm
+213.230.113.244:23305 is connecting...
+Terracord: [06/25/2021 06:07:07 -05:00] [Info] **:green_circle: Arazoan has joined the server.**
+Terracord: [06/25/2021 06:07:09 -05:00] [Info] Tasooki said: didnt get one
+Tasooki: didnt get one
+Terracord: [06/25/2021 06:07:09 -05:00] [Info] Potato said: there is a bot that should've replied to you
+Potato: there is a bot that should've replied to you
+just for thc authenticated successfully as user: 628134932455227403.
+Terracord: [06/25/2021 06:07:14 -05:00] [Info] just for thc said: thx
+just for thc: thx
+Arazoan has joined.
+Terracord: [06/25/2021 06:07:25 -05:00] [Info] **:red_circle: Tasooki has left the server.**
+Tasooki has left.
+user del 602791685285740545
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '602791685285740545' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 602791685285740545 hopl default
+Account 602791685285740545 has been added to group default!
+Server added Account 602791685285740545 to group default
+: Terracord: [06/25/2021 06:07:52 -05:00] [Info] Potato said: come on game
+Potato: come on game
+Terracord: [06/25/2021 06:07:56 -05:00] [Info] Potato said: no abandoned houses?
+Potato: no abandoned houses?
+Terracord: [06/25/2021 06:08:14 -05:00] [Info] Arazoan said: thanks
+Arazoan: thanks
+86.108.18.46:33920 is connecting...
+Terracord: [06/25/2021 06:08:16 -05:00] [Info] **:green_circle: Tasooki has joined the server.**
+Tasooki has joined.
+Arazoan authenticated successfully as user: 644380837625724959.
+Tasooki tried to execute /register tasooki.
+Terracord: [06/25/2021 06:09:17 -05:00] [Info] Tasooki said: im putting in the  command it gave me
+Tasooki: im putting in the  command it gave me
+Terracord: [06/25/2021 06:09:19 -05:00] [Info] Tasooki said: this isnt workin
+Tasooki: this isnt workin
+Terracord: [06/25/2021 06:09:20 -05:00] [Info] Tasooki said: bru
+Tasooki: bru
+5.29.9.179:1055 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked just for thc for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 06:09:25 -05:00] [Info] **:red_circle: just for thc has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+user deTerracord: [06/25/2021 06:09:26 -05:00] [Info] Potato said: what does it say
+Potato: what does it say
+l 602791685285740545
+Account removed successfully.
+Server successfully deleted account: 602791685285740545.
+: user add 602791685285740545 rm1v default
+Account 602791685285740545 has been added to group default!
+Server added Account 602791685285740545 to group default
+: 213.230.113.244:23305 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Arazoan for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 06:09:33 -05:00] [Info] **:red_circle: Arazoan has left the server.**
+Terracord: [06/25/2021 06:09:33 -05:00] [Info] Server broadcast: Arazoan was destroyed by Demon Eye.
+Tasooki authenticated successfully as user: 602791685285740545.
+Terracord: [06/25/2021 06:09:44 -05:00] [Info] Tasooki said: alright nvm i didnt put the 4 letters at the end
+Tasooki: alright nvm i didnt put the 4 letters at the end
+Terracord: [06/25/2021 06:09:46 -05:00] [Info] Tasooki said: my bad
+Tasooki: my bad
+213.230.113.244:3864 is connecting...
+213.230.113.244:3864 was booted: Kicked: You need to join with a hardcore player.
+Kicked  for : 'You need to join with a hardcore player.'
+Terracord: [06/25/2021 06:09:50 -05:00] [Info] Potato said: .-.
+Potato: .-.
+5.29.9.179:1028 is connecting...
+Terracord: [06/25/2021 06:09:56 -05:00] [Info] **:green_circle: just for thc has joined the server.**
+just for thc has joined.
+213.230.113.244:46818 is connecting...
+Terracord: [06/25/2021 06:10:13 -05:00] [Info] **:green_circle: YourMama has joined the server.**
+YourMama has joined.
+just for thc authenticated successfully as user: 628134932455227403.
+Terracord: [06/25/2021 06:10:31 -05:00] [Info] Potato said: oh boy
+Potato: oh boy
+Terracord: [06/25/2021 06:10:32 -05:00] [Info] Potato said: gold
+Potato: gold
+Terracord: [06/25/2021 06:10:38 -05:00] [Info] Potato said: wonder what i can use this for
+Potato: wonder what i can use this for
+Terracord: [06/25/2021 06:10:41 -05:00] [Info] Nahnio said: time to pop spelunker
+Nahnio: time to pop spelunker
+Terracord: [06/25/2021 06:10:55 -05:00] [Info] Tasooki said: oh boi looted living trees
+Tasooki: oh boi looted living trees
+Terracord: [06/25/2021 06:11:02 -05:00] [Info] Tasooki said: pog
+Tasooki: pog
+5.29.9.179:1028 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Terracord: [06/25/2021 06:11:15 -05:00] [Info] **:red_circle: just for thc has left the server.**
+Kicked just for thc for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 06:11:16 -05:00] [Info] YourMama said: HEEEELP
+YourMama: HEEEELP
+Terracord: [06/25/2021 06:11:21 -05:00] [Info] Nahnio said: no
+Nahnio: no
+Terracord: [06/25/2021 06:11:24 -05:00] [Info] Potato said: your mom
+Potato: your mom
+Terracord: [06/25/2021 06:11:29 -05:00] [Info] YourMama said: PLEASE
+YourMama: PLEASE
+5.29.9.179:1082 is connecting...
+Terracord: [06/25/2021 06:11:31 -05:00] [Info] **:green_circle: just for thc has joined the server.**
+just for thc has joined.
+Terracord: [06/25/2021 06:11:34 -05:00] [Info] Nahnio said: OH
+Nahnio: OH
+Terracord: [06/25/2021 06:11:35 -05:00] [Info] Tasooki said: this isnt a team game
+Tasooki: this isnt a team game
+just for thc authenticated successfully as user: 628134932455227403.
+Terracord: [06/25/2021 06:11:39 -05:00] [Info] Tasooki said: smh
+Tasooki: smh
+Terracord: [06/25/2021 06:11:40 -05:00] [Info] Nahnio said: I FOUND  YOUR PLACE OF DEATH POTATO
+Nahnio: I FOUND  YOUR PLACE OF DEATH POTATO
+Terracord: [06/25/2021 06:11:44 -05:00] [Info] YourMama said: PLEASE
+YourMama: PLEASE
+Terracord: [06/25/2021 06:11:50 -05:00] [Info] Potato said: my place o what now
+Potato: my place o what now
+Terracord: [06/25/2021 06:11:54 -05:00] [Info] YourMama said: im lagging
+YourMama: im lagging
+Terracord: [06/25/2021 06:12:00 -05:00] [Info] Potato said: NO YOU TOOK MY WANDS
+Potato: NO YOU TOOK MY WANDS
+Terracord: [06/25/2021 06:12:02 -05:00] [Info] Nahnio said: I WANT TO GIVE YOU YOUR LIVING WOOD WANDS
+Nahnio: I WANT TO GIVE YOU YOUR LIVING WOOD WANDS
+Terracord: [06/25/2021 06:12:04 -05:00] [Info] Potato said: t
+Potato: t
+YourMama authenticated successfully as user: 644380837625724959.
+Terracord: [06/25/2021 06:12:19 -05:00] [Info] Tasooki said: i hear someone digging
+Tasooki: i hear someone digging
+Terracord: [06/25/2021 06:12:46 -05:00] [Info] YourMama said: OMG
+YourMama: OMG
+Terracord: [06/25/2021 06:12:47 -05:00] [Info] Tasooki said: get away boomer
+Tasooki: get away boomer
+Terracord: [06/25/2021 06:12:48 -05:00] [Info] just for thc said: hey
+just for thc: hey
+Terracord: [06/25/2021 06:12:55 -05:00] [Info] YourMama said: I GOT SOMETHING HOT
+YourMama: I GOT SOMETHING HOT
+Terracord: [06/25/2021 06:12:57 -05:00] [Info] Nahnio said: potato
+Nahnio: potato
+Terracord: [06/25/2021 06:12:58 -05:00] [Info] just for thc said: boomer?
+just for thc: boomer?
+Terracord: [06/25/2021 06:12:59 -05:00] [Info] Tasooki said: is it lava
+Tasooki: is it lava
+Terracord: [06/25/2021 06:12:59 -05:00] [Info] Nahnio said: im coming
+Nahnio: im coming
+Terracord: [06/25/2021 06:13:09 -05:00] [Info] just for thc said: do you even know what boomer means?
+just for thc: do you even know what boomer means?
+Terracord: [06/25/2021 06:13:12 -05:00] [Info] Tasooki said: yes
+Tasooki: yes
+Terracord: [06/25/2021 06:13:22 -05:00] [Info] just for thc said: so what do you think it is?
+just for thc: so what do you think it is?
+Terracord: [06/25/2021 06:13:27 -05:00] [Info] Potato said: oh hi
+Potato: oh hi
+Terracord: [06/25/2021 06:13:28 -05:00] [Info] Nahnio said: POTATO
+Nahnio: POTATO
+5.29.9.179:1082 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked just for thc for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 06:13:30 -05:00] [Info] **:red_circle: just for thc has left the server.**
+Terracord: [06/25/2021 06:13:30 -05:00] [Info] Server broadcast: just for thc didn't bounce.
+Terracord: [06/25/2021 06:13:33 -05:00] [Info] Potato said: thank you
+Potato: thank you
+Terracord: [06/25/2021 06:13:36 -05:00] [Info] Potato said: keep the other one
+Potato: keep the other one
+Terracord: [06/25/2021 06:13:38 -05:00] [Info] Nahnio said: can i keep 1?
+Nahnio: can i keep 1?
+Terracord: [06/25/2021 06:13:39 -05:00] [Info] Nahnio said: thx
+Nahnio: thx
+Terracord: [06/25/2021 06:13:42 -05:00] [Info] Tasooki said: people who were bornj
+Tasooki: people who were bornj
+86.108.18.46:33920 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Tasooki for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 06:13:45 -05:00] [Info] **:red_circle: Tasooki has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 06:13:49 -05:00] [Info] Potato said: aw man its looted
+Potato: aw man its looted
+5.29.9.179:1537 is connecting...
+Terracord: [06/25/2021 06:13:51 -05:00] [Info] **:green_circle: just for thc has joined the server.**
+just for thc has joined.
+Terracord: [06/25/2021 06:13:54 -05:00] [Info] Nahnio said: i looted it
+Nahnio: i looted it
+213.230.113.244:46818 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked YourMama for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 06:13:54 -05:00] [Info] **:red_circle: YourMama has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+just for thc authenticated successfully as user: 628134932455227403.
+Terracord: [06/25/2021 06:13:59 -05:00] [Info] Nahnio said: im a good guy
+Nahnio: im a good guy
+Terracord: [06/25/2021 06:13:59 -05:00] [Info] just for thc said: fucking hell
+just for thc: fucking hell
+Terracord: [06/25/2021 06:14:05 -05:00] [Info] Potato said: yay
+Potato: yay
+Terracord: [06/25/2021 06:14:12 -05:00] [Info] Potato said: praise you
+Potato: praise you
+213.230.113.244:44860 is connecting...
+Terracord: [06/25/2021 06:14:15 -05:00] [Info] **:green_circle: MAn has joined the server.**
+86.108.18.46:44444 is connecting...
+Terracord: [06/25/2021 06:14:18 -05:00] [Info] **:green_circle: Tasooki has joined the server.**
+Tasooki has joined.
+MAn has joined.
+Tasooki authenticated successfully as user: 602791685285740545.
+MAn authenticated successfully as user: 644380837625724959.
+Terracord: [06/25/2021 06:15:21 -05:00] [Info] Tasooki said: and yes just for thc it means people who were  born between 1946 and 1964 im pretty sure
+Tasooki: and yes just for thc it means people who were  born between 1946 and 1964 im pretty sure
+Terracord: [06/25/2021 06:15:31 -05:00] [Info] just for thc said: close enough
+just for thc: close enough
+Terracord: [06/25/2021 06:16:06 -05:00] [Info] Felixx said: **[Legendary Platinum Pickaxe]**
+Felixx: [Legendary Platinum Pickaxe]
+Terracord: [06/25/2021 06:16:12 -05:00] [Info] Tasooki said: bru
+Tasooki: bru
+Terracord: [06/25/2021 06:16:17 -05:00] [Info] Potato said: woah how did u do that
+Potato: woah how did u do that
+Terracord: [06/25/2021 06:16:30 -05:00] [Info] just for thc said: i got a spelunker potion from a slime
+just for thc: i got a spelunker potion from a slime
+Terracord: [06/25/2021 06:16:34 -05:00] [Info] just for thc said: a gift from the gods
+just for thc: a gift from the gods
+Terracord: [06/25/2021 06:17:22 -05:00] [Info] MAn said: i got 3 wands
+MAn: i got 3 wands
+Terracord: [06/25/2021 06:17:22 -05:00] [Info] Tasooki said: is killing someone with lava or traps before grace bannable
+Tasooki: is killing someone with lava or traps before grace bannable
+Terracord: [06/25/2021 06:17:35 -05:00] [Info] just for thc said: yeah
+just for thc: yeah
+Terracord: [06/25/2021 06:17:39 -05:00] [Info] Tasooki said: SAD
+Tasooki: SAD
+Terracord: [06/25/2021 06:17:41 -05:00] [Info] Tasooki said: caps
+Tasooki: caps
+Terracord: [06/25/2021 06:17:57 -05:00] [Info] Potato said: i cant see a thing
+Potato: i cant see a thing
+Terracord: [06/25/2021 06:18:01 -05:00] [Info] Potato said: i have no torches
+Potato: i have no torches
+Terracord: [06/25/2021 06:18:04 -05:00] [Info] Potato said: im so dead
+Potato: im so dead
+Terracord: [06/25/2021 06:18:08 -05:00] [Info] just for thc said: f
+just for thc: f
+Terracord: [06/25/2021 06:18:09 -05:00] [Info] Nahnio said: IM COMING TO SAVE YOU
+Nahnio: IM COMING TO SAVE YOU
+5.29.9.179:1537 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked just for thc for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 06:18:19 -05:00] [Info] **:red_circle: just for thc has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 06:18:23 -05:00] [Info] Potato said: A SLIME
+Potato: A SLIME
+Terracord: [06/25/2021 06:18:26 -05:00] [Info] Potato said: IM SAVED
+Potato: IM SAVED
+5.29.9.179:1548 is connecting...
+Terracord: [06/25/2021 06:18:37 -05:00] [Info] Nahnio said: disconnect and rejoin if you are about to die
+Nahnio: disconnect and rejoin if you are about to die
+Terracord: [06/25/2021 06:18:38 -05:00] [Info] **:green_circle: just for thc has joined the server.**
+just for thc has joined.
+Terracord: [06/25/2021 06:18:46 -05:00] [Info] Potato said: that slime saved me
+Potato: that slime saved me
+just for thc authenticated successfully as user: 628134932455227403.
+Terracord: [06/25/2021 06:19:08 -05:00] [Info] Tasooki said: this is normal mode right
+Tasooki: this is normal mode right
+Terracord: [06/25/2021 06:19:11 -05:00] [Info] just for thc said: yeah
+just for thc: yeah
+Terracord: [06/25/2021 06:19:13 -05:00] [Info] just for thc said: its a joke
+just for thc: its a joke
+Terracord: [06/25/2021 06:19:18 -05:00] [Info] Potato said: we would all be dead if it wasn't
+Potato: we would all be dead if it wasn't
+Terracord: [06/25/2021 06:19:19 -05:00] [Info] Tasooki said: ok good i can fight slimes
+Tasooki: ok good i can fight slimes
+Terracord: [06/25/2021 06:19:22 -05:00] [Info] just for thc said: im back from playing master mode for the worthy
+just for thc: im back from playing master mode for the worthy
+Terracord: [06/25/2021 06:19:30 -05:00] [Info] Potato said: what a chad
+Potato: what a chad
+Terracord: [06/25/2021 06:19:35 -05:00] [Info] just for thc said: wof is hard
+just for thc: wof is hard
+Terracord: [06/25/2021 06:20:57 -05:00] [Info] **:red_circle: Tasooki has left the server.**
+Tasooki has left.
+49.145.78.200:21714 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Potato for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 06:21:04 -05:00] [Info] **:red_circle: Potato has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+86.108.18.46:6458 is connecting...
+Terracord: [06/25/2021 06:21:06 -05:00] [Info] **:green_circle: Tasooki has joined the server.**
+Tasooki has joined.
+Tasooki tried to execute /register tasooki.
+49.145.78.200:21814 is connecting...
+Terracord: [06/25/2021 06:21:26 -05:00] [Info] **:green_circle: Potato has joined the server.**
+Potato has joined.
+Terracord: [06/25/2021 06:21:28 -05:00] [Info] Tasooki said: i left
+Tasooki: i left
+Potato authenticated successfully as user: 753949752843829249.
+Terracord: [06/25/2021 06:21:31 -05:00] [Info] Tasooki said: how do i get my items back
+Tasooki: how do i get my items back
+Terracord: [06/25/2021 06:21:32 -05:00] [Info] Potato said: ;-;
+Potato: ;-;
+Terracord: [06/25/2021 06:21:39 -05:00] [Info] Tasooki said: you lose your items when you leave?
+Tasooki: you lose your items when you leave?
+Terracord: [06/25/2021 06:21:43 -05:00] [Info] just for thc said: yeah
+just for thc: yeah
+Terracord: [06/25/2021 06:21:50 -05:00] [Info] Tasooki said: nvm
+Tasooki: nvm
+Tasooki authenticated successfully as user: 602791685285740545.
+Terracord: [06/25/2021 06:21:54 -05:00] [Info] Tasooki said: ;-;
+Tasooki: ;-;
+Terracord: [06/25/2021 06:22:16 -05:00] [Info] just for thc said: whoever has a nights edge
+just for thc: whoever has a nights edge
+Terracord: [06/25/2021 06:22:20 -05:00] [Info] just for thc said: pls spare me
+just for thc: pls spare me
+Terracord: [06/25/2021 06:22:27 -05:00] [Info] Tasooki said: i dont think anybody does 'yet'
+Tasooki: i dont think anybody does 'yet'
+Terracord: [06/25/2021 06:22:29 -05:00] [Info] Potato said: i don't even have a wooden sword
+Potato: i don't even have a wooden sword
+Terracord: [06/25/2021 06:22:37 -05:00] [Info] Nahnio said: i have a plat bow
+Nahnio: i have a plat bow
+Terracord: [06/25/2021 06:22:45 -05:00] [Info] Tasooki said: LEAF WAND
+Tasooki: LEAF WAND
+Terracord: [06/25/2021 06:22:46 -05:00] [Info] Tasooki said: LESGO
+Tasooki: LESGO
+Terracord: [06/25/2021 06:22:52 -05:00] [Info] just for thc said: eyyyy
+just for thc: eyyyy
+Terracord: [06/25/2021 06:22:54 -05:00] [Info] just for thc said: gg
+just for thc: gg
+Terracord: [06/25/2021 06:22:55 -05:00] [Info] MAn said: lol
+MAn: lol
+Terracord: [06/25/2021 06:23:02 -05:00] [Info] MAn said: i have 3 wands
+MAn: i have 3 wands
+Terracord: [06/25/2021 06:23:14 -05:00] [Info] Tasooki said: **[Goldfish Kite]**
+Tasooki: [Goldfish Kite]
+Terracord: [06/25/2021 06:23:15 -05:00] [Info] Tasooki said: o:
+Tasooki: o:
+Terracord: [06/25/2021 06:23:18 -05:00] [Info] Tasooki said: from slime
+Tasooki: from slime
+Terracord: [06/25/2021 06:23:19 -05:00] [Info] just for thc said: pog
+just for thc: pog
+Terracord: [06/25/2021 06:23:22 -05:00] [Info] Potato said: how do you show your items
+Potato: how do you show your items
+Terracord: [06/25/2021 06:23:27 -05:00] [Info] MAn said: POG
+MAn: POG
+Terracord: [06/25/2021 06:23:28 -05:00] [Info] just for thc said: yeah how do you
+just for thc: yeah how do you
+Terracord: [06/25/2021 06:23:31 -05:00] [Info] Tasooki said: open chat nad your inventory and alt an item
+Tasooki: open chat nad your inventory and alt an item
+Terracord: [06/25/2021 06:23:34 -05:00] [Info] Tasooki said: and
+Tasooki: and
+Terracord: [06/25/2021 06:23:47 -05:00] [Info] Tasooki said: **[Garden Gnome]**UH-
+Tasooki: [Garden Gnome]UH-
+Terracord: [06/25/2021 06:23:51 -05:00] [Info] Tasooki said: my luck
+Tasooki: my luck
+Terracord: [06/25/2021 06:23:53 -05:00] [Info] Tasooki said: is insane
+Tasooki: is insane
+Terracord: [06/25/2021 06:24:00 -05:00] [Info] just for thc said: **[Spelunker Potion]** **[Spelunker Potion]**
+just for thc: [Spelunker Potion][Spelunker Potion]
+Terracord: [06/25/2021 06:24:02 -05:00] [Info] Tasooki said: nvm
+Tasooki: nvm
+Terracord: [06/25/2021 06:24:04 -05:00] [Info] **:red_circle: Nahnio has left the server.**
+Nahnio has left.
+177.10.71.118:59524 is connecting...
+Terracord: [06/25/2021 06:24:10 -05:00] [Info] **:green_circle: Nahnio has joined the server.**
+Nahnio has joined.
+Terracord: [06/25/2021 06:24:15 -05:00] [Info] Nahnio said: WAIT WHAT
+Nahnio: WAIT WHAT
+Nahnio authenticated successfully as user: 433707057200496660.
+Terracord: [06/25/2021 06:24:19 -05:00] [Info] Nahnio said: oh
+Nahnio: oh
+Terracord: [06/25/2021 06:24:29 -05:00] [Info] Tasooki said: **[Frenzying Iron Bow]**
+Tasooki: [Frenzying Iron Bow]
+Terracord: [06/25/2021 06:24:29 -05:00] [Info] Potato said: alt?
+Potato: alt?
+Terracord: [06/25/2021 06:24:32 -05:00] [Info] Tasooki said: frenzying
+Tasooki: frenzying
+Terracord: [06/25/2021 06:24:33 -05:00] [Info] Tasooki said: boo
+Tasooki: boo
+Terracord: [06/25/2021 06:24:48 -05:00] [Info] Felixx said: do you have to call when you spawn a boss?
+Felixx: do you have to call when you spawn a boss?
+Terracord: [06/25/2021 06:24:59 -05:00] [Info] just for thc said: ni
+just for thc: ni
+Terracord: [06/25/2021 06:25:00 -05:00] [Info] just for thc said: no
+just for thc: no
+Terracord: [06/25/2021 06:25:09 -05:00] [Info] Potato said: how to show items again
+Potato: how to show items again
+Terracord: [06/25/2021 06:25:15 -05:00] [Info] just for thc said: im gonna use an enchanted suicidal when someone summons skeletron
+just for thc: im gonna use an enchanted suicidal when someone summons skeletron
+Terracord: [06/25/2021 06:25:17 -05:00] [Info] Tasooki said: open inventory open chat and alt
+Tasooki: open inventory open chat and alt
+Terracord: [06/25/2021 06:25:18 -05:00] [Info] Tasooki said: an item
+Tasooki: an item
+Terracord: [06/25/2021 06:25:38 -05:00] [Info] Tasooki said: i see you have the gold fish brain
+Tasooki: i see you have the gold fish brain
+49.145.78.200:21814 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Potato for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 06:25:48 -05:00] [Info] **:red_circle: Potato has left the server.**
+49.145.78.200:21814 was booted: Invalid operation at this state.
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 06:25:51 -05:00] [Info] Tasooki said: RAIN
+Tasooki: RAIN
+Terracord: [06/25/2021 06:25:53 -05:00] [Info] Tasooki said: NOO
+Tasooki: NOO
+Terracord: [06/25/2021 06:25:56 -05:00] [Info] just for thc said: rip
+just for thc: rip
+Terracord: [06/25/2021 06:26:13 -05:00] [Info] Tasooki said: thunder storm
+Tasooki: thunder storm
+49.145.78.200:21833 is connecting...
+Terracord: [06/25/2021 06:26:49 -05:00] [Info] **:green_circle: Potato has joined the server.**
+Potato has joined.
+Terracord: [06/25/2021 06:26:54 -05:00] [Info] Potato said: what happened
+Potato: what happened
+Potato authenticated successfully as user: 753949752843829249.
+Terracord: [06/25/2021 06:27:00 -05:00] [Info] Tasooki said: idk
+Tasooki: idk
+Terracord: [06/25/2021 06:27:34 -05:00] [Info] Potato said: go away
+Potato: go away
+Terracord: [06/25/2021 06:27:37 -05:00] [Info] Tasooki said: **[Warding Shackle]**
+Tasooki: [Warding Shackle]
+Terracord: [06/25/2021 06:27:38 -05:00] [Info] Tasooki said: YO
+Tasooki: YO
+Terracord: [06/25/2021 06:27:40 -05:00] [Info] Potato said: fsh please
+Potato: fsh please
+Terracord: [06/25/2021 06:27:40 -05:00] [Info] Tasooki said: 5 DEFENSE
+Tasooki: 5 DEFENSE
+Terracord: [06/25/2021 06:27:52 -05:00] [Info] MAn said: phew
+MAn: phew
+Terracord: [06/25/2021 06:28:14 -05:00] [Info] MAn said: i almost die
+MAn: i almost die
+Terracord: [06/25/2021 06:28:32 -05:00] [Info] Potato said: i so scared
+Potato: i so scared
+Terracord: [06/25/2021 06:28:52 -05:00] [Info] Tasooki said: I  got 6 defense and its normal mode
+Tasooki: I  got 6 defense and its normal mode
+Terracord: [06/25/2021 06:28:56 -05:00] [Info] Tasooki said: i am not that scared
+Tasooki: i am not that scared
+49.145.78.200:21833 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Potato for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 06:29:06 -05:00] [Info] **:red_circle: Potato has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 06:29:07 -05:00] [Info] just for thc said: 1 defense is enough in normal
+just for thc: 1 defense is enough in normal
+Terracord: [06/25/2021 06:29:13 -05:00] [Info] Tasooki said: 5 of my defense is from a warding shackle
+Tasooki: 5 of my defense is from a warding shackle
+Terracord: [06/25/2021 06:29:15 -05:00] [Info] Tasooki said: ;-;
+Tasooki: ;-;
+49.145.78.200:21840 is connecting...
+Terracord: [06/25/2021 06:29:24 -05:00] [Info] **:green_circle: Potato has joined the server.**
+Potato has joined.
+Terracord: [06/25/2021 06:29:32 -05:00] [Info] Potato said: sniff
+Potato: sniff
+Potato authenticated successfully as user: 753949752843829249.
+Terracord: [06/25/2021 06:29:38 -05:00] [Info] Tasooki said: leaving and rejoining is best recall potion
+Tasooki: leaving and rejoining is best recall potion
+Terracord: [06/25/2021 06:30:13 -05:00] [Info] Potato said: AHHH
+Potato: AHHH
+Terracord: [06/25/2021 06:30:33 -05:00] [Info] Potato said: this sucks i hate everything sad :(
+Potato: this sucks i hate everything sad :(
+Terracord: [06/25/2021 06:30:35 -05:00] [Info] MAn said: SO MANY LAGS
+MAn: SO MANY LAGS
+Terracord: [06/25/2021 06:30:40 -05:00] [Info] Nahnio said: why?
+Nahnio: why?
+Terracord: [06/25/2021 06:30:56 -05:00] [Info] MAn said: I HATE MY PC
+MAn: I HATE MY PC
+Terracord: [06/25/2021 06:30:58 -05:00] [Info] Potato said: pls monsters
+Potato: pls monsters
+Terracord: [06/25/2021 06:31:03 -05:00] [Info] Potato said: away
+Potato: away
+Terracord: [06/25/2021 06:31:10 -05:00] [Info] Potato said: all i have is a copper short sword
+Potato: all i have is a copper short sword
+Terracord: [06/25/2021 06:31:24 -05:00] [Info] Tasooki said: blink root
+Tasooki: blink root
+Terracord: [06/25/2021 06:31:25 -05:00] [Info] Tasooki said: pog
+Tasooki: pog
+Terracord: [06/25/2021 06:32:06 -05:00] [Info] just for thc said: **[Sapphire Hook]** pog
+just for thc: [Sapphire Hook] pog
+Terracord: [06/25/2021 06:32:09 -05:00] [Info] MAn said: hell 2 you
+MAn: hell 2 you
+Terracord: [06/25/2021 06:32:10 -05:00] [Info] Tasooki said: i call hax
+Tasooki: i call hax
+Terracord: [06/25/2021 06:32:18 -05:00] [Info] Tasooki said: just for thc hook me up with some gems
+Tasooki: just for thc hook me up with some gems
+Terracord: [06/25/2021 06:32:33 -05:00] [Info] MAn said: hello
+MAn: hello
+Terracord: [06/25/2021 06:32:41 -05:00] [Info] Potato said: im dead
+Potato: im dead
+Terracord: [06/25/2021 06:32:44 -05:00] [Info] **:red_circle: Potato has left the server.**
+Potato has left.
+Terracord: [06/25/2021 06:32:48 -05:00] [Info] Tasooki said: hi dead
+Tasooki: hi dead
+49.145.78.200:21850 is connecting...
+Terracord: [06/25/2021 06:32:52 -05:00] [Info] **:green_circle: Potato has joined the server.**
+Potato has joined.
+Potato authenticated successfully as user: 753949752843829249.
+213.230.113.244:44860 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked MAn for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 06:32:59 -05:00] [Info] **:red_circle: MAn has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+49.145.78.200:21850 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Potato for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 06:33:04 -05:00] [Info] **:red_circle: Potato has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+213.230.113.244:58111 is connecting...
+Terracord: [06/25/2021 06:33:33 -05:00] [Info] **:green_circle: Arazoan has joined the server.**
+Terracord: [06/25/2021 06:33:37 -05:00] [Info] Nahnio said: just killed a guy from dropping a zombie on his head
+Nahnio: just killed a guy from dropping a zombie on his head
+Arazoan has joined.
+Terracord: [06/25/2021 06:33:39 -05:00] [Info] Nahnio said: feeling good
+Nahnio: feeling good
+Terracord: [06/25/2021 06:33:44 -05:00] [Info] just for thc said: wow
+just for thc: wow
+Terracord: [06/25/2021 06:33:46 -05:00] [Info] just for thc said: satan
+just for thc: satan
+Terracord: [06/25/2021 06:33:53 -05:00] [Info] Tasooki said: **[Gills Potion]** im feeshhhhh
+Tasooki: [Gills Potion] im feeshhhhh
+Terracord: [06/25/2021 06:33:56 -05:00] [Info] Arazoan said: you son of the bitch
+Arazoan: you son of the bitch
+49.145.78.200:21856 is connecting...
+Terracord: [06/25/2021 06:34:26 -05:00] [Info] **:green_circle: Potato has joined the server.**
+Potato has joined.
+Potato authenticated successfully as user: 753949752843829249.
+Terracord: [06/25/2021 06:34:50 -05:00] [Info] Potato said: :(((
+Potato: :(((
+49.145.78.200:21856 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Potato for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 06:35:08 -05:00] [Info] **:red_circle: Potato has left the server.**
+Terracord: [06/25/2021 06:35:08 -05:00] [Info] Server broadcast: Potato fell to their death.
+Terracord: [06/25/2021 06:35:17 -05:00] [Info] Felixx said: throwing away the 3rd pair of hermes boots
+Felixx: throwing away the 3rd pair of hermes boots
+Terracord: [06/25/2021 06:35:18 -05:00] [Info] Tasooki said: ALMOST DIED TO A BOULDER
+Tasooki: ALMOST DIED TO A BOULDER
+Terracord: [06/25/2021 06:35:31 -05:00] [Info] Tasooki said: FELIXX
+Tasooki: FELIXX
+Terracord: [06/25/2021 06:35:32 -05:00] [Info] Tasooki said: ROUGH
+Tasooki: ROUGH
+Terracord: [06/25/2021 06:35:42 -05:00] [Info] Tasooki said: :c
+Tasooki: :c
+Terracord: [06/25/2021 06:36:13 -05:00] [Info] Arazoan said: im died because of lags and that beetch
+Arazoan: im died because of lags and that beetch
+Arazoan authenticated successfully as user: 644380837625724959.
+Terracord: [06/25/2021 06:36:44 -05:00] [Info] just for thc said: this is so fucking tedious
+just for thc: this is so fucking tedious
+Terracord: [06/25/2021 06:36:49 -05:00] [Info] Tasooki said: what happened
+Tasooki: what happened
+Terracord: [06/25/2021 06:37:08 -05:00] [Info] Felixx said: **[Armored Anklet of the Wind]**
+Felixx: [Armored Anklet of the Wind]
+Terracord: [06/25/2021 06:37:15 -05:00] [Info] just for thc said: gg
+just for thc: gg
+Terracord: [06/25/2021 06:37:20 -05:00] [Info] Felixx said: also going to the trash lol
+Felixx: also going to the trash lol
+Terracord: [06/25/2021 06:37:30 -05:00] [Info] Nahnio said: i have aglet tho
+Nahnio: i have aglet tho
+Terracord: [06/25/2021 06:37:35 -05:00] [Info] Felixx said: same
+Felixx: same
+Terracord: [06/25/2021 06:37:53 -05:00] [Info] Arazoan said: why did my first multiplayer like this?
+Arazoan: why did my first multiplayer like this?
+Terracord: [06/25/2021 06:38:05 -05:00] [Info] Felixx said: is it day?
+Felixx: is it day?
+Terracord: [06/25/2021 06:38:06 -05:00] [Info] just for thc said: **[Life Crystal]** pog
+just for thc: [Life Crystal] pog
+Terracord: [06/25/2021 06:38:11 -05:00] [Info] Tasooki said: just for thc
+Tasooki: just for thc
+Terracord: [06/25/2021 06:38:14 -05:00] [Info] Tasooki said: i call dibs
+Tasooki: i call dibs
+Terracord: [06/25/2021 06:38:28 -05:00] [Info] Tasooki said: PLATINUM
+Tasooki: PLATINUM
+Terracord: [06/25/2021 06:38:37 -05:00] [Info] just for thc said: just now?
+just for thc: just now?
+Terracord: [06/25/2021 06:38:46 -05:00] [Info] Tasooki said: :C
+Tasooki: :C
+Terracord: [06/25/2021 06:38:57 -05:00] [Info] just for thc said: my game almost crashed
+just for thc: my game almost crashed
+213.230.113.244:58111 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Arazoan for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 06:39:07 -05:00] [Info] **:red_circle: Arazoan has left the server.**
+Terracord: [06/25/2021 06:39:07 -05:00] [Info] Server broadcast: Arazoan's entrails were ripped out by Vulture.
+213.230.113.244:20466 is connecting...
+Terracord: [06/25/2021 06:39:18 -05:00] [Info] **:green_circle: Arazoan has joined the server.**
+Arazoan has joined.
+Terracord: [06/25/2021 06:39:35 -05:00] [Info] Tasooki said: **[Platinum Bow]**
+Tasooki: [Platinum Bow]
+Terracord: [06/25/2021 06:39:42 -05:00] [Info] just for thc said: **[Platinum Bow]**
+just for thc: [Platinum Bow]
+Terracord: [06/25/2021 06:40:35 -05:00] [Info] Arazoan said: i had 140 hp
+Arazoan: i had 140 hp
+Terracord: [06/25/2021 06:40:42 -05:00] [Info] just for thc said: i have 120
+just for thc: i have 120
+Terracord: [06/25/2021 06:40:48 -05:00] [Info] Tasooki said: i have 100
+Tasooki: i have 100
+Terracord: [06/25/2021 06:40:50 -05:00] [Info] Tasooki said: :)
+Tasooki: :)
+Terracord: [06/25/2021 06:41:01 -05:00] [Info] Arazoan said: but because of that sonof the bitch i have 100
+Arazoan: but because of that sonof the bitch i have 100
+Terracord: [06/25/2021 06:41:09 -05:00] [Info] Nahnio said: who
+Nahnio: who
+Terracord: [06/25/2021 06:41:12 -05:00] [Info] Tasooki said: i got platinum before a recall pot
+Tasooki: i got platinum before a recall pot
+Terracord: [06/25/2021 06:41:14 -05:00] [Info] Arazoan said: fcking lags
+Arazoan: fcking lags
+Terracord: [06/25/2021 06:41:19 -05:00] [Info] just for thc said: mushroom biome
+just for thc: mushroom biome
+Terracord: [06/25/2021 06:41:27 -05:00] [Info] Nahnio said: who was MAn tho
+Nahnio: who was MAn tho
+Terracord: [06/25/2021 06:41:28 -05:00] [Info] Arazoan said: you
+Arazoan: you
+Terracord: [06/25/2021 06:41:42 -05:00] [Info] Arazoan said: it was me
+Arazoan: it was me
+Terracord: [06/25/2021 06:41:47 -05:00] [Info] Nahnio said: k lol
+Nahnio: k lol
+Terracord: [06/25/2021 06:42:05 -05:00] [Info] Arazoan said: ?????? ????? ?????
+Arazoan: ?????? ????? ?????
+Terracord: [06/25/2021 06:42:07 -05:00] [Info] Tasooki said: platinum shortsword best item in the game
+Tasooki: platinum shortsword best item in the game
+Terracord: [06/25/2021 06:42:49 -05:00] [Info] Arazoan said: ????????????? ? ????? ????
+Arazoan: ????????????? ? ????? ????
+Arazoan authenticated successfully as user: 644380837625724959.
+Terracord: [06/25/2021 06:42:57 -05:00] [Info] just for thc said: **[Mushroom Grass Seeds (2)]**
+just for thc: [Mushroom Grass Seeds (2)]
+Terracord: [06/25/2021 06:43:05 -05:00] [Info] Felixx said: you cant summon bosses in grace?
+Felixx: you cant summon bosses in grace?
+Terracord: [06/25/2021 06:43:18 -05:00] [Info] just for thc said: i dont think
+just for thc: i dont think
+Terracord: [06/25/2021 06:43:30 -05:00] [Info] just for thc said: i hate giant worms
+just for thc: i hate giant worms
+Terracord: [06/25/2021 06:43:51 -05:00] [Info] **:red_circle: Tasooki has left the server.**
+Tasooki has left.
+86.108.18.46:54555 is connecting...
+Terracord: [06/25/2021 06:43:57 -05:00] [Info] **:green_circle: Tasooki has joined the server.**
+Tasooki has joined.
+Tasooki authenticated successfully as user: 602791685285740545.
+213.230.113.244:20466 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Arazoan for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 06:45:33 -05:00] [Info] **:red_circle: Arazoan has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 06:45:41 -05:00] [Info] just for thc said: **[Ancient Gold Helmet]**
+just for thc: [Ancient Gold Helmet]
+213.230.113.244:55990 is connecting...
+Terracord: [06/25/2021 06:45:53 -05:00] [Info] Tasooki said: felixx
+Tasooki: felixx
+Terracord: [06/25/2021 06:45:55 -05:00] [Info] **:green_circle: Arazoan has joined the server.**
+Terracord: [06/25/2021 06:45:59 -05:00] [Info] Tasooki said: can i trade anything for hermes boots
+Tasooki: can i trade anything for hermes boots
+Arazoan has joined.
+Terracord: [06/25/2021 06:46:06 -05:00] [Info] Tasooki said: **[Platinum Bar (7)]** **[Sapphire (3)]** **[Amethyst]**
+Tasooki: [Platinum Bar (7)][Sapphire (3)][Amethyst]
+Terracord: [06/25/2021 06:46:09 -05:00] [Info] just for thc said: OMFG
+just for thc: OMFG
+Terracord: [06/25/2021 06:46:10 -05:00] [Info] just for thc said: OMG
+just for thc: OMG
+Terracord: [06/25/2021 06:46:13 -05:00] [Info] just for thc said: **[Flare Gun]**
+just for thc: [Flare Gun]
+Terracord: [06/25/2021 06:46:16 -05:00] [Info] Tasooki said: WOW
+Tasooki: WOW
+Terracord: [06/25/2021 06:46:43 -05:00] [Info] Arazoan said: goodbye
+Arazoan: goodbye
+Terracord: [06/25/2021 06:47:03 -05:00] [Info] Arazoan said: my pc willexplode
+Arazoan: my pc willexplode
+Arazoan authenticated successfully as user: 644380837625724959.
+Terracord: [06/25/2021 06:47:15 -05:00] [Info] just for thc said: i dont have  apc
+just for thc: i dont have  apc
+Terracord: [06/25/2021 06:47:18 -05:00] [Info] just for thc said:  a pc
+just for thc:  a pc
+Terracord: [06/25/2021 06:47:26 -05:00] [Info] just for thc said: i have a toaster so it wont explode
+just for thc: i have a toaster so it wont explode
+Terracord: [06/25/2021 06:47:32 -05:00] [Info] Tasooki said: Anybody is willing
+Tasooki: Anybody is willing
+Terracord: [06/25/2021 06:47:35 -05:00] [Info] Tasooki said: to trade
+Tasooki: to trade
+Terracord: [06/25/2021 06:47:36 -05:00] [Info] Tasooki said: for hermes boots
+Tasooki: for hermes boots
+Terracord: [06/25/2021 06:47:41 -05:00] [Info] just for thc said: yeah
+just for thc: yeah
+Terracord: [06/25/2021 06:47:45 -05:00] [Info] Tasooki said: **[Platinum Bar (7)]** **[Sapphire (3)]** **[Amethyst]**
+Tasooki: [Platinum Bar (7)][Sapphire (3)][Amethyst]
+Terracord: [06/25/2021 06:47:48 -05:00] [Info] Arazoan said: i dont care
+Arazoan: i dont care
+Terracord: [06/25/2021 06:47:49 -05:00] [Info] Tasooki said: i can give this
+Tasooki: i can give this
+Terracord: [06/25/2021 06:47:50 -05:00] [Info] Tasooki said: ;l
+Tasooki: ;l
+Terracord: [06/25/2021 06:47:52 -05:00] [Info] just for thc said: **[Flare Gun]**
+just for thc: [Flare Gun]
+Terracord: [06/25/2021 06:47:55 -05:00] [Info] Felixx said: i also want hermes
+Felixx: i also want hermes
+Terracord: [06/25/2021 06:47:56 -05:00] [Info] just for thc said: for hermes boots
+just for thc: for hermes boots
+Terracord: [06/25/2021 06:47:58 -05:00] [Info] Tasooki said: i want hermes boots
+Tasooki: i want hermes boots
+Terracord: [06/25/2021 06:47:59 -05:00] [Info] Felixx said: **[Tungsten Bar (88)]** **[Iron Bar (46)]** **[Platinum Bar (11)]**
+Felixx: [Tungsten Bar (88)][Iron Bar (46)][Platinum Bar (11)]
+Terracord: [06/25/2021 06:48:02 -05:00] [Info] Tasooki said: is what im saying-
+Tasooki: is what im saying-
+Terracord: [06/25/2021 06:48:24 -05:00] [Info] **:red_circle: Arazoan has left the server.**
+Arazoan has left.
+playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: Terracord: [06/25/2021 06:48:51 -05:00] [Info] Tasooki said: is there /msg in terraria
+Tasooki: is there /msg in terraria
+playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: Terracord: [06/25/2021 06:48:53 -05:00] [Info] Nahnio said: stylist
+Nahnio: stylist
+playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: Terracord: [06/25/2021 06:49:17 -05:00] [Info] Server broadcast: Hazel the Stylist was slain...
+playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: Terracord: [06/25/2021 06:49:22 -05:00] [Info] Tasooki said: rip
+Tasooki: rip
+playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: Terracord: [06/25/2021 06:49:52 -05:00] [Info] just for thc said: goodbye period
+just for thc: goodbye period
+playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: Terracord: [06/25/2021 06:50:14 -05:00] [Info] **:red_circle: Tasooki has left the server.**
+Tasooki has left.
+playing
+Server executed: /playing.
+Online Players (3/69)
+just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+just for thc, Nahnio, Felixx
+: Terracord: [06/25/2021 06:50:21 -05:00] [Info] Nahnio said: oh wow
+Nahnio: oh wow
+playing
+Server executed: /playing.
+Online Players (3/69)
+just for thc, Nahnio, Felixx
+: 86.108.18.46:28390 is connecting...
+Terracord: [06/25/2021 06:50:24 -05:00] [Info] **:green_circle: Tasooki has joined the server.**
+playing
+Server executed: /playing.
+Online Players (3/69)
+just for thc, Nahnio, Felixx
+: Tasooki has joined.
+Terracord: [06/25/2021 06:50:25 -05:00] [Info] Nahnio said: there is just us here
+Nahnio: there is just us here
+playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: Terracord: [06/25/2021 06:50:27 -05:00] [Info] Nahnio said: like
+Nahnio: like
+playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: Tasooki authenticated successfully as user: 602791685285740545.
+playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playingTerracord: [06/25/2021 06:50:33 -05:00] [Info] just for thc said: wow
+just for thc: wow
+
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: Terracord: [06/25/2021 06:50:34 -05:00] [Info] Nahnio said: 4
+Nahnio: 4
+playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: Terracord: [06/25/2021 06:50:38 -05:00] [Info] Nahnio said: ppl
+Nahnio: ppl
+Terracord: [06/25/2021 06:50:38 -05:00] [Info] Tasooki said: just for thc
+Tasooki: just for thc
+Terracord: [06/25/2021 06:50:39 -05:00] [Info] Tasooki said: 1v1
+Tasooki: 1v1
+playingTerracord: [06/25/2021 06:50:40 -05:00] [Info] Tasooki said: at spawn
+Tasooki: at spawn
+Player Felixx has been disabled for Reached TileKill threshold..
+
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playTerracord: [06/25/2021 06:50:44 -05:00] [Info] just for thc said: wanna kill moon lord?
+just for thc: wanna kill moon lord?
+ing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: Terracord: [06/25/2021 06:50:47 -05:00] [Info] just for thc said: it would be funny
+just for thc: it would be funny
+playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playinTerracord: [06/25/2021 06:50:59 -05:00] [Info] Nahnio said: k
+Nahnio: k
+g
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: Terracord: [06/25/2021 06:51:03 -05:00] [Info] Tasooki said: just for thc i have wood armor and a plat bow 1v1 me
+Tasooki: just for thc i have wood armor and a plat bow 1v1 me
+playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: Terracord: [06/25/2021 06:51:04 -05:00] [Info] Tasooki said: thc
+Tasooki: thc
+playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: Terracord: [06/25/2021 06:51:12 -05:00] [Info] just for thc said: beware and dont die
+just for thc: beware and dont die
+playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: Terracord: [06/25/2021 06:51:39 -05:00] [Info] Tasooki said: and pvp is on!!!!!
+Tasooki: and pvp is on!!!!!
+Terracord: [06/25/2021 06:51:40 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/25/2021 06:51:40 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: Terracord: [06/25/2021 06:51:53 -05:00] [Info] just for thc said: gg
+just for thc: gg
+playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playingTerracord: [06/25/2021 06:52:12 -05:00] [Info] Tasooki said: someone 1v1 me
+Tasooki: someone 1v1 me
+
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: Terracord: [06/25/2021 06:52:13 -05:00] [Info] Tasooki said: at spawn
+Tasooki: at spawn
+playingTerracord: [06/25/2021 06:52:14 -05:00] [Info] Tasooki said: im bored
+Tasooki: im bored
+
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: Terracord: [06/25/2021 06:52:15 -05:00] [Info] Tasooki said: D:
+Tasooki: D:
+playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: Terracord: [06/25/2021 06:52:17 -05:00] [Info] just for thc said: k
+just for thc: k
+playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: plajust for thc summoned the Eye of Cthulhu!
+Terracord: [06/25/2021 06:52:31 -05:00] [Info] Server broadcast: Eye of Cthulhu has awoken!
+ying
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: Terracord: [06/25/2021 06:52:33 -05:00] [Info] just for thc said: bye
+just for thc: bye
+playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Tasooki, just for thc, Nahnio, Felixx
+: 5.29.9.179:1548 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked just for thc for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 06:52:57 -05:00] [Info] **:red_circle: just for thc has left the server.**
+Terracord: [06/25/2021 06:52:57 -05:00] [Info] Server broadcast: just for thc watched their innards become outards by Tasooki's Fire Arrow.
+playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Tasooki, Nahnio, Felixx
+: playing86.108.18.46:28390 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Tasooki for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 06:53:55 -05:00] [Info] **:red_circle: Tasooki has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: plaTerracord: [06/25/2021 06:54:37 -05:00] [Info] Server broadcast: Eye of Cthulhu has been defeated!
+ying
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Nahnio, Felixx
+: 177.10.71.118:59524 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Nahnio for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 06:55:53 -05:00] [Info] **:red_circle: Nahnio has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (1/69)
+Felixx
+:

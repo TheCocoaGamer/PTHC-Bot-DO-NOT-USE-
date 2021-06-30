@@ -1,0 +1,2168 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7777
+Type 'help' for a list of commands.
+
+Terracord: [06/25/2021 03:47:53 -05:00] [Info] Connecting to Discord...
+Terracord: [06/25/2021 03:47:53 -05:00] [Info] 03:47:53 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/25/2021 03:47:54 -05:00] [Info] 03:47:54 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 10m
+Server executed: /grace begin 10m.
+Terracord: [06/25/2021 03:47:54 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 576515133010870272
+Account removed successfully.
+Server successfully deleted account: 576515133010870272.
+: user add 576515133010870272 2oho default
+Server started
+Account 576515133010870272 has been added to group default!
+Server added Account 576515133010870272 to group default
+: user del 753949752843829249
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '753949752843829249' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 753949752843829249 nwxk default
+Account 753949752843829249 has been added to group default!
+Server added Account 753949752843829249 to group default
+: user del 655342932341293066
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '655342932341293066' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 655342932341293066 o0zo default
+Account 655342932341293066 has been added to group default!
+Server added Account 655342932341293066 to group default
+: user del 644380837625724959
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '644380837625724959' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 644380837625724959 n2xf default
+Account 644380837625724959 has been added to group default!
+Server added Account 644380837625724959 to group default
+: user del 753949752843829249
+Account removed successfully.
+Server successfully deleted account: 753949752843829249.
+: user add 753949752843829249 j7hz default
+Account 753949752843829249 has been added to group default!
+Server added Account 753949752843829249 to group default
+: user del 655342932341293066
+Account removed successfully.
+Server successfully deleted account: 655342932341293066.
+: user add 655342932341293066 8rkc default
+Account 655342932341293066 has been added to group default!
+Server added Account 655342932341293066 to group default
+: Terracord: [06/25/2021 03:47:54 -05:00] [Info] 03:47:54 Gateway     Connected
+Terracord: [06/25/2021 03:47:54 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/25/2021 03:47:54 -05:00] [Info] 03:47:54 Gateway     Ready
+84.126.155.112:64453 is connecting...
+Terracord: [06/25/2021 03:47:58 -05:00] [Info] **:green_circle: AlvarGD has joined the server.**
+AlvarGD has joined.
+106.69.216.248:56111 is connecting...
+Terracord: [06/25/2021 03:48:02 -05:00] [Info] **:green_circle: Trollololololl has joined the server.**
+Trollololololl has joined.
+AlvarGD authenticated successfully as user: 655342932341293066.
+user del 576515133010870272
+Account removed successfully.
+Server successfully deleted account: 576515133010870272.
+: user add 576515133010870272 qe2l default
+Account 576515133010870272 has been added to group default!
+Server added Account 576515133010870272 to group default
+: Trollololololl authenticated successfully as user: 576515133010870272.
+49.145.78.200:23793 is connecting...
+49.145.78.200:23793 was booted: You are not using the same version as this server.
+84.126.155.112:64453 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked AlvarGD for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 03:48:57 -05:00] [Info] **:red_circle: AlvarGD has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+user del 655342932341293066
+Account removed successfully.
+Server successfully deleted account: 655342932341293066.
+: user add 655342932341293066 wh8v default
+Account 655342932341293066 has been added to group default!
+Server added Account 655342932341293066 to group default
+: 84.126.155.112:63406 is connecting...
+Terracord: [06/25/2021 03:49:33 -05:00] [Info] **:green_circle: Fragile AlvarGD has joined the server.**
+Fragile AlvarGD has joined.
+Fragile AlvarGD authenticated successfully as user: 655342932341293066.
+Terracord: [06/25/2021 03:49:48 -05:00] [Info] Fragile AlvarGD said: so i joined again lmao
+Fragile AlvarGD: so i joined again lmao
+playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: Terracord: [06/25/2021 03:57:54 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/25/2021 03:57:54 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: Trollololololl executed: /playing.
+playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Fragile AlvarGD, Trollololololl
+: 84.126.155.112:63406 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Fragile AlvarGD for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 04:03:46 -05:00] [Info] **:red_circle: Fragile AlvarGD has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (1/69)
+Trollololololl
+:Terraria Server v1.4.2.3
+
+Listening on port 7777
+Type 'help' for a list of commands.
+
+Terracord: [06/25/2021 23:15:01 -05:00] [Info] Connecting to Discord...
+Terracord: [06/25/2021 23:15:01 -05:00] [Info] 23:15:01 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/25/2021 23:15:01 -05:00] [Info] 23:15:01 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 15m
+Server executed: /grace begin 15m.
+Terracord: [06/25/2021 23:15:01 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 773552794887258122
+Server started
+Account removed successfully.
+Server successfully deleted account: 773552794887258122.
+: user add 773552794887258122 eq1h default
+96.33.39.151:63243 is connecting...
+Account 773552794887258122 has been added to group default!
+Server added Account 773552794887258122 to group default
+: user del 697927492568088687
+Account removed successfully.
+Server successfully deleted account: 697927492568088687.
+: user add 697927492568088687 5wff default
+Account 697927492568088687 has been added to group default!
+Server added Account 697927492568088687 to group default
+: user del 262003003186216973
+Account removed successfully.
+Server successfully deleted account: 262003003186216973.
+: user add 262003003186216973 2n5z default
+Account 262003003186216973 has been added to group default!
+Server added Account 262003003186216973 to group default
+: user del 456110220322668566
+173.168.136.13:54769 is connecting...
+Account removed successfully.
+Server successfully deleted account: 456110220322668566.
+: user add 456110220322668566 8qee default
+Account 456110220322668566 has been added to group default!
+Server added Account 456110220322668566 to group default
+: user del 609476717311950877
+Account removed successfully.
+Server successfully deleted account: 609476717311950877.
+: user add 609476717311950877 h7f9 default
+Account 609476717311950877 has been added to group default!
+Server added Account 609476717311950877 to group default
+: Terracord: [06/25/2021 23:15:02 -05:00] [Info] 23:15:02 Gateway     Connected
+73.253.213.97:51946 is connecting...
+Terracord: [06/25/2021 23:15:03 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/25/2021 23:15:03 -05:00] [Info] 23:15:03 Gateway     Ready
+Terracord: [06/25/2021 23:15:03 -05:00] [Info] **:green_circle: dumpster burner has joined the server.**
+Terracord: [06/25/2021 23:15:04 -05:00] [Info] **:green_circle: M a x e d  O u t has joined the server.**
+dumpster burner has joined.
+Terracord: [06/25/2021 23:15:04 -05:00] [Info] **:green_circle: Goldblock has joined the server.**
+M a x e d  O u t has joined.
+173.174.122.120:63711 is connecting...
+Goldblock has joined.
+Terracord: [06/25/2021 23:15:05 -05:00] [Info] **:green_circle: ramen V.2 has joined the server.**
+70.137.105.70:54940 is connecting...
+ramen V.2 has joined.
+Terracord: [06/25/2021 23:15:08 -05:00] [Info] **:green_circle: qwe has joined the server.**
+dumpster burner authenticated successfully as user: 456110220322668566.
+qwe has joined.
+M a x e d  O u t authenticated successfully as user: 609476717311950877.
+qwe authenticated successfully as user: 262003003186216973.
+Goldblock authenticated successfully as user: 773552794887258122.
+ramen V.2 authenticated successfully as user: 697927492568088687.
+Terracord: [06/25/2021 23:16:50 -05:00] [Info] <TheCocoaGamer@Discord> although im dnd im always like this, so i usually respond a lot, but the thing is sometimes im just not here. basically you guys wont know if im on or not but i will. Also please stop pinging people like Azei and Proto, they are 5% involved with the bot and probably wont be able to help when issues arrise. Maybe in this instance, but dont rely on it
+<TheCocoaGamer@Discord> although im dnd im always like this, so i usually respond a lot, but the thing is sometimes im just not here. basically you guys wont know if im on or not but i will. Also please stop pinging people like Azei and Proto, they are 5% involved with the bot and probably wont be able to help when issues arrise. Maybe in this instance, but dont rely on it
+Terracord: [06/25/2021 23:17:11 -05:00] [Info] M a x e d  O u t said: ok
+M a x e d  O u t: ok
+70.137.105.70:54940 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked qwe for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 23:18:21 -05:00] [Info] **:red_circle: qwe has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 23:18:26 -05:00] [Info] **:red_circle: ramen V.2 has left the server.**
+ramen V.2 has left.
+70.137.105.70:54982 is connecting...
+Terracord: [06/25/2021 23:18:32 -05:00] [Info] **:green_circle: qwe has joined the server.**
+qwe has joined.
+qwe authenticated successfully as user: 262003003186216973.
+173.174.122.120:50721 is connecting...
+Terracord: [06/25/2021 23:18:46 -05:00] [Info] **:green_circle: ramen V.2 has joined the server.**
+ramen V.2 has joined.
+ramen V.2 authenticated successfully as user: 697927492568088687.
+Terracord: [06/25/2021 23:19:33 -05:00] [Info] **:red_circle: Goldblock has left the server.**
+Goldblock has left.
+173.174.122.120:62199 is connecting...
+Terracord: [06/25/2021 23:20:34 -05:00] [Info] **:green_circle: ramen V.2 has joined the server.**
+ramen V.2 has joined.
+ramen V.2 authenticated successfully as user: 697927492568088687.
+Terracord: [06/25/2021 23:21:47 -05:00] [Info] **:red_circle: ramen V.2 has left the server.**
+ramen V.2 has left.
+173.174.122.120:59091 is connecting...
+Terracord: [06/25/2021 23:21:49 -05:00] [Info] **:green_circle: ramen V.2 has joined the server.**
+ramen V.2 has joined.
+ramen V.2 authenticated successfully as user: 697927492568088687.
+Terracord: [06/25/2021 23:22:06 -05:00] [Info] **:red_circle: ramen V.2 has left the server.**
+ramen V.2 has left.
+Terracord: [06/25/2021 23:23:58 -05:00] [Info] **:red_circle: ramen V.2 has left the server.**
+ramen V.2 has left.
+Terracord: [06/25/2021 23:24:40 -05:00] [Info] qwe said: hm?
+qwe: hm?
+70.137.105.70:54982 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked qwe for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 23:25:14 -05:00] [Info] **:red_circle: qwe has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+70.137.105.70:55058 is connecting...
+Terracord: [06/25/2021 23:25:22 -05:00] [Info] **:green_circle: qwe has joined the server.**
+qwe has joined.
+qwe authenticated successfully as user: 262003003186216973.
+73.253.213.97:51946 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked M a x e d  O u t for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 23:28:28 -05:00] [Info] **:red_circle: M a x e d  O u t has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: 73.253.213.97:51992 is connecting...
+Terracord: [06/25/2021 23:29:22 -05:00] [Info] **:green_circle: M a x e d O u t #2 has joined the server.**
+pM a x e d O u t #2 has joined.
+laying
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playM a x e d O u t #2 authenticated successfully as user: 609476717311950877.
+ing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: Terracord: [06/25/2021 23:29:40 -05:00] [Info] M a x e d O u t #2 said: well
+M a x e d O u t #2: well
+playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: Terracord: [06/25/2021 23:29:48 -05:00] [Info] M a x e d O u t #2 said: great
+M a x e d O u t #2: great
+playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: Terracord: [06/25/2021 23:30:01 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/25/2021 23:30:01 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: plaM a x e d O u t #2 executed: /playing.
+ying
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: plaTerracord: [06/25/2021 23:34:57 -05:00] [Info] qwe said: YOOO
+qwe: YOOO
+ying
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: Terracord: [06/25/2021 23:35:01 -05:00] [Info] qwe said: IM A HOIKING PRO
+qwe: IM A HOIKING PRO
+playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: Terracord: [06/25/2021 23:35:05 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: Terracord: [06/25/2021 23:35:10 -05:00] [Info] M a x e d O u t #2 said: oh god
+M a x e d O u t #2: oh god
+playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: Terracord: [06/25/2021 23:35:13 -05:00] [Info] qwe said: but to get out of here
+qwe: but to get out of here
+playingTerracord: [06/25/2021 23:35:15 -05:00] [Info] qwe said:  ...
+qwe:  ...
+
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: Terracord: [06/25/2021 23:35:28 -05:00] [Info] qwe said: im stuck
+qwe: im stuck
+playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: playing
+Server executed: /playing.
+Online Players (3/69)
+dumpster burner, qwe, M a x e d O u t #2
+: 73.253.213.97:51992 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked M a x e d O u t #2 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 23:36:32 -05:00] [Info] **:red_circle: M a x e d O u t #2 has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: plTerracord: [06/25/2021 23:37:09 -05:00] [Info] <MaxedOutSociety@Discord> im not bad at the game i promise lmao
+<MaxedOutSociety@Discord> im not bad at the game i promise lmaoa
+ying
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: plqwe executed: /who.
+aying
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: Terracord: [06/25/2021 23:37:15 -05:00] [Info] qwe said: oh
+qwe: oh
+playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: Terracord: [06/25/2021 23:37:19 -05:00] [Info] qwe said: we're the last one
+qwe: we're the last one
+Terracord: [06/25/2021 23:37:20 -05:00] [Info] qwe said: ummm
+qwe: ummm
+playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: Terracord: [06/25/2021 23:37:35 -05:00] [Info] qwe said: i would love to recall and murder you but i have no recall
+qwe: i would love to recall and murder you but i have no recall
+playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: Terracord: [06/25/2021 23:37:57 -05:00] [Info] qwe said: and I am stuck in a crimson heart due to the fact I hoiked in here, meaning i have no bombs
+qwe: and I am stuck in a crimson heart due to the fact I hoiked in here, meaning i have no bombs
+playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: Terracord: [06/25/2021 23:38:02 -05:00] [Info] <MaxedOutSociety@Discord> do /playing and see whos left
+<MaxedOutSociety@Discord> do /playing and see whos left
+playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: qwe executed: /who.
+Terracord: [06/25/2021 23:38:06 -05:00] [Info] qwe said: 2
+qwe: 2
+playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: Terracord: [06/25/2021 23:38:11 -05:00] [Info] <MaxedOutSociety@Discord> ok
+<MaxedOutSociety@Discord> ok
+playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: Terracord: [06/25/2021 23:38:23 -05:00] [Info] <MaxedOutSociety@Discord> gtg bye
+<MaxedOutSociety@Discord> gtg bye
+playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: Terracord: [06/25/2021 23:38:28 -05:00] [Info] qwe said: you can visit me in the underground crimson in the left
+qwe: you can visit me in the underground crimson in the left
+playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: Terracord: [06/25/2021 23:38:49 -05:00] [Info] qwe said: I lost
+qwe: I lost
+playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: Terracord: [06/25/2021 23:38:59 -05:00] [Info] qwe said: if I leave, will you get the win?
+qwe: if I leave, will you get the win?
+playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playinTerracord: [06/25/2021 23:39:10 -05:00] [Info] dumpster burner said: probably
+dumpster burner: probably
+g
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playingTerracord: [06/25/2021 23:39:19 -05:00] [Info] qwe said: alright, ill leave
+qwe: alright, ill leave
+
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: playing
+Server executed: /playing.
+Online Players (2/69)
+dumpster burner, qwe
+: Terracord: [06/25/2021 23:39:27 -05:00] [Info] **:red_circle: qwe has left the server.**
+qwe has left.
+playing
+Server executed: /playing.
+Online Players (1/69)
+dumpster burner
+:

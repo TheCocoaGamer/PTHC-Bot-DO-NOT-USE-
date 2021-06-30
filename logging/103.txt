@@ -1,0 +1,4755 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7778
+Type 'help' for a list of commands.
+
+Terracord: [06/29/2021 12:49:17 -05:00] [Info] Connecting to Discord...
+Terracord: [06/29/2021 12:49:17 -05:00] [Info] 12:49:17 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/29/2021 12:49:17 -05:00] [Info] 12:49:17 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 25m
+Server executed: /grace begin 25m.
+Terracord: [06/29/2021 12:49:17 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 570187358683529217
+Server started
+Account removed successfully.
+Server successfully deleted account: 570187358683529217.
+: user add 570187358683529217 pcwh default
+Account 570187358683529217 has been added to group default!
+Server added Account 570187358683529217 to group default
+: user del 663679335592493057
+Account removed successfully.
+Server successfully deleted account: 663679335592493057.
+: user add 663679335592493057 2wsf default
+Account 663679335592493057 has been added to group default!
+Server added Account 663679335592493057 to group default
+: user del 318028763776679936
+Terracord: [06/29/2021 12:49:18 -05:00] [Info] 12:49:18 Gateway     Connected
+Account removed successfully.
+Server successfully deleted account: 318028763776679936.
+: user add 318028763776679936 yuhn default
+Account 318028763776679936 has been added to group default!
+Server added Account 318028763776679936 to group default
+: user del 543747960660295680
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '543747960660295680' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 543747960660295680 jykb default
+Account 543747960660295680 has been added to group default!
+Server added Account 543747960660295680 to group default
+: user del 244501248861011968
+Account removed successfully.
+Server successfully deleted account: 244501248861011968.
+: user add 244501248861011968 mrx5 default
+Account 244501248861011968 has been added to group default!
+Server added Account 244501248861011968 to group default
+: user del 629638292740243468
+Terracord: [06/29/2021 12:49:18 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Account removed successfully.
+Server successfully deleted account: 629638292740243468.
+: user add 629638292740243468 6ijs default
+Terracord: [06/29/2021 12:49:18 -05:00] [Info] 12:49:18 Gateway     Ready
+174.55.16.44:38405 is connecting...
+Account 629638292740243468 has been added to group default!
+Server added Account 629638292740243468 to group default
+: user del 773552794887258122
+Account removed successfully.
+Server successfully deleted account: 773552794887258122.
+: user add 773552794887258122 56m1 default
+Account 773552794887258122 has been added to group default!
+Server added Account 773552794887258122 to group default
+: Terracord: [06/29/2021 12:49:19 -05:00] [Info] <Omori@Discord> joining teams  = probably get betrayed or die
+<Omori@Discord> joining teams  = probably get betrayed or die
+173.168.136.13:51607 is connecting...
+Terracord: [06/29/2021 12:49:20 -05:00] [Info] **:green_circle: PsiKirb has joined the server.**
+Terracord: [06/29/2021 12:49:21 -05:00] [Info] **:green_circle: Goldblock has joined the server.**
+94.69.222.181:58221 is connecting...
+Terracord: [06/29/2021 12:49:21 -05:00] [Info] **:green_circle: dev2 aka omori has joined the server.**
+PsiKirb has joined.
+82.15.210.146:54291 is connecting...
+Terracord: [06/29/2021 12:49:23 -05:00] [Info] **:green_circle: Lip0l0 has joined the server.**
+dev2 aka omori has joined.
+74.110.196.221:50564 is connecting...
+Goldblock has joined.
+Lip0l0 has joined.
+Terracord: [06/29/2021 12:49:24 -05:00] [Info] **:green_circle: Dev has joined the server.**
+dev2 aka omori authenticated successfully as user: 663679335592493057.
+Dev has joined.
+Lip0l0 authenticated successfully as user: 318028763776679936.
+Dev authenticated successfully as user: 570187358683529217.
+92.7.7.93:57596 is connecting...
+PsiKirb authenticated successfully as user: 543747960660295680.
+68.47.234.25:58538 is connecting...
+Terracord: [06/29/2021 12:49:28 -05:00] [Info] **:green_circle: Empranion has joined the server.**
+109.252.65.110:15409 is connecting...
+Goldblock authenticated successfully as user: 773552794887258122.
+Terracord: [06/29/2021 12:49:28 -05:00] [Info] **:green_circle: Eyahsu has joined the server.**
+Empranion has joined.
+Eyahsu has joined.
+Terracord: [06/29/2021 12:49:29 -05:00] [Info] **:green_circle: heroy_105 has joined the server.**
+heroy_105 has joined.
+heroy_105 authenticated successfully as user: 244501248861011968.
+Empranion authenticated successfully as user: 629638292740243468.
+user del 855775526039453726
+Account removed successfully.
+Server successfully deleted account: 855775526039453726.
+: user add 855775526039453726 ww1p default
+Account 855775526039453726 has been added to group default!
+Server added Account 855775526039453726 to group default
+: 105.108.120.132:55419 is connecting...
+Terracord: [06/29/2021 12:49:59 -05:00] [Info] **:green_circle: iskander has joined the server.**
+Terracord: [06/29/2021 12:50:00 -05:00] [Info] dev2 aka omori said: DEB
+dev2 aka omori: DEB
+iskander has joined.
+Terracord: [06/29/2021 12:50:02 -05:00] [Info] dev2 aka omori said: JOINR RED
+dev2 aka omori: JOINR RED
+iskander authenticated successfully as user: 855775526039453726.
+173.168.136.13:51607 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Goldblock for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 12:51:55 -05:00] [Info] **:red_circle: Goldblock has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+173.168.136.13:57974 is connecting...
+Terracord: [06/29/2021 12:52:13 -05:00] [Info] **:green_circle: Goldblock has joined the server.**
+Goldblock has joined.
+Goldblock authenticated successfully as user: 773552794887258122.
+105.108.120.132:55419 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked iskander for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 12:52:22 -05:00] [Info] **:red_circle: iskander has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+105.108.120.132:55452 is connecting...
+Terracord: [06/29/2021 12:52:37 -05:00] [Info] **:green_circle: iskander has joined the server.**
+iskander has joined.
+iskander authenticated successfully as user: 855775526039453726.
+173.168.136.13:57974 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Goldblock for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 12:53:49 -05:00] [Info] **:red_circle: Goldblock has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+173.168.136.13:58221 is connecting...
+Terracord: [06/29/2021 12:54:11 -05:00] [Info] **:green_circle: Goldblock has joined the server.**
+Goldblock has joined.
+Goldblock authenticated successfully as user: 773552794887258122.
+Eyahsu authenticated successfully as user: 550118047344754689.
+Terracord: [06/29/2021 12:55:04 -05:00] [Info] PsiKirb said: why are 2 people on red team
+PsiKirb: why are 2 people on red team
+Terracord: [06/29/2021 12:55:09 -05:00] [Info] dev2 aka omori said: it allowed
+dev2 aka omori: it allowed
+Terracord: [06/29/2021 12:55:14 -05:00] [Info] dev2 aka omori said: up to 2 people
+dev2 aka omori: up to 2 people
+Terracord: [06/29/2021 12:55:15 -05:00] [Info] dev2 aka omori said: in a team
+dev2 aka omori: in a team
+Terracord: [06/29/2021 12:55:22 -05:00] [Info] PsiKirb said: ah
+PsiKirb: ah
+Terracord: [06/29/2021 12:56:01 -05:00] [Info] dev2 aka omori said: loot
+dev2 aka omori: loot
+Terracord: [06/29/2021 12:56:03 -05:00] [Info] dev2 aka omori said: jungle
+dev2 aka omori: jungle
+Terracord: [06/29/2021 12:56:06 -05:00] [Info] dev2 aka omori said: dev
+dev2 aka omori: dev
+Terracord: [06/29/2021 12:56:10 -05:00] [Info] Dev said: I know
+Dev: I know
+68.47.234.25:58538 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Eyahsu for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 12:56:22 -05:00] [Info] **:red_circle: Eyahsu has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/29/2021 12:56:27 -05:00] [Info] dev2 aka omori said: wait
+dev2 aka omori: wait
+Terracord: [06/29/2021 12:56:28 -05:00] [Info] dev2 aka omori said: mouse
+dev2 aka omori: mouse
+Terracord: [06/29/2021 12:56:34 -05:00] [Info] iskander said: KILL MOUSE
+iskander: KILL MOUSE
+Terracord: [06/29/2021 12:56:38 -05:00] [Info] dev2 aka omori said: no
+dev2 aka omori: no
+Terracord: [06/29/2021 12:56:41 -05:00] [Info] dev2 aka omori said: mouse boke
+dev2 aka omori: mouse boke
+Terracord: [06/29/2021 12:56:52 -05:00] [Info] dev2 aka omori said: fix
+dev2 aka omori: fix
+82.15.210.146:54291 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Lip0l0 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 12:57:06 -05:00] [Info] **:red_circle: Lip0l0 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+82.15.210.146:53919 is connecting...
+Terracord: [06/29/2021 12:57:31 -05:00] [Info] **:green_circle: lipolo has joined the server.**
+lipolo has joined.
+lipolo authenticated successfully as user: 318028763776679936.
+Terracord: [06/29/2021 12:57:40 -05:00] [Info] Server broadcast: Dev has teleported to dev2 aka omori
+Terracord: [06/29/2021 12:57:45 -05:00] [Info] Dev said: hornet
+Dev: hornet
+94.69.222.181:58221 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Terracord: [06/29/2021 12:57:52 -05:00] [Info] **:red_circle: dev2 aka omori has left the server.**
+Kicked dev2 aka omori for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/29/2021 12:57:56 -05:00] [Info] PsiKirb said: 3 worms
+PsiKirb: 3 worms
+Terracord: [06/29/2021 12:57:59 -05:00] [Info] PsiKirb said: 3 WORMS
+PsiKirb: 3 WORMS
+94.69.222.181:53235 is connecting...
+Terracord: [06/29/2021 12:58:00 -05:00] [Info] **:green_circle: omori has joined the server.**
+omori has joined.
+omori authenticated successfully as user: 663679335592493057.
+Terracord: [06/29/2021 12:58:25 -05:00] [Info] omori said: dev
+omori: dev
+Terracord: [06/29/2021 12:58:27 -05:00] [Info] omori said: can I have some loot
+omori: can I have some loot
+Terracord: [06/29/2021 12:58:28 -05:00] [Info] Dev said: ye
+Dev: ye
+Empranion executed: /playing.
+Terracord: [06/29/2021 12:58:47 -05:00] [Info] omori said: let get
+omori: let get
+Terracord: [06/29/2021 12:58:48 -05:00] [Info] omori said: eow
+omori: eow
+Terracord: [06/29/2021 12:58:58 -05:00] [Info] omori said: can  have a toch
+omori: can  have a toch
+82.15.210.146:53919 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked lipolo for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 13:00:02 -05:00] [Info] **:red_circle: lipolo has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/29/2021 13:00:14 -05:00] [Info] omori said: Arena
+omori: Arena
+Terracord: [06/29/2021 13:00:18 -05:00] [Info] omori said: also
+omori: also
+Terracord: [06/29/2021 13:00:21 -05:00] [Info] omori said: u got pots?
+omori: u got pots?
+94.69.222.181:53235 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked omori for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 13:00:36 -05:00] [Info] **:red_circle: omori has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+94.69.222.181:51359 is connecting...
+Terracord: [06/29/2021 13:00:43 -05:00] [Info] **:green_circle: Ns2 has joined the server.**
+Ns2 has joined.
+Ns2 authenticated successfully as user: 663679335592493057.
+Terracord: [06/29/2021 13:00:48 -05:00] [Info] Server broadcast: Skeletron has awoken!
+Terracord: [06/29/2021 13:00:51 -05:00] [Info] Ns2 said: Uh
+Ns2: Uh
+Terracord: [06/29/2021 13:00:53 -05:00] [Info] PsiKirb said: lol
+PsiKirb: lol
+Terracord: [06/29/2021 13:00:54 -05:00] [Info] Ns2 said: NO
+Ns2: NO
+Terracord: [06/29/2021 13:00:57 -05:00] [Info] Ns2 said: HE GOT TO HIM IRST
+Ns2: HE GOT TO HIM IRST
+94.69.222.181:51359 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Ns2 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 13:01:35 -05:00] [Info] **:red_circle: Ns2 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+94.69.222.181:53999 is connecting...
+Terracord: [06/29/2021 13:01:51 -05:00] [Info] **:green_circle: e has joined the server.**
+e has joined.
+e authenticated successfully as user: 663679335592493057.
+Terracord: [06/29/2021 13:02:08 -05:00] [Info] **:red_circle: Dev has left the server.**
+Dev has left.
+74.110.196.221:49900 is connecting...
+Terracord: [06/29/2021 13:02:11 -05:00] [Info] **:green_circle: Dev has joined the server.**
+Dev has joined.
+Dev authenticated successfully as user: 570187358683529217.
+94.69.222.181:53999 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked e for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 13:02:36 -05:00] [Info] **:red_circle: e has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+94.69.222.181:65045 is connecting...
+Terracord: [06/29/2021 13:02:48 -05:00] [Info] **:green_circle: e has joined the server.**
+e has joined.
+e authenticated successfully as user: 663679335592493057.
+Terracord: [06/29/2021 13:02:52 -05:00] [Info] e said: dev
+e: dev
+Terracord: [06/29/2021 13:02:54 -05:00] [Info] e said: get ur loot
+e: get ur loot
+Terracord: [06/29/2021 13:02:58 -05:00] [Info] e said: and let loot undergrouna
+e: and let loot undergrouna
+Terracord: [06/29/2021 13:03:11 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+Terracord: [06/29/2021 13:03:15 -05:00] [Info] e said: dev
+e: dev
+Terracord: [06/29/2021 13:03:16 -05:00] [Info] e said: join red
+e: join red
+Terracord: [06/29/2021 13:03:17 -05:00] [Info] Server broadcast: Skeletron has been defeated!
+Terracord: [06/29/2021 13:03:19 -05:00] [Info] e said: after eow
+e: after eow
+Terracord: [06/29/2021 13:03:21 -05:00] [Info] e said: let
+e: let
+Terracord: [06/29/2021 13:03:21 -05:00] [Info] e said: go
+e: go
+Terracord: [06/29/2021 13:03:22 -05:00] [Info] heroy_105 said: **[Chippy's Couch]**
+heroy_105: [Chippy's Couch]
+Terracord: [06/29/2021 13:03:25 -05:00] [Info] iskander said: nice
+iskander: nice
+Terracord: [06/29/2021 13:03:25 -05:00] [Info] PsiKirb said: YAY
+PsiKirb: YAY
+105.108.120.132:55452 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked iskander for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 13:03:37 -05:00] [Info] **:red_circle: iskander has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+94.69.222.181:65045 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked e for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 13:03:38 -05:00] [Info] **:red_circle: e has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+94.69.222.181:57077 is connecting...
+Terracord: [06/29/2021 13:03:52 -05:00] [Info] **:green_circle: e has joined the server.**
+e has joined.
+e authenticated successfully as user: 663679335592493057.
+105.108.120.132:55706 is connecting...
+Terracord: [06/29/2021 13:03:58 -05:00] [Info] **:green_circle: iskander has joined the server.**
+iskander has joined.
+iskander authenticated successfully as user: 855775526039453726.
+Terracord: [06/29/2021 13:04:20 -05:00] [Info] e said: dev
+e: dev
+Terracord: [06/29/2021 13:04:22 -05:00] [Info] e said: u got ur loot?
+e: u got ur loot?
+Terracord: [06/29/2021 13:04:23 -05:00] [Info] e said: im omori
+e: im omori
+Terracord: [06/29/2021 13:04:27 -05:00] [Info] Dev said: yeah
+Dev: yeah
+Terracord: [06/29/2021 13:04:32 -05:00] [Info] e said: k
+e: k
+Terracord: [06/29/2021 13:04:35 -05:00] [Info] e said: let loot undergorund
+e: let loot undergorund
+Terracord: [06/29/2021 13:04:37 -05:00] [Info] e said: or kill worm
+e: or kill worm
+Terracord: [06/29/2021 13:04:48 -05:00] [Info] Dev said: head underground
+Dev: head underground
+Terracord: [06/29/2021 13:04:51 -05:00] [Info] e said: help
+e: help
+Terracord: [06/29/2021 13:05:06 -05:00] [Info] e said: can I have some loot?
+e: can I have some loot?
+Terracord: [06/29/2021 13:05:07 -05:00] [Info] e said: NICE
+e: NICE
+Terracord: [06/29/2021 13:05:10 -05:00] [Info] e said: yees
+e: yees
+Terracord: [06/29/2021 13:05:41 -05:00] [Info] e said: can I have a pot
+e: can I have a pot
+Terracord: [06/29/2021 13:05:48 -05:00] [Info] e said: ty
+e: ty
+Terracord: [06/29/2021 13:07:08 -05:00] [Info] Dev said: Just mine down
+Dev: Just mine down
+Terracord: [06/29/2021 13:07:25 -05:00] [Info] heroy_105 said: **[Mythical Aqua Scepter]**
+heroy_105: [Mythical Aqua Scepter]
+Terracord: [06/29/2021 13:07:42 -05:00] [Info] e said: **[Hasty Musket]**
+e: [Hasty Musket]
+Terracord: [06/29/2021 13:07:44 -05:00] [Info] e said: WE GOT more
+e: WE GOT more
+Terracord: [06/29/2021 13:07:45 -05:00] [Info] e said: btw
+e: btw
+Terracord: [06/29/2021 13:07:48 -05:00] [Info] e said: that like worst item
+e: that like worst item
+Terracord: [06/29/2021 13:08:39 -05:00] [Info] e said: ruby
+e: ruby
+Terracord: [06/29/2021 13:08:43 -05:00] [Info] e said: we can do funi slime
+e: we can do funi slime
+Terracord: [06/29/2021 13:09:21 -05:00] [Info] e said: uhu
+e: uhu
+Terracord: [06/29/2021 13:09:40 -05:00] [Info] e said: yo
+e: yo
+Terracord: [06/29/2021 13:09:42 -05:00] [Info] e said: I can make
+e: I can make
+Terracord: [06/29/2021 13:09:43 -05:00] [Info] e said: ruby hook
+e: ruby hook
+Terracord: [06/29/2021 13:09:46 -05:00] [Info] e said: in 1 more ruby
+e: in 1 more ruby
+Terracord: [06/29/2021 13:09:49 -05:00] [Info] e said: do I make?
+e: do I make?
+Terracord: [06/29/2021 13:09:50 -05:00] [Info] e said: or
+e: or
+Terracord: [06/29/2021 13:10:04 -05:00] [Info] e said: topaz
+e: topaz
+Terracord: [06/29/2021 13:10:06 -05:00] [Info] e said: in 5 topaz
+e: in 5 topaz
+Terracord: [06/29/2021 13:11:53 -05:00] [Info] Dev said: I need to shapires for a hook
+Dev: I need to shapires for a hook
+Terracord: [06/29/2021 13:12:00 -05:00] [Info] e said: I need 1 ruby
+e: I need 1 ruby
+Terracord: [06/29/2021 13:12:02 -05:00] [Info] e said: or 5 topaz
+e: or 5 topaz
+Terracord: [06/29/2021 13:12:38 -05:00] [Info] Dev said: We should explore on our own
+Dev: We should explore on our own
+Terracord: [06/29/2021 13:13:02 -05:00] [Info] PsiKirb said: **[Demon Bow]**
+PsiKirb: [Demon Bow]
+Terracord: [06/29/2021 13:13:13 -05:00] [Info] e said: nice
+e: nice
+Terracord: [06/29/2021 13:13:17 -05:00] [Info] e said: but we got something op
+e: but we got something op
+Terracord: [06/29/2021 13:13:22 -05:00] [Info] PsiKirb said: musket
+PsiKirb: musket
+Terracord: [06/29/2021 13:13:25 -05:00] [Info] e said: no
+e: no
+Terracord: [06/29/2021 13:13:25 -05:00] [Info] PsiKirb said: right?
+PsiKirb: right?
+Terracord: [06/29/2021 13:13:26 -05:00] [Info] e said: boomstick
+e: boomstick
+Terracord: [06/29/2021 13:13:31 -05:00] [Info] PsiKirb said:  o w
+PsiKirb:  o w
+Terracord: [06/29/2021 13:14:17 -05:00] [Info] PsiKirb said: GRACE IS OVER
+PsiKirb: GRACE IS OVER
+Terracord: [06/29/2021 13:14:17 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/29/2021 13:14:17 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+173.168.136.13:58221 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Goldblock for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 13:15:07 -05:00] [Info] **:red_circle: Goldblock has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/29/2021 13:15:18 -05:00] [Info] <Goldblock@Discord> come on
+<Goldblock@Discord> come on
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playingTerracord: [06/29/2021 13:15:47 -05:00] [Info] e said: we do boss?
+e: we do boss?
+
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:15:49 -05:00] [Info] PsiKirb said: hunt for cascade
+PsiKirb: hunt for cascade
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:15:52 -05:00] [Info] Dev said: make house
+Dev: make house
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:18:08 -05:00] [Info] PsiKirb said: **[Shark Bait]** baby shark dododododo
+PsiKirb: [Shark Bait] baby shark dododododo
+playiTerracord: [06/29/2021 13:18:09 -05:00] [Info] e said: dev
+e: dev
+ng
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:18:12 -05:00] [Info] e said: how many bullets u got
+e: how many bullets u got
+Terracord: [06/29/2021 13:18:12 -05:00] [Info] Dev said: ye
+Dev: ye
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:18:16 -05:00] [Info] Dev said: 51
+Dev: 51
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:18:19 -05:00] [Info] e said: k
+e: k
+playiTerracord: [06/29/2021 13:18:20 -05:00] [Info] PsiKirb said: **[Teleportation Potion (2)]** will i die?
+PsiKirb: [Teleportation Potion (2)] will i die?
+ng
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:18:23 -05:00] [Info] iskander said: no
+iskander: no
+Terracord: [06/29/2021 13:18:24 -05:00] [Info] PsiKirb said: nvm
+PsiKirb: nvm
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:18:25 -05:00] [Info] Server broadcast: Frederick the Merchant has arrived!
+Terracord: [06/29/2021 13:18:25 -05:00] [Info] Dev said: maybe
+Dev: maybe
+Terracord: [06/29/2021 13:18:25 -05:00] [Info] iskander said: can't be used tho
+iskander: can't be used tho
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playinTerracord: [06/29/2021 13:18:28 -05:00] [Info] PsiKirb said: cant even use them
+PsiKirb: cant even use them
+g
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:18:31 -05:00] [Info] e said: uhh
+e: uhh
+Terracord: [06/29/2021 13:18:32 -05:00] [Info] e said: dev
+e: dev
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:18:37 -05:00] [Info] e said: they all know we here now
+e: they all know we here now
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:18:47 -05:00] [Info] e said: LEAVE
+e: LEAVE
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:18:49 -05:00] [Info] e said: ONLY 2 IN PARTY
+e: ONLY 2 IN PARTY
+Terracord: [06/29/2021 13:18:49 -05:00] [Info] Dev said: can't do that
+Dev: can't do that
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:18:56 -05:00] [Info] iskander said: checking location
+iskander: checking location
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:18:57 -05:00] [Info] Dev said: cheating
+Dev: cheating
+Terracord: [06/29/2021 13:18:58 -05:00] [Info] e said: ISKANDER
+e: ISKANDER
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playingTerracord: [06/29/2021 13:19:03 -05:00] [Info] e said: dev
+e: dev
+
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:19:04 -05:00] [Info] iskander said: god damn
+iskander: god damn
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:19:17 -05:00] [Info] Dev said: guess we leave
+Dev: guess we leave
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:19:19 -05:00] [Info] <Blazingfury64@Discord> Bruh
+<Blazingfury64@Discord> Bruh
+Terracord: [06/29/2021 13:19:20 -05:00] [Info] e said: let hunt him down
+e: let hunt him down
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:19:30 -05:00] [Info] e said: we need get guns delaer
+e: we need get guns delaer
+Terracord: [06/29/2021 13:19:30 -05:00] [Info] <Blazingfury64@Discord> Imagine hax
+<Blazingfury64@Discord> Imagine hax
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:19:39 -05:00] [Info] e said: dev
+e: dev
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:19:41 -05:00] [Info] e said: joinred
+e: joinred
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playingTerracord: [06/29/2021 13:20:00 -05:00] [Info] e said: I need some armor
+e: I need some armor
+
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:20:02 -05:00] [Info] Dev said: we wait
+Dev: we wait
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:20:05 -05:00] [Info] PsiKirb said: why am i having fun
+PsiKirb: why am i having fun
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playingTerracord: [06/29/2021 13:20:09 -05:00] [Info] e said: ima go get
+e: ima go get
+
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:20:17 -05:00] [Info] <Blazingfury64@Discord> Iskander unless you are explicetly teaming dont join a team >:/
+<Blazingfury64@Discord> Iskander unless you are explicetly teaming dont join a team >:/
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:20:28 -05:00] [Info] iskander said: cringe cope rules
+iskander: cringe cope rules
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:20:32 -05:00] [Info] Dev said: And only 2 in a team at a time
+Dev: And only 2 in a team at a time
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:20:42 -05:00] [Info] <Blazingfury64@Discord> Its not stated but yeah dont do that
+<Blazingfury64@Discord> Its not stated but yeah dont do that
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:20:49 -05:00] [Info] iskander said: its not stated?
+iskander: its not stated?
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:20:52 -05:00] [Info] PsiKirb said: it makes it unfair
+PsiKirb: it makes it unfair
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:20:56 -05:00] [Info] Dev said: It is stated
+Dev: It is stated
+Terracord: [06/29/2021 13:20:56 -05:00] [Info] Server broadcast: Lorraine the Nurse has arrived!
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: plTerracord: [06/29/2021 13:21:01 -05:00] [Info] e said: WE NEED A GUNS DEALER
+e: WE NEED A GUNS DEALER
+aying
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:21:13 -05:00] [Info] iskander said: stated where
+iskander: stated where
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:21:23 -05:00] [Info] Dev said: in main THC discord
+Dev: in main THC discord
+playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (6/69)
+PsiKirb, e, Dev, iskander, Empranion, heroy_105
+: 74.110.196.221:49900 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Dev for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 13:21:31 -05:00] [Info] **:red_circle: Dev has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (5/69)
+PsiKirb, e, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:21:32 -05:00] [Info] iskander said: main or practice?
+iskander: main or practice?
+playing
+Server executed: /playing.
+Online Players (5/69)
+PsiKirb, e, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+PsiKirb, e, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+PsiKirb, e, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+PsiKirb, e, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:21:42 -05:00] [Info] <Devalous@Discord> Fucking loser
+<Devalous@Discord> Fucking loser
+playing
+Server executed: /playing.
+Online Players (5/69)
+PsiKirb, e, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+PsiKirb, e, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:21:47 -05:00] [Info] e said: DEV
+e: DEV
+playing
+Server executed: /playing.
+Online Players (5/69)
+PsiKirb, e, iskander, Empranion, heroy_105
+: playiTerracord: [06/29/2021 13:21:50 -05:00] [Info] e said: WHTAT HAPPED
+e: WHTAT HAPPED
+ng
+Server executed: /playing.
+Online Players (5/69)
+PsiKirb, e, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+PsiKirb, e, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:21:53 -05:00] [Info] <Devalous@Discord> having to look at our team to find us
+<Devalous@Discord> having to look at our team to find us
+Terracord: [06/29/2021 13:21:53 -05:00] [Info] PsiKirb said: chill
+PsiKirb: chill
+playing
+Server executed: /playing.
+Online Players (5/69)
+PsiKirb, e, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+PsiKirb, e, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+PsiKirb, e, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+PsiKirb, e, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+PsiKirb, e, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+PsiKirb, e, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+PsiKirb, e, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+PsiKirb, e, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+PsiKirb, e, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (5/69)
+PsiKirb, e, iskander, Empranion, heroy_105
+: p94.69.222.181:57077 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Terracord: [06/29/2021 13:22:16 -05:00] [Info] **:red_circle: e has left the server.**
+Kicked e for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+laError on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+ying
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:22:20 -05:00] [Info] iskander said: too much seething
+iskander: too much seething
+playiTerracord: [06/29/2021 13:22:20 -05:00] [Info] <Devalous@Discord> wait nevermind it was heroy
+<Devalous@Discord> wait nevermind it was heroy
+ng
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playTerracord: [06/29/2021 13:22:22 -05:00] [Info] iskander said: unhealthy
+iskander: unhealthy
+ing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:22:25 -05:00] [Info] <Devalous@Discord> I think
+<Devalous@Discord> I think
+playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:22:34 -05:00] [Info] <Omori@Discord> dev it ur fault for making houses on surface
+<Omori@Discord> dev it ur fault for making houses on surface
+playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playTerracord: [06/29/2021 13:22:38 -05:00] [Info] <Devalous@Discord> True
+<Devalous@Discord> True
+ing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:22:41 -05:00] [Info] <Blazingfury64@Discord> F
+<Blazingfury64@Discord> F
+playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:22:43 -05:00] [Info] <Devalous@Discord> I'll take that L
+<Devalous@Discord> I'll take that L
+playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: pTerracord: [06/29/2021 13:22:46 -05:00] [Info] <Devalous@Discord> ggd
+<Devalous@Discord> ggd
+laying
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playingTerracord: [06/29/2021 13:22:49 -05:00] [Info] <Devalous@Discord> ggs
+<Devalous@Discord> ggs
+
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playiTerracord: [06/29/2021 13:23:06 -05:00] [Info] <Devalous@Discord> At least I'm getting better
+<Devalous@Discord> At least I'm getting better
+ng
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:23:21 -05:00] [Info] heroy_105 said: at dying
+pheroy_105: at dying
+laying
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:23:25 -05:00] [Info] heroy_105 said: jk
+heroy_105: jk
+playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:23:32 -05:00] [Info] <Blazingfury64@Discord> Ow
+<Blazingfury64@Discord> Ow
+playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:23:34 -05:00] [Info] <Blazingfury64@Discord> rude
+<Blazingfury64@Discord> rude
+playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:23:35 -05:00] [Info] <Devalous@Discord> LMAO
+<Devalous@Discord> LMAO
+playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:23:42 -05:00] [Info] <Devalous@Discord> True
+<Devalous@Discord> True
+playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: Terracord: [06/29/2021 13:23:51 -05:00] [Info] <Devalous@Discord> I died to a player not the envoirment
+<Devalous@Discord> I died to a player not the envoirment
+playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+PsiKirb, iskander, Empranion, heroy_105
+: 105.108.120.132:55706 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked iskander for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 13:24:14 -05:00] [Info] **:red_circle: iskander has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: Terracord: [06/29/2021 13:24:22 -05:00] [Info] heroy_105 said: very unfortunate
+heroy_105: very unfortunate
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: Terracord: [06/29/2021 13:24:24 -05:00] [Info] <Devalous@Discord> whos left?
+<Devalous@Discord> whos left?
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: Terracord: [06/29/2021 13:24:57 -05:00] [Info] <iskander@Discord> hi
+<iskander@Discord> hi
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: Terracord: [06/29/2021 13:25:01 -05:00] [Info] heroy_105 said: iskander decided to unlive
+heroy_105: iskander decided to unlive
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: plheroy_105 summoned the Eye of Cthulhu!
+Terracord: [06/29/2021 13:25:06 -05:00] [Info] Server broadcast: Eye of Cthulhu has awoken!
+aying
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: Terracord: [06/29/2021 13:25:33 -05:00] [Info] <iskander@Discord> Attachment: (File: unknown.png) (URL: https://cdn.discordapp.com/attachments/856021921757528134/859499859076448266/unknown.png) (Message: unreal lag)
+<iskander@Discord> Attachment: (File: unknown.png) (URL: https://cdn.discordapp.com/attachments/856021921757528134/859499859076448266/unknown.png) (Message: unreal lag)
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: Terracord: [06/29/2021 13:25:45 -05:00] [Info] Server broadcast: Eye of Cthulhu has been defeated!
+Terracord: [06/29/2021 13:25:45 -05:00] [Info] Empranion said: i am the king!
+Empranion: i am the king!
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: heroy_105 executed: /who.
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: Terracord: [06/29/2021 13:26:35 -05:00] [Info] Server broadcast: Screams echo around you...
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: Terracord: [06/29/2021 13:27:11 -05:00] [Info] Server broadcast: Eater of Worlds has awoken!
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playingTerracord: [06/29/2021 13:27:38 -05:00] [Info] Server broadcast: Eater of Worlds has been defeated!
+
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: Terracord: [06/29/2021 13:29:04 -05:00] [Info] Server broadcast: A meteorite has landed!
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: Terracord: [06/29/2021 13:29:37 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: plaTerracord: [06/29/2021 13:29:57 -05:00] [Info] Empranion said: oops!
+Empranion: oops!
+ying
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: Terracord: [06/29/2021 13:30:03 -05:00] [Info] heroy_105 said: ?
+heroy_105: ?
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: plaTerracord: [06/29/2021 13:30:30 -05:00] [Info] Server broadcast: Screams echo around you...
+ying
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: Terracord: [06/29/2021 13:31:11 -05:00] [Info] Server broadcast: Eater of Worlds has awoken!
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: Terracord: [06/29/2021 13:31:56 -05:00] [Info] Server broadcast: Eater of Worlds has been defeated!
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: plaTerracord: [06/29/2021 13:33:29 -05:00] [Info] <Nathan8er77@Discord> EMP NEEDS A PEE
+<Nathan8er77@Discord> EMP NEEDS A PEE
+ying
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: Terracord: [06/29/2021 13:33:42 -05:00] [Info] heroy_105 said: i have pee gun
+heroy_105: i have pee gun
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: Terracord: [06/29/2021 13:33:44 -05:00] [Info] Empranion said: im gonna pee real quick so if you see someone afk im begging you to not kill
+Empranion: im gonna pee real quick so if you see someone afk im begging you to not kill
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playingTerracord: [06/29/2021 13:33:47 -05:00] [Info] Empranion said: i will be 1 minute
+Empranion: i will be 1 minute
+
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: Terracord: [06/29/2021 13:33:52 -05:00] [Info] heroy_105 said: oh k
+heroy_105: oh k
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: Terracord: [06/29/2021 13:33:57 -05:00] [Info] PsiKirb said: if i see you, i wont kill youj
+PsiKirb: if i see you, i wont kill youj
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playinTerracord: [06/29/2021 13:34:35 -05:00] [Info] Empranion said: im back
+Empranion: im back
+g
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: Terracord: [06/29/2021 13:35:07 -05:00] [Info] PsiKirb said: has anyone died yet?
+PsiKirb: has anyone died yet?
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: Terracord: [06/29/2021 13:35:16 -05:00] [Info] heroy_105 said: uhm.....
+heroy_105: uhm.....
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: Terracord: [06/29/2021 13:35:51 -05:00] [Info] Server broadcast: Marquis the Arms Dealer has arrived!
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: Terracord: [06/29/2021 13:36:19 -05:00] [Info] PsiKirb said: 24 mins till THC 33 starts
+PsiKirb: 24 mins till THC 33 starts
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: plaTerracord: [06/29/2021 13:36:25 -05:00] [Info] PsiKirb said: we need to end this quick
+PsiKirb: we need to end this quick
+ying
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playiTerracord: [06/29/2021 13:36:29 -05:00] [Info] Empranion said: but
+Empranion: but
+ng
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: Terracord: [06/29/2021 13:36:34 -05:00] [Info] Empranion said: i dont have the role
+Empranion: i dont have the role
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: Terracord: [06/29/2021 13:36:42 -05:00] [Info] PsiKirb said: what role?
+PsiKirb: what role?
+playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+PsiKirb, Empranion, heroy_105
+: 92.7.7.93:57596 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Empranion for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 13:36:49 -05:00] [Info] **:red_circle: Empranion has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:36:54 -05:00] [Info] heroy_105 said: gotem
+heroy_105: gotem
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:38:07 -05:00] [Info] <Chookagong@Discord> yesterday i could of easily won if i didnt have to go
+<Chookagong@Discord> yesterday i could of easily won if i didnt have to go
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:38:18 -05:00] [Info] <Chookagong@Discord> i had full gold armor with an emerald staff
+<Chookagong@Discord> i had full gold armor with an emerald staff
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:38:36 -05:00] [Info] <iskander@Discord> thats not enough to win
+<iskander@Discord> thats not enough to win
+Terracord: [06/29/2021 13:38:37 -05:00] [Info] <iskander@Discord> at all
+<iskander@Discord> at all
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:38:43 -05:00] [Info] <Chookagong@Discord> y not
+<Chookagong@Discord> y not
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:38:46 -05:00] [Info] heroy_105 said: so emp
+heroy_105: so emp
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playiTerracord: [06/29/2021 13:38:56 -05:00] [Info] heroy_105 said: do u want a gun?
+heroy_105: do u want a gun?
+ng
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: plaTerracord: [06/29/2021 13:39:06 -05:00] [Info] <iskander@Discord> emerald staff is far too weak compared to any latestage broadsword
+<iskander@Discord> emerald staff is far too weak compared to any latestage broadsword
+ying
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playiTerracord: [06/29/2021 13:39:24 -05:00] [Info] heroy_105 said: mage is bad
+heroy_105: mage is bad
+ng
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:39:30 -05:00] [Info] <Chookagong@Discord> you can easily counter any sword
+<Chookagong@Discord> you can easily counter any sword
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:39:32 -05:00] [Info] <Chookagong@Discord> just dont get close
+<Chookagong@Discord> just dont get close
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: pTerracord: [06/29/2021 13:39:37 -05:00] [Info] PsiKirb said: golden shower is ok in pVP
+PsiKirb: golden shower is ok in pVP
+laying
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playTerracord: [06/29/2021 13:39:57 -05:00] [Info] <iskander@Discord> hooks exist
+<iskander@Discord> hooks exist
+ing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:39:57 -05:00] [Info] <iskander@Discord> heroy DAS RITE
+<iskander@Discord> heroy DAS RITE
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:40:44 -05:00] [Info] heroy_105 said: uh
+heroy_105: uh
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playingTerracord: [06/29/2021 13:40:47 -05:00] [Info] heroy_105 said: behold
+heroy_105: behold
+
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:40:51 -05:00] [Info] heroy_105 said: **[Spinal Tap]**
+heroy_105: [Spinal Tap]
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:40:55 -05:00] [Info] PsiKirb said: nice
+PsiKirb: nice
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: plaTerracord: [06/29/2021 13:41:02 -05:00] [Info] <iskander@Discord> is it good with obsidian?
+<iskander@Discord> is it good with obsidian?
+ying
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playTerracord: [06/29/2021 13:41:07 -05:00] [Info] PsiKirb said: ye
+PsiKirb: ye
+ing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:41:10 -05:00] [Info] heroy_105 said: emp will feel
+heroy_105: emp will feel
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:41:12 -05:00] [Info] PsiKirb said: long speed
+PsiKirb: long speed
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:41:30 -05:00] [Info] <iskander@Discord> ye ik long speed but is it good or better than night's edge?
+<iskander@Discord> ye ik long speed but is it good or better than night's edge?
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:41:43 -05:00] [Info] PsiKirb said: range better, damage worse
+PsiKirb: range better, damage worse
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:42:16 -05:00] [Info] <iskander@Discord> considering that you are very likely to have to fight upclose and with high defense players
+<iskander@Discord> considering that you are very likely to have to fight upclose and with high defense players
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:42:20 -05:00] [Info] <iskander@Discord> it is not that practical
+<iskander@Discord> it is not that practical
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:42:27 -05:00] [Info] PsiKirb said: **[Wizard Hat]** time
+PsiKirb: [Wizard Hat] time
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:42:29 -05:00] [Info] PsiKirb said: tim
+PsiKirb: tim
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:43:23 -05:00] [Info] PsiKirb said: **[Wizard Hat]** tim 2
+PsiKirb: [Wizard Hat] tim 2
+playingTerracord: [06/29/2021 13:43:25 -05:00] [Info] PsiKirb said: lol
+PsiKirb: lol
+
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playingheroy_105 executed: /who.
+
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:43:42 -05:00] [Info] <iskander@Discord> wtf
+<iskander@Discord> wtf
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:44:28 -05:00] [Info] Server broadcast: PsiKirb has defeated the 50th Cave Bat!
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playTerracord: [06/29/2021 13:44:37 -05:00] [Info] heroy_105 said: how unfortunate
+heroy_105: how unfortunate
+ing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playiTerracord: [06/29/2021 13:46:37 -05:00] [Info] heroy_105 said: just realized that i killed emp
+heroy_105: just realized that i killed emp
+ng
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:48:08 -05:00] [Info] PsiKirb said: can you spawn the eye underground?
+PsiKirb: can you spawn the eye underground?
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:48:19 -05:00] [Info] heroy_105 said: ye
+heroy_105: ye
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: PsiKirb summoned the Eye of Cthulhu!
+Terracord: [06/29/2021 13:48:39 -05:00] [Info] Server broadcast: Eye of Cthulhu has awoken!
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:51:10 -05:00] [Info] Server broadcast: Eye of Cthulhu has been defeated!
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: Terracord: [06/29/2021 13:51:25 -05:00] [Info] PsiKirb said: that took long then i would like to sauy
+PsiKirb: that took long then i would like to sauy
+playing
+Server executed: /playing.
+Online Players (2/69)
+PsiKirb, heroy_105
+: 174.55.16.44:38405 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked PsiKirb for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 13:51:26 -05:00] [Info] **:red_circle: PsiKirb has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (1/69)
+heroy_105
+:  

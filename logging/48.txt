@@ -1,0 +1,61 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7777
+Type 'help' for a list of commands.
+
+Terracord: [06/25/2021 11:23:12 -05:00] [Info] Connecting to Discord...
+Terracord: [06/25/2021 11:23:12 -05:00] [Info] 11:23:12 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/25/2021 11:23:13 -05:00] [Info] 11:23:13 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+:
+:
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: Server started
+playingTerracord: [06/25/2021 11:23:14 -05:00] [Info] 11:23:14 Gateway     Connected
+
+Server executed: /playing.
+Online Players (0/69)
+: Terracord: [06/25/2021 11:23:15 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/25/2021 11:23:15 -05:00] [Info] 11:23:15 Gateway     Ready
+playing
+Server executed: /playing.
+Online Players (0/69)
+: 191.189.24.102:7316 is connecting...
+playiTerracord: [06/25/2021 11:23:18 -05:00] [Info] **:green_circle: Rod of discord has joined the server.**
+ng
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+:
+:
+:
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: Rod of discord has joined.
+playing
+Server executed: /playing.
+Online Players (1/69)
+Rod of discord
+:

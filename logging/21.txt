@@ -1,0 +1,4006 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7777
+Type 'help' for a list of commands.
+
+Terracord: [06/21/2021 16:45:39 -05:00] [Info] Connecting to Discord...
+Terracord: [06/21/2021 16:45:39 -05:00] [Info] 16:45:39 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/21/2021 16:45:40 -05:00] [Info] 16:45:40 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 10m
+Server executed: /grace begin 10m.
+Terracord: [06/21/2021 16:45:40 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 244501248861011968
+Account removed successfully.
+Server successfully deleted account: 244501248861011968.
+: user add 244501248861011968 sfq5 default
+Server started
+Account 244501248861011968 has been added to group default!
+Server added Account 244501248861011968 to group default
+: user del 352243064179392512
+Account removed successfully.
+Server successfully deleted account: 352243064179392512.
+: user add 352243064179392512 ncjh default
+Account 352243064179392512 has been added to group default!
+Server added Account 352243064179392512 to group default
+: user del 782433450312466433
+Account removed successfully.
+Server successfully deleted account: 782433450312466433.
+: user add 782433450312466433 asqk default
+Account 782433450312466433 has been added to group default!
+Server added Account 782433450312466433 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 ev4v default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 550818943078760487
+Account removed successfully.
+Server successfully deleted account: 550818943078760487.
+: user add 550818943078760487 gj79 default
+Account 550818943078760487 has been added to group default!
+Server added Account 550818943078760487 to group default
+: user del 463897258136698885
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '463897258136698885' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 463897258136698885 qot2 default
+Account 463897258136698885 has been added to group default!
+Server added Account 463897258136698885 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Terracord: [06/21/2021 16:45:41 -05:00] [Info] 16:45:41 Gateway     Connected
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Terracord: [06/21/2021 16:45:41 -05:00] [Info] Relay available. Connected to Discord as DontKickMe#5026.
+Terracord: [06/21/2021 16:45:41 -05:00] [Info] 16:45:41 Gateway     Ready
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+:
+: 192.136.208.53:62560 is connecting...
+user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: Terracord: [06/21/2021 16:45:47 -05:00] [Info] **:green_circle: Random Krem has joined the server.**
+Random Krem has joined.
+user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: Random Krem authenticated successfully as user: 782433450312466433.
+user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: Terracord: [06/21/2021 16:46:01 -05:00] [Info] <TheCocoaGamer@Discord> is the login working?
+<TheCocoaGamer@Discord> is the login working?
+user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: 188.127.160.131:55614 is connecting...
+Terracord: [06/21/2021 16:46:08 -05:00] [Info] **:green_circle: Alas: o has joined the server.**
+Alas: o has joined.
+Terracord: [06/21/2021 16:46:10 -05:00] [Info] Random Krem said: for me
+Random Krem: for me
+user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: Alas: o authenticated successfully as user: 365534393483395092.
+user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: Alas: o authenticated successfully as user: 365534393483395092.
+user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: 68.9.107.59:58428 is connecting...
+Terracord: [06/21/2021 16:46:26 -05:00] [Info] **:green_circle: captianbg has joined the server.**
+captianbg has joined.
+Alas: o authenticated successfully as user: 365534393483395092.
+user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: captianbg authenticated successfully as user: 550818943078760487.
+user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: Terracord: [06/21/2021 16:46:51 -05:00] [Info] Alas: o said: ??????????
+Alas: o: ??????????
+Terracord: [06/21/2021 16:46:52 -05:00] [Info] <TheCocoaGamer@Discord> ok phew
+<TheCocoaGamer@Discord> ok phew
+user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: Terracord: [06/21/2021 16:46:58 -05:00] [Info] captianbg said: yay! it worked
+captianbg: yay! it worked
+user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: Alas: o authenticated successfully as user: 365534393483395092.
+user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: Terracord: [06/21/2021 16:47:04 -05:00] [Info] <TheCocoaGamer@Discord> okkkk
+<TheCocoaGamer@Discord> okkkk
+user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: Terracord: [06/21/2021 16:47:10 -05:00] [Info] <TheCocoaGamer@Discord> theres only two probs now
+<TheCocoaGamer@Discord> theres only two probs now
+user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: Terracord: [06/21/2021 16:47:17 -05:00] [Info] <TheCocoaGamer@Discord> it gets stuck on the last login and keeps adding it
+<TheCocoaGamer@Discord> it gets stuck on the last login and keeps adding it
+user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: Terracord: [06/21/2021 16:47:20 -05:00] [Info] <TheCocoaGamer@Discord> and it doesnt dm
+<TheCocoaGamer@Discord> and it doesnt dm
+user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: Terracord: [06/21/2021 16:47:24 -05:00] [Info] <TheCocoaGamer@Discord> but at least the server works
+<TheCocoaGamer@Discord> but at least the server works
+user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: Terracord: [06/21/2021 16:47:46 -05:00] [Info] captianbg said: hehehe
+captianbg: hehehe
+46.39.45.139:6928 is connecting...
+Terracord: [06/21/2021 16:47:51 -05:00] [Info] **:green_circle: heroy_105 has joined the server.**
+heroy_105 has joined.
+heroy_105 authenticated successfully as user: 244501248861011968.
+Terracord: [06/21/2021 16:48:18 -05:00] [Info] **:red_circle: Alas: o has left the server.**
+Alas: o has left.
+188.127.160.131:55619 is connecting...
+Terracord: [06/21/2021 16:48:24 -05:00] [Info] **:green_circle: Alas: o has joined the server.**
+Alas: o has joined.
+Alas: o authenticated successfully as user: 365534393483395092.
+Terracord: [06/21/2021 16:48:48 -05:00] [Info] <TheCocoaGamer@Discord> ok glad u loged in
+<TheCocoaGamer@Discord> ok glad u loged in
+Terracord: [06/21/2021 16:48:50 -05:00] [Info] <TheCocoaGamer@Discord> logged
+<TheCocoaGamer@Discord> logged
+98.223.70.210:63706 is connecting...
+Terracord: [06/21/2021 16:49:39 -05:00] [Info] **:green_circle: yikes has joined the server.**
+yikes has joined.
+Terracord: [06/21/2021 16:49:48 -05:00] [Info] **:red_circle: yikes has left the server.**
+yikes has left.
+188.127.160.131:55619 was booted: Kicked: You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.
+Kicked Alas: o for : 'You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.'
+Terracord: [06/21/2021 16:49:49 -05:00] [Info] **:red_circle: Alas: o has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+188.127.160.131:55622 is connecting...
+Terracord: [06/21/2021 16:50:08 -05:00] [Info] **:green_circle: Alasooo has joined the server.**
+Alasooo has joined.
+Alasooo authenticated successfully as user: 365534393483395092.
+98.223.70.210:63725 is connecting...
+Terracord: [06/21/2021 16:50:16 -05:00] [Info] **:green_circle: yikes has joined the server.**
+yikes has joined.
+yikes authenticated successfully as user: 463897258136698885.
+user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 ela4 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: Alasooo authenticated successfully as user: 365534393483395092.
+Terracord: [06/21/2021 16:51:28 -05:00] [Info] <TheCocoaGamer@Discord> alasoo ima try to fix it, but do note you might lose your stuff
+<TheCocoaGamer@Discord> alasoo ima try to fix it, but do note you might lose your stuff
+Terracord: [06/21/2021 16:51:33 -05:00] [Info] <TheCocoaGamer@Discord> wait ima sacrifice myself
+<TheCocoaGamer@Discord> wait ima sacrifice myself
+Terracord: [06/21/2021 16:51:34 -05:00] [Info] Alasooo said: nono
+Alasooo: nono
+Terracord: [06/21/2021 16:51:35 -05:00] [Info] <TheCocoaGamer@Discord> dw
+<TheCocoaGamer@Discord> dw
+Terracord: [06/21/2021 16:51:38 -05:00] [Info] Alasooo said: already fixed
+Alasooo: already fixed
+Terracord: [06/21/2021 16:51:40 -05:00] [Info] Alasooo said: kinda
+Alasooo: kinda
+68.9.107.59:58428 was booted: Kicked: You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.
+Kicked captianbg for : 'You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.'
+Terracord: [06/21/2021 16:51:53 -05:00] [Info] **:red_circle: captianbg has left the server.**
+Terracord: [06/21/2021 16:51:53 -05:00] [Info] Server broadcast: captianbg let their arms get torn off by Poison Dart.
+Terracord: [06/21/2021 16:52:29 -05:00] [Info] <TheCocoaGamer@Discord> no its not, i turned off the bot and if i turn it on the error happens. for some reason it says theres no accs to make but it loops on making the last acc
+<TheCocoaGamer@Discord> no its not, i turned off the bot and if i turn it on the error happens. for some reason it says theres no accs to make but it loops on making the last acc
+Terracord: [06/21/2021 16:52:39 -05:00] [Info] Alasooo said: oh
+Alasooo: oh
+Terracord: [06/21/2021 16:52:51 -05:00] [Info] <TheCocoaGamer@Discord> and since it deletes the acc first thats why it said you werent logged in
+<TheCocoaGamer@Discord> and since it deletes the acc first thats why it said you werent logged in
+Terracord: [06/21/2021 16:52:54 -05:00] [Info] Alasooo said: d
+Alasooo: d
+Terracord: [06/21/2021 16:52:59 -05:00] [Info] <TheCocoaGamer@Discord> it basically deleted your acc as soon as you got logged in
+<TheCocoaGamer@Discord> it basically deleted your acc as soon as you got logged in
+Terracord: [06/21/2021 16:53:04 -05:00] [Info] <TheCocoaGamer@Discord> and then made a new one
+<TheCocoaGamer@Discord> and then made a new one
+heroy_105 executed: /playing.
+Terracord: [06/21/2021 16:53:46 -05:00] [Info] <TheCocoaGamer@Discord> also reacting on the previous message works what
+<TheCocoaGamer@Discord> also reacting on the previous message works what
+Terracord: [06/21/2021 16:53:52 -05:00] [Info] <TheCocoaGamer@Discord> im hoping its bc i already reacted
+<TheCocoaGamer@Discord> im hoping its bc i already reacted
+Terracord: [06/21/2021 16:53:55 -05:00] [Info] <TheCocoaGamer@Discord> bc thats not epic
+<TheCocoaGamer@Discord> bc thats not epic
+Terracord: [06/21/2021 16:55:40 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/21/2021 16:55:40 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Random Krem, Alasooo, heroy_105, yikes
+: playi188.127.160.131:55622 was booted: Kicked: You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.
+Kicked Alasooo for : 'You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.'
+nTerracord: [06/21/2021 17:01:13 -05:00] [Info] **:red_circle: Alasooo has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+g
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: Terracord: [06/21/2021 17:08:59 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: Terracord: [06/21/2021 17:10:24 -05:00] [Info] Server broadcast: Screams echo around you...
+playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: Terracord: [06/21/2021 17:13:26 -05:00] [Info] Server broadcast: Brain of Cthulhu has awoken!
+playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: Terracord: [06/21/2021 17:13:58 -05:00] [Info] yikes said: hey
+yikes: hey
+playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: Terracord: [06/21/2021 17:15:57 -05:00] [Info] Server broadcast: Brain of Cthulhu has been defeated!
+playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playingTerracord: [06/21/2021 17:18:06 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Random Krem, heroy_105, yikes
+: playing98.223.70.210:63725 was booted: Kicked: You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.
+Kicked yikes for : 'You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.'
+Terracord: [06/21/2021 17:18:24 -05:00] [Info] **:red_circle: yikes has left the server.**
+Terracord: [06/21/2021 17:18:24 -05:00] [Info] Server broadcast: yikes was brutally dissected by Blood Crawler.
+
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playRandom Krem executed: /playing.
+ing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: heroy_105 summoned the Eye of Cthulhu!
+Terracord: [06/21/2021 17:21:06 -05:00] [Info] Server broadcast: Eye of Cthulhu has awoken!
+playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: Terracord: [06/21/2021 17:22:32 -05:00] [Info] Server broadcast: Eye of Cthulhu has been defeated!
+playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: Random Krem summoned the Eye of Cthulhu!
+Terracord: [06/21/2021 17:24:32 -05:00] [Info] Server broadcast: Eye of Cthulhu has awoken!
+playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playiTerracord: [06/21/2021 17:24:35 -05:00] [Info] Server broadcast: Skeletron has awoken!
+ng
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: Terracord: [06/21/2021 17:25:31 -05:00] [Info] Server broadcast: A meteorite has landed!
+playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: Terracord: [06/21/2021 17:26:22 -05:00] [Info] Server broadcast: Skeletron has been defeated!
+playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Random Krem, heroy_105
+: playing192.136.208.53:62560 was booted: Kicked: You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.
+Kicked Random Krem for : 'You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.'
+Terracord: [06/21/2021 17:30:26 -05:00] [Info] **:red_circle: Random Krem has left the server.**
+Terracord: [06/21/2021 17:30:26 -05:00] [Info] Server broadcast: Random Krem was cut down the middle.
+
+Server executed: /playing.
+Online Players (1/69)
+heroy_105
+:

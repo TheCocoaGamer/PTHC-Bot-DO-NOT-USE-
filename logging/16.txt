@@ -1,0 +1,7289 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7777
+Type 'help' for a list of commands.
+
+: grace begin 30m
+Server executed: /grace begin 30m.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: Server started
+188.127.170.93:54761 is connecting...
+76.92.134.227:55138 is connecting...
+178.76.157.175:55200 is connecting...
+Alaso2 has joined.
+catus has joined.
+24.0.9.149:59986 is connecting...
+Blazingfury64 has joined.
+sleepy ttrept has joined.
+46.39.45.139:28975 is connecting...
+heroy_105 has joined.
+sleepy ttrept: hi
+Alaso2: oh no
+Alaso2: password not work
+Alaso2 authenticated successfully as user: 365534393483395092.
+Blazingfury64 has left.
+Alaso2: nvm
+catus authenticated successfully as user: 352243064179392512.
+178.76.157.175:55282 is connecting...
+Blazingfury64 has joined.
+heroy_105 authenticated successfully as user: 244501248861011968.
+sleepy ttrept: aaaaa
+catus: 5 player thc les go
+catus executed: /playing.
+sleepy ttrept: doesn't work for me
+sleepy ttrept: the password
+catus: i used
+catus: old one
+catus: it worked
+sleepy ttrept: v
+Blazingfury64 authenticated successfully as user: 414496759809572876.
+sleepy ttrept authenticated successfully as user: 411350663281508352.
+sleepy ttrept: wtf
+sleepy ttrept: same
+Blazingfury64: UH
+Blazingfury64: WTF
+sleepy ttrept: yeah it works now
+sleepy ttrept: thanks
+Blazingfury64 has left.
+178.76.157.175:55312 is connecting...
+Blazingfury64 has joined.
+sleepy ttrept: who is in the desert rn
+heroy_105: me
+Blazingfury64 has left.
+sleepy ttrept: good to know
+178.76.157.175:55407 is connecting...
+Blazingfury64 has joined.
+catus: NO O o
+sleepy ttrept: f
+catus has left.
+76.92.134.227:55146 is connecting...
+C a tu  s has joined.
+C a tu  s authenticated successfully as user: 352243064179392512.
+C a tu  s: a
+Blazingfury64 authenticated successfully as user: 414496759809572876.
+Blazingfury64: gonna kil myself rq
+C a tu  s: hot
+C a tu  s: jk
+Blazingfury64: uhhhh brb  lel
+Blazingfury64 has left.
+178.76.157.175:55456 is connecting...
+blazing idiot has joined.
+blazing idiot authenticated successfully as user: 414496759809572876.
+C a tu  s: [Angry Sandstorm in a Bottle] heh
+sleepy ttrept: ok
+C a tu  s: second
+C a tu  s: pyridmad
+C a tu  s: in games
+Alaso2: nooooooooo
+C a tu  s: whawt
+Alaso2: nothing
+C a tu  s: HM
+Alaso2: the loot you got
+C a tu  s: haha
+C a tu  s: yes
+C a tu  s: [Warding Cloud in a Bottle] c lo ud
+C a tu  s: cant wait for real thc
+C a tu  s: THATIS T
+C a tu  s: IM GOING TOO THE JUNGLe
+sleepy ttrept: wa
+sleepy ttrept: oh no
+C a tu  s: [Frenzying Snowball Cannon][Ice Blade][Wild Flurry Boots][Warding Cloud in a Bottle][Angry Sandstorm in a Bottle][Step Stool] I AM RE AD y
+blazing idiot: jesus
+sleepy ttrept: wtf
+C a tu  s: i am going tooo commit jungle murker
+sleepy ttrept: btw
+sleepy ttrept: there is no cave entrance
+C a tu  s: too underground jungle?
+sleepy ttrept: yes
+C a tu  s: NO NATURAL WAY IN?!?!
+sleepy ttrept: yes
+C a tu  s: wtf
+sleepy ttrept: you gotta dig
+blazing idiot: WHY
+C a tu  s: ooo
+Alaso2: ooooof
+blazing idiot: I HATE MAH LIFEW
+C a tu  s: free loot
+blazing idiot: A:KAUGF:IAUBGF
+C a tu  s: jk
+C a tu  s: i wont take it
+C a tu  s: depends if i want it tho
+blazing idiot: Its literally lead gear so prob not
+blazing idiot has left.
+C a tu  s: lead armor?
+C a tu  s: OO
+sleepy ttrept: i am going to be in a bad situation
+C a tu  s: same maybe
+C a tu  s: 120 hp
+sleepy ttrept: what
+sleepy ttrept: im scared of you
+Alaso2: x2
+C a tu  s: i mean
+C a tu  s: i have mobilty
+C a tu  s: tho
+C a tu  s: [Angry Sandstorm in a Bottle][Warding Cloud in a Bottle][Wild Flurry Boots]
+sleepy ttrept: that's the scary thing
+Alaso2: wtf
+178.76.157.175:55791 is connecting...
+Blazinggggg has joined.
+Blazinggggg authenticated successfully as user: 414496759809572876.
+C a tu  s: yo blazing
+C a tu  s: did you have lead armor?
+Blazinggggg: ye
+Blazinggggg: Y
+C a tu  s: *heavy breatheing*
+C a tu  s: OOO
+Blazinggggg: welp
+Alaso2: d
+Blazinggggg: rip items
+sleepy ttrept: i will craft a grappling hook so nothing will catch me
+C a tu  s: sure...
+sleepy ttrept: you dont know me,.
+sleepy ttrept: I am a pro gamer.
+C a tu  s: same
+sleepy ttrept: no
+C a tu  s: OO
+sleepy ttrept: what did he have
+C a tu  s: blazings
+C a tu  s: shit
+C a tu  s: damaged lead bow
+sleepy ttrept: what else
+C a tu  s: some cactus pant
+C a tu  s: a sword
+C a tu  s: lead pick
+C a tu  s: anvil
+sleepy ttrept: oh
+C a tu  s: furnace
+C a tu  s: lead hat
+C a tu  s: dude he was broke
+C a tu  s: but that armor
+C a tu  s: dont mind me
+sleepy ttrept: [Demonite Ore (23)] The
+C a tu  s: takin that
+sleepy ttrept: oh no
+sleepy ttrept: you found the entrance
+sleepy ttrept: my deception failed
+Alaso2: ?
+C a tu  s: OW
+Blazinggggg: ech
+C a tu  s: rip
+Blazinggggg: I give up lol
+Alaso2: f
+C a tu  s: njah
+C a tu  s: never give up
+Blazinggggg: its too late to make a comback imo
+Blazinggggg: so yeah
+sleepy ttrept: please turn back catus
+C a tu  s: noa
+C a tu  s: blazing
+sleepy ttrept: pleaseee
+C a tu  s: you acn spectate
+C a tu  s: OO
+C a tu  s: thats a hive
+Blazinggggg: I will see you on the other side.
+C a tu  s: *breathes in*
+Alaso2: bee no
+C a tu  s: odont do it
+Blazinggggg has left.
+Alaso2: banned
+Alaso2: pls
+C a tu  s: dont spawn it
+C a tu  s: dont do it catus
+C a tu  s: im coming
+sleepy ttrept: no
+C a tu  s: CMERe
+C a tu  s: its time too die child
+The grace period has ended.
+You are now at the mercy of yourself and others.
+The server is out of date. Latest version:
+TShock 4.5.4
+playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: plasleepy ttrept: NO
+ying
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: C a tu  s: bruh
+pC a tu  s: thats bull
+laying
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: sleepy ttrept: wait
+playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: sleepy ttrept: sand is allowed out of grace
+sleepy ttrept: right
+playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: Alaso2: f
+playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: C a tu  s: i am not sure
+sleepy ttrept: is it?
+playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: sleepy ttrept: ah shit
+playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playAlaso2: [Coffee] xd
+ing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: C a tu  s: aaa
+playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: plsleepy ttrept: i asked in thc-help-support
+aying
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playinC a tu  s executed: /playing.
+g
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playingC a tu  s: welp you got your answer
+
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playinsleepy ttrept: insdghfytmriymgtrh ymgn
+g
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: sleepy ttrept executed: /who.
+playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: C a tu  s: just liek
+playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: C a tu  s: dont claim any of my loot
+playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: C a tu  s: and its fine
+playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: C a tu  s: well
+playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: C a tu  s: at least the really strong stuff
+playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: C a tu  s: like sandstorm
+playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playisleepy ttrept: what if i burn it in lava
+ng
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: C a tu  s: thats fine as well
+playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playingsleepy ttrept: ahok
+
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: C a tu  s executed: /playing.
+C a tu  s: well
+playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: plaC a tu  s: imma just
+ying
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: C a tu  s: wait
+playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: C a tu  s: til game is over
+playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playingC a tu  s: next game should we have no grace hehe
+
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: plaC a tu  s: well
+ying
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: C a tu  s: nearly no grace
+playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: C a tu  s: wlep anyways
+plaC a tu  s: gonna dip
+ying
+Server executed: /playing.
+Online Players (4/69)
+Alaso2, C a tu  s, sleepy ttrept, heroy_105
+: C a tu  s has left.
+playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: Alaso2: [Sapphire Hook]yooo
+playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: sleepy ttrept: i feel so fucking guilty
+playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: Alaso2 executed: /playing.
+playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playingAlaso2: [Violent Bezoar]
+
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: sleepy ttrept: you're so laggy heroy
+playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: Alaso2: who died with cactus stuff?
+playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playisleepy ttrept: idk
+ng
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: plasleepy ttrept: heroy you're so laggy you don't even seem to be taking dmg
+ying
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: heroy_105: im taking it
+playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: sleepy ttrept: how much hp
+playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: sleepy ttrept: how muchhp
+playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: heroy_105: full
+playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: sleepy ttrept: wtf
+playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playingheroy_105: gg
+
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: sleepy ttrept: cringe
+playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: Alaso2 executed: /playing.
+playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playsleepy ttrept: i recorded the fight
+ing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: sleepy ttrept: might upload it in an unlisted video if you wanna watch it
+playingAlaso2: ?
+
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: sleepy ttrept: gg
+Alaso2: cool
+playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: heroy_105: yes pls upload
+playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: sleepy ttrept: ok
+playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: Alaso2: is heroy too op?
+playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: sleepy ttrept: yes he's op with his 50000 ms
+playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: sleepy ttrept: alright im going now
+playing
+Server executed: /playing.
+Online Players (3/69)
+Alaso2, sleepy ttrept, heroy_105
+: sleepy ttrept has left.
+playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: The server is out of date. Latest version:
+TShock 4.5.4
+playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: Alaso2: [Water Walking Boots]
+playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: Alaso2: xd
+playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: heroy_105: lol
+playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: The server is out of date. Latest version:
+TShock 4.5.4
+playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: Alaso2: f
+playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playinheroy_105: ?
+g
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: heroy_105: f
+playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: heroy_105: sad
+playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: heroy_105 executed: /playing.
+playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Alaso2, heroy_105
+: plaAlaso2 has left.
+ying
+Server executed: /playing.
+Online Players (1/69)
+heroy_105
+:

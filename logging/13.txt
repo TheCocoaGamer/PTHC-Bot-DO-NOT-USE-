@@ -1,0 +1,171 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7777
+Type 'help' for a list of commands.
+
+Terracord: [06/20/2021 21:11:53 -05:00] [Info] Connecting to Discord...
+Terracord: [06/20/2021 21:11:53 -05:00] [Info] 21:11:53 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/20/2021 21:11:53 -05:00] [Info] 21:11:53 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 20m
+Server executed: /grace begin 20m.
+Terracord: [06/20/2021 21:11:53 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 516314535125319691
+Server started
+Account removed successfully.
+Server successfully deleted account: 516314535125319691.
+: user add 516314535125319691 bdfe default
+127.0.0.1:50707 is connecting...
+Account 516314535125319691 has been added to group default!
+Server added Account 516314535125319691 to group default
+: user del 262003003186216973
+Account removed successfully.
+Server successfully deleted account: 262003003186216973.
+: user add 262003003186216973 nr83 default
+Account 262003003186216973 has been added to group default!
+Server added Account 262003003186216973 to group default
+: user del 516314535125319691
+70.137.105.70:51328 is connecting...
+Account removed successfully.
+Server successfully deleted account: 516314535125319691.
+: user add 516314535125319691 pksv default
+Account 516314535125319691 has been added to group default!
+Server added Account 516314535125319691 to group default
+: user del 516314535125319691
+Account removed successfully.
+Server successfully deleted account: 516314535125319691.
+: user add 516314535125319691 h2zb default
+Account 516314535125319691 has been added to group default!
+Server added Account 516314535125319691 to group default
+: user del 516314535125319691
+Account removed successfully.
+Server successfully deleted account: 516314535125319691.
+: user add 516314535125319691 duat default
+Account 516314535125319691 has been added to group default!
+Server added Account 516314535125319691 to group default
+: user del 411350663281508352
+Account removed successfully.
+Server successfully deleted account: 411350663281508352.
+: user add 411350663281508352 wnud default
+Account 411350663281508352 has been added to group default!
+Server added Account 411350663281508352 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 x2uv default
+Terracord: [06/20/2021 21:11:54 -05:00] [Info] 21:11:54 Gateway     Connected
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 417138170430357524
+Account removed successfully.
+Server successfully deleted account: 417138170430357524.
+: user add 417138170430357524 soy9 default
+Account 417138170430357524 has been added to group default!
+Server added Account 417138170430357524 to group default
+: user del 399011983845883914
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '399011983845883914' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 399011983845883914 olhb default
+Account 399011983845883914 has been added to group default!
+Server added Account 399011983845883914 to group default
+: user del 759472403209781288
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '759472403209781288' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 759472403209781288 e1pj default
+Account 759472403209781288 has been added to group default!
+Server added Account 759472403209781288 to group default
+: Terracord: [06/20/2021 21:11:55 -05:00] [Info] Relay available. Connected to Discord as DontKickMe#5026.
+Terracord: [06/20/2021 21:11:55 -05:00] [Info] 21:11:55 Gateway     Ready
+Terracord: [06/20/2021 21:11:56 -05:00] [Info] **:green_circle: Supreme One has joined the server.**
+Terracord: [06/20/2021 21:11:56 -05:00] [Info] **:green_circle: Zerprent has joined the server.**
+Supreme One has joined.
+Zerprent has joined.
+Terracord: [06/20/2021 21:12:01 -05:00] [Info] Zerprent said: e
+Zerprent: e
+Supreme One authenticated successfully as user: 376522837693038593.
+Zerprent authenticated successfully as user: 262003003186216973.
+190.237.0.172:9021 is connecting...
+Terracord: [06/20/2021 21:12:17 -05:00] [Info] **:green_circle: patatag# has joined the server.**
+patatag# has joined.
+patatag# authenticated successfully as user: 417138170430357524.
+71.197.184.18:65440 is connecting...
+Terracord: [06/20/2021 21:12:37 -05:00] [Info] **:green_circle: Zoethecat has joined the server.**
+Zoethecat has joined.
+Terracord: [06/20/2021 21:12:41 -05:00] [Info] Zoethecat said: lol
+Zoethecat: lol
+Terracord: [06/20/2021 21:12:47 -05:00] [Info] Zoethecat said: ok bye
+Zoethecat: ok bye
+Terracord: [06/20/2021 21:12:49 -05:00] [Info] **:red_circle: Zoethecat has left the server.**
+Zoethecat has left.
+Terracord: [06/20/2021 21:13:20 -05:00] [Info] patatag# said: what is the dog doin
+patatag#: what is the dog doin
+Terracord: [06/20/2021 21:13:29 -05:00] [Info] Zerprent said: woof
+Zerprent: woof
+Terracord: [06/20/2021 21:15:18 -05:00] [Info] patatag# said: why is this the second desert biome in a row
+patatag#: why is this the second desert biome in a row
+Terracord: [06/20/2021 21:15:33 -05:00] [Info] Zerprent said: only 3 people lola
+Zerprent: only 3 people lola
+Terracord: [06/20/2021 21:15:34 -05:00] [Info] patatag# said: second corr
+patatag#: second corr
+Terracord: [06/20/2021 21:16:16 -05:00] [Info] patatag# said: things to do in corruption: leave
+patatag#: things to do in corruption: leave
+Terracord: [06/20/2021 21:16:37 -05:00] [Info] Server broadcast: Zerprent is shark food.
+Terracord: [06/20/2021 21:16:38 -05:00] [Info] Zerprent said: no
+Zerprent: no
+Terracord: [06/20/2021 21:16:42 -05:00] [Info] Zerprent said: this cant bee right
+Zerprent: this cant bee right
+Terracord: [06/20/2021 21:16:54 -05:00] [Info] **:red_circle: Zerprent has left the server.**
+Zerprent has left.
+Terracord: [06/20/2021 21:19:53 -05:00] [Info] patatag# said: not today, explosive trap
+patatag#: not today, explosive trap
+Terracord: [06/20/2021 21:20:24 -05:00] [Info] Supreme One said: i need one more cati for full armour fml
+Supreme One: i need one more cati for full armour fml
+Supreme One executed: /playing.
+Terracord: [06/20/2021 21:20:28 -05:00] [Info] Supreme One said: 2 ppl nlol
+Supreme One: 2 ppl nlol
+Terracord: [06/20/2021 21:24:20 -05:00] [Info] Server broadcast: Supreme One was torn in half by Eater of Souls.
+Terracord: [06/20/2021 21:24:25 -05:00] [Info] Supreme One said: nooooo
+Supreme One: nooooo
+Terracord: [06/20/2021 21:24:26 -05:00] [Info] patatag# said: br
+patatag#: br
+Terracord: [06/20/2021 21:24:30 -05:00] [Info] patatag# said: **[Ice Blade]** cant kill anyone
+patatag#: [Ice Blade] cant kill anyone
+Terracord: [06/20/2021 21:24:35 -05:00] [Info] Supreme One said: its litterly a gg for me lel
+Supreme One: its litterly a gg for me lel
+Terracord: [06/20/2021 21:24:40 -05:00] [Info] Supreme One said: ill give it to u m8
+Supreme One: ill give it to u m8
+Terracord: [06/20/2021 21:24:47 -05:00] [Info] Supreme One said: ull win after 7 mins
+Supreme One: ull win after 7 mins
+Terracord: [06/20/2021 21:24:52 -05:00] [Info] **:red_circle: Supreme One has left the server.**
+Supreme One has left.
+patatag# executed: /playing.
+
+: patatag# executed: /playing.
+Terracord: [06/20/2021 21:29:33 -05:00] [Info] patatag# said: dont even have a recall
+patatag#: dont even have a recall
+Terracord: [06/20/2021 21:29:39 -05:00] [Info] <TheCocoaGamer@Discord> lol
+<TheCocoaGamer@Discord> lol
+Terracord: [06/20/2021 21:30:01 -05:00] [Info] <TheCocoaGamer@Discord> also, this is one of the cooler things with the bot and was the easiest to do
+<TheCocoaGamer@Discord> also, this is one of the cooler things with the bot and was the easiest to do
+Terracord: [06/20/2021 21:30:16 -05:00] [Info] Command sent: playing
+TheCocoaGamer executed: /playing.
+Terracord: [06/20/2021 21:30:16 -05:00] [Info] <TheCocoaGamer@Discord> !playing
+<TheCocoaGamer@Discord> !playing
+playing
+Server executed: /playing.
+Online Players (1/69)
+patatag#
+:

@@ -1,0 +1,5540 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7777
+Type 'help' for a list of commands.
+
+Terracord: [06/23/2021 13:48:52 -05:00] [Info] Connecting to Discord...
+Terracord: [06/23/2021 13:48:52 -05:00] [Info] 13:48:52 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/23/2021 13:48:52 -05:00] [Info] 13:48:52 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 4m
+Server executed: /grace begin 4m.
+Terracord: [06/23/2021 13:48:52 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 262003003186216973
+Server started
+Account removed successfully.
+Server successfully deleted account: 262003003186216973.
+: user add 262003003186216973 qspy default
+Account 262003003186216973 has been added to group default!
+Server added Account 262003003186216973 to group default
+: user del 244501248861011968
+Account removed successfully.
+Server successfully deleted account: 244501248861011968.
+: user add 244501248861011968 60xp default
+Account 244501248861011968 has been added to group default!
+Server added Account 244501248861011968 to group default
+: user del 602549842367217665
+Account removed successfully.
+Server successfully deleted account: 602549842367217665.
+: user add 602549842367217665 f6iz default
+Account 602549842367217665 has been added to group default!
+Server added Account 602549842367217665 to group default
+: user del 295238355204177921
+Account removed successfully.
+Server successfully deleted account: 295238355204177921.
+: user add 295238355204177921 cizq default
+Account 295238355204177921 has been added to group default!
+Server added Account 295238355204177921 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 nvt5 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 795597217535754260
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '795597217535754260' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 795597217535754260 suil default
+Terracord: [06/23/2021 13:48:53 -05:00] [Info] 13:48:53 Gateway     Connected
+Account 795597217535754260 has been added to group default!
+Server added Account 795597217535754260 to group default
+: 188.127.172.99:56019 is connecting...
+Terracord: [06/23/2021 13:48:53 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/23/2021 13:48:53 -05:00] [Info] 13:48:53 Gateway     Ready
+79.40.133.208:52269 is connecting...
+Terracord: [06/23/2021 13:48:55 -05:00] [Info] **:green_circle: Eferand has joined the server.**
+94.0.143.92:54766 is connecting...
+70.137.105.70:55486 is connecting...
+Terracord: [06/23/2021 13:48:55 -05:00] [Info] **:green_circle: zarkant has joined the server.**
+Terracord: [06/23/2021 13:48:56 -05:00] [Info] **:green_circle: baguette has joined the server.**
+Eferand has joined.
+zarkant has joined.
+baguette has joined.
+Eferand authenticated successfully as user: 365534393483395092.
+zarkant authenticated successfully as user: 262003003186216973.
+Terracord: [06/23/2021 13:48:58 -05:00] [Info] **:green_circle: Suspicious F has joined the server.**
+Suspicious F has joined.
+baguette authenticated successfully as user: 602549842367217665.
+109.252.65.110:6093 is connecting...
+Terracord: [06/23/2021 13:49:04 -05:00] [Info] **:green_circle: heroy_105 has joined the server.**
+heroy_105 has joined.
+heroy_105 authenticated successfully as user: 244501248861011968.
+Suspicious F authenticated successfully as user: 295238355204177921.
+91.173.13.214:11779 is connecting...
+Terracord: [06/23/2021 13:49:41 -05:00] [Info] **:green_circle: henlo has joined the server.**
+henlo has joined.
+94.0.143.92:54766 was booted: Kicked: You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.
+Kicked baguette for : 'You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.'
+Terracord: [06/23/2021 13:49:52 -05:00] [Info] **:red_circle: baguette has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+henlo authenticated successfully as user: 795597217535754260.
+playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: Terracord: [06/23/2021 13:52:52 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/23/2021 13:52:52 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Eferand, Suspicious F, zarkant, heroy_105, henlo
+: 70.137.105.70:55486 was booted: Kicked: You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.
+Kicked zarkant for : 'You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.'
+Terracord: [06/23/2021 13:54:05 -05:00] [Info] **:red_circle: zarkant has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: Terracord: [06/23/2021 13:54:39 -05:00] [Info] Server broadcast: Queen Bee has awoken!
+playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playTerracord: [06/23/2021 13:54:47 -05:00] [Info] henlo said: wat
+henlo: wat
+ing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: Terracord: [06/23/2021 13:55:35 -05:00] [Info] <TheCocoaGamer@Discord> Forgot to turn it off in underscores plugin myb
+<TheCocoaGamer@Discord> Forgot to turn it off in underscores plugin myb
+playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: Terracord: [06/23/2021 13:55:46 -05:00] [Info] Command sent: butcher queenbee
+TheCocoaGamer executed: /butcher queenbee.
+Terracord: [06/23/2021 13:55:46 -05:00] [Info] <TheCocoaGamer@Discord> !butcher queenbee
+<TheCocoaGamer@Discord> !butcher queenbee
+playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: Terracord: [06/23/2021 13:55:51 -05:00] [Info] <TheCocoaGamer@Discord> Bruh
+<TheCocoaGamer@Discord> Bruh
+playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: Terracord: [06/23/2021 13:56:01 -05:00] [Info] <TheCocoaGamer@Discord> Well dont die to it
+<TheCocoaGamer@Discord> Well dont die to it
+playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, heroy_105, henlo
+: playing91.173.13.214:11779 was booted: Kicked: You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.
+Kicked henlo for : 'You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.'
+Terracord: [06/23/2021 13:57:41 -05:00] [Info] **:red_circle: henlo has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: Terracord: [06/23/2021 13:59:05 -05:00] [Info] Server broadcast: Queen Bee has been defeated!
+playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing91.173.13.214:8740 is connecting...
+
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: Terracord: [06/23/2021 13:59:23 -05:00] [Info] **:green_circle: red pike has joined the server.**
+red pike has joined.
+playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, red pike, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, red pike, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, red pike, heroy_105
+: Terracord: [06/23/2021 13:59:29 -05:00] [Info] red pike said: oh shit
+red pike: oh shit
+Terracord: [06/23/2021 13:59:29 -05:00] [Info] Eferand said: late
+Eferand: late
+playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, red pike, heroy_105
+: Terracord: [06/23/2021 13:59:32 -05:00] [Info] red pike said: yup
+red pike: yup
+playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, red pike, heroy_105
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Eferand, Suspicious F, red pike, heroy_105
+: Terracord: [06/23/2021 13:59:35 -05:00] [Info] **:red_circle: red pike has left the server.**
+red pike has left.
+playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playTerracord: [06/23/2021 13:59:59 -05:00] [Info] Eferand said: how do you always kill queen bee so fast btw?
+Eferand: how do you always kill queen bee so fast btw?
+ing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: Terracord: [06/23/2021 14:00:10 -05:00] [Info] heroy_105 said: grenades
+heroy_105: grenades
+playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: Terracord: [06/23/2021 14:00:19 -05:00] [Info] Eferand said: makes sense
+Eferand: makes sense
+playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: heroy_105 summoned the Eye of Cthulhu!
+Terracord: [06/23/2021 14:02:01 -05:00] [Info] Server broadcast: Eye of Cthulhu has awoken!
+playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: Terracord: [06/23/2021 14:02:52 -05:00] [Info] Server broadcast: Eye of Cthulhu has been defeated!
+playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: Terracord: [06/23/2021 14:04:59 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: Terracord: [06/23/2021 14:06:14 -05:00] [Info] <CalmMagma@Discord> [c/ff1111:The Funny Gun] has been obtained.
+<CalmMagma@Discord> The Funny Gun has been obtained.
+playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Eferand, Suspicious F, heroy_105
+: 188.127.172.99:56019 was booted: Kicked: You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.
+Kicked Eferand for : 'You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.'
+Terracord: [06/23/2021 14:07:00 -05:00] [Info] **:red_circle: Eferand has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playinTerracord: [06/23/2021 14:09:08 -05:00] [Info] Server broadcast: A goblin army is approaching from the west!
+g
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: Terracord: [06/23/2021 14:09:14 -05:00] [Info] Suspicious F said: wat
+Suspicious F: wat
+playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: plTerracord: [06/23/2021 14:09:43 -05:00] [Info] Server broadcast: A goblin army has arrived!
+aying
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: Terracord: [06/23/2021 14:09:58 -05:00] [Info] <CalmMagma@Discord> [c/042069:haha funny army has the arrivement]
+<CalmMagma@Discord> haha funny army has the arrivement
+playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playinTerracord: [06/23/2021 14:13:56 -05:00] [Info] Server broadcast: Screams echo around you...
+g
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: Terracord: [06/23/2021 14:14:56 -05:00] [Info] Server broadcast: Brain of Cthulhu has awoken!
+playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: plTerracord: [06/23/2021 14:16:01 -05:00] [Info] Server broadcast: Brain of Cthulhu has been defeated!
+aying
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: plTerracord: [06/23/2021 14:18:37 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+aying
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: Terracord: [06/23/2021 14:19:07 -05:00] [Info] Server broadcast: Screams echo around you...
+playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playingTerracord: [06/23/2021 14:19:48 -05:00] [Info] Server broadcast: Brain of Cthulhu has awoken!
+
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: heroy_105 executed: /playing.
+playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: heroy_105 summoned the Queen Bee!
+Terracord: [06/23/2021 14:21:39 -05:00] [Info] Server broadcast: Queen Bee has awoken!
+playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: Player heroy_105 has been disabled for Reached projectile update threshold..
+playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playiTerracord: [06/23/2021 14:23:12 -05:00] [Info] Server broadcast: Queen Bee has been defeated!
+ng
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playingheroy_105 summoned the Queen Bee!
+Terracord: [06/23/2021 14:23:23 -05:00] [Info] Server broadcast: Queen Bee has awoken!
+
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: Terracord: [06/23/2021 14:24:03 -05:00] [Info] Suspicious F said: **[Defender Medal (5)]**
+Suspicious F: [Defender Medal (5)]
+playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: Terracord: [06/23/2021 14:24:14 -05:00] [Info] Server broadcast: Queen Bee has been defeated!
+playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: heroy_105 summoned the Queen Bee!
+Terracord: [06/23/2021 14:24:24 -05:00] [Info] Server broadcast: Queen Bee has awoken!
+playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: Terracord: [06/23/2021 14:25:38 -05:00] [Info] Server broadcast: Queen Bee has been defeated!
+playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: plTerracord: [06/23/2021 14:26:01 -05:00] [Info] Server broadcast: Skeletron has awoken!
+aying
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: Terracord: [06/23/2021 14:28:22 -05:00] [Info] Server broadcast: Skeletron has been defeated!
+playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: Terracord: [06/23/2021 14:28:39 -05:00] [Info] Server broadcast: A meteorite has landed!
+playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Suspicious F, heroy_105
+: 79.40.133.208:52269 was booted: Kicked: You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.
+Kicked Suspicious F for : 'You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.'
+Terracord: [06/23/2021 14:29:52 -05:00] [Info] **:red_circle: Suspicious F has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (1/69)
+heroy_105
+:Terraria Server v1.4.2.3
+
+Listening on port 7777
+Type 'help' for a list of commands.
+
+Terracord: [06/25/2021 14:27:04 -05:00] [Info] Connecting to Discord...
+Terracord: [06/25/2021 14:27:04 -05:00] [Info] 14:27:04 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/25/2021 14:27:05 -05:00] [Info] 14:27:05 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 15m
+Server executed: /grace begin 15m.
+Terracord: [06/25/2021 14:27:05 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 376522837693038593
+Server started
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 60t1 default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 368918822293471232
+Account removed successfully.
+Server successfully deleted account: 368918822293471232.
+: user add 368918822293471232 9e4l default
+Account 368918822293471232 has been added to group default!
+Server added Account 368918822293471232 to group default
+: user del 684129866148610109
+Account removed successfully.
+Server successfully deleted account: 684129866148610109.
+: user add 684129866148610109 ueyi default
+Account 684129866148610109 has been added to group default!
+Server added Account 684129866148610109 to group default
+: user del 468202262829989888
+Account removed successfully.
+Server successfully deleted account: 468202262829989888.
+: user add 468202262829989888 kctu default
+Account 468202262829989888 has been added to group default!
+Server added Account 468202262829989888 to group default
+: user del 262003003186216973
+Account removed successfully.
+Server successfully deleted account: 262003003186216973.
+: user add 262003003186216973 f2aw default
+127.0.0.1:53145 is connecting...
+Account 262003003186216973 has been added to group default!
+Server added Account 262003003186216973 to group default
+Terracord: [06/25/2021 14:27:05 -05:00] [Info] 14:27:05 Gateway     Connected
+: user del 244501248861011968
+Account removed successfully.
+Server successfully deleted account: 244501248861011968.
+: user add 244501248861011968 gvth default
+109.252.65.110:5945 is connecting...
+Account 244501248861011968 has been added to group default!
+Server added Account 244501248861011968 to group default
+: user del 539083328091848704
+Account removed successfully.
+Server successfully deleted account: 539083328091848704.
+: user add 539083328091848704 b3ef default
+Account 539083328091848704 has been added to group default!
+Server added Account 539083328091848704 to group default
+: user del 570187358683529217
+Account removed successfully.
+Server successfully deleted account: 570187358683529217.
+: user add 570187358683529217 lard default
+Account 570187358683529217 has been added to group default!
+Server added Account 570187358683529217 to group default
+: user del 680611418545848462
+Account removed successfully.
+Server successfully deleted account: 680611418545848462.
+: user add 680611418545848462 r1bc default
+Account 680611418545848462 has been added to group default!
+Server added Account 680611418545848462 to group default
+: user del 419317290119462917
+79.17.133.217:64193 is connecting...
+174.20.66.197:61822 is connecting...
+Account removed successfully.
+Server successfully deleted account: 419317290119462917.
+: user add 419317290119462917 wmsr default
+Account 419317290119462917 has been added to group default!
+Server added Account 419317290119462917 to group default
+: user del 295238355204177921
+Account removed successfully.
+Server successfully deleted account: 295238355204177921.
+: user add 295238355204177921 bx0h default
+Account 295238355204177921 has been added to group default!
+Server added Account 295238355204177921 to group default
+: user del 637758586696761376
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '637758586696761376' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 637758586696761376 yecj default
+Terracord: [06/25/2021 14:27:06 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Account 637758586696761376 has been added to group default!
+Server added Account 637758586696761376 to group default
+: Terracord: [06/25/2021 14:27:06 -05:00] [Info] 14:27:06 Gateway     Ready
+74.110.196.221:54665 is connecting...
+98.1.76.199:54924 is connecting...
+Terracord: [06/25/2021 14:27:07 -05:00] [Info] **:green_circle: [c/fe3239:Supremas] has joined the server.**
+Terracord: [06/25/2021 14:27:07 -05:00] [Info] **:green_circle: heroy_105 has joined the server.**
+108.236.41.87:64672 is connecting...
+Terracord: [06/25/2021 14:27:08 -05:00] [Info] <prokas@Discord> Melee
+<prokas@Discord> Melee
+Terracord: [06/25/2021 14:27:08 -05:00] [Info] **:green_circle: yea its me has joined the server.**
+Terracord: [06/25/2021 14:27:08 -05:00] [Info] **:green_circle: Devalous has joined the server.**
+Terracord: [06/25/2021 14:27:08 -05:00] [Info] **:green_circle: Koba has joined the server.**
+Terracord: [06/25/2021 14:27:08 -05:00] [Info] **:green_circle: Senor Steam has joined the server.**
+Supremas has joined.
+Terracord: [06/25/2021 14:27:08 -05:00] [Info] **:green_circle: Goodn't Frec has joined the server.**
+Devalous has joined.
+Senor Steam has joined.
+yea its me has joined.
+heroy_105 has joined.
+Koba has joined.
+73.56.236.178:56700 is connecting...
+71.239.188.130:60906 is connecting...
+Goodn't Frec has joined.
+Terracord: [06/25/2021 14:27:09 -05:00] [Info] **:green_circle: SuperLuigi256 has joined the server.**
+Terracord: [06/25/2021 14:27:10 -05:00] [Info] **:green_circle: Bombee has joined the server.**
+SuperLuigi256 has joined.
+yea its me authenticated successfully as user: 539083328091848704.
+98.220.237.255:49691 is connecting...
+70.137.105.70:51724 is connecting...
+Terracord: [06/25/2021 14:27:13 -05:00] [Info] <Koba@Discord> plague bringer goliath
+<Koba@Discord> plague bringer goliath
+Terracord: [06/25/2021 14:27:13 -05:00] [Info] <[insert inspirational quote]@Discord> plaguegringer boliath?
+<[insert inspirational quote]@Discord> plaguegringer boliath?
+35.141.156.250:64815 is connecting...
+[Server API] Warning Plugin "TShock" has had an unhandled exception thrown by one of its ServerChat handlers:
+System.OutOfMemoryException: Exception of type 'System.OutOfMemoryException' was thrown.
+   at System.Text.StringBuilder.ToString()
+   at System.Text.RegularExpressions.RegexParser.Escape(String input)
+   at System.Text.RegularExpressions.Regex.Escape(String str)
+   at FragLand.TerracordPlugin.Util.ConvertChannelMentions(String message, DiscordSocketClient discordClient)
+   at FragLand.TerracordPlugin.Terracord.OnChat(PlayerChatEventArgs args)
+   at TShockAPI.Hooks.PlayerHooks.OnPlayerChat(TSPlayer ply, String rawtext, String& tshockText)
+   at TShockAPI.TShock.OnChat(ServerChatEventArgs args)
+   at TerrariaApi.Server.HandlerCollection`1.Invoke(ArgsType args) in D:\a\TShock\TShock\TerrariaServerAPI\TerrariaServerAPI\TerrariaApi.Server\HandlerCollection.cs:line 109
+<heroy_105> #262626
+Devalous authenticated successfully as user: 570187358683529217.
+Terracord: [06/25/2021 14:27:17 -05:00] [Info] <Bomby@Discord> Plaguebringer Goliath
+<Bomby@Discord> Plaguebringer Goliath
+Senor Steam authenticated successfully as user: 680611418545848462.
+Bombee has joined.
+SuperLuigi256 authenticated successfully as user: 468202262829989888.
+Terracord: [06/25/2021 14:27:17 -05:00] [Info] **:green_circle: Youin has joined the server.**
+Terracord: [06/25/2021 14:27:17 -05:00] [Info] heroy_105 said: fuck
+heroy_105: fuck
+Goodn't Frec authenticated successfully as user: 295238355204177921.
+Terracord: [06/25/2021 14:27:18 -05:00] [Info] **:green_circle: waw has joined the server.**
+Terracord: [06/25/2021 14:27:18 -05:00] [Info] **:green_circle: mema has joined the server.**
+[c/fe3239:Supremas] authenticated successfully as user: 376522837693038593.
+Youin has joined.
+waw has joined.
+mema has joined.
+waw authenticated successfully as user: 262003003186216973.
+Terracord: [06/25/2021 14:27:25 -05:00] [Info] <Youin@Discord> yea i prefer ,age
+<Youin@Discord> yea i prefer ,age
+Bombee authenticated successfully as user: 368918822293471232.
+Koba authenticated successfully as user: 684129866148610109.
+heroy_105 authenticated successfully as user: 244501248861011968.
+Terracord: [06/25/2021 14:27:41 -05:00] [Info] SuperLuigi256 said: the floodgates
+SuperLuigi256: the floodgates
+Youin tried to execute /register.
+Terracord: [06/25/2021 14:28:10 -05:00] [Info] Youin said: wait how do i do this
+Youin: wait how do i do this
+Terracord: [06/25/2021 14:28:20 -05:00] [Info] Youin said: how do i register my discord acct
+Youin: how do i register my discord acct
+Terracord: [06/25/2021 14:28:57 -05:00] [Info] Devalous said: **[Finch Staff]**
+Devalous: [Finch Staff]
+mema authenticated successfully as user: 637758586696761376.
+Terracord: [06/25/2021 14:29:00 -05:00] [Info] Koba said: awesome
+Koba: awesome
+Terracord: [06/25/2021 14:29:18 -05:00] [Info] <Youin@Discord> @TheCocoaGamer how do i register myself for this
+<Youin@Discord> @TheCocoaGamer how do i register myself for this
+Terracord: [06/25/2021 14:29:33 -05:00] [Info] mema said: look at your dms from the bot
+mema: look at your dms from the bot
+Terracord: [06/25/2021 14:29:34 -05:00] [Info] Koba said: hi
+Koba: hi
+Terracord: [06/25/2021 14:29:39 -05:00] [Info] Youin said: i dont see any
+Youin: i dont see any
+Terracord: [06/25/2021 14:29:48 -05:00] [Info] Youin said: am i supposed to say something
+Youin: am i supposed to say something
+Terracord: [06/25/2021 14:29:50 -05:00] [Info] SuperLuigi256 said: did you react to the message
+SuperLuigi256: did you react to the message
+user del 586336691640467457
+[Server API] Warning Plugin "TShock" has had an unhandled exception thrown by one of its ServerChat handlers:
+System.OutOfMemoryException: Exception of type 'System.OutOfMemoryException' was thrown.
+   at System.Text.StringBuilder.ToString()
+   at System.Text.RegularExpressions.RegexParser.Escape(String input)
+   at System.Text.RegularExpressions.Regex.Escape(String str)
+   at FragLand.TerracordPlugin.Util.ConvertChannelMentions(String message, DiscordSocketClient discordClient)
+   at FragLand.TerracordPlugin.Terracord.OnChat(PlayerChatEventArgs args)
+   at TShockAPI.Hooks.PlayerHooks.OnPlayerChat(TSPlayer ply, String rawtext, String& tshockText)
+   at TShockAPI.TShock.OnChat(ServerChatEventArgs args)
+   at TerrariaApi.Server.HandlerCollection`1.Invoke(ArgsType args) in D:\a\TShock\TShock\TerrariaServerAPI\TerrariaServerAPI\TerrariaApi.Server\HandlerCollection.cs:line 109
+RemoveUser SQL returned an error
+<SuperLuigi256> in #gamehosting-bot-commands
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '586336691640467457' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 586336691640467457 blug default
+Account 586336691640467457 has been added to group default!
+Server added Account 586336691640467457 to group default
+: Terracord: [06/25/2021 14:30:11 -05:00] [Info] <littlecatking@Discord> why can we talk in here
+<littlecatking@Discord> why can we talk in here
+Terracord: [06/25/2021 14:30:14 -05:00] [Info] Youin said: ohhh i needed the green one
+Youin: ohhh i needed the green one
+Terracord: [06/25/2021 14:30:16 -05:00] [Info] <littlecatking@Discord> hello game people
+<littlecatking@Discord> hello game people
+Terracord: [06/25/2021 14:30:19 -05:00] [Info] Bombee said: hi
+Bombee: hi
+Terracord: [06/25/2021 14:30:25 -05:00] [Info] mema said: lmao havent done normal mode since 1.2
+mema: lmao havent done normal mode since 1.2
+Terracord: [06/25/2021 14:30:27 -05:00] [Info] Goodn't Frec said: **[Whoopie Cushion]**
+Goodn't Frec: [Whoopie Cushion]
+Terracord: [06/25/2021 14:30:34 -05:00] [Info] Bombee said: hot
+Bombee: hot
+Terracord: [06/25/2021 14:30:46 -05:00] [Info] SuperLuigi256 said: make a fart bottle
+SuperLuigi256: make a fart bottle
+Terracord: [06/25/2021 14:30:52 -05:00] [Info] Youin said: wait so i got the dm
+Youin: wait so i got the dm
+Terracord: [06/25/2021 14:30:56 -05:00] [Info] mema said: beat goblin army
+mema: beat goblin army
+Youin authenticated successfully as user: 586336691640467457.
+Terracord: [06/25/2021 14:31:04 -05:00] [Info] Youin said: wait i did it
+Youin: wait i did it
+Terracord: [06/25/2021 14:31:04 -05:00] [Info] <littlecatking@Discord> bombee it is not hot
+<littlecatking@Discord> bombee it is not hot
+Terracord: [06/25/2021 14:31:10 -05:00] [Info] Bombee said: it is hot
+Bombee: it is hot
+98.1.76.199:54924 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Koba for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 14:31:17 -05:00] [Info] **:red_circle: Koba has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 14:31:17 -05:00] [Info] <littlecatking@Discord> no
+<littlecatking@Discord> no
+Terracord: [06/25/2021 14:31:20 -05:00] [Info] mema said: youre hot
+mema: youre hot
+Terracord: [06/25/2021 14:31:24 -05:00] [Info] <littlecatking@Discord> nope
+<littlecatking@Discord> nope
+98.1.76.199:62185 is connecting...
+Terracord: [06/25/2021 14:31:29 -05:00] [Info] **:green_circle: Koba has joined the server.**
+Koba has joined.
+Terracord: [06/25/2021 14:31:32 -05:00] [Info] SuperLuigi256 said: SIMP
+SuperLuigi256: SIMP
+Koba authenticated successfully as user: 684129866148610109.
+Terracord: [06/25/2021 14:31:39 -05:00] [Info] <sleepy ttrept@Discord> you're mother
+<sleepy ttrept@Discord> you're mother
+Terracord: [06/25/2021 14:32:09 -05:00] [Info] [c/fe3239:Supremas] said: **[Living Mahogany Wand]** wtf this is so rare
+Supremas: [Living Mahogany Wand] wtf this is so rare
+108.236.41.87:64672 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Senor Steam for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 14:32:12 -05:00] [Info] **:red_circle: Senor Steam has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 14:32:19 -05:00] [Info] Koba said: i got 2 of them
+Koba: i got 2 of them
+Terracord: [06/25/2021 14:32:21 -05:00] [Info] Koba said: last game
+Koba: last game
+Terracord: [06/25/2021 14:32:25 -05:00] [Info] [c/fe3239:Supremas] said: its not the living wood
+Supremas: its not the living wood
+Terracord: [06/25/2021 14:32:28 -05:00] [Info] [c/fe3239:Supremas] said: mahogany wood
+Supremas: mahogany wood
+Terracord: [06/25/2021 14:32:29 -05:00] [Info] [c/fe3239:Supremas] said: wand
+Supremas: wand
+Terracord: [06/25/2021 14:32:29 -05:00] [Info] Koba said: yea
+Koba: yea
+Terracord: [06/25/2021 14:32:31 -05:00] [Info] Koba said: i got 2 of them
+Koba: i got 2 of them
+Terracord: [06/25/2021 14:32:33 -05:00] [Info] Koba said: with the leaf one
+Koba: with the leaf one
+Terracord: [06/25/2021 14:32:33 -05:00] [Info] waw said: magic carpet?
+waw: magic carpet?
+Terracord: [06/25/2021 14:32:35 -05:00] [Info] [c/fe3239:Supremas] said: how
+Supremas: how
+108.236.41.87:61609 is connecting...
+Terracord: [06/25/2021 14:32:37 -05:00] [Info] **:green_circle: Senor Steam has joined the server.**
+Senor Steam has joined.
+Terracord: [06/25/2021 14:32:40 -05:00] [Info] Koba said: jungle chests
+Koba: jungle chests
+Senor Steam authenticated successfully as user: 680611418545848462.
+Terracord: [06/25/2021 14:32:50 -05:00] [Info] Senor Steam said: got hoiked underwater
+Senor Steam: got hoiked underwater
+Terracord: [06/25/2021 14:32:55 -05:00] [Info] Koba said: awesome
+Koba: awesome
+45.23.140.63:65178 is connecting...
+Terracord: [06/25/2021 14:33:00 -05:00] [Info] **:green_circle: inspirational quote has joined the server.**
+Terracord: [06/25/2021 14:33:01 -05:00] [Info] Bombee said: seems legit
+Bombee: seems legit
+inspirational quote has joined.
+Terracord: [06/25/2021 14:33:14 -05:00] [Info] Koba said: im so dead
+Koba: im so dead
+inspirational quote tried to execute /register uiyt1234.
+inspirational quote executed: /help.
+Terracord: [06/25/2021 14:33:55 -05:00] [Info] Koba said: bye
+Koba: bye
+Terracord: [06/25/2021 14:34:03 -05:00] [Info] Koba said: im surrounded
+Koba: im surrounded
+Terracord: [06/25/2021 14:34:04 -05:00] [Info] Bombee said: nani
+Bombee: nani
+Terracord: [06/25/2021 14:34:08 -05:00] [Info] **:red_circle: inspirational quote has left the server.**
+inspirational quote has left.
+Terracord: [06/25/2021 14:34:10 -05:00] [Info] Youin said: is this crim or corrupt
+Youin: is this crim or corrupt
+Terracord: [06/25/2021 14:34:19 -05:00] [Info] SuperLuigi256 said: it was set to random
+SuperLuigi256: it was set to random
+Terracord: [06/25/2021 14:34:26 -05:00] [Info] Youin said: ok
+Youin: ok
+Terracord: [06/25/2021 14:34:53 -05:00] [Info] Devalous said: Hope I get demo man
+Devalous: Hope I get demo man
+Terracord: [06/25/2021 14:35:04 -05:00] [Info] Koba said: i hope i dont die
+Koba: i hope i dont die
+Terracord: [06/25/2021 14:35:34 -05:00] [Info] Devalous said: does the dg spawn?
+Devalous: does the dg spawn?
+Terracord: [06/25/2021 14:35:37 -05:00] [Info] <Koba@Discord> discord is cool
+<Koba@Discord> discord is cool
+Terracord: [06/25/2021 14:35:41 -05:00] [Info] Koba said: very
+Koba: very
+Terracord: [06/25/2021 14:36:54 -05:00] [Info] mema said: how do you craft arrows
+mema: how do you craft arrows
+Terracord: [06/25/2021 14:36:58 -05:00] [Info] Youin said: stone and wood
+Youin: stone and wood
+Terracord: [06/25/2021 14:36:58 -05:00] [Info] Bombee said: br
+Bombee: br
+Terracord: [06/25/2021 14:36:59 -05:00] [Info] SuperLuigi256 said: stone and weed
+SuperLuigi256: stone and weed
+Terracord: [06/25/2021 14:37:00 -05:00] [Info] yea its me said: stone and wood
+yea its me: stone and wood
+Terracord: [06/25/2021 14:37:01 -05:00] [Info] SuperLuigi256 said: wood
+SuperLuigi256: wood
+Terracord: [06/25/2021 14:37:03 -05:00] [Info] Bombee said: weed
+Bombee: weed
+Terracord: [06/25/2021 14:37:03 -05:00] [Info] Bombee said: yes
+Bombee: yes
+Terracord: [06/25/2021 14:37:05 -05:00] [Info] Bombee said: stone and weed
+Bombee: stone and weed
+user del 313315336617328640
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '313315336617328640' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 313315336617328640 Terracord: [06/25/2021 14:37:10 -05:00] [Info] SuperLuigi256 said: lmao
+SuperLuigi256: lmao
+pgel default
+Account 313315336617328640 has been added to group default!
+Server added Account 313315336617328640 to group default
+: Terracord: [06/25/2021 14:37:18 -05:00] [Info] Bombee said: make people get high off of these arrows
+Bombee: make people get high off of these arrows
+45.23.140.63:62505 is connecting...
+Terracord: [06/25/2021 14:37:26 -05:00] [Info] **:green_circle: inspirational quote has joined the server.**
+inspirational quote has joined.
+Terracord: [06/25/2021 14:37:28 -05:00] [Info] Youin said: ez win
+Youin: ez win
+Terracord: [06/25/2021 14:37:32 -05:00] [Info] mema said: ah yes best way to win thc, drugs
+mema: ah yes best way to win thc, drugs
+inspirational quote authenticated successfully as user: 313315336617328640.
+Terracord: [06/25/2021 14:37:51 -05:00] [Info] inspirational quote said: i'm definitely fucked
+inspirational quote: i'm definitely fucked
+Terracord: [06/25/2021 14:37:55 -05:00] [Info] inspirational quote said: because i joined waay too late
+inspirational quote: because i joined waay too late
+Terracord: [06/25/2021 14:37:56 -05:00] [Info] Koba said: found the golder
+Koba: found the golder
+Terracord: [06/25/2021 14:37:59 -05:00] [Info] SuperLuigi256 said: finna snort the corruption powder
+SuperLuigi256: finna snort the corruption powder
+Terracord: [06/25/2021 14:37:59 -05:00] [Info] Koba said: *golfer
+Koba: *golfer
+Terracord: [06/25/2021 14:38:20 -05:00] [Info] Bombee said: nearly died in a stupid way
+Bombee: nearly died in a stupid way
+Terracord: [06/25/2021 14:38:23 -05:00] [Info] Youin said: oh lord
+Youin: oh lord
+Terracord: [06/25/2021 14:38:29 -05:00] [Info] mema said: i found a shrine but fake bruh
+mema: i found a shrine but fake bruh
+Terracord: [06/25/2021 14:38:34 -05:00] [Info] Bombee said: scammed
+Bombee: scammed
+Terracord: [06/25/2021 14:38:39 -05:00] [Info] SuperLuigi256 said: f
+SuperLuigi256: f
+108.236.41.87:61609 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Senor Steam for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 14:39:10 -05:00] [Info] **:red_circle: Senor Steam has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+73.183.162.30:59957 is connecting...
+Terracord: [06/25/2021 14:39:18 -05:00] [Info] **:green_circle: KidKicker68 has joined the server.**
+KidKicker68 has joined.
+98.220.237.255:49691 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Youin for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 14:39:27 -05:00] [Info] **:red_circle: Youin has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 14:39:47 -05:00] [Info] <Youin@Discord> welp
+<Youin@Discord> welp
+Terracord: [06/25/2021 14:39:59 -05:00] [Info] SuperLuigi256 said: i watched a man die to a eater
+SuperLuigi256: i watched a man die to a eater
+Terracord: [06/25/2021 14:40:04 -05:00] [Info] Bombee said: ok
+Bombee: ok
+Terracord: [06/25/2021 14:40:07 -05:00] [Info] Bombee said: how the hell did I not die there
+Bombee: how the hell did I not die there
+Terracord: [06/25/2021 14:40:19 -05:00] [Info] KidKicker68 said: login 547198033524293651 k43p
+KidKicker68: login 547198033524293651 k43p
+playing
+Server executed: /playing.
+Online Players (12/69)
+Supremas, heroy_105, Goodn't Frec, yea its me, Devalous, Koba,
+KidKicker68, Bombee, SuperLuigi256, waw, mema, inspirational quote
+: playTerracord: [06/25/2021 14:40:24 -05:00] [Info] Koba said: nice /
+Koba: nice /
+ing
+Server executed: /playing.
+Online Players (12/69)
+Supremas, heroy_105, Goodn't Frec, yea its me, Devalous, Koba,
+KidKicker68, Bombee, SuperLuigi256, waw, mema, inspirational quote
+: Terracord: [06/25/2021 14:40:24 -05:00] [Info] waw said: no
+waw: no
+playing
+Server executed: /playing.
+Online Players (12/69)
+Supremas, heroy_105, Goodn't Frec, yea its me, Devalous, Koba,
+KidKicker68, Bombee, SuperLuigi256, waw, mema, inspirational quote
+: playiTerracord: [06/25/2021 14:40:28 -05:00] [Info] Bombee said: **[Fish]** I don't think it was worth it
+nBombee: [Fish] I don't think it was worth it
+g
+Server executed: /playing.
+Online Players (12/69)
+Supremas, heroy_105, Goodn't Frec, yea its me, Devalous, Koba,
+KidKicker68, Bombee, SuperLuigi256, waw, mema, inspirational quote
+: playing
+Server executed: /playing.
+Online Players (12/69)
+Supremas, heroy_105, Goodn't Frec, yea its me, Devalous, Koba,
+KidKicker68, Bombee, SuperLuigi256, waw, mema, inspirational quote
+: Terracord: [06/25/2021 14:40:31 -05:00] [Info] KidKicker68 said: login 547198033524293651 k43p
+KidKicker68: login 547198033524293651 k43p
+playing
+Server executed: /playing.
+Online Players (12/69)
+Supremas, heroy_105, Goodn't Frec, yea its me, Devalous, Koba,
+KidKicker68, Bombee, SuperLuigi256, waw, mema, inspirational quote
+: Terracord: [06/25/2021 14:40:43 -05:00] [Info] waw said: Put a / in front of it
+waw: Put a / in front of it
+Terracord: [06/25/2021 14:40:44 -05:00] [Info] mema said: put a slash dude
+mema: put a slash dude
+Terracord: [06/25/2021 14:40:47 -05:00] [Info] inspirational quote said: you have to put a /
+inspirational quote: you have to put a /
+Terracord: [06/25/2021 14:40:54 -05:00] [Info] KidKicker68 said: says a user account doesnt exits
+KidKicker68: says a user account doesnt exits
+Terracord: [06/25/2021 14:40:57 -05:00] [Info] KidKicker68 said: exist
+KidKicker68: exist
+Terracord: [06/25/2021 14:41:04 -05:00] [Info] Bombee said: that's kinda sus
+Bombee: that's kinda sus
+174.20.66.197:61822 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked yea its me for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 14:41:07 -05:00] [Info] **:red_circle: yea its me has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 14:41:09 -05:00] [Info] [c/fe3239:Supremas] said: you did /login <numbers> pass?
+Supremas: you did /login <numbers> pass?
+Terracord: [06/25/2021 14:41:10 -05:00] [Info] <littlecatking@Discord> gonna log in as him :troll:
+<littlecatking@Discord> gonna log in as him :troll:
+Terracord: [06/25/2021 14:41:12 -05:00] [Info] [c/fe3239:Supremas] said: just like that
+Supremas: just like that
+Terracord: [06/25/2021 14:41:36 -05:00] [Info] **:red_circle: KidKicker68 has left the server.**
+KidKicker68 has left.
+174.20.66.197:50030 is connecting...
+Terracord: [06/25/2021 14:41:45 -05:00] [Info] **:green_circle: yea its me has joined the server.**
+yea its me has joined.
+Supremas tried to execute /user add kidkicker68 uwuu.
+yea its me authenticated successfully as user: 539083328091848704.
+Terracord: [06/25/2021 14:42:05 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/25/2021 14:42:05 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+Terracord: [06/25/2021 14:42:21 -05:00] [Info] SuperLuigi256 said: yo
+SuperLuigi256: yo
+Terracord: [06/25/2021 14:42:30 -05:00] [Info] mema said: i have coopper
+mema: i have coopper
+Terracord: [06/25/2021 14:42:31 -05:00] [Info] Devalous said: I'm so behind
+Devalous: I'm so behind
+Terracord: [06/25/2021 14:42:33 -05:00] [Info] inspirational quote said: well shit
+inspirational quote: well shit
+Terracord: [06/25/2021 14:42:38 -05:00] [Info] inspirational quote said: wooden sword
+inspirational quote: wooden sword
+Terracord: [06/25/2021 14:42:40 -05:00] [Info] inspirational quote said: wood armor
+inspirational quote: wood armor
+Terracord: [06/25/2021 14:42:42 -05:00] [Info] inspirational quote said: 100 life
+inspirational quote: 100 life
+Terracord: [06/25/2021 14:42:44 -05:00] [Info] SuperLuigi256 said: thats a lot of lead
+SuperLuigi256: thats a lot of lead
+Terracord: [06/25/2021 14:42:48 -05:00] [Info] inspirational quote said: i'm going to die immediately
+inspirational quote: i'm going to die immediately
+Terracord: [06/25/2021 14:42:48 -05:00] [Info] Bombee said: I think you have a high chance of winning
+Bombee: I think you have a high chance of winning
+Terracord: [06/25/2021 14:42:54 -05:00] [Info] yea its me said: if you die once in grace period you can come back once right?
+yea its me: if you die once in grace period you can come back once right?
+Terracord: [06/25/2021 14:42:59 -05:00] [Info] Bombee said: I wonder
+Bombee: I wonder
+Terracord: [06/25/2021 14:43:03 -05:00] [Info] inspirational quote said: but it's not grace period
+inspirational quote: but it's not grace period
+Terracord: [06/25/2021 14:43:05 -05:00] [Info] Devalous said: the only I have going for me is my flich staff and Npc housing
+Devalous: the only I have going for me is my flich staff and Npc housing
+Terracord: [06/25/2021 14:43:10 -05:00] [Info] yea its me said: it was when i joined back
+yea its me: it was when i joined back
+Terracord: [06/25/2021 14:43:14 -05:00] [Info] SuperLuigi256 said: you cant hide forever
+SuperLuigi256: you cant hide forever
+Terracord: [06/25/2021 14:43:15 -05:00] [Info] Bombee said: if you hit someone with lead would it give them lead poisoning?
+Bombee: if you hit someone with lead would it give them lead poisoning?
+Terracord: [06/25/2021 14:43:34 -05:00] [Info] Devalous said: Get the Lead enchantment form Fargo's souls
+Devalous: Get the Lead enchantment form Fargo's souls
+Terracord: [06/25/2021 14:44:12 -05:00] [Info] Goodn't Frec said: **[Burger]**a
+Goodn't Frec: [Burger]a
+Terracord: [06/25/2021 14:44:16 -05:00] [Info] Koba said: gg
+Koba: gg
+Terracord: [06/25/2021 14:44:19 -05:00] [Info] Bombee said: borgr
+Bombee: borgr
+Terracord: [06/25/2021 14:44:23 -05:00] [Info] inspirational quote said: hamger
+inspirational quote: hamger
+Terracord: [06/25/2021 14:44:29 -05:00] [Info] Bombee said: b o r g r
+Bombee: b o r g r
+Terracord: [06/25/2021 14:44:31 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+174.20.66.197:50030 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked yea its me for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 14:44:32 -05:00] [Info] **:red_circle: yea its me has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 14:44:41 -05:00] [Info] inspirational quote said: gerburham
+inspirational quote: gerburham
+Terracord: [06/25/2021 14:44:45 -05:00] [Info] <zayne1st1@Discord> ok I died lol
+<zayne1st1@Discord> ok I died lol
+Terracord: [06/25/2021 14:44:48 -05:00] [Info] Bombee said: B O R G R
+Bombee: B O R G R
+heroy_105 summoned the Eye of Cthulhu!
+Terracord: [06/25/2021 14:44:51 -05:00] [Info] Server broadcast: Eye of Cthulhu has awoken!
+Terracord: [06/25/2021 14:44:58 -05:00] [Info] Bombee said: hm
+Bombee: hm
+Terracord: [06/25/2021 14:44:59 -05:00] [Info] inspirational quote said: no recalls
+inspirational quote: no recalls
+Terracord: [06/25/2021 14:45:01 -05:00] [Info] inspirational quote said: 50 wood
+inspirational quote: 50 wood
+Terracord: [06/25/2021 14:45:02 -05:00] [Info] Bombee said: that's a sus eye I see
+Bombee: that's a sus eye I see
+Terracord: [06/25/2021 14:45:04 -05:00] [Info] inspirational quote said: wooden sword
+inspirational quote: wooden sword
+Terracord: [06/25/2021 14:45:06 -05:00] [Info] inspirational quote said: copper tools
+inspirational quote: copper tools
+Terracord: [06/25/2021 14:45:06 -05:00] [Info] Server broadcast: Screams echo around you...
+Terracord: [06/25/2021 14:45:09 -05:00] [Info] inspirational quote said: wood armor
+inspirational quote: wood armor
+Terracord: [06/25/2021 14:46:00 -05:00] [Info] **:red_circle: Goodn't Frec has left the server.**
+Goodn't Frec has left.
+Terracord: [06/25/2021 14:46:03 -05:00] [Info] Server broadcast: Eye of Cthulhu has been defeated!
+Terracord: [06/25/2021 14:46:07 -05:00] [Info] inspirational quote said: [c/000000:e]
+inspirational quote: e
+79.17.133.217:54623 is connecting...
+Terracord: [06/25/2021 14:46:11 -05:00] [Info] Koba said: gg
+Koba: gg
+Terracord: [06/25/2021 14:46:11 -05:00] [Info] **:green_circle: Goodn't Frec has joined the server.**
+Goodn't Frec has joined.
+Goodn't Frec authenticated successfully as user: 295238355204177921.
+98.1.76.199:62185 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Koba for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 14:46:18 -05:00] [Info] **:red_circle: Koba has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 14:46:18 -05:00] [Info] Goodn't Frec said: connection pls
+Goodn't Frec: connection pls
+73.183.162.30:55190 is connecting...
+Terracord: [06/25/2021 14:46:29 -05:00] [Info] **:green_circle: KidKicker68 has joined the server.**
+KidKicker68 has joined.
+Terracord: [06/25/2021 14:46:34 -05:00] [Info] Goodn't Frec said: i have **[Recall Potion (6)]**, don't get funny ideas
+Goodn't Frec: i have [Recall Potion (6)], don't get funny ideas
+Terracord: [06/25/2021 14:46:44 -05:00] [Info] Bombee said: I'm getting funny ideas
+Bombee: I'm getting funny ideas
+Terracord: [06/25/2021 14:46:45 -05:00] [Info] inspirational quote said: i have **[Massive Wooden Sword]**
+inspirational quote: i have [Massive Wooden Sword]
+35.141.156.250:64815 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked mema for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 14:46:45 -05:00] [Info] **:red_circle: mema has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 14:46:55 -05:00] [Info] SuperLuigi256 said: pog
+SuperLuigi256: pog
+Terracord: [06/25/2021 14:46:58 -05:00] [Info] inspirational quote said: i can't do shit
+inspirational quote: i can't do shit
+Terracord: [06/25/2021 14:47:07 -05:00] [Info] Bombee said: then don't do shit
+Bombee: then don't do shit
+Terracord: [06/25/2021 14:47:14 -05:00] [Info] inspirational quote said: exactly what i'm doing
+inspirational quote: exactly what i'm doing
+Terracord: [06/25/2021 14:47:15 -05:00] [Info] <prokas@Discord> I was so close to making a hook
+<prokas@Discord> I was so close to making a hook
+KidKicker68 tried to execute /register 547198033524293651 kdhg.
+waw executed: /who.
+Terracord: [06/25/2021 14:47:45 -05:00] [Info] <Koba@Discord> hi people who are still alive
+<Koba@Discord> hi people who are still alive
+Terracord: [06/25/2021 14:47:47 -05:00] [Info] **:red_circle: KidKicker68 has left the server.**
+KidKicker68 has left.
+Terracord: [06/25/2021 14:47:48 -05:00] [Info] Bombee said: **[Extractinator]** why game
+Bombee: [Extractinator] why game
+Terracord: [06/25/2021 14:47:51 -05:00] [Info] Goodn't Frec said: !playing
+Goodn't Frec: !playing
+Terracord: [06/25/2021 14:47:57 -05:00] [Info] inspirational quote said: hello koba
+inspirational quote: hello koba
+Terracord: [06/25/2021 14:47:57 -05:00] [Info] Goodn't Frec said: no?
+Goodn't Frec: no?
+Terracord: [06/25/2021 14:48:09 -05:00] [Info] Devalous said: Time to hope I get good NPC RNG
+Devalous: Time to hope I get good NPC RNG
+Terracord: [06/25/2021 14:48:14 -05:00] [Info] Server broadcast: Goodn't Frec has defeated the 50th Blue Slime!
+Terracord: [06/25/2021 14:48:53 -05:00] [Info] Bombee said: hm
+Bombee: hm
+Terracord: [06/25/2021 14:48:57 -05:00] [Info] Devalous said: **[Tattered Cloth]**
+Devalous: [Tattered Cloth]
+Terracord: [06/25/2021 14:48:59 -05:00] [Info] Bombee said: I could do something extremely stupid rn
+Bombee: I could do something extremely stupid rn
+Terracord: [06/25/2021 14:49:04 -05:00] [Info] Bombee said: the question is do I do it
+Bombee: the question is do I do it
+Terracord: [06/25/2021 14:49:09 -05:00] [Info] Devalous said: Spawn will be awful
+Devalous: Spawn will be awful
+73.56.236.178:56700 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Bombee for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 14:49:57 -05:00] [Info] **:red_circle: Bombee has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 14:50:05 -05:00] [Info] Server broadcast: Gallius the Traveling Merchant has arrived!
+Terracord: [06/25/2021 14:50:07 -05:00] [Info] <Bomby@Discord> ow...
+<Bomby@Discord> ow...
+Terracord: [06/25/2021 14:50:10 -05:00] [Info] SuperLuigi256 said: o
+SuperLuigi256: o
+waw executed: /who.
+Terracord: [06/25/2021 14:50:18 -05:00] [Info] SuperLuigi256 said: theres gonna be a big mid fight aint there
+SuperLuigi256: theres gonna be a big mid fight aint there
+Terracord: [06/25/2021 14:50:20 -05:00] [Info] inspirational quote said: time for me to do shit and die for it
+inspirational quote: time for me to do shit and die for it
+Terracord: [06/25/2021 14:50:35 -05:00] [Info] <Bomby@Discord> rip snowball cannon
+<Bomby@Discord> rip snowball cannon
+45.23.140.63:62505 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked inspirational quote for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 14:51:14 -05:00] [Info] **:red_circle: inspirational quote has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 14:51:38 -05:00] [Info] <Bomby@Discord> well
+<Bomby@Discord> well
+Terracord: [06/25/2021 14:51:38 -05:00] [Info] Devalous said: **[Fez]** **[Pad Thai]** **[DPS Meter]** **[Pho]** **[Lawn Flamingo]**
+Devalous: [Fez][Pad Thai][DPS Meter][Pho][Lawn Flamingo]
+Terracord: [06/25/2021 14:51:42 -05:00] [Info] <Bomby@Discord> I guess he did shit and died for it
+<Bomby@Discord> I guess he did shit and died for it
+Terracord: [06/25/2021 14:51:44 -05:00] [Info] <Bomby@Discord> also bad tm
+<Bomby@Discord> also bad tm
+Terracord: [06/25/2021 14:51:47 -05:00] [Info] Devalous said: Todays wares
+Devalous: Todays wares
+Terracord: [06/25/2021 14:51:55 -05:00] [Info] Server broadcast: Wilbur the Merchant has arrived!
+Terracord: [06/25/2021 14:52:26 -05:00] [Info] waw said: how do you have money
+waw: how do you have money
+Terracord: [06/25/2021 14:52:32 -05:00] [Info] Devalous said: Chests
+Devalous: Chests
+Terracord: [06/25/2021 14:52:39 -05:00] [Info] <Bomby@Discord> How do you have chests
+<Bomby@Discord> How do you have chests
+Terracord: [06/25/2021 14:52:46 -05:00] [Info] Devalous said: I found them
+Devalous: I found them
+Terracord: [06/25/2021 14:52:53 -05:00] [Info] <Bomby@Discord> sus
+<Bomby@Discord> sus
+Terracord: [06/25/2021 14:53:14 -05:00] [Info] <Bomby@Discord> anyways ima go eat now cause I'm legit starving, shame I couldn't live long enough to get some pad thai
+<Bomby@Discord> anyways ima go eat now cause I'm legit starving, shame I couldn't live long enough to get some pad thai
+Terracord: [06/25/2021 14:53:44 -05:00] [Info] Server broadcast: Molly the Nurse has arrived!
+Terracord: [06/25/2021 14:53:49 -05:00] [Info] SuperLuigi256 said: oh no
+SuperLuigi256: oh no
+Terracord: [06/25/2021 14:54:57 -05:00] [Warning] 14:54:57 Gateway     Discord.WebSocket.GatewayReconnectException: Server requested a reconnect
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.ConnectionManager.<>c__DisplayClass29_0.<<StartAsync>b__0>d.MoveNext()
+Terracord: [06/25/2021 14:54:57 -05:00] [Info] 14:54:57 Gateway     Disconnecting
+Terracord: [06/25/2021 14:54:57 -05:00] [Info] 14:54:57 Gateway     Disconnected
+Terracord: [06/25/2021 14:54:57 -05:00] [Info] SuperLuigi256 said: **[Red and Yellow Kite]**pog
+SuperLuigi256: [Red and Yellow Kite]pog
+Terracord: [06/25/2021 14:54:58 -05:00] [Info] 14:54:58 Gateway     Connecting
+Terracord: [06/25/2021 14:54:58 -05:00] [Info] 14:54:58 Gateway     Connected
+Terracord: [06/25/2021 14:54:58 -05:00] [Info] 14:54:58 Gateway     Resumed previous session
+Terracord: [06/25/2021 14:55:59 -05:00] [Info] Devalous said: **[Red Kite]**
+Devalous: [Red Kite]
+Terracord: [06/25/2021 14:56:10 -05:00] [Info] SuperLuigi256 said: we can be kite brothers
+SuperLuigi256: we can be kite brothers
+Terracord: [06/25/2021 14:56:25 -05:00] [Info] SuperLuigi256 said: if it wernt for the fact that we have to kill each other
+SuperLuigi256: if it wernt for the fact that we have to kill each other
+71.239.188.130:60906 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked SuperLuigi256 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 14:56:43 -05:00] [Info] **:red_circle: SuperLuigi256 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 14:57:01 -05:00] [Info] <SuperLuigi256@Discord> im sad now
+<SuperLuigi256@Discord> im sad now
+Terracord: [06/25/2021 14:57:09 -05:00] [Info] heroy_105 said: gg
+heroy_105: gg
+Terracord: [06/25/2021 14:57:23 -05:00] [Info] <Youin@Discord> wait are you guys done?
+<Youin@Discord> wait are you guys done?
+Terracord: [06/25/2021 14:57:28 -05:00] [Info] heroy_105 said: no
+heroy_105: no
+Terracord: [06/25/2021 14:57:32 -05:00] [Info] <Youin@Discord> o
+<Youin@Discord> o
+Terracord: [06/25/2021 14:57:35 -05:00] [Info] <SuperLuigi256@Discord> no i just died
+<SuperLuigi256@Discord> no i just died
+Terracord: [06/25/2021 14:57:40 -05:00] [Info] <Youin@Discord> rip
+<Youin@Discord> rip
+Terracord: [06/25/2021 14:57:42 -05:00] [Info] Devalous said: F
+Devalous: F
+Terracord: [06/25/2021 14:57:53 -05:00] [Info] <SuperLuigi256@Discord> i think i died to heroy lol
+<SuperLuigi256@Discord> i think i died to heroy lol
+Terracord: [06/25/2021 14:58:26 -05:00] [Info] Devalous said: I'm too scared to look for ocean chests
+Devalous: I'm too scared to look for ocean chests
+Terracord: [06/25/2021 14:58:38 -05:00] [Info] <Koba@Discord> but you could get terraspark boots!
+<Koba@Discord> but you could get terraspark boots!
+Terracord: [06/25/2021 14:58:41 -05:00] [Info] waw said: this person definitely got the ocean chest
+waw: this person definitely got the ocean chest
+Terracord: [06/25/2021 14:58:53 -05:00] [Info] Devalous said: I need to get glowsticks forst
+Devalous: I need to get glowsticks forst
+Terracord: [06/25/2021 14:58:57 -05:00] [Info] Devalous said: *first
+Devalous: *first
+74.110.196.221:54665 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Devalous for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 15:00:41 -05:00] [Info] **:red_circle: Devalous has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 15:00:48 -05:00] [Info] <Koba@Discord> F
+<Koba@Discord> F
+Terracord: [06/25/2021 15:00:51 -05:00] [Info] Server broadcast: Gallius the Traveling Merchant has departed!
+Terracord: [06/25/2021 15:00:51 -05:00] [Info] <Devalous@Discord> I knew that would happen
+<Devalous@Discord> I knew that would happen
+Terracord: [06/25/2021 15:00:58 -05:00] [Info] <Koba@Discord> how'd you ddie
+<Koba@Discord> how'd you ddie
+Terracord: [06/25/2021 15:01:08 -05:00] [Info] <Devalous@Discord> someone with jester arrows
+<Devalous@Discord> someone with jester arrows
+Terracord: [06/25/2021 15:01:13 -05:00] [Info] <Koba@Discord> rip
+<Koba@Discord> rip
+Terracord: [06/25/2021 15:01:20 -05:00] [Info] <SuperLuigi256@Discord> thats the same person that killed me
+<SuperLuigi256@Discord> thats the same person that killed me
+Terracord: [06/25/2021 15:01:23 -05:00] [Info] <Devalous@Discord> I had 6 Pad tai
+<Devalous@Discord> I had 6 Pad tai
+Terracord: [06/25/2021 15:01:32 -05:00] [Info] <SuperLuigi256@Discord> did they have a corruption bow
+<SuperLuigi256@Discord> did they have a corruption bow
+Terracord: [06/25/2021 15:01:33 -05:00] [Info] heroy_105 said: thx for that tho
+heroy_105: thx for that tho
+Terracord: [06/25/2021 15:01:41 -05:00] [Info] <Koba@Discord> it was heroy lol
+<Koba@Discord> it was heroy lol
+Terracord: [06/25/2021 15:01:42 -05:00] [Info] <[insert inspirational quote]@Discord> i joined and logged in at 4:28 mins left until grace is done
+<[insert inspirational quote]@Discord> i joined and logged in at 4:28 mins left until grace is done
+Terracord: [06/25/2021 15:01:46 -05:00] [Info] <Devalous@Discord> At least the merchant left
+<Devalous@Discord> At least the merchant left
+Terracord: [06/25/2021 15:02:34 -05:00] [Info] <Devalous@Discord> At least I'm getting better
+<Devalous@Discord> At least I'm getting better
+Terracord: [06/25/2021 15:02:40 -05:00] [Info] <Koba@Discord> same
+<Koba@Discord> same
+Terracord: [06/25/2021 15:02:43 -05:00] [Info] Server broadcast: Skeletron has awoken!
+Terracord: [06/25/2021 15:02:56 -05:00] [Info] <[insert inspirational quote]@Discord> gl whoever is fighting skele
+<[insert inspirational quote]@Discord> gl whoever is fighting skele
+Terracord: [06/25/2021 15:02:57 -05:00] [Info] <Koba@Discord> heroys fighting sans
+<Koba@Discord> heroys fighting sans
+Terracord: [06/25/2021 15:03:04 -05:00] [Info] <Koba@Discord> who else would it be
+<Koba@Discord> who else would it be
+Terracord: [06/25/2021 15:03:59 -05:00] [Info] [c/fe3239:Supremas] said: btw, the real thc is in one hour
+Supremas: btw, the real thc is in one hour
+Terracord: [06/25/2021 15:04:12 -05:00] [Info] Server broadcast: Skeletron has been defeated!
+Terracord: [06/25/2021 15:04:16 -05:00] [Info] heroy_105 said: ded
+heroy_105: ded
+Terracord: [06/25/2021 15:04:36 -05:00] [Info] <SuperLuigi256@Discord> SAANNNS?!?!
+<SuperLuigi256@Discord> SAANNNS?!?!
+Terracord: [06/25/2021 15:04:44 -05:00] [Info] <Koba@Discord> ive never played undertale
+<Koba@Discord> ive never played undertale
+Terracord: [06/25/2021 15:05:08 -05:00] [Info] <[insert inspirational quote]@Discord> gg heroy
+<[insert inspirational quote]@Discord> gg heroy
+Terracord: [06/25/2021 15:05:09 -05:00] [Info] <Rod of discord@Discord> idk
+<Rod of discord@Discord> idk
+Terracord: [06/25/2021 15:05:27 -05:00] [Info] heroy_105 said: **[Keen Muramasa]** gg indeed
+heroy_105: [Keen Muramasa] gg indeed
+Terracord: [06/25/2021 15:05:36 -05:00] [Info] <[insert inspirational quote]@Discord> nights edge moment
+<[insert inspirational quote]@Discord> nights edge moment
+Terracord: [06/25/2021 15:05:38 -05:00] [Info] <Koba@Discord> ggs
+<Koba@Discord> ggs
+Terracord: [06/25/2021 15:05:42 -05:00] [Info] <SuperLuigi256@Discord> f to all the people who aren't heroy
+<SuperLuigi256@Discord> f to all the people who aren't heroy
+Terracord: [06/25/2021 15:05:44 -05:00] [Info] <Koba@Discord> unless heroy scuffs
+<Koba@Discord> unless heroy scuffs
+127.0.0.1:53145 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked [c/fe3239:Supremas] for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 15:05:58 -05:00] [Info] **:red_circle: [c/fe3239:Supremas] has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 15:06:00 -05:00] [Info] <[insert inspirational quote]@Discord> RIP for all the non-heroys
+<[insert inspirational quote]@Discord> RIP for all the non-heroys
+Terracord: [06/25/2021 15:06:04 -05:00] [Info] <TheCocoaGamer@Discord> tip
+<TheCocoaGamer@Discord> tip
+Terracord: [06/25/2021 15:06:07 -05:00] [Info] <[insert inspirational quote]@Discord> AND SUPREMAS IS GONE
+<[insert inspirational quote]@Discord> AND SUPREMAS IS GONE
+Terracord: [06/25/2021 15:06:09 -05:00] [Info] <TheCocoaGamer@Discord> when using platforms
+<TheCocoaGamer@Discord> when using platforms
+Terracord: [06/25/2021 15:06:14 -05:00] [Info] <Devalous@Discord> Imagine someone pulls a Photon and lames everyone out
+<Devalous@Discord> Imagine someone pulls a Photon and lames everyone out
+Terracord: [06/25/2021 15:06:16 -05:00] [Info] <TheCocoaGamer@Discord> dont have them randomly placesd
+<TheCocoaGamer@Discord> dont have them randomly placesd
+Terracord: [06/25/2021 15:06:23 -05:00] [Info] <TheCocoaGamer@Discord> you can fall through them >.<
+<TheCocoaGamer@Discord> you can fall through them >.<
+Terracord: [06/25/2021 15:06:34 -05:00] [Info] <[insert inspirational quote]@Discord> :hecticBlank:
+<[insert inspirational quote]@Discord> :hecticBlank:
+Terracord: [06/25/2021 15:06:37 -05:00] [Info] <Koba@Discord> i only use smart cursor for tree and mining
+<Koba@Discord> i only use smart cursor for tree and mining
+Terracord: [06/25/2021 15:06:46 -05:00] [Info] <Rod of discord@Discord> what im doing here?
+<Rod of discord@Discord> what im doing here?
+Terracord: [06/25/2021 15:07:09 -05:00] [Info] <Koba@Discord> to suffer
+<Koba@Discord> to suffer
+Terracord: [06/25/2021 15:07:19 -05:00] [Info] Server broadcast: waw has defeated the 50th Zombie!
+Terracord: [06/25/2021 15:07:43 -05:00] [Info] <Rod of discord@Discord> man on 1.3 using smart cursor would make building more of a nightmare
+<Rod of discord@Discord> man on 1.3 using smart cursor would make building more of a nightmare
+Terracord: [06/25/2021 15:08:01 -05:00] [Info] <Rod of discord@Discord> good thing that i only player terraria when 1.4 update launched
+<Rod of discord@Discord> good thing that i only player terraria when 1.4 update launched
+Terracord: [06/25/2021 15:08:30 -05:00] [Info] **:red_circle: waw has left the server.**
+waw has left.
+Terracord: [06/25/2021 15:09:05 -05:00] [Info] <Devalous@Discord> 3 people are left
+<Devalous@Discord> 3 people are left
+Terracord: [06/25/2021 15:09:29 -05:00] [Info] <UlvarGD@Discord> hmm im waiting
+<UlvarGD@Discord> hmm im waiting
+heroy_105 executed: /playing.
+
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Goodn't Frec
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Goodn't Frec
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Goodn't Frec
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Goodn't Frec
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Goodn't Frec
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Goodn't Frec
+: Terracord: [06/25/2021 15:10:27 -05:00] [Info] <Koba@Discord> they will die
+<Koba@Discord> they will die
+Terracord: [06/25/2021 15:10:33 -05:00] [Warning] 15:10:33 Gateway     A MessageReceived handler is blocking the gateway task.
+Terracord: [06/25/2021 15:10:33 -05:00] [Info] <Rod of discord@Discord> im waiting
+<Rod of discord@Discord> im waiting
+Terracord: [06/25/2021 15:10:33 -05:00] [Info] <TheCocoaGamer@Discord> also the bot will not work for some of the day tommarow as ill be working on it
+<TheCocoaGamer@Discord> also the bot will not work for some of the day tommarow as ill be working on it
+playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Goodn't Frec
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Goodn't Frec
+: playingTerracord: [06/25/2021 15:10:39 -05:00] [Info] <[insert inspirational quote]@Discord> ok
+<[insert inspirational quote]@Discord> ok
+
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Goodn't Frec
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Goodn't Frec
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Goodn't Frec
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Goodn't Frec
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Goodn't Frec
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Goodn't Frec
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Goodn't Frec
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Goodn't Frec
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Goodn't Frec
+: Terracord: [06/25/2021 15:10:58 -05:00] [Info] <Koba@Discord> alr
+<Koba@Discord> alr
+Terracord: [06/25/2021 15:10:58 -05:00] [Info] <Rod of discord@Discord> a random question whats the most creative boss fight?
+<Rod of discord@Discord> a random question whats the most creative boss fight?
+playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Goodn't Frec
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Goodn't Frec
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Goodn't Frec
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Goodn't Frec
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Goodn't Frec
+: Terracord: [06/25/2021 15:11:17 -05:00] [Info] <TheCocoaGamer@Discord> mechics wise or design wise
+<TheCocoaGamer@Discord> mechics wise or design wise
+Terracord: [06/25/2021 15:11:21 -05:00] [Info] <TheCocoaGamer@Discord> *mechanics
+<TheCocoaGamer@Discord> *mechanics
+Terracord: [06/25/2021 15:12:06 -05:00] [Info] Server broadcast: Eater of Worlds has awoken!
+Terracord: [06/25/2021 15:12:09 -05:00] [Info] <Blazingfury64@Discord> I like Empress
+<Blazingfury64@Discord> I like Empress
+Terracord: [06/25/2021 15:12:13 -05:00] [Info] <UlvarGD@Discord> what the-
+<UlvarGD@Discord> what the-
+Terracord: [06/25/2021 15:12:20 -05:00] [Info] <UlvarGD@Discord> oh ye lets spawn empress
+<UlvarGD@Discord> oh ye lets spawn empress
+Terracord: [06/25/2021 15:12:25 -05:00] [Info] <TheCocoaGamer@Discord> i feel queen bee is the most creative, second being duke fishron
+<TheCocoaGamer@Discord> i feel queen bee is the most creative, second being duke fishron
+Terracord: [06/25/2021 15:12:29 -05:00] [Info] <UlvarGD@Discord> i would say moon lord honestly
+<UlvarGD@Discord> i would say moon lord honestly
+Terracord: [06/25/2021 15:12:35 -05:00] [Info] <TheCocoaGamer@Discord> empress is cool but its just a bullet hell boss
+<TheCocoaGamer@Discord> empress is cool but its just a bullet hell boss
+Terracord: [06/25/2021 15:12:41 -05:00] [Info] <Koba@Discord> ^
+<Koba@Discord> ^
+Terracord: [06/25/2021 15:12:44 -05:00] [Info] <UlvarGD@Discord> empress is touhou boss
+<UlvarGD@Discord> empress is touhou boss
+Terracord: [06/25/2021 15:12:44 -05:00] [Info] <TheCocoaGamer@Discord> and moon lord is just laser and projetiles
+<TheCocoaGamer@Discord> and moon lord is just laser and projetiles
+Terracord: [06/25/2021 15:12:54 -05:00] [Info] <Koba@Discord> moon lord is pretty underwhelming ngl
+<Koba@Discord> moon lord is pretty underwhelming ngl
+Terracord: [06/25/2021 15:12:56 -05:00] [Info] <[insert inspirational quote]@Discord> can normal users do giverep with @YAGPDB.xyz
+<[insert inspirational quote]@Discord> can normal users do giverep with @YAGPDB.xyz
+Terracord: [06/25/2021 15:12:56 -05:00] [Info] <Rod of discord@Discord> 2 players left
+<Rod of discord@Discord> 2 players left
+Terracord: [06/25/2021 15:12:57 -05:00] [Info] <UlvarGD@Discord> ANY boss is laser and projectile
+<UlvarGD@Discord> ANY boss is laser and projectile
+Terracord: [06/25/2021 15:12:58 -05:00] [Info] <TheCocoaGamer@Discord> queen bee and fishroon has cool attacks
+<TheCocoaGamer@Discord> queen bee and fishroon has cool attacks
+Terracord: [06/25/2021 15:13:03 -05:00] [Info] Server broadcast: Eater of Worlds has been defeated!
+Terracord: [06/25/2021 15:13:05 -05:00] [Info] <TheCocoaGamer@Discord> not thos too
+<TheCocoaGamer@Discord> not thos too
+Terracord: [06/25/2021 15:13:06 -05:00] [Info] <TheCocoaGamer@Discord> they have
+<TheCocoaGamer@Discord> they have
+Terracord: [06/25/2021 15:13:08 -05:00] [Info] <TheCocoaGamer@Discord> **dash**
+<TheCocoaGamer@Discord> **dash**
+Terracord: [06/25/2021 15:13:08 -05:00] [Info] <Koba@Discord> fishrons sharknados ??
+<Koba@Discord> fishrons sharknados ??
+Terracord: [06/25/2021 15:13:16 -05:00] [Info] <Blazingfury64@Discord> Fishron is fun
+<Blazingfury64@Discord> Fishron is fun
+Terracord: [06/25/2021 15:13:18 -05:00] [Info] <Koba@Discord> dashing is the best mechanic
+<Koba@Discord> dashing is the best mechanic
+Terracord: [06/25/2021 15:13:21 -05:00] [Info] <TheCocoaGamer@Discord> ^
+<TheCocoaGamer@Discord> ^
+Terracord: [06/25/2021 15:13:24 -05:00] [Info] <UlvarGD@Discord> moonlord has teleport + the tentacle that lifesteals
+<UlvarGD@Discord> moonlord has teleport + the tentacle that lifesteals
+Terracord: [06/25/2021 15:13:26 -05:00] [Info] <TheCocoaGamer@Discord> bosses are fun with that
+<TheCocoaGamer@Discord> bosses are fun with that
+Terracord: [06/25/2021 15:13:29 -05:00] [Info] <[insert inspirational quote]@Discord> ^ couldn't live without
+<[insert inspirational quote]@Discord> ^ couldn't live without
+Terracord: [06/25/2021 15:13:30 -05:00] [Info] <Blazingfury64@Discord> and the only boss you can kill before mechs
+<Blazingfury64@Discord> and the only boss you can kill before mechs
+Terracord: [06/25/2021 15:13:32 -05:00] [Info] <TheCocoaGamer@Discord> is that creative tho
+<TheCocoaGamer@Discord> is that creative tho
+Terracord: [06/25/2021 15:13:33 -05:00] [Info] <Rod of discord@Discord> wall of flesh is a heck when you bridge ends
+<Rod of discord@Discord> wall of flesh is a heck when you bridge ends
+Terracord: [06/25/2021 15:13:35 -05:00] [Info] <TheCocoaGamer@Discord> its a feature
+<TheCocoaGamer@Discord> its a feature
+Terracord: [06/25/2021 15:13:42 -05:00] [Info] <TheCocoaGamer@Discord> but not nessisarly creative
+<TheCocoaGamer@Discord> but not nessisarly creative
+Terracord: [06/25/2021 15:13:46 -05:00] [Info] <Devalous@Discord> The most creative is FTW King Slime
+<Devalous@Discord> The most creative is FTW King Slime
+Terracord: [06/25/2021 15:13:49 -05:00] [Info] <TheCocoaGamer@Discord> unlike queen bee and fishron
+<TheCocoaGamer@Discord> unlike queen bee and fishron
+Terracord: [06/25/2021 15:13:55 -05:00] [Info] <Koba@Discord> ***b i g***
+<Koba@Discord> ***b i g***
+Terracord: [06/25/2021 15:13:56 -05:00] [Info] <TheCocoaGamer@Discord> yea this is it
+<TheCocoaGamer@Discord> yea this is it
+Terracord: [06/25/2021 15:13:59 -05:00] [Info] <TheCocoaGamer@Discord> wait
+<TheCocoaGamer@Discord> wait
+Terracord: [06/25/2021 15:14:01 -05:00] [Info] <TheCocoaGamer@Discord> king slime?
+<TheCocoaGamer@Discord> king slime?
+Terracord: [06/25/2021 15:14:01 -05:00] [Info] <SuperLuigi256@Discord> huge
+<SuperLuigi256@Discord> huge
+Terracord: [06/25/2021 15:14:02 -05:00] [Info] <[insert inspirational quote]@Discord> ***beeg***
+<[insert inspirational quote]@Discord> ***beeg***
+Terracord: [06/25/2021 15:14:04 -05:00] [Info] <Rod of discord@Discord> ftw king slime have eaten more slimes
+<Rod of discord@Discord> ftw king slime have eaten more slimes
+Terracord: [06/25/2021 15:14:04 -05:00] [Info] <Devalous@Discord> Just scale up the sprite
+<Devalous@Discord> Just scale up the sprite
+Terracord: [06/25/2021 15:14:04 -05:00] [Info] <Blazingfury64@Discord> T H I C C
+<Blazingfury64@Discord> T H I C C
+Terracord: [06/25/2021 15:14:08 -05:00] [Info] <Koba@Discord> I havent beaten FTW King Slime
+<Koba@Discord> I havent beaten FTW King Slime
+Terracord: [06/25/2021 15:14:12 -05:00] [Info] <TheCocoaGamer@Discord> queen slime is actually pretty creative
+<TheCocoaGamer@Discord> queen slime is actually pretty creative
+Terracord: [06/25/2021 15:14:13 -05:00] [Info] <Koba@Discord> its too large
+<Koba@Discord> its too large
+Terracord: [06/25/2021 15:14:15 -05:00] [Info] <TheCocoaGamer@Discord> bc its like bullet hell
+<TheCocoaGamer@Discord> bc its like bullet hell
+Terracord: [06/25/2021 15:14:19 -05:00] [Info] <TheCocoaGamer@Discord> but not at the same time
+<TheCocoaGamer@Discord> but not at the same time
+Terracord: [06/25/2021 15:14:22 -05:00] [Info] <TheCocoaGamer@Discord> its pretty cool
+<TheCocoaGamer@Discord> its pretty cool
+Terracord: [06/25/2021 15:14:25 -05:00] [Info] <TheCocoaGamer@Discord> too bad i dont like it
+<TheCocoaGamer@Discord> too bad i dont like it
+Terracord: [06/25/2021 15:14:27 -05:00] [Info] <UlvarGD@Discord> it forces you to stay kinda close and also the lifestel makes you either kill the things or aboid and also the laser has multiple ways of being dogded and also all of the eyes attacks like the eyes dash and the fact that you cant kill them and stuff
+<UlvarGD@Discord> it forces you to stay kinda close and also the lifestel makes you either kill the things or aboid and also the laser has multiple ways of being dogded and also all of the eyes attacks like the eyes dash and the fact that you cant kill them and stuff
+Terracord: [06/25/2021 15:14:40 -05:00] [Info] <TheCocoaGamer@Discord> im not saying it isnt creative how it is
+<TheCocoaGamer@Discord> im not saying it isnt creative how it is
+Terracord: [06/25/2021 15:14:42 -05:00] [Info] <TheCocoaGamer@Discord> i just mean like
+<TheCocoaGamer@Discord> i just mean like
+Terracord: [06/25/2021 15:14:44 -05:00] [Info] <TheCocoaGamer@Discord> the attack
+<TheCocoaGamer@Discord> the attack
+Terracord: [06/25/2021 15:14:46 -05:00] [Info] <TheCocoaGamer@Discord> its a lazer
+<TheCocoaGamer@Discord> its a lazer
+Terracord: [06/25/2021 15:14:49 -05:00] [Info] <TheCocoaGamer@Discord> cool..
+<TheCocoaGamer@Discord> cool..
+Terracord: [06/25/2021 15:14:52 -05:00] [Info] <TheCocoaGamer@Discord> and lifesteal
+<TheCocoaGamer@Discord> and lifesteal
+Terracord: [06/25/2021 15:14:53 -05:00] [Info] <TheCocoaGamer@Discord> it
+<TheCocoaGamer@Discord> it
+Terracord: [06/25/2021 15:14:55 -05:00] [Info] <TheCocoaGamer@Discord> steals life
+<TheCocoaGamer@Discord> steals life
+Terracord: [06/25/2021 15:14:56 -05:00] [Info] <TheCocoaGamer@Discord> so creative
+<TheCocoaGamer@Discord> so creative
+Terracord: [06/25/2021 15:15:02 -05:00] [Info] <TheCocoaGamer@Discord> has never been done before
+<TheCocoaGamer@Discord> has never been done before
+Terracord: [06/25/2021 15:15:02 -05:00] [Info] <[insert inspirational quote]@Discord> self-explanatory
+<[insert inspirational quote]@Discord> self-explanatory
+Terracord: [06/25/2021 15:15:05 -05:00] [Info] <TheCocoaGamer@Discord> ^
+<TheCocoaGamer@Discord> ^
+Terracord: [06/25/2021 15:15:11 -05:00] [Info] <Koba@Discord> its not a bad boss, it just isnt as creative as others
+<Koba@Discord> its not a bad boss, it just isnt as creative as others
+Terracord: [06/25/2021 15:15:14 -05:00] [Info] <TheCocoaGamer@Discord> ^^^
+<TheCocoaGamer@Discord> ^^^
+Terracord: [06/25/2021 15:15:18 -05:00] [Info] <TheCocoaGamer@Discord> exactly what i mean
+<TheCocoaGamer@Discord> exactly what i mean
+Terracord: [06/25/2021 15:15:31 -05:00] [Info] <Koba@Discord> a bad boss is FTW skeletron prime
+<Koba@Discord> a bad boss is FTW skeletron prime
+Terracord: [06/25/2021 15:15:32 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+Terracord: [06/25/2021 15:15:32 -05:00] [Info] <Devalous@Discord> FTW King Slime is by far the most creative
+<Devalous@Discord> FTW King Slime is by far the most creative
+Terracord: [06/25/2021 15:15:40 -05:00] [Info] <Rod of discord@Discord> lets just say
+<Rod of discord@Discord> lets just say
+Terracord: [06/25/2021 15:15:41 -05:00] [Info] <TheCocoaGamer@Discord> i say queen slime
+<TheCocoaGamer@Discord> i say queen slime
+Terracord: [06/25/2021 15:15:57 -05:00] [Info] <Devalous@Discord> How many Games have bosses that are just the same boss but the sprite has been upscaled
+<Devalous@Discord> How many Games have bosses that are just the same boss but the sprite has been upscaled
+Terracord: [06/25/2021 15:16:01 -05:00] [Info] <Rod of discord@Discord> when theres 2 people left the game will take much time to end
+<Rod of discord@Discord> when theres 2 people left the game will take much time to end
+Terracord: [06/25/2021 15:16:02 -05:00] [Info] Server broadcast: Screams echo around you...
+Terracord: [06/25/2021 15:16:12 -05:00] [Info] <[insert inspirational quote]@Discord> first boss that flies at a certain point
+<[insert inspirational quote]@Discord> first boss that flies at a certain point
+Terracord: [06/25/2021 15:16:13 -05:00] [Info] <TheCocoaGamer@Discord> terraria mech bosses lol
+<TheCocoaGamer@Discord> terraria mech bosses lol
+Terracord: [06/25/2021 15:16:21 -05:00] [Info] <TheCocoaGamer@Discord> ^jokr
+<TheCocoaGamer@Discord> ^jokr
+Terracord: [06/25/2021 15:16:26 -05:00] [Info] Server broadcast: Eater of Worlds has awoken!
+Terracord: [06/25/2021 15:16:35 -05:00] [Info] <[insert inspirational quote]@Discord> :hecticCease:
+<[insert inspirational quote]@Discord> :hecticCease:
+Terracord: [06/25/2021 15:16:37 -05:00] [Info] <Koba@Discord> how long until heroy gets a nights edge
+<Koba@Discord> how long until heroy gets a nights edge
+Terracord: [06/25/2021 15:16:50 -05:00] [Info] <[insert inspirational quote]@Discord> until he gets night's edge
+<[insert inspirational quote]@Discord> until he gets night's edge
+Terracord: [06/25/2021 15:16:51 -05:00] [Info] <Rod of discord@Discord> :bunnywow:\ 99999\ years
+<Rod of discord@Discord> :bunnywow:\ 99999\ years
+Terracord: [06/25/2021 15:17:04 -05:00] [Info] Goodn't Frec said: 15 mins in dungeon and **[Deranged Aqua Scepter]**
+Goodn't Frec: 15 mins in dungeon and [Deranged Aqua Scepter]
+Terracord: [06/25/2021 15:17:08 -05:00] [Info] Server broadcast: Eater of Worlds has been defeated!
+Terracord: [06/25/2021 15:17:08 -05:00] [Info] <TheCocoaGamer@Discord> nights edge is prob easy to get
+<TheCocoaGamer@Discord> nights edge is prob easy to get
+Terracord: [06/25/2021 15:17:09 -05:00] [Info] Goodn't Frec said: wtf
+Goodn't Frec: wtf
+Terracord: [06/25/2021 15:17:14 -05:00] [Info] <[insert inspirational quote]@Discord> :kekw:
+<[insert inspirational quote]@Discord> :kekw:
+Terracord: [06/25/2021 15:17:17 -05:00] [Info] <TheCocoaGamer@Discord> just needs a flaming sword
+<TheCocoaGamer@Discord> just needs a flaming sword
+Terracord: [06/25/2021 15:17:20 -05:00] [Info] <Devalous@Discord> Heroy at Corruption
+<Devalous@Discord> Heroy at Corruption
+Terracord: [06/25/2021 15:17:26 -05:00] [Info] <Devalous@Discord> Frec at dungeon
+<Devalous@Discord> Frec at dungeon
+Terracord: [06/25/2021 15:17:28 -05:00] [Info] Goodn't Frec said: who's left?
+Goodn't Frec: who's left?
+Terracord: [06/25/2021 15:17:31 -05:00] [Info] <TheCocoaGamer@Discord> heroy
+<TheCocoaGamer@Discord> heroy
+Terracord: [06/25/2021 15:17:32 -05:00] [Info] <Rod of discord@Discord> 2
+<Rod of discord@Discord> 2
+Terracord: [06/25/2021 15:17:34 -05:00] [Info] Command sent: playing
+TheCocoaGamer executed: /playing.
+Terracord: [06/25/2021 15:17:34 -05:00] [Info] <TheCocoaGamer@Discord> !playing
+<TheCocoaGamer@Discord> !playing
+Terracord: [06/25/2021 15:17:35 -05:00] [Info] heroy_105 said: roger that
+heroy_105: roger that
+Terracord: [06/25/2021 15:17:35 -05:00] [Info] <[insert inspirational quote]@Discord> you and heroy
+<[insert inspirational quote]@Discord> you and heroy
+Terracord: [06/25/2021 15:17:35 -05:00] [Info] <Devalous@Discord> The final 2
+<Devalous@Discord> The final 2
+Terracord: [06/25/2021 15:17:36 -05:00] [Info] Goodn't Frec said: oh
+Goodn't Frec: oh
+Terracord: [06/25/2021 15:17:54 -05:00] [Info] Goodn't Frec said: heroy, brawl at spawn? i gtg soon and you probs already won
+Goodn't Frec: heroy, brawl at spawn? i gtg soon and you probs already won
+Terracord: [06/25/2021 15:17:58 -05:00] [Info] <SuperLuigi256@Discord> 69 max nice
+<SuperLuigi256@Discord> 69 max nice
+Terracord: [06/25/2021 15:18:05 -05:00] [Info] <TheCocoaGamer@Discord> ;)
+<TheCocoaGamer@Discord> ;)
+Terracord: [06/25/2021 15:18:11 -05:00] [Info] Goodn't Frec said: heeroy?
+Goodn't Frec: heeroy?
+Terracord: [06/25/2021 15:18:11 -05:00] [Info] <Koba@Discord> nice
+<Koba@Discord> nice
+Terracord: [06/25/2021 15:18:14 -05:00] [Info] heroy_105 said: i think yes
+heroy_105: i think yes
+Terracord: [06/25/2021 15:18:18 -05:00] [Info] <TheCocoaGamer@Discord> im actually kinda wondering how the second server will go tmrow
+<TheCocoaGamer@Discord> im actually kinda wondering how the second server will go tmrow
+Terracord: [06/25/2021 15:18:22 -05:00] [Info] <Rod of discord@Discord> next be crimson because corruption can have exposed orbs
+<Rod of discord@Discord> next be crimson because corruption can have exposed orbs
+Terracord: [06/25/2021 15:18:22 -05:00] [Info] Goodn't Frec said: wait you there
+Goodn't Frec: wait you there
+Terracord: [06/25/2021 15:18:25 -05:00] [Info] <TheCocoaGamer@Discord> if it works itll mean no waiting at all
+<TheCocoaGamer@Discord> if it works itll mean no waiting at all
+79.17.133.217:54623 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Goodn't Frec for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 15:18:34 -05:00] [Info] **:red_circle: Goodn't Frec has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 15:18:39 -05:00] [Info] <TheCocoaGamer@Discord> f
+<TheCocoaGamer@Discord> f
+playing
+Server executed: /playing.
+Online Players (1/69)
+heroy_105
+:

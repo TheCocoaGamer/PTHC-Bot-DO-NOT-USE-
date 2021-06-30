@@ -1,0 +1,4952 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7777
+Type 'help' for a list of commands.
+
+: grace begin 20m
+Server executed: /grace begin 20m.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 352243064179392512
+Server started
+Account removed successfully.
+Server successfully deleted account: 352243064179392512.
+: user add 352243064179392512 le3l default
+Account 352243064179392512 has been added to group default!
+Server added Account 352243064179392512 to group default
+: user del 417138170430357524
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '417138170430357524' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 417138170430357524 8jn0 default
+Account 417138170430357524 has been added to group default!
+Server added Account 417138170430357524 to group default
+: user del 244501248861011968
+Account removed successfully.
+Server successfully deleted account: 244501248861011968.
+: user add 244501248861011968 rjar default
+Account 244501248861011968 has been added to group default!
+Server added Account 244501248861011968 to group default
+: user del 411350663281508352
+Account removed successfully.
+Server successfully deleted account: 411350663281508352.
+: user add 411350663281508352 g9pv default
+Account 411350663281508352 has been added to group default!
+Server added Account 411350663281508352 to group default
+: user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 rk74 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 414496759809572876
+Account removed successfully.
+Server successfully deleted account: 414496759809572876.
+: user add 414496759809572876 dwow default
+Account 414496759809572876 has been added to group default!
+Server added Account 414496759809572876 to group default
+: 46.39.45.139:40517 is connecting...
+76.92.134.227:55281 is connecting...
+heroy_105 has joined.
+178.76.157.175:49551 is connecting...
+76.92.134.227:55282 is connecting...
+Mysterious Entity has joined.
+188.127.170.93:55208 is connecting...
+God of the New World has joined.
+AAAAAAlaso has joined.
+God of the New World authenticated successfully as user: 352243064179392512.
+Mysterious Entity authenticated successfully as user: 414496759809572876.
+user del 365534393483395092
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 u2r8 default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: AAAAAAlaso authenticated successfully as user: 365534393483395092.
+heroy_105 executed: /help.
+190.237.0.172:15800 is connecting...
+24.0.9.149:49154 is connecting...
+patatag__ has joined.
+patatag__ authenticated successfully as user: 417138170430357524.
+heroy_105 authenticated successfully as user: 244501248861011968.
+24.0.9.149:58555 is connecting...
+sleepy ttrepter has joined.
+sleepy ttrepter: the
+sleepy ttrepter authenticated successfully as user: 411350663281508352.
+sleepy ttrepter: where is the desertd
+user del 669112890288111618
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '669112890288111618' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 669112890288111618 902z default
+Account 669112890288111618 has been added to group default!
+Server added Account 669112890288111618 to group default
+: God of the New World: somewhere
+sleepy ttrepter: where is it.
+God of the New World: Aa
+God of the New World: AAAA
+Mysterious Entity: -_-
+Mysterious Entity: fake sword shrine
+Mysterious Entity: sadge
+AAAAAAlaso: [Cactus Helmet][Cactus Breastplate][Cactus Leggings]
+patatag__: wholesome devourer moment
+sleepy ttrepter: ow
+75.113.127.49:53133 is connecting...
+EpicSaxBoi has joined.
+EpicSaxBoi authenticated successfully as user: 669112890288111618.
+Mysterious Entity: shit I forgot to gran wood
+Mysterious Entity: small brain
+God of the New World: nerd
+sleepy ttrepter: great
+God of the New World: F
+sleepy ttrepter has left.
+God of the New World: O OP
+heroy_105: nice
+Mysterious Entity: oh god
+God of the New World: OH GOD
+173.95.123.83:43330 is connecting...
+sirscore has joined.
+sirscore: ello
+Mysterious Entity: oh you poor soul
+AAAAAAlaso: f
+EpicSaxBoi: welp
+sirscore: cant leave spawn moment
+EpicSaxBoi has left.
+God of the New World: OOP
+Mysterious Entity: tfw spelunker
+75.113.127.49:52179 is connecting...
+Mysterious Entity: is better than flare gun
+God of the New World: sex
+EpicSaxBoi has joined.
+sirscore: uuuuh
+EpicSaxBoi authenticated successfully as user: 669112890288111618.
+Mysterious Entity: yo instant gratification
+Mysterious Entity: 2 gold chests nearby
+sirscore: guess Ill sit here
+Mysterious Entity: yeah uh have fun lol
+sirscore: I cannot move
+heroy_105: login first
+sirscore: how
+God of the New World: DUDE
+God of the New World: I WAS SURROUNDED
+God of the New World has left.
+76.92.134.227:55301 is connecting...
+catus has joined.
+catus authenticated successfully as user: 352243064179392512.
+playing
+Server executed: /playing.
+Online Players (7/69)
+heroy_105, Mysterious Entity, catus, AAAAAAlaso, patatag__, sirscore,
+EpicSaxBoi
+: sirscore: how do I login?
+sirscore: im dumb
+EpicSaxBoi has left.
+catus: dm from
+catus: bot
+AAAAAAlaso: react
+catus: yea
+user del 691072331208065065
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '691072331208065065' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 691072331208065065 2m2u default
+Account 691072331208065065 has been added to group default!
+Server added Account 691072331208065065 to group default
+: AAAAAAlaso: in the green square
+sirscore authenticated successfully as user: 691072331208065065.
+AAAAAAlaso: then use the code in the dm
+sirscore: ok i work
+catus: NO
+catus: AGAIN
+catus has left.
+heroy_105: [Jagged Fledgling Wings][Lucky Fledgling Wings] lol
+75.113.127.49:65497 is connecting...
+EpicSaxBoi has joined.
+76.92.134.227:55307 is connecting...
+EpicSaxBoi authenticated successfully as user: 669112890288111618.
+catus has joined.
+catus authenticated successfully as user: 352243064179392512.
+sirscore has left.
+catus: f
+AAAAAAlaso: helo
+173.95.123.83:14522 is connecting...
+sirscore 2 has joined.
+sirscore 2 authenticated successfully as user: 691072331208065065.
+catus has left.
+76.92.134.227:55313 is connecting...
+catus has joined.
+sirscore 2: welp
+catus authenticated successfully as user: 352243064179392512.
+sirscore 2 has left.
+
+: playing
+Server executed: /playing.
+Online Players (6/69)
+heroy_105, Mysterious Entity, EpicSaxBoi, AAAAAAlaso, patatag__, catus
+: catus: OOP
+catus: lol
+catus: thats a few enemies
+The grace period has ended.
+You are now at the mercy of yourself and others.
+catus: OAahd;jkfahsjkd;fh
+catus has left.
+playing
+Server executed: /playing.
+Online Players (5/69)
+heroy_105, Mysterious Entity, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (5/69)
+heroy_105, Mysterious Entity, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (5/69)
+heroy_105, Mysterious Entity, EpicSaxBoi, AAAAAAlaso, patatag__
+: Mysterious Entity: I AM AN IDIOT
+plEpicSaxBoi: lmao
+aying
+Server executed: /playing.
+Online Players (5/69)
+heroy_105, Mysterious Entity, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (5/69)
+heroy_105, Mysterious Entity, EpicSaxBoi, AAAAAAlaso, patatag__
+: heroy_105: lol
+playing
+Server executed: /playing.
+Online Players (5/69)
+heroy_105, Mysterious Entity, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (5/69)
+heroy_105, Mysterious Entity, EpicSaxBoi, AAAAAAlaso, patatag__
+: plAAAAAAlaso: f
+aying
+Server executed: /playing.
+Online Players (5/69)
+heroy_105, Mysterious Entity, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (5/69)
+heroy_105, Mysterious Entity, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (5/69)
+heroy_105, Mysterious Entity, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (5/69)
+heroy_105, Mysterious Entity, EpicSaxBoi, AAAAAAlaso, patatag__
+: plMysterious Entity: I died next to a chest too
+aying
+Server executed: /playing.
+Online Players (5/69)
+heroy_105, Mysterious Entity, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (5/69)
+heroy_105, Mysterious Entity, EpicSaxBoi, AAAAAAlaso, patatag__
+: Mysterious Entity: :(
+playing
+Server executed: /playing.
+Online Players (5/69)
+heroy_105, Mysterious Entity, EpicSaxBoi, AAAAAAlaso, patatag__
+: AAAAAAlaso: ooof
+Mysterious Entity has left.
+playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: PLaying
+Server executed: /PLaying.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, EpicSaxBoi, AAAAAAlaso, patatag__
+: AAAAAAlaso: asjkfbajsdfabsdk
+heroy_105: f
+AAAAAAlaso: f
+AAAAAAlaso: welp
+AAAAAAlaso executed: /playing.
+AAAAAAlaso has left.
+playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: The server is out of date. Latest version:
+TShock 4.5.4
+EpicSaxBoi: your funeral
+playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: patatag__ executed: /help.
+patatag__ executed: /playing.
+playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: acplaying
+Invalid command entered. Type /help for a list of valid commands.
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: acplaying
+Invalid command entered. Type /help for a list of valid commands.
+: acplaying
+Invalid command entered. Type /help for a list of valid commands.
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: The server is out of date. Latest version:
+TShock 4.5.4
+playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, EpicSaxBoi, patatag__
+: playiEpicSaxBoi has left.
+ng
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: heroy_105 executed: /playing.
+playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: heroy_105: where are you
+playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: plpatatag__: [Lucky Obsidian Rose] lol
+aying
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playinheroy_105: huh
+g
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: The server is out of date. Latest version:
+TShock 4.5.4
+playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: plapatatag__: gg
+ying
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: heroy_105: gg
+playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: patatag__: there is no one else i think
+playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: heroy_105: [Deadly Boomstick] wow nice
+playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: patatag__ executed: /playing.
+playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: patatag__: ./playing
+playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playingheroy_105 executed: /playing.
+
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: heroy_105: ye
+playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: heroy_105: only us
+playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, patatag__
+: patatag__ has left.
+playing
+Server executed: /playing.
+Online Players (1/69)
+heroy_105
+:

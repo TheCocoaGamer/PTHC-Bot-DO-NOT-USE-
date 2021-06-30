@@ -1,0 +1,4178 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7778
+Type 'help' for a list of commands.
+
+Terracord: [06/26/2021 19:06:55 -05:00] [Info] Connecting to Discord...
+Terracord: [06/26/2021 19:06:55 -05:00] [Info] 19:06:55 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/26/2021 19:06:56 -05:00] [Info] 19:06:56 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 15m
+Server executed: /grace begin 15m.
+Terracord: [06/26/2021 19:06:56 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 643950324075462656
+Server started
+Account removed successfully.
+Server successfully deleted account: 643950324075462656.
+: user add 643950324075462656 s5qr default
+Account 643950324075462656 has been added to group default!
+Server added Account 643950324075462656 to group default
+: user del 262003003186216973
+Account removed successfully.
+Server successfully deleted account: 262003003186216973.
+: user add 262003003186216973 lruo default
+Account 262003003186216973 has been added to group default!
+Server added Account 262003003186216973 to group default
+: user del 636718232799281162
+75.158.83.254:50283 is connecting...
+Account removed successfully.
+Server successfully deleted account: 636718232799281162.
+: user add 636718232799281162 bqpi default
+Account 636718232799281162 has been added to group default!
+Server added Account 636718232799281162 to group default
+: user del 692133379952607313
+Account removed successfully.
+Server successfully deleted account: 692133379952607313.
+: user add 692133379952607313 2wtt default
+Terracord: [06/26/2021 19:06:56 -05:00] [Info] 19:06:56 Gateway     Connected
+Account 692133379952607313 has been added to group default!
+Server added Account 692133379952607313 to group default
+: user del 304047334793412608
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '304047334793412608' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 304047334793412608 8e38 default
+Account 304047334793412608 has been added to group default!
+Server added Account 304047334793412608 to group default
+: user del 768591661210140723
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '768591661210140723' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 768591661210140723 fz6c default
+162.157.69.233:50112 is connecting...
+Account 768591661210140723 has been added to group default!
+Server added Account 768591661210140723 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 e3t1 default
+Terracord: [06/26/2021 19:06:57 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/26/2021 19:06:57 -05:00] [Info] 19:06:57 Gateway     Ready
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 417138170430357524
+Account removed successfully.
+Server successfully deleted account: 417138170430357524.
+: user add 417138170430357524 nycv default
+Account 417138170430357524 has been added to group default!
+Server added Account 417138170430357524 to group default
+: user del 833450171190476800
+191.189.24.102:2927 is connecting...
+Account removed successfully.
+Server successfully deleted account: 833450171190476800.
+: user add 833450171190476800 0gtr default
+Account 833450171190476800 has been added to group default!
+Server added Account 833450171190476800 to group default
+: user del 782433450312466433
+Account removed successfully.
+Server successfully deleted account: 782433450312466433.
+: user add 782433450312466433 koid default
+116.251.154.171:49158 is connecting...
+Account 782433450312466433 has been added to group default!
+Server added Account 782433450312466433 to group default
+: Terracord: [06/26/2021 19:06:59 -05:00] [Info] **:green_circle: Ns has joined the server.**
+70.137.105.70:50938 is connecting...
+Terracord: [06/26/2021 19:06:59 -05:00] [Info] **:green_circle: Woly has joined the server.**
+Terracord: [06/26/2021 19:06:59 -05:00] [Info] **:green_circle: mrow has joined the server.**
+Terracord: [06/26/2021 19:06:59 -05:00] [Info] **:green_circle: lol im new has joined the server.**
+Terracord: [06/26/2021 19:06:59 -05:00] [Info] **:green_circle: Rod of discord has joined the server.**
+Ns has joined.
+Woly has joined.
+mrow has joined.
+lol im new has joined.
+Terracord: [06/26/2021 19:07:00 -05:00] [Info] <raevyn@Discord> connecting to and then
+<raevyn@Discord> connecting to and then
+Rod of discord has joined.
+47.5.141.86:61507 is connecting...
+Terracord: [06/26/2021 19:07:01 -05:00] [Info] <raevyn@Discord> the thing
+<raevyn@Discord> the thing
+Woly authenticated successfully as user: 636718232799281162.
+Terracord: [06/26/2021 19:07:02 -05:00] [Info] **:green_circle: Chookagong has joined the server.**
+Chookagong has joined.
+190.237.0.235:45887 is connecting...
+Ns authenticated successfully as user: 692133379952607313.
+Terracord: [06/26/2021 19:07:04 -05:00] [Info] **:green_circle: pattatag has joined the server.**
+Chookagong authenticated successfully as user: 643950324075462656.
+pattatag has joined.
+Terracord: [06/26/2021 19:07:06 -05:00] [Info] lol im new said: oh wait
+lol im new: oh wait
+Terracord: [06/26/2021 19:07:08 -05:00] [Info] lol im new said: im here
+lol im new: im here
+pattatag authenticated successfully as user: 417138170430357524.
+mrow authenticated successfully as user: 262003003186216973.
+Rod of discord authenticated successfully as user: 833450171190476800.
+lol im new authenticated successfully as user: 304047334793412608.
+Terracord: [06/26/2021 19:07:28 -05:00] [Info] <henryishappy@Discord> im not in
+<henryishappy@Discord> im not in
+Terracord: [06/26/2021 19:07:28 -05:00] [Info] Rod of discord said: left dead
+Rod of discord: left dead
+Terracord: [06/26/2021 19:07:43 -05:00] [Info] Rod of discord said: left=dead
+Rod of discord: left=dead
+Terracord: [06/26/2021 19:07:52 -05:00] [Info] <The Kremling@Discord> why wont i join
+<The Kremling@Discord> why wont i join
+Terracord: [06/26/2021 19:08:10 -05:00] [Info] <henryishappy@Discord> idk im not in ether
+<henryishappy@Discord> idk im not in ether
+Terracord: [06/26/2021 19:08:10 -05:00] [Info] <TheCocoaGamer@Discord> port is 7778
+<TheCocoaGamer@Discord> port is 7778
+Terracord: [06/26/2021 19:08:14 -05:00] [Info] <TheCocoaGamer@Discord> and the ip is
+<TheCocoaGamer@Discord> and the ip is
+Terracord: [06/26/2021 19:08:18 -05:00] [Info] <henryishappy@Discord> i put that
+<henryishappy@Discord> i put that
+Terracord: [06/26/2021 19:08:20 -05:00] [Info] <TheCocoaGamer@Discord> PracticeTHC.epicgamer.org
+<TheCocoaGamer@Discord> PracticeTHC.epicgamer.org
+98.220.227.57:50709 is connecting...
+Terracord: [06/26/2021 19:08:26 -05:00] [Info] **:green_circle: [c/fe3239:Supremas] has joined the server.**
+Supremas has joined.
+192.136.208.53:61988 is connecting...
+Terracord: [06/26/2021 19:08:32 -05:00] [Info] **:green_circle: lol get rekt has joined the server.**
+lol get rekt has joined.
+[c/fe3239:Supremas] authenticated successfully as user: 376522837693038593.
+Terracord: [06/26/2021 19:08:37 -05:00] [Info] Chookagong said: rod can u destroy a heart
+Chookagong: rod can u destroy a heart
+Terracord: [06/26/2021 19:08:38 -05:00] [Info] Rod of discord said: **[Murderous Wand of Sparking]**
+Rod of discord: [Murderous Wand of Sparking]
+67.85.163.118:49995 is connecting...
+Terracord: [06/26/2021 19:08:41 -05:00] [Info] **:green_circle: henryishappy has joined the server.**
+Terracord: [06/26/2021 19:08:41 -05:00] [Info] Chookagong said: i need the weapons
+Chookagong: i need the weapons
+henryishappy has joined.
+Terracord: [06/26/2021 19:08:45 -05:00] [Info] Rod of discord said: i think left is jungle
+Rod of discord: i think left is jungle
+Supremas executed: /playing.
+lol get rekt authenticated successfully as user: 782433450312466433.
+henryishappy authenticated successfully as user: 768591661210140723.
+70.137.105.70:50938 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked mrow for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/26/2021 19:09:39 -05:00] [Info] **:red_circle: mrow has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/26/2021 19:09:40 -05:00] [Info] [c/fe3239:Supremas] said: is ice right?
+Supremas: is ice right?
+70.137.105.70:50941 is connecting...
+Terracord: [06/26/2021 19:09:49 -05:00] [Info] **:green_circle: mrow has joined the server.**
+mrow has joined.
+Terracord: [06/26/2021 19:09:50 -05:00] [Info] Chookagong said: yes
+Chookagong: yes
+mrow authenticated successfully as user: 262003003186216973.
+Terracord: [06/26/2021 19:09:54 -05:00] [Info] Chookagong said: snow is at the right side
+Chookagong: snow is at the right side
+Terracord: [06/26/2021 19:09:55 -05:00] [Info] mrow said: i thought i saw water
+mrow: i thought i saw water
+Terracord: [06/26/2021 19:10:04 -05:00] [Info] Rod of discord said: **[Iron Anvil]**
+Rod of discord: [Iron Anvil]
+Terracord: [06/26/2021 19:10:36 -05:00] [Info] Rod of discord said: bye crimson
+Rod of discord: bye crimson
+Terracord: [06/26/2021 19:10:52 -05:00] [Info] lol im new said: woowee
+lol im new: woowee
+98.220.227.57:50709 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked [c/fe3239:Supremas] for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/26/2021 19:10:54 -05:00] [Info] **:red_circle: [c/fe3239:Supremas] has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/26/2021 19:11:03 -05:00] [Info] Rod of discord said: cave
+Rod of discord: cave
+Terracord: [06/26/2021 19:11:11 -05:00] [Info] Rod of discord said: snow :(
+Rod of discord: snow :(
+98.220.227.57:50728 is connecting...
+Terracord: [06/26/2021 19:11:15 -05:00] [Info] **:green_circle: [c/fe3239:Supremas] has joined the server.**
+Supremas has joined.
+[c/fe3239:Supremas] authenticated successfully as user: 376522837693038593.
+Terracord: [06/26/2021 19:11:33 -05:00] [Info] Chookagong said: im coming
+Chookagong: im coming
+Terracord: [06/26/2021 19:11:42 -05:00] [Info] Rod of discord said: **[Demonic Blowpipe]** d
+Rod of discord: [Demonic Blowpipe] d
+Terracord: [06/26/2021 19:11:44 -05:00] [Info] henryishappy said: thats what she said
+henryishappy: thats what she said
+Terracord: [06/26/2021 19:12:08 -05:00] [Info] Chookagong said: i cant see anything
+Chookagong: i cant see anything
+Terracord: [06/26/2021 19:12:16 -05:00] [Info] mrow said: lol
+mrow: lol
+Terracord: [06/26/2021 19:12:27 -05:00] [Info] Chookagong said: oh ty
+Chookagong: oh ty
+Terracord: [06/26/2021 19:12:30 -05:00] [Info] Rod of discord said: np
+Rod of discord: np
+Terracord: [06/26/2021 19:12:33 -05:00] [Info] Rod of discord said: team wrok
+Rod of discord: team wrok
+Terracord: [06/26/2021 19:12:34 -05:00] [Info] Rod of discord said: work
+Rod of discord: work
+75.158.83.254:50283 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Ns for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/26/2021 19:12:52 -05:00] [Info] **:red_circle: Ns has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/26/2021 19:13:00 -05:00] [Info] Woly said: Is it allowed to save+exit to get back to spawn?
+Woly: Is it allowed to save+exit to get back to spawn?
+Terracord: [06/26/2021 19:13:03 -05:00] [Info] Chookagong said: get the pressure plate
+Chookagong: get the pressure plate
+Terracord: [06/26/2021 19:13:05 -05:00] [Info] [c/fe3239:Supremas] said: no
+Supremas: no
+Terracord: [06/26/2021 19:13:06 -05:00] [Info] Chookagong said: for trap detection
+Chookagong: for trap detection
+75.158.83.254:50297 is connecting...
+Terracord: [06/26/2021 19:13:10 -05:00] [Info] **:green_circle: Ns has joined the server.**
+Ns has joined.
+Ns authenticated successfully as user: 692133379952607313.
+47.5.141.86:61507 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Chookagong for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/26/2021 19:13:32 -05:00] [Info] **:red_circle: Chookagong has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+191.189.24.102:2927 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Rod of discord for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/26/2021 19:13:37 -05:00] [Info] **:red_circle: Rod of discord has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+47.5.141.86:61553 is connecting...
+Terracord: [06/26/2021 19:13:46 -05:00] [Info] **:green_circle: chookagong has joined the server.**
+chookagong has joined.
+Terracord: [06/26/2021 19:13:50 -05:00] [Info] chookagong said: always the bats
+chookagong: always the bats
+chookagong authenticated successfully as user: 643950324075462656.
+191.189.24.102:2593 is connecting...
+Terracord: [06/26/2021 19:14:02 -05:00] [Info] **:green_circle: Rod of discord has joined the server.**
+Rod of discord has joined.
+Rod of discord authenticated successfully as user: 833450171190476800.
+Terracord: [06/26/2021 19:14:10 -05:00] [Info] chookagong said: did u pick my stuff up
+chookagong: did u pick my stuff up
+Terracord: [06/26/2021 19:14:13 -05:00] [Info] Rod of discord said: i died
+Rod of discord: i died
+user del 5701873Terracord: [06/26/2021 19:14:17 -05:00] [Info] chookagong said: oh
+chookagong: oh
+58683529217
+Account removed successfully.
+Server successfully deleted account: 570187358683529217.
+: user add 570187358683529217 jwno default
+Account 570187358683529217 has been added to group default!
+Server added Account 570187358683529217 to group default
+: Terracord: [06/26/2021 19:14:22 -05:00] [Info] Rod of discord said: go
+Rod of discord: go
+Terracord: [06/26/2021 19:14:24 -05:00] [Info] chookagong said: join blue
+chookagong: join blue
+Terracord: [06/26/2021 19:14:25 -05:00] [Info] mrow said: 2 deaths at left, hmmmm
+mrow: 2 deaths at left, hmmmm
+74.110.196.221:53695 is connecting...
+Terracord: [06/26/2021 19:14:30 -05:00] [Info] **:green_circle: Dev has joined the server.**
+Dev has joined.
+Dev authenticated successfully as user: 570187358683529217.
+Terracord: [06/26/2021 19:15:55 -05:00] [Info] Rod of discord said: can someone give torch?
+Rod of discord: can someone give torch?
+Terracord: [06/26/2021 19:16:11 -05:00] [Info] Ns said: I don't have any
+Ns: I don't have any
+Terracord: [06/26/2021 19:16:52 -05:00] [Info] Rod of discord said: slime
+Rod of discord: slime
+162.157.69.233:50112 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Woly for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/26/2021 19:17:07 -05:00] [Info] **:red_circle: Woly has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+162.157.69.233:50141 is connecting...
+Terracord: [06/26/2021 19:17:38 -05:00] [Info] **:green_circle: Wolywog has joined the server.**
+Wolywog has joined.
+Wolywog authenticated successfully as user: 636718232799281162.
+Terracord: [06/26/2021 19:17:43 -05:00] [Info] Rod of discord said: i got torch
+Rod of discord: i got torch
+Terracord: [06/26/2021 19:18:11 -05:00] [Info] Server broadcast: The Blood Moon is rising...
+Terracord: [06/26/2021 19:18:14 -05:00] [Info] Rod of discord said: A
+Rod of discord: A
+Terracord: [06/26/2021 19:18:15 -05:00] [Info] chookagong said: already?
+chookagong: already?
+Terracord: [06/26/2021 19:18:16 -05:00] [Info] mrow said: l
+mrow: l
+Terracord: [06/26/2021 19:18:16 -05:00] [Info] lol im new said: come on
+lol im new: come on
+Terracord: [06/26/2021 19:18:23 -05:00] [Info] Ns said: Why
+Ns: Why
+Terracord: [06/26/2021 19:18:25 -05:00] [Info] Dev said: Some try fishing
+Dev: Some try fishing
+Terracord: [06/26/2021 19:18:33 -05:00] [Info] Dev said: Pre hm daedulus
+Dev: Pre hm daedulus
+Terracord: [06/26/2021 19:18:49 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+75.158.83.254:50297 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Ns for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/26/2021 19:18:52 -05:00] [Info] **:red_circle: Ns has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/26/2021 19:19:00 -05:00] [Info] Rod of discord said: got more ropes?
+Rod of discord: got more ropes?
+Terracord: [06/26/2021 19:19:05 -05:00] [Info] chookagong said: no
+chookagong: no
+75.158.83.254:50307 is connecting...
+Terracord: [06/26/2021 19:19:10 -05:00] [Info] **:green_circle: Ns has joined the server.**
+Ns has joined.
+Ns authenticated successfully as user: 692133379952607313.
+Terracord: [06/26/2021 19:19:29 -05:00] [Info] <littlecatking@Discord> hang
+<littlecatking@Discord> hang
+75.158.83.254:50307 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Ns for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/26/2021 19:19:31 -05:00] [Info] **:red_circle: Ns has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/26/2021 19:19:35 -05:00] [Info] chookagong said: i have a bow
+chookagong: i have a bow
+Terracord: [06/26/2021 19:19:38 -05:00] [Info] Rod of discord said: k
+Rod of discord: k
+Terracord: [06/26/2021 19:19:41 -05:00] [Info] <littlecatking@Discord> WHAT
+<littlecatking@Discord> WHAT
+Terracord: [06/26/2021 19:19:43 -05:00] [Info] [c/fe3239:Supremas] said: rod of discord do uou have a team mate?
+Supremas: rod of discord do uou have a team mate?
+Terracord: [06/26/2021 19:19:46 -05:00] [Info] Rod of discord said: yes
+Rod of discord: yes
+Terracord: [06/26/2021 19:19:48 -05:00] [Info] <Ns06@Discord> I'm screwed
+<Ns06@Discord> I'm screwed
+Terracord: [06/26/2021 19:19:56 -05:00] [Info] Server broadcast: Screams echo around you...
+Terracord: [06/26/2021 19:19:58 -05:00] [Info] Rod of discord said: give my ropes back
+Rod of discord: give my ropes back
+75.158.83.254:50311 is connecting...
+Terracord: [06/26/2021 19:20:05 -05:00] [Info] **:green_circle: Ns has joined the server.**
+Ns has joined.
+Terracord: [06/26/2021 19:20:11 -05:00] [Info] chookagong said: i dont have ur ropes
+chookagong: i dont have ur ropes
+Ns authenticated successfully as user: 692133379952607313.
+Terracord: [06/26/2021 19:20:16 -05:00] [Info] Rod of discord said: oh
+Rod of discord: oh
+Terracord: [06/26/2021 19:20:19 -05:00] [Info] Rod of discord said: nvm i got it
+Rod of discord: nvm i got it
+Terracord: [06/26/2021 19:20:29 -05:00] [Info] Server broadcast: Brain of Cthulhu has awoken!
+Terracord: [06/26/2021 19:20:35 -05:00] [Info] Rod of discord said: ho god
+Rod of discord: ho god
+Terracord: [06/26/2021 19:20:37 -05:00] [Info] chookagong said: why do i hear boss music
+chookagong: why do i hear boss music
+Terracord: [06/26/2021 19:20:37 -05:00] [Info] mrow said: byebye
+mrow: byebye
+Terracord: [06/26/2021 19:20:38 -05:00] [Info] Rod of discord said: run
+Rod of discord: run
+Terracord: [06/26/2021 19:20:43 -05:00] [Info] mrow said: wtf
+mrow: wtf
+Terracord: [06/26/2021 19:20:48 -05:00] [Info] mrow said: are you actrually killing
+mrow: are you actrually killing
+162.157.69.233:50141 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Wolywog for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/26/2021 19:21:01 -05:00] [Info] **:red_circle: Wolywog has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+162.157.69.233:50143 is connecting...
+Terracord: [06/26/2021 19:21:10 -05:00] [Info] chookagong said: nah he died
+chookagong: nah he died
+Terracord: [06/26/2021 19:21:10 -05:00] [Info] mrow said: lol
+mrow: lol
+Terracord: [06/26/2021 19:21:10 -05:00] [Info] **:green_circle: Wolywog has joined the server.**
+Wolywog has joined.
+Wolywog authenticated successfully as user: 636718232799281162.
+playing
+Server executed: /playing.
+Online Players (11/69)
+Ns, Wolywog, chookagong, lol im new, mrow, Rod of discord, pattatag,
+Supremas, lol get rekt, henryishappy, Dev
+: Terracord: [06/26/2021 19:21:19 -05:00] [Info] chookagong said: worm
+chookagong: worm
+Terracord: [06/26/2021 19:21:19 -05:00] [Info] Rod of discord said: bomb
+Rod of discord: bomb
+playing
+Server executed: /playing.
+Online Players (11/69)
+Ns, Wolywog, chookagong, lol im new, mrow, Rod of discord, pattatag,
+Supremas, lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Ns, Wolywog, chookagong, lol im new, mrow, Rod of discord, pattatag,
+Supremas, lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Ns, Wolywog, chookagong, lol im new, mrow, Rod of discord, pattatag,
+Supremas, lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Ns, Wolywog, chookagong, lol im new, mrow, Rod of discord, pattatag,
+Supremas, lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Ns, Wolywog, chookagong, lol im new, mrow, Rod of discord, pattatag,
+Supremas, lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Ns, Wolywog, chookagong, lol im new, mrow, Rod of discord, pattatag,
+Supremas, lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Ns, Wolywog, chookagong, lol im new, mrow, Rod of discord, pattatag,
+Supremas, lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (11/69)
+Ns, Wolywog, chookagong, lol im new, mrow, Rod of discord, pattatag,
+Supremas, lol get rekt, henryishappy, Dev
+: Terracord: [06/26/2021 19:21:36 -05:00] [Info] **:red_circle: Wolywog has left the server.**
+Wolywog has left.
+playing
+Server executed: /playing.
+Online Players (10/69)
+Ns, chookagong, lol im new, mrow, Rod of discord, pattatag,
+Supremas, lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Ns, chookagong, lol im new, mrow, Rod of discord, pattatag,
+Supremas, lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Ns, chookagong, lol im new, mrow, Rod of discord, pattatag,
+Supremas, lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Ns, chookagong, lol im new, mrow, Rod of discord, pattatag,
+Supremas, lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Ns, chookagong, lol im new, mrow, Rod of discord, pattatag,
+Supremas, lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Ns, chookagong, lol im new, mrow, Rod of discord, pattatag,
+Supremas, lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Ns, chookagong, lol im new, mrow, Rod of discord, pattatag,
+Supremas, lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Ns, chookagong, lol im new, mrow, Rod of discord, pattatag,
+Supremas, lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Ns, chookagong, lol im new, mrow, Rod of discord, pattatag,
+Supremas, lol get rekt, henryishappy, Dev
+: Terracord: [06/26/2021 19:21:56 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/26/2021 19:21:56 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+116.251.154.171:49158 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked lol im new for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/26/2021 19:21:56 -05:00] [Info] **:red_circle: lol im new has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playingTerracord: [06/26/2021 19:21:58 -05:00] [Info] Rod of discord said: wait
+Rod of discord: wait
+
+Server executed: /playing.
+Online Players (9/69)
+Ns, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Ns, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Ns, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: Terracord: [06/26/2021 19:22:04 -05:00] [Info] Rod of discord said: we can get the guy who died loot
+Rod of discord: we can get the guy who died loot
+playing
+Server executed: /playing.
+Online Players (9/69)
+Ns, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Ns, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Ns, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Ns, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (9/69)
+Ns, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: Terracord: [06/26/2021 19:22:15 -05:00] [Info] <Wolywog@Discord> At least I tried
+<Wolywog@Discord> At least I tried
+playing
+Server executed: /playing.
+Online Players (9/69)
+Ns, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: 116.251.154.171:49739 is connecting...
+Terracord: [06/26/2021 19:22:17 -05:00] [Info] chookagong said: the one who died to brain?
+chookagong: the one who died to brain?
+Terracord: [06/26/2021 19:22:17 -05:00] [Info] **:green_circle: e has joined the server.**
+playing
+Server executed: /playing.
+Online Players (9/69)
+Ns, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: e has joined.
+playing
+Server executed: /playing.
+Online Players (10/69)
+Ns, e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: Terracord: [06/26/2021 19:22:20 -05:00] [Info] Rod of discord said: yes
+Rod of discord: yes
+playing
+Server executed: /playing.
+Online Players (10/69)
+Ns, e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: e authenticated successfully as user: 304047334793412608.
+playing
+Server executed: /playing.
+Online Players (10/69)
+Ns, e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Ns, e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: Terracord: [06/26/2021 19:22:27 -05:00] [Info] e said: imbad
+e: imbad
+playing
+Server executed: /playing.
+Online Players (10/69)
+Ns, e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Ns, e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Ns, e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Ns, e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Ns, e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Ns, e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Ns, e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Ns, e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (10/69)
+Ns, e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: 75.158.83.254:50311 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Ns for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/26/2021 19:22:48 -05:00] [Info] **:red_circle: Ns has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (9/69)
+e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (9/69)
+e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: Terracord: [06/26/2021 19:22:51 -05:00] [Info] Rod of discord said: bombs
+Rod of discord: bombs
+playing
+Server executed: /playing.
+Online Players (9/69)
+e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: plaTerracord: [06/26/2021 19:22:55 -05:00] [Info] Rod of discord said: **[Bomb (7)]**
+Rod of discord: [Bomb (7)]
+ying
+Server executed: /playing.
+Online Players (9/69)
+e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (9/69)
+e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: Terracord: [06/26/2021 19:22:58 -05:00] [Info] chookagong said: nice
+chookagong: nice
+playing
+Server executed: /playing.
+Online Players (9/69)
+e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (9/69)
+e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (9/69)
+e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (9/69)
+e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (9/69)
+e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (9/69)
+e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playingTerracord: [06/26/2021 19:23:13 -05:00] [Info] chookagong said: rope
+chookagong: rope
+
+Server executed: /playing.
+Online Players (9/69)
+e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (9/69)
+e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: Terracord: [06/26/2021 19:23:16 -05:00] [Info] Rod of discord said: lets go back
+Rod of discord: lets go back
+playing
+Server executed: /playing.
+Online Players (9/69)
+e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (9/69)
+e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (9/69)
+e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (9/69)
+e, chookagong, mrow, Rod of discord, pattatag, Supremas,
+lol get rekt, henryishappy, Dev
+: 116.251.154.171:49739 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked e for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/26/2021 19:23:25 -05:00] [Info] **:red_circle: e has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (8/69)
+chookagong, mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (8/69)
+chookagong, mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (8/69)
+chookagong, mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (8/69)
+chookagong, mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (8/69)
+chookagong, mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (8/69)
+chookagong, mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (8/69)
+chookagong, mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (8/69)
+chookagong, mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (8/69)
+chookagong, mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (8/69)
+chookagong, mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (8/69)
+chookagong, mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (8/69)
+chookagong, mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: Terracord: [06/26/2021 19:23:52 -05:00] [Info] <Wolywog@Discord> Next time I will get jester arrows
+<Wolywog@Discord> Next time I will get jester arrows
+playing
+Server executed: /playing.
+Online Players (8/69)
+chookagong, mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (8/69)
+chookagong, mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (8/69)
+chookagong, mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (8/69)
+chookagong, mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: Terracord: [06/26/2021 19:24:00 -05:00] [Info] chookagong said: ty
+chookagong: ty
+playing
+Server executed: /playing.
+Online Players (8/69)
+chookagong, mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: Terracord: [06/26/2021 19:24:02 -05:00] [Info] Rod of discord said: np
+Rod of discord: np
+playing
+Server executed: /playing.
+Online Players (8/69)
+chookagong, mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (8/69)
+chookagong, mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (8/69)
+chookagong, mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (8/69)
+chookagong, mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (8/69)
+chookagong, mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing47.5.141.86:61553 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked chookagong for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/26/2021 19:24:15 -05:00] [Info] **:red_circle: chookagong has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: Terracord: [06/26/2021 19:24:24 -05:00] [Info] <Chookagong@Discord> how did it make the jump
+<Chookagong@Discord> how did it make the jump
+playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: Terracord: [06/26/2021 19:24:39 -05:00] [Info] Rod of discord said: how did i survive?
+Rod of discord: how did i survive?
+playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: Terracord: [06/26/2021 19:24:42 -05:00] [Info] <Chookagong@Discord> idk
+<Chookagong@Discord> idk
+playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: Terracord: [06/26/2021 19:24:47 -05:00] [Info] henryishappy said: well this is kinda scuffed
+henryishappy: well this is kinda scuffed
+playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playingTerracord: [06/26/2021 19:24:57 -05:00] [Info] Rod of discord said: i hope he don't go though the wall
+Rod of discord: i hope he don't go though the wall
+
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: Terracord: [06/26/2021 19:25:11 -05:00] [Info] Rod of discord said: grenades
+Rod of discord: grenades
+playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: playing
+Server executed: /playing.
+Online Players (7/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy, Dev
+: 74.110.196.221:53695 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Dev for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/26/2021 19:25:19 -05:00] [Info] **:red_circle: Dev has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/26/2021 19:25:19 -05:00] [Info] <Chookagong@Discord> nice
+<Chookagong@Discord> nice
+playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: pTerracord: [06/26/2021 19:25:27 -05:00] [Info] Rod of discord said: i fogot about blood moon
+Rod of discord: i fogot about blood moon
+laying
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:25:40 -05:00] [Info] mrow said: where did you go
+mrow: where did you go
+playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:26:19 -05:00] [Info] Rod of discord said: crimson the wost place to be on a blood moon
+Rod of discord: crimson the wost place to be on a blood moon
+playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:26:36 -05:00] [Info] [c/fe3239:Supremas] said: UWU
+Supremas: UWU
+playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:26:45 -05:00] [Info] Rod of discord said: thx for the free loot
+Rod of discord: thx for the free loot
+plaTerracord: [06/26/2021 19:26:47 -05:00] [Info] henryishappy said: UWUWUWUWUWUWU
+henryishappy: UWUWUWUWUWUWU
+ying
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:26:56 -05:00] [Info] [c/fe3239:Supremas] said: u stay there
+Supremas: u stay there
+playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:26:59 -05:00] [Info] [c/fe3239:Supremas] said: and i wont kill u
+Supremas: and i wont kill u
+playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:27:02 -05:00] [Info] [c/fe3239:Supremas] said: im grinding
+Supremas: im grinding
+playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playiTerracord: [06/26/2021 19:27:07 -05:00] [Info] henryishappy said: what team you on
+henryishappy: what team you on
+ng
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playingTerracord: [06/26/2021 19:27:11 -05:00] [Info] Server broadcast: A goblin army is approaching from the east!
+
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playinTerracord: [06/26/2021 19:27:13 -05:00] [Info] mrow said: gladiators?
+mrow: gladiators?
+g
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:27:14 -05:00] [Info] [c/fe3239:Supremas] said: no team
+Supremas: no team
+playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:27:16 -05:00] [Info] Rod of discord said: i lost my teamate
+Rod of discord: i lost my teamate
+Terracord: [06/26/2021 19:27:17 -05:00] [Info] lol get rekt said: LOL
+lol get rekt: LOL
+playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: plaTerracord: [06/26/2021 19:27:20 -05:00] [Info] henryishappy said: wanna team
+henryishappy: wanna team
+ying
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:27:20 -05:00] [Info] [c/fe3239:Supremas] said: welp
+Supremas: welp
+plTerracord: [06/26/2021 19:27:22 -05:00] [Info] [c/fe3239:Supremas] said: cya
+Supremas: cya
+aying
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:27:23 -05:00] [Info] mrow said: Who got 200 hp LOL
+mrow: Who got 200 hp LOL
+Terracord: [06/26/2021 19:27:23 -05:00] [Info] [c/fe3239:Supremas] said: nah
+Supremas: nah
+Terracord: [06/26/2021 19:27:24 -05:00] [Info] Rod of discord said: hey supremas lets be team
+Rod of discord: hey supremas lets be team
+playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:27:28 -05:00] [Info] Rod of discord said: not me
+Rod of discord: not me
+playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:27:30 -05:00] [Info] henryishappy said: ok
+henryishappy: ok
+playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: pTerracord: [06/26/2021 19:27:44 -05:00] [Info] [c/fe3239:Supremas] said: theres a sky island right about u lmao
+Supremas: theres a sky island right about u lmao
+laying
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: plaTerracord: [06/26/2021 19:27:46 -05:00] [Info] Server broadcast: A goblin army has arrived!
+ying
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:27:56 -05:00] [Info] Rod of discord said: A
+Rod of discord: A
+playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:28:12 -05:00] [Info] Rod of discord said: get off karen goblins
+Rod of discord: get off karen goblins
+mrow executed: /who.
+playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:28:50 -05:00] [Info] Rod of discord said: free 9 defense
+Rod of discord: free 9 defense
+playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: plaTerracord: [06/26/2021 19:29:08 -05:00] [Info] henryishappy said: anyone wanna team
+henryishappy: anyone wanna team
+ying
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:29:11 -05:00] [Info] Rod of discord said: me
+Rod of discord: me
+playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:29:16 -05:00] [Info] Rod of discord said: i lost my teamate
+Rod of discord: i lost my teamate
+playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:29:19 -05:00] [Info] henryishappy said: ok what team
+henryishappy: ok what team
+playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:29:23 -05:00] [Info] Rod of discord said: blue
+Rod of discord: blue
+playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:29:26 -05:00] [Info] mrow said: cant wait to see the backstabbing occur
+mrow: cant wait to see the backstabbing occur
+playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playingTerracord: [06/26/2021 19:30:10 -05:00] [Info] henryishappy said: were you there last teammate
+henryishappy: were you there last teammate
+
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:30:22 -05:00] [Info] mrow said: maybe they killed their teammate
+mrow: maybe they killed their teammate
+playingTerracord: [06/26/2021 19:30:23 -05:00] [Info] mrow said: hmm
+mrow: hmm
+
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:30:26 -05:00] [Info] Rod of discord said: i
+Rod of discord: i
+playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:30:48 -05:00] [Info] <Chookagong@Discord> i died to the granite golem thing
+<Chookagong@Discord> i died to the granite golem thing
+playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:30:55 -05:00] [Info] Rod of discord said: a golem killed my teamate :(
+Rod of discord: a golem killed my teamate :(
+playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playinTerracord: [06/26/2021 19:31:05 -05:00] [Info] mrow said: you  werent supposed to tell the truth
+mrow: you  werent supposed to tell the truth
+g
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playingTerracord: [06/26/2021 19:31:12 -05:00] [Info] mrow said: i was trying to create tension between them
+mrow: i was trying to create tension between them
+
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:31:14 -05:00] [Info] Rod of discord said: if someone go to crimson you are going to see a sign
+Rod of discord: if someone go to crimson you are going to see a sign
+playingTerracord: [06/26/2021 19:31:14 -05:00] [Info] mrow said: wtf
+mrow: wtf
+
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playinTerracord: [06/26/2021 19:31:16 -05:00] [Info] henryishappy said: lets meet up
+henryishappy: lets meet up
+g
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: plTerracord: [06/26/2021 19:31:27 -05:00] [Info] Rod of discord said: called Rod stole the loot of the guy died here
+Rod of discord: called Rod stole the loot of the guy died here
+aying
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: playing
+Server executed: /playing.
+Online Players (6/69)
+mrow, Rod of discord, pattatag, Supremas, lol get rekt,
+henryishappy
+: Terracord: [06/26/2021 19:32:05 -05:00] [Info] Rod of discord said: spider cave on crimson cool
+Rod of discord: spider cave on crimson cool
+192.136.208.53:61988 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked lol get rekt for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/26/2021 19:32:06 -05:00] [Info] **:red_circle: lol get rekt has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playTerracord: [06/26/2021 19:32:20 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+ing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: Terracord: [06/26/2021 19:32:24 -05:00] [Info] Rod of discord said: **[Godly The Rotted Fork]**
+Rod of discord: [Godly The Rotted Fork]
+playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: Terracord: [06/26/2021 19:32:30 -05:00] [Info] henryishappy said: nice
+henryishappy: nice
+playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playiTerracord: [06/26/2021 19:32:42 -05:00] [Info] <The Kremling@Discord> i couldn't telepot
+<The Kremling@Discord> i couldn't telepot
+ng
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: Terracord: [06/26/2021 19:32:45 -05:00] [Info] <The Kremling@Discord> pain
+<The Kremling@Discord> pain
+playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: Terracord: [06/26/2021 19:32:55 -05:00] [Info] [c/fe3239:Supremas] said: free loot
+Supremas: free loot
+playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: Terracord: [06/26/2021 19:33:02 -05:00] [Info] mrow said: hey there
+mrow: hey there
+playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: Terracord: [06/26/2021 19:33:14 -05:00] [Info] Rod of discord said: hmm
+Rod of discord: hmm
+playTerracord: [06/26/2021 19:33:15 -05:00] [Info] mrow said: dont die
+mrow: dont die
+ing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: Terracord: [06/26/2021 19:33:20 -05:00] [Info] Rod of discord said: don't die
+Rod of discord: don't die
+playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: Terracord: [06/26/2021 19:33:24 -05:00] [Info] Rod of discord said: genry don't die
+Rod of discord: genry don't die
+playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playingTerracord: [06/26/2021 19:33:29 -05:00] [Info] Rod of discord said: pls don't die
+Rod of discord: pls don't die
+
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: playing
+Server executed: /playing.
+Online Players (5/69)
+mrow, Rod of discord, pattatag, Supremas, henryishappy
+: 67.85.163.118:49995 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked henryishappy for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/26/2021 19:33:32 -05:00] [Info] **:red_circle: henryishappy has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: Terracord: [06/26/2021 19:33:41 -05:00] [Info] Rod of discord said: d
+Rod of discord: d
+playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: Terracord: [06/26/2021 19:34:07 -05:00] [Info] Rod of discord said: i will win for my lost teamates
+Rod of discord: i will win for my lost teamates
+playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: Terracord: [06/26/2021 19:34:59 -05:00] [Info] Rod of discord said: who uses dirt bomb:
+Rod of discord: who uses dirt bomb:
+playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: Terracord: [06/26/2021 19:35:03 -05:00] [Info] Rod of discord said: ?
+Rod of discord: ?
+playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: Terracord: [06/26/2021 19:35:22 -05:00] [Info] Rod of discord said: wait
+Rod of discord: wait
+playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: Terracord: [06/26/2021 19:35:28 -05:00] [Info] Server broadcast: Screams echo around you...
+playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: Terracord: [06/26/2021 19:35:37 -05:00] [Info] Rod of discord said: GET OFF MY CAVE
+Rod of discord: GET OFF MY CAVE
+playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: Terracord: [06/26/2021 19:35:57 -05:00] [Info] Server broadcast: Brain of Cthulhu has awoken!
+playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: Terracord: [06/26/2021 19:36:11 -05:00] [Info] pattatag said: imagine
+pattatag: imagine
+playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: Terracord: [06/26/2021 19:37:16 -05:00] [Info] Server broadcast: Kyle the Guide was slain...
+playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playTerracord: [06/26/2021 19:37:29 -05:00] [Info] mrow said: wtf i wanted to do wof
+mrow: wtf i wanted to do wof
+ing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playing
+Server executed: /playing.
+Online Players (4/69)
+mrow, Rod of discord, pattatag, Supremas
+: playin98.220.227.57:50728 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked [c/fe3239:Supremas] for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+gTerracord: [06/26/2021 19:37:38 -05:00] [Info] **:red_circle: [c/fe3239:Supremas] has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: Terracord: [06/26/2021 19:37:45 -05:00] [Info] Rod of discord said: how much people left?
+Rod of discord: how much people left?
+Terracord: [06/26/2021 19:37:46 -05:00] [Info] <TheCocoaGamer@Discord> i died from fall dmg
+<TheCocoaGamer@Discord> i died from fall dmg
+playingTerracord: [06/26/2021 19:37:47 -05:00] [Info] <TheCocoaGamer@Discord> fml
+<TheCocoaGamer@Discord> fml
+
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: Terracord: [06/26/2021 19:37:49 -05:00] [Info] Command sent: playing
+TheCocoaGamer executed: /playing.
+Terracord: [06/26/2021 19:37:49 -05:00] [Info] <TheCocoaGamer@Discord> !playing
+<TheCocoaGamer@Discord> !playing
+playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: Terracord: [06/26/2021 19:37:52 -05:00] [Info] Rod of discord said: tghx
+Rod of discord: tghx
+Terracord: [06/26/2021 19:37:53 -05:00] [Info] <TheCocoaGamer@Discord> 3
+<TheCocoaGamer@Discord> 3
+playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: Terracord: [06/26/2021 19:38:04 -05:00] [Info] <TheCocoaGamer@Discord> im down for round 2
+<TheCocoaGamer@Discord> im down for round 2
+playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: Terracord: [06/26/2021 19:38:07 -05:00] [Info] Rod of discord said: you were the one fightin boc?
+Rod of discord: you were the one fightin boc?
+playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: Terracord: [06/26/2021 19:38:12 -05:00] [Info] Rod of discord said: **[Bunny Kite]**
+Rod of discord: [Bunny Kite]
+playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: pattatag executed: /playing.
+playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: Terracord: [06/26/2021 19:38:46 -05:00] [Info] <TheCocoaGamer@Discord> nop i was sky island searching
+<TheCocoaGamer@Discord> nop i was sky island searching
+playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: Terracord: [06/26/2021 19:38:48 -05:00] [Info] <Chookagong@Discord> i always die to bats and fall damage
+<Chookagong@Discord> i always die to bats and fall damage
+playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: Terracord: [06/26/2021 19:38:49 -05:00] [Info] <TheCocoaGamer@Discord> i got 4 grav pots
+<TheCocoaGamer@Discord> i got 4 grav pots
+playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: playing
+Server executed: /playing.
+Online Players (3/69)
+mrow, Rod of discord, pattatag
+: 191.189.24.102:2593 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Rod of discord for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/26/2021 19:39:43 -05:00] [Info] **:red_circle: Rod of discord has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: plTerracord: [06/26/2021 19:39:48 -05:00] [Info] <TheCocoaGamer@Discord> 2 ppl remain
+<TheCocoaGamer@Discord> 2 ppl remain
+aying
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:39:51 -05:00] [Info] <Devalous@Discord> Final 2
+<Devalous@Discord> Final 2
+mrow executed: /who.
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:39:53 -05:00] [Info] mrow said: o dang
+mrow: o dang
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:39:56 -05:00] [Info] mrow said: and its patta
+mrow: and its patta
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:41:02 -05:00] [Info] <Chookagong@Discord> how did rod die
+<Chookagong@Discord> how did rod die
+Terracord: [06/26/2021 19:41:03 -05:00] [Info] <TheCocoaGamer@Discord> hey ppl on discord you down for another game?
+<TheCocoaGamer@Discord> hey ppl on discord you down for another game?
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: plaTerracord: [06/26/2021 19:41:10 -05:00] [Info] <TheCocoaGamer@Discord> after this one ofc
+<TheCocoaGamer@Discord> after this one ofc
+ying
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: pTerracord: [06/26/2021 19:42:11 -05:00] [Info] Server broadcast: The Blood Moon is rising...
+laying
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:42:13 -05:00] [Info] <Rod of discord (ded)@Discord> and man thanks for the lag i could be a ghost for 10 secs
+<Rod of discord (ded)@Discord> and man thanks for the lag i could be a ghost for 10 secs
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:42:22 -05:00] [Info] <Rod of discord (ded)@Discord> again :/
+<Rod of discord (ded)@Discord> again :/
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:42:28 -05:00] [Info] <Devalous@Discord> Blood moon again
+<Devalous@Discord> Blood moon again
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:42:41 -05:00] [Info] <Devalous@Discord> You should try fishing
+<Devalous@Discord> You should try fishing
+Terracord: [06/26/2021 19:42:42 -05:00] [Info] <Rod of discord (ded)@Discord> hey devalous i will try tomorrow hardcore master mode
+<Rod of discord (ded)@Discord> hey devalous i will try tomorrow hardcore master mode
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:42:52 -05:00] [Info] <Rod of discord (ded)@Discord> or mediumcore master mode
+<Rod of discord (ded)@Discord> or mediumcore master mode
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playTerracord: [06/26/2021 19:42:58 -05:00] [Info] Server broadcast: A goblin army has been defeated!
+ing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:43:08 -05:00] [Info] mrow said: youre on surface hhmm
+mrow: youre on surface hhmm
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:43:21 -05:00] [Info] <Rod of discord (ded)@Discord> ah yes i seen the cocoa loot on the jungle armor guy
+<Rod of discord (ded)@Discord> ah yes i seen the cocoa loot on the jungle armor guy
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:43:41 -05:00] [Info] <Devalous@Discord> Mediumcore is Like hardcore but you can recover and not have to restart when you die
+<Devalous@Discord> Mediumcore is Like hardcore but you can recover and not have to restart when you die
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:43:58 -05:00] [Info] <Devalous@Discord> but you will probably lose all of your stuff a lot
+<Devalous@Discord> but you will probably lose all of your stuff a lot
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: plaTerracord: [06/26/2021 19:44:13 -05:00] [Info] <Rod of discord (ded)@Discord> then i will play like 1 hp hardcore
+<Rod of discord (ded)@Discord> then i will play like 1 hp hardcore
+ying
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:44:34 -05:00] [Info] <Rod of discord (ded)@Discord> thc is making me have more hardcore skills
+<Rod of discord (ded)@Discord> thc is making me have more hardcore skills
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:44:40 -05:00] [Info] <Devalous@Discord> same here
+<Devalous@Discord> same here
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:44:50 -05:00] [Info] mrow said: oh
+mrow: oh
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:44:52 -05:00] [Info] mrow said: youre here
+mrow: youre here
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:44:59 -05:00] [Info] <Rod of discord (ded)@Discord> 1v1
+<Rod of discord (ded)@Discord> 1v1
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:45:07 -05:00] [Info] <Rod of discord (ded)@Discord> go 1v1 the game needs to end
+<Rod of discord (ded)@Discord> go 1v1 the game needs to end
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:45:09 -05:00] [Info] <Devalous@Discord> FIGHT
+<Devalous@Discord> FIGHT
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:45:53 -05:00] [Info] mrow said: wait nvm
+mrow: wait nvm
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:45:58 -05:00] [Info] mrow said: that was something else
+mrow: that was something else
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Terracord: [06/26/2021 19:46:30 -05:00] [Info] <Rod of discord (ded)@Discord> wait whats the beasplate of jungle armor recipe
+Online Players (2/69)
+mrow, pattatag
+: <Rod of discord (ded)@Discord> wait whats the beasplate of jungle armor recipe
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playingTerracord: [06/26/2021 19:46:34 -05:00] [Info] <Rod of discord (ded)@Discord> i don't remenber
+<Rod of discord (ded)@Discord> i don't remenber
+
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playiTerracord: [06/26/2021 19:47:29 -05:00] [Info] pattatag said: im playing clash of clans rn
+pattatag: im playing clash of clans rn
+ng
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playinTerracord: [06/26/2021 19:47:34 -05:00] [Info] <Rod of discord (ded)@Discord> ok i have seen the crafting
+<Rod of discord (ded)@Discord> ok i have seen the crafting
+g
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: plaTerracord: [06/26/2021 19:47:36 -05:00] [Info] <Chookagong@Discord> i think its jungle spores and stingers
+<Chookagong@Discord> i think its jungle spores and stingers
+yinTerracord: [06/26/2021 19:47:36 -05:00] [Info] mrow said: bruh
+mrow: bruh
+g
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:47:40 -05:00] [Info] <Rod of discord (ded)@Discord> 1v1
+<Rod of discord (ded)@Discord> 1v1
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playingTerracord: [06/26/2021 19:47:43 -05:00] [Info] <Devalous@Discord> BRUH
+<Devalous@Discord> BRUH
+
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:47:46 -05:00] [Info] <Rod of discord (ded)@Discord> recall and 1v1
+<Rod of discord (ded)@Discord> recall and 1v1
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:47:52 -05:00] [Info] <Devalous@Discord> 1v1 end this game
+<Devalous@Discord> 1v1 end this game
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:48:03 -05:00] [Info] mrow said: patta wanna?
+mrow: patta wanna?
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:48:08 -05:00] [Info] pattatag said: lets go
+pattatag: lets go
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: plTerracord: [06/26/2021 19:48:24 -05:00] [Info] mrow said: lOL
+mrow: lOL
+aying
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:48:43 -05:00] [Info] mrow said: bolder
+mrow: bolder
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:48:58 -05:00] [Info] <Rod of discord (ded)@Discord> is killing someone with trap allowed?
+<Rod of discord (ded)@Discord> is killing someone with trap allowed?
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:49:10 -05:00] [Info] <TheCocoaGamer@Discord> yes it is
+<TheCocoaGamer@Discord> yes it is
+playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: playing
+Server executed: /playing.
+Online Players (2/69)
+mrow, pattatag
+: Terracord: [06/26/2021 19:49:17 -05:00] [Info] <TheCocoaGamer@Discord> unless its in grace
+<TheCocoaGamer@Discord> unless its in grace
+pl70.137.105.70:50941 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked mrow for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+aTerracord: [06/26/2021 19:49:17 -05:00] [Info] **:red_circle: mrow has left the server.**
+yError on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+ing
+Server executed: /playing.
+Online Players (1/69)
+pattatag
+:  

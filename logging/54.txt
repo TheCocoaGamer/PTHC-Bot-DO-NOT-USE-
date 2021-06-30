@@ -1,0 +1,113 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7778
+Type 'help' for a list of commands.
+
+Terracord: [06/26/2021 21:06:38 -05:00] [Info] Connecting to Discord...
+Terracord: [06/26/2021 21:06:38 -05:00] [Info] 21:06:38 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/26/2021 21:06:39 -05:00] [Info] 21:06:39 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 0m
+Server executed: /grace begin 0m.
+Terracord: [06/26/2021 21:06:39 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+Server started
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: Terracord: [06/26/2021 21:06:39 -05:00] [Info] 21:06:39 Gateway     Connected
+playinTerracord: [06/26/2021 21:06:40 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/26/2021 21:06:40 -05:00] [Info] 21:06:40 Gateway     Ready
+gTerracord: [06/26/2021 21:06:40 -05:00] [Warning] 21:06:40 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+
+Server executed: /playing.
+Online Players (0/69)
+: Terracord: [06/26/2021 21:06:40 -05:00] [Warning] 21:06:40 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/26/2021 21:06:40 -05:00] [Warning] 21:06:40 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/26/2021 21:06:40 -05:00] [Warning] 21:06:40 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/26/2021 21:06:40 -05:00] [Warning] 21:06:40 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/26/2021 21:06:40 -05:00] [Warning] 21:06:40 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/26/2021 21:06:41 -05:00] [Warning] 21:06:41 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/26/2021 21:06:41 -05:00] [Warning] 21:06:41 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/26/2021 21:06:41 -05:00] [Warning] 21:06:41 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/26/2021 21:06:41 -05:00] [Warning] 21:06:41 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+74.110.196.221:52041 is connecting...
+pTerracord: [06/26/2021 21:06:42 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/26/2021 21:06:42 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+laying
+Server executed: /playing.
+Online Players (0/69)
+: Terracord: [06/26/2021 21:06:43 -05:00] [Info] **:green_circle: Dev has joined the server.**
+pDev has joined.
+laying
+Server executed: /playing.
+Online Players (1/69)
+Dev
+:  

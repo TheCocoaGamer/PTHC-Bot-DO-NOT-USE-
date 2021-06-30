@@ -1,0 +1,917 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7778
+Type 'help' for a list of commands.
+
+Terracord: [06/28/2021 21:21:31 -05:00] [Info] Connecting to Discord...
+Terracord: [06/28/2021 21:21:31 -05:00] [Info] 21:21:31 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/28/2021 21:21:32 -05:00] [Info] 21:21:32 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 30m
+Server executed: /grace begin 30m.
+Terracord: [06/28/2021 21:21:32 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 376522837693038593
+Server started
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 jlb8 default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 262003003186216973
+Terracord: [06/28/2021 21:21:33 -05:00] [Info] 21:21:33 Gateway     Connected
+Account removed successfully.
+Server successfully deleted account: 262003003186216973.
+: user add 262003003186216973 npkd default
+Account 262003003186216973 has been added to group default!
+Server added Account 262003003186216973 to group default
+: user del 632016986658045961
+Account removed successfully.
+Server successfully deleted account: 632016986658045961.
+: user add 632016986658045961 r6pp default
+Account 632016986658045961 has been added to group default!
+Server added Account 632016986658045961 to group default
+: user del 417138170430357524
+Terracord: [06/28/2021 21:21:33 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/28/2021 21:21:33 -05:00] [Info] 21:21:33 Gateway     Ready
+Account removed successfully.
+Server successfully deleted account: 417138170430357524.
+: user add 417138170430357524 znh5 default
+Account 417138170430357524 has been added to group default!
+Server added Account 417138170430357524 to group default
+: user del 458616730655391744
+Account removed successfully.
+Server successfully deleted account: 458616730655391744.
+: user add 458616730655391744 ql4s default
+Account 458616730655391744 has been added to group default!
+Server added Account 458616730655391744 to group default
+: user del 280661777883070465
+Account removed successfully.
+Server successfully deleted account: 280661777883070465.
+: user add 280661777883070465 qtk3 default
+Account 280661777883070465 has been added to group default!
+Server added Account 280661777883070465 to group default
+: user del 456110220322668566
+Account removed successfully.
+Server successfully deleted account: 456110220322668566.
+: user add 456110220322668566 a0pp default
+Account 456110220322668566 has been added to group default!
+Server added Account 456110220322668566 to group default
+: user del 456602298953629696
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '456602298953629696' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 456602298953629696 3jed default
+Account 456602298953629696 has been added to group default!
+Server added Account 456602298953629696 to group default
+: user del 632016986658045961
+Account removed successfully.
+Server successfully deleted account: 632016986658045961.
+: user add 632016986658045961 hhop default
+Account 632016986658045961 has been added to group default!
+Server added Account 632016986658045961 to group default
+: user del 730308043794808854
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '730308043794808854' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 730308043794808854 hsqi default
+Account 730308043794808854 has been added to group default!
+Server added Account 730308043794808854 to group default
+: 70.137.105.70:65336 is connecting...
+190.237.0.21:34904 is connecting...
+Terracord: [06/28/2021 21:21:37 -05:00] [Info] **:green_circle: frisky feline has joined the server.**
+Terracord: [06/28/2021 21:21:38 -05:00] [Info] **:green_circle: pattatag has joined the server.**
+frisky feline has joined.
+pattatag has joined.
+frisky feline authenticated successfully as user: 262003003186216973.
+pattatag authenticated successfully as user: 417138170430357524.
+98.220.227.57:58822 is connecting...
+Terracord: [06/28/2021 21:21:53 -05:00] [Info] **:green_circle: [c/fe3239:Supremas] has joined the server.**
+Supremas has joined.
+67.169.170.162:56555 is connecting...
+Terracord: [06/28/2021 21:21:59 -05:00] [Info] **:green_circle: Bluberry108 has joined the server.**
+[c/fe3239:Supremas] authenticated successfully as user: 376522837693038593.
+Bluberry108 has joined.
+Bluberry108 authenticated successfully as user: 632016986658045961.
+96.33.39.151:57731 is connecting...
+73.170.246.182:49771 is connecting...
+Terracord: [06/28/2021 21:22:32 -05:00] [Info] **:green_circle: dumpster burn has joined the server.**
+Terracord: [06/28/2021 21:22:32 -05:00] [Info] **:green_circle: ooooooooooooog has joined the server.**
+dumpster burn has joined.
+ooooooooooooog has joined.
+dumpster burn authenticated successfully as user: 456110220322668566.
+23.125.218.56:52483 is connecting...
+Terracord: [06/28/2021 21:22:49 -05:00] [Info] **:green_circle: zent sucks at game has joined the server.**
+zent sucks at game has joined.
+[Server API] Warning Plugin "TShock" has had an unhandled exception thrown by one of its ServerChat handlers:
+System.OutOfMemoryException: Exception of type 'System.OutOfMemoryException' was thrown.
+   at System.Text.StringBuilder.ToString()
+   at System.Text.RegularExpressions.RegexParser.Escape(String input)
+   at System.Text.RegularExpressions.Regex.Escape(String str)
+   at FragLand.TerracordPlugin.Util.ConvertChannelMentions(String message, DiscordSocketClient discordClient)
+   at FragLand.TerracordPlugin.Terracord.OnChat(PlayerChatEventArgs args)
+   at TShockAPI.Hooks.PlayerHooks.OnPlayerChat(TSPlayer ply, String rawtext, String& tshockText)
+   at TShockAPI.TShock.OnChat(ServerChatEventArgs args)
+   at TerrariaApi.Server.HandlerCollection`1.Invoke(ArgsType args) in D:\a\TShock\TShock\TerrariaServerAPI\TerrariaServerAPI\TerrariaApi.Server\HandlerCollection.cs:line 109
+<zent sucks at game>         1. 1. 1.     1 Note#EvE 1 G1  127        0. 1. 0.     0         1. 1. 1.     1 Note#EvE 1 B1  127        0. 1. 0.     0         1. 1. 1.     1 Note#EvE 1 D2  127        0. 1. 0.     0         1. 1. 1.     1 Note#
+ooooooooooooog authenticated successfully as user: 456602298953629696.
+Terracord: [06/28/2021 21:23:10 -05:00] [Info] zent sucks at game said: wait wrong copy paste
+zent sucks at game: wait wrong copy paste
+Terracord: [06/28/2021 21:23:16 -05:00] [Info] zent sucks at game said: sorry
+zent sucks at game: sorry
+Terracord: [06/28/2021 21:23:17 -05:00] [Info] pattatag said: tf
+pattatag: tf
+zent sucks at game authenticated successfully as user: 280661777883070465.
+98.220.227.57:58822 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked [c/fe3239:Supremas] for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 21:23:47 -05:00] [Info] **:red_circle: [c/fe3239:Supremas] has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+98.220.227.57:58835 is connecting...
+Terracord: [06/28/2021 21:24:11 -05:00] [Info] **:green_circle: [c/fe3239:Supremas] has joined the server.**
+Supremas has joined.
+[c/fe3239:Supremas] authenticated successfully as user: 376522837693038593.
+Terracord: [06/28/2021 21:24:27 -05:00] [Info] <Copper Shortsword@Discord> ?
+<Copper Shortsword@Discord> ?
+Terracord: [06/28/2021 21:24:29 -05:00] [Info] pattatag said: cmon
+pattatag: cmon
+Terracord: [06/28/2021 21:24:30 -05:00] [Info] pattatag said: die
+pattatag: die
+Terracord: [06/28/2021 21:24:35 -05:00] [Info] frisky feline said: plsplsps
+frisky feline: plsplsps
+Terracord: [06/28/2021 21:25:10 -05:00] [Info] Server broadcast: Bluberry108 has teleported to ooooooooooooog
+Terracord: [06/28/2021 21:25:13 -05:00] [Info] pattatag said: ok my internet is trying to kill itself
+pattatag: ok my internet is trying to kill itself
+70.137.105.70:65336 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked frisky feline for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 21:25:14 -05:00] [Info] **:red_circle: frisky feline has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+70.137.105.70:65337 is connecting...
+Terracord: [06/28/2021 21:25:23 -05:00] [Info] **:green_circle: eee has joined the server.**
+eee has joined.
+eee authenticated successfully as user: 262003003186216973.
+Terracord: [06/28/2021 21:25:43 -05:00] [Info] **:red_circle: pattatag has left the server.**
+pattatag has left.
+Terracord: [06/28/2021 21:25:57 -05:00] [Info] eee said: did everyone at left ddie
+eee: did everyone at left ddie
+190.237.0.21:34901 is connecting...
+190.237.0.21:34865 is connecting...
+Terracord: [06/28/2021 21:26:07 -05:00] [Info] **:green_circle: pattatag has joined the server.**
+pattatag has joined.
+pattatag authenticated successfully as user: 417138170430357524.
+Terracord: [06/28/2021 21:26:13 -05:00] [Info] pattatag said: fuck
+pattatag: fuck
+121.45.96.10:64073 is connecting...
+121.45.96.10:64073 was booted: Kicked: You need to join with a hardcore player.
+Kicked  for : 'You need to join with a hardcore player.'
+121.45.96.10:64074 is connecting...
+Terracord: [06/28/2021 21:26:42 -05:00] [Info] **:green_circle: cwoppr showedfdsword has joined the server.**
+cwoppr showedfdsword has joined.
+Terracord: [06/28/2021 21:26:50 -05:00] [Info] cwoppr showedfdsword said: am i lateth
+cwoppr showedfdsword: am i lateth
+70.137.105.70:65337 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked eee for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 21:27:00 -05:00] [Info] **:red_circle: eee has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/28/2021 21:27:02 -05:00] [Info] cwoppr showedfdsword said: also what do i do
+cwoppr showedfdsword: also what do i do
+70.137.105.70:65338 is connecting...
+Terracord: [06/28/2021 21:27:06 -05:00] [Info] **:green_circle: we has joined the server.**
+we has joined.
+we authenticated successfully as user: 262003003186216973.
+Terracord: [06/28/2021 21:27:14 -05:00] [Info] cwoppr showedfdsword said: help
+cwoppr showedfdsword: help
+Terracord: [06/28/2021 21:27:20 -05:00] [Info] pattatag said: login
+pattatag: login
+Terracord: [06/28/2021 21:27:27 -05:00] [Info] cwoppr showedfdsword said: with what
+cwoppr showedfdsword: with what
+Terracord: [06/28/2021 21:27:30 -05:00] [Info] cwoppr showedfdsword said: how do i login
+cwoppr showedfdsword: how do i login
+Terracord: [06/28/2021 21:27:43 -05:00] [Info] we said: green square
+we: green square
+Terracord: [06/28/2021 21:27:46 -05:00] [Info] we said: in bot commans
+we: in bot commans
+Terracord: [06/28/2021 21:27:47 -05:00] [Info] cwoppr showedfdsword said: i remember doing login
+cwoppr showedfdsword: i remember doing login
+Terracord: [06/28/2021 21:27:51 -05:00] [Info] pattatag said: did you reacted with the green square and the bot dmed you something?
+pattatag: did you reacted with the green square and the bot dmed you something?
+Terracord: [06/28/2021 21:27:56 -05:00] [Info] cwoppr showedfdsword said: but idk what the account it
+cwoppr showedfdsword: but idk what the account it
+Terracord: [06/28/2021 21:27:57 -05:00] [Info] cwoppr showedfdsword said: yes
+cwoppr showedfdsword: yes
+Terracord: [06/28/2021 21:28:01 -05:00] [Info] cwoppr showedfdsword said: but no dm
+cwoppr showedfdsword: but no dm
+user del 730308043794808854
+Account removed successfully.
+Server successfully deleted account: 730308043794808854.
+: user add 730308043794808854 zjeo default
+Account 730308043794808854 has been added to group default!
+Server added Account 730308043794808854 to group default
+: cwoppr showedfdsword authenticated successfully as user: 730308043794808854.
+Terracord: [06/28/2021 21:28:24 -05:00] [Info] cwoppr showedfdsword said: ok nvm
+cwoppr showedfdsword: ok nvm
+Terracord: [06/28/2021 21:29:09 -05:00] [Info] cwoppr showedfdsword said: suicide time
+cwoppr showedfdsword: suicide time
+121.45.96.10:64074 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked cwoppr showedfdsword for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 21:29:19 -05:00] [Info] **:red_circle: cwoppr showedfdsword has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/28/2021 21:29:51 -05:00] [Info] <Copper Shortsword@Discord> heh
+<Copper Shortsword@Discord> heh
+Terracord: [06/28/2021 21:29:58 -05:00] [Info] <Copper Shortsword@Discord> i was boreded
+<Copper Shortsword@Discord> i was boreded
+161.49.149.203:50654 is connecting...
+Terracord: [06/28/2021 21:30:05 -05:00] [Info] **:green_circle: tiny pirate has joined the server.**
+tiny pirate has joined.
+tiny pirate authenticated successfully as user: 458616730655391744.
+Terracord: [06/28/2021 21:32:02 -05:00] [Info] zent sucks at game said: iya lads
+zent sucks at game: iya lads
+Terracord: [06/28/2021 21:32:11 -05:00] [Info] Bluberry108 said: hello
+Bluberry108: hello
+Terracord: [06/28/2021 21:32:25 -05:00] [Info] tiny pirate said: when the cactus is g o n e
+tiny pirate: when the cactus is g o n e
+Terracord: [06/28/2021 21:32:26 -05:00] [Info] Bluberry108 said: dont die
+Bluberry108: dont die
+Terracord: [06/28/2021 21:32:36 -05:00] [Info] we said: wtf
+we: wtf
+73.170.246.182:49771 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked ooooooooooooog for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 21:32:49 -05:00] [Info] **:red_circle: ooooooooooooog has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/28/2021 21:32:53 -05:00] [Info] we said: \damn
+we: \damn
+Terracord: [06/28/2021 21:33:03 -05:00] [Info] zent sucks at game said: wha-
+zent sucks at game: wha-
+73.170.246.182:52657 is connecting...
+Terracord: [06/28/2021 21:33:36 -05:00] [Info] **:green_circle: oooooooooooooooogg has joined the server.**
+oooooooooooooooogg has joined.
+Terracord: [06/28/2021 21:33:44 -05:00] [Info] zent sucks at game said: oooogg how did you die?
+zent sucks at game: oooogg how did you die?
+oooooooooooooooogg authenticated successfully as user: 456602298953629696.
+Terracord: [06/28/2021 21:33:49 -05:00] [Info] Bluberry108 said: fall dmg
+Bluberry108: fall dmg
+Terracord: [06/28/2021 21:33:51 -05:00] [Info] zent sucks at game said: ah
+zent sucks at game: ah
+Terracord: [06/28/2021 21:34:50 -05:00] [Info] we said: wtf
+we: wtf
+Terracord: [06/28/2021 21:36:30 -05:00] [Info] tiny pirate said: team?
+tiny pirate: team?
+Terracord: [06/28/2021 21:36:36 -05:00] [Info] zent sucks at game said: i see a hive and im scared
+zent sucks at game: i see a hive and im scared
+Terracord: [06/28/2021 21:36:48 -05:00] [Info] Bluberry108 said: go to pink
+Bluberry108: go to pink
+Terracord: [06/28/2021 21:36:55 -05:00] [Info] zent sucks at game said: 2 max per team
+zent sucks at game: 2 max per team
+Terracord: [06/28/2021 21:37:07 -05:00] [Info] Bluberry108 said: nvm then i already have a teamate
+Bluberry108: nvm then i already have a teamate
+Terracord: [06/28/2021 21:37:18 -05:00] [Info] Server broadcast: Skeletron has awoken!
+Terracord: [06/28/2021 21:37:25 -05:00] [Info] we said: death
+we: death
+Terracord: [06/28/2021 21:37:40 -05:00] [Info] zent sucks at game said: mans got big pp energy
+zent sucks at game: mans got big pp energy
+Terracord: [06/28/2021 21:37:59 -05:00] [Info] pattatag said: ugh, cant steal their boss, grace time
+pattatag: ugh, cant steal their boss, grace time
+Terracord: [06/28/2021 21:38:36 -05:00] [Info] pattatag said: uh
+pattatag: uh
+Terracord: [06/28/2021 21:38:47 -05:00] [Info] Bluberry108 said: lag
+Bluberry108: lag
+70.137.105.70:65338 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked we for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 21:38:47 -05:00] [Info] **:red_circle: we has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+161.49.149.203:50654 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked tiny pirate for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 21:38:48 -05:00] [Info] **:red_circle: tiny pirate has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+70.137.105.70:65347 is connecting...
+Terracord: [06/28/2021 21:39:15 -05:00] [Info] **:green_circle: harg has joined the server.**
+Terracord: [06/28/2021 21:39:15 -05:00] [Info] pattatag said: a
+pattatag: a
+harg has joined.
+harg authenticated successfully as user: 262003003186216973.
+Terracord: [06/28/2021 21:39:32 -05:00] [Warning] 21:39:32 Gateway     Unknown Dispatch (INTEGRATION_DELETE)
+Terracord: [06/28/2021 21:39:55 -05:00] [Info] pattatag said: **[Jagged Water Walking Boots]** yoooooooooo
+pattatag: [Jagged Water Walking Boots] yoooooooooo
+Terracord: [06/28/2021 21:40:06 -05:00] [Info] harg said: trash
+harg: trash
+Terracord: [06/28/2021 21:40:10 -05:00] [Info] harg said: give it to me
+harg: give it to me
+73.170.246.182:52657 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked oooooooooooooooogg for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 21:41:20 -05:00] [Info] **:red_circle: oooooooooooooooogg has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+67.169.170.162:56555 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Bluberry108 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 21:41:20 -05:00] [Info] **:red_circle: Bluberry108 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/28/2021 21:41:30 -05:00] [Info] Server broadcast: Skeletron has been defeated!
+Terracord: [06/28/2021 21:41:34 -05:00] [Info] harg said: how
+harg: how
+67.169.170.162:56424 is connecting...
+Terracord: [06/28/2021 21:41:38 -05:00] [Info] **:green_circle: Bluberry108 has joined the server.**
+Bluberry108 has joined.
+Bluberry108 authenticated successfully as user: 632016986658045961.
+Terracord: [06/28/2021 21:41:45 -05:00] [Info] [c/fe3239:Supremas] said: dude its easy lol
+Supremas: dude its easy lol
+73.170.246.182:62720 is connecting...
+Terracord: [06/28/2021 21:41:47 -05:00] [Info] **:green_circle: 00nooog has joined the server.**
+00nooog has joined.
+Terracord: [06/28/2021 21:41:51 -05:00] [Info] [c/fe3239:Supremas] said: was that night one or two
+Supremas: was that night one or two
+00nooog authenticated successfully as user: 456602298953629696.
+Terracord: [06/28/2021 21:41:53 -05:00] [Info] harg said: weird
+harg: weird
+Terracord: [06/28/2021 21:42:03 -05:00] [Info] harg said: my dead body's items somehow duplicated?
+harg: my dead body's items somehow duplicated?
+Terracord: [06/28/2021 21:42:26 -05:00] [Info] harg said: i had only 1 warding climbing claws but when i pick my body's items there's 2 warding climbing claws
+harg: i had only 1 warding climbing claws but when i pick my body's items there's 2 warding climbing claws
+23.125.218.56:52483 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked zent sucks at game for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 21:43:05 -05:00] [Info] **:red_circle: zent sucks at game has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/28/2021 21:43:16 -05:00] [Info] <zentman@Discord> i hate smart cursor sometimes
+<zentman@Discord> i hate smart cursor sometimes
+Terracord: [06/28/2021 21:43:33 -05:00] [Info] harg said: when you have no rope
+harg: when you have no rope
+23.125.218.56:52510 is connecting...
+Terracord: [06/28/2021 21:43:48 -05:00] [Info] **:green_circle: fekin smart cursor has joined the server.**
+fekin smart cursor has joined.
+fekin smart cursor authenticated successfully as user: 280661777883070465.
+Terracord: [06/28/2021 21:44:53 -05:00] [Info] harg said: lol you missed 3 life crystal
+harg: lol you missed 3 life crystal
+73.170.246.182:62720 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked 00nooog for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 21:45:21 -05:00] [Info] **:red_circle: 00nooog has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+73.170.246.182:63122 is connecting...
+Terracord: [06/28/2021 21:45:46 -05:00] [Info] **:green_circle: dead man has joined the server.**
+dead man has joined.
+dead man authenticated successfully as user: 456602298953629696.
+67.169.170.162:56424 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Bluberry108 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 21:45:50 -05:00] [Info] **:red_circle: Bluberry108 has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+67.169.170.162:50722 is connecting...
+Terracord: [06/28/2021 21:46:08 -05:00] [Info] **:green_circle: Bluberry108 has joined the server.**
+Bluberry108 has joined.
+Bluberry108 authenticated successfully as user: 632016986658045961.
+Terracord: [06/28/2021 21:46:58 -05:00] [Info] [c/fe3239:Supremas] said: 1hp
+Supremas: 1hp
+Terracord: [06/28/2021 21:46:59 -05:00] [Info] [c/fe3239:Supremas] said: lmao
+Supremas: lmao
+Terracord: [06/28/2021 21:47:16 -05:00] [Info] **:red_circle: dead man has left the server.**
+dead man has left.
+73.170.246.182:51892 is connecting...
+Terracord: [06/28/2021 21:47:24 -05:00] [Info] **:green_circle: dead man has joined the server.**
+dead man has joined.
+dead man authenticated successfully as user: 456602298953629696.
+Terracord: [06/28/2021 21:49:04 -05:00] [Info] harg said: wtf
+harg: wtf
+67.169.170.162:50722 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Bluberry108 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 21:49:44 -05:00] [Info] **:red_circle: Bluberry108 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+67.169.170.162:50586 is connecting...
+Terracord: [06/28/2021 21:50:04 -05:00] [Info] **:green_circle: Bluberry108 has joined the server.**
+Bluberry108 has joined.
+Bluberry108 authenticated successfully as user: 632016986658045961.
+Terracord: [06/28/2021 21:50:53 -05:00] [Info] harg said: lets pvp
+harg: lets pvp
+Terracord: [06/28/2021 21:50:56 -05:00] [Info] harg said: its fun
+harg: its fun
+67.169.170.162:50586 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Bluberry108 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 21:50:58 -05:00] [Info] **:red_circle: Bluberry108 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+67.169.170.162:50593 is connecting...
+Terracord: [06/28/2021 21:51:12 -05:00] [Info] **:green_circle: Bluberry108 has joined the server.**
+Bluberry108 has joined.
+Bluberry108 authenticated successfully as user: 632016986658045961.
+Terracord: [06/28/2021 21:51:32 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/28/2021 21:51:32 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+70.137.105.70:65347 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked harg for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 21:51:47 -05:00] [Info] **:red_circle: harg has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+96.33.39.151:57731 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked dumpster burn for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 21:52:04 -05:00] [Info] **:red_circle: dumpster burn has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: pTerracord: [06/28/2021 21:54:17 -05:00] [Info] fekin smart cursor said: **[Living Wood Wand]** bruhm
+fekin smart cursor: [Living Wood Wand] bruhm
+laying
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: playing
+Server executed: /playing.
+Online Players (5/69)
+pattatag, Supremas, Bluberry108, dead man, fekin smart cursor
+: plaTerracord: [06/28/2021 21:55:31 -05:00] [Info] **:red_circle: fekin smart cursor has left the server.**
+fekin smart cursor has left.
+ying
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: playing
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: playing
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: playing
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: playing
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: playinTerracord: [06/28/2021 21:55:42 -05:00] [Info] <Copper Shortsword@Discord> i want to be pinged when the next game starts
+<Copper Shortsword@Discord> i want to be pinged when the next game starts
+g
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: playing
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: playing
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: playing
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: playing
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: playing
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: playing
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: playing
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: playing
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: playing
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: Terracord: [06/28/2021 21:56:03 -05:00] [Info] <Copper Shortsword@Discord> luckily lfp works
+<Copper Shortsword@Discord> luckily lfp works
+Terracord: [06/28/2021 21:56:03 -05:00] [Info] [c/fe3239:Supremas] said: sure thing
+Supremas: sure thing
+Terracord: [06/28/2021 21:56:03 -05:00] [Info] [c/fe3239:Supremas] said: sure thing
+Supremas: sure thing
+Terracord: [06/28/2021 21:56:03 -05:00] [Info] [c/fe3239:Supremas] said: wha
+Supremas: wha
+Terracord: [06/28/2021 21:56:03 -05:00] [Info] [c/fe3239:Supremas] said: laggg
+Supremas: laggg
+playing
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: playing
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: playing
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: playing
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: playing
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: playing
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: playing
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: playing
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: playing
+Server executed: /playing.
+Online Players (4/69)
+pattatag, Supremas, Bluberry108, dead man
+: pTerracord: [06/28/2021 21:56:23 -05:00] [Info] **:red_circle: [c/fe3239:Supremas] has left the server.**
+Supremas has left.
+layingTerracord: [06/28/2021 21:56:24 -05:00] [Info] **:red_circle: Bluberry108 has left the server.**
+Bluberry108 has left.
+
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: playing
+Server executed: /playing.
+Online Players (2/69)
+pattatag, dead man
+: Terracord: [06/28/2021 21:57:18 -05:00] [Warning] 21:57:18 Gateway     Discord.WebSocket.GatewayReconnectException: Server missed last heartbeat
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.ConnectionManager.<>c__DisplayClass29_0.<<StartAsync>b__0>d.MoveNext()
+Terracord: [06/28/2021 21:57:18 -05:00] [Info] 21:57:18 Gateway     Disconnecting
+Terracord: [06/28/2021 21:57:18 -05:00] [Info] 21:57:18 Gateway     Disconnected
+Terracord: [06/28/2021 21:57:18 -05:00] [Info] **:red_circle: dead man has left the server.**
+dead man has left.
+playing
+Server executed: /playing.
+Online Players (1/69)
+pattatag
+:  

@@ -1,0 +1,12 @@
+{
+  "name": "pthcbot",
+  "version": "1.0.0",
+  "description": "A bot to host PTHC's",
+  "main": "index.js",
+  "author": "TheCocoaGamer#6318",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "reload": "^3.2.0",
+    "thread-sleep": "^2.2.0"
+  }
+}

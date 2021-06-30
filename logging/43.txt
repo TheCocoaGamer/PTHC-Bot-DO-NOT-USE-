@@ -1,0 +1,1668 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7777
+Type 'help' for a list of commands.
+
+Terracord: [06/25/2021 04:57:16 -05:00] [Info] Connecting to Discord...
+Terracord: [06/25/2021 04:57:16 -05:00] [Info] 04:57:16 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/25/2021 04:57:17 -05:00] [Info] 04:57:17 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 30m
+Server executed: /grace begin 30m.
+Terracord: [06/25/2021 04:57:17 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 655342932341293066
+Server started
+Account removed successfully.
+Server successfully deleted account: 655342932341293066.
+: user add 655342932341293066 6l73 default
+Account 655342932341293066 has been added to group default!
+Server added Account 655342932341293066 to group default
+: user del 753949752843829249
+Account removed successfully.
+Server successfully deleted account: 753949752843829249.
+: user add 753949752843829249 qbaf default
+Account 753949752843829249 has been added to group default!
+Server added Account 753949752843829249 to group default
+: user del 644380837625724959
+Account removed successfully.
+Server successfully deleted account: 644380837625724959.
+: user add 644380837625724959 qpfx default
+Account 644380837625724959 has been added to group default!
+Server added Account 644380837625724959 to group default
+: user del 753949752843829249
+Account removed successfully.
+Server successfully deleted account: 753949752843829249.
+: user add 753949752843829249 gmzz default
+Account 753949752843829249 has been added to group default!
+Server added Account 753949752843829249 to group default
+: Terracord: [06/25/2021 04:57:17 -05:00] [Info] 04:57:17 Gateway     Connected
+Terracord: [06/25/2021 04:57:18 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/25/2021 04:57:18 -05:00] [Info] 04:57:18 Gateway     Ready
+84.126.155.112:55996 is connecting...
+Terracord: [06/25/2021 04:57:20 -05:00] [Info] **:green_circle: AlvarGD has joined the server.**
+AlvarGD has joined.
+49.145.78.200:25205 is connecting...
+Terracord: [06/25/2021 04:57:24 -05:00] [Info] **:green_circle: Potato has joined the server.**
+Potato has joined.
+Potato authenticated successfully as user: 753949752843829249.
+Terracord: [06/25/2021 04:58:02 -05:00] [Info] Potato said: im autenticated is that correct
+Potato: im autenticated is that correct
+Terracord: [06/25/2021 04:58:39 -05:00] [Info] AlvarGD said: hey
+AlvarGD: hey
+AlvarGD authenticated successfully as user: 655342932341293066.
+88.117.193.238:61741 is connecting...
+Terracord: [06/25/2021 05:04:48 -05:00] [Info] **:green_circle: Felixx has joined the server.**
+Felixx has joined.
+Terracord: [06/25/2021 05:06:16 -05:00] [Info] Felixx said: ?
+Felixx: ?
+Terracord: [06/25/2021 05:06:21 -05:00] [Info] AlvarGD said: g0
+AlvarGD: g0
+Terracord: [06/25/2021 05:06:33 -05:00] [Info] Potato said: login using the thingy from the bot
+Potato: login using the thingy from the bot
+Terracord: [06/25/2021 05:06:39 -05:00] [Info] Felixx said: i am trying
+Felixx: i am trying
+Terracord: [06/25/2021 05:06:48 -05:00] [Info] AlvarGD said: copy the thing and paste it
+AlvarGD: copy the thing and paste it
+Terracord: [06/25/2021 05:06:53 -05:00] [Info] Felixx said: i am doing that
+Felixx: i am doing that
+Terracord: [06/25/2021 05:06:58 -05:00] [Info] AlvarGD said: try to react again if anything
+AlvarGD: try to react again if anything
+user del 554700515506782208
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '554700515506782208' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 554700515506782208 h2wn default
+Account 554700515506782208 has been added to group default!
+Server added Account 554700515506782208 to group default
+: Terracord: [06/25/2021 05:07:14 -05:00] [Info] Felixx said: it says
+Felixx: it says
+Felixx authenticated successfully as user: 554700515506782208.
+Terracord: [06/25/2021 05:07:18 -05:00] [Info] Felixx said: ...
+Felixx: ...
+Terracord: [06/25/2021 05:07:21 -05:00] [Info] Felixx said: now it worked
+Felixx: now it worked
+Terracord: [06/25/2021 05:07:37 -05:00] [Info] Potato said: now go go grace is ticking
+Potato: now go go grace is ticking
+213.230.113.244:53395 is connecting...
+Terracord: [06/25/2021 05:08:40 -05:00] [Info] **:green_circle: Arazoan has joined the server.**
+84.126.155.112:55996 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked AlvarGD for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 05:08:40 -05:00] [Info] **:red_circle: AlvarGD has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Arazoan has joined.
+user del 655342932341293066
+Account removed successfully.
+Server successfully deleted account: 655342932341293066.
+: user add 655342932341293066 t3ie default
+Account 655342932341293066 has been added to group default!
+Server added Account 655342932341293066 to group default
+: 84.126.155.112:50284 is connecting...
+Terracord: [06/25/2021 05:09:33 -05:00] [Info] **:green_circle: AlvarGD2 has joined the server.**
+AlvarGD2 has joined.
+AlvarGD2 authenticated successfully as user: 655342932341293066.
+Arazoan authenticated successfully as user: 644380837625724959.
+88.117.193.238:61741 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Felixx for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 05:11:20 -05:00] [Info] **:red_circle: Felixx has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 05:11:27 -05:00] [Info] AlvarGD2 said: cloud in a bottle
+AlvarGD2: cloud in a bottle
+Terracord: [06/25/2021 05:11:39 -05:00] [Info] Potato said: i cant find any sky islands
+Potato: i cant find any sky islands
+Terracord: [06/25/2021 05:11:48 -05:00] [Info] AlvarGD2 said: keep looking this is a large world
+AlvarGD2: keep looking this is a large world
+Terracord: [06/25/2021 05:11:53 -05:00] [Info] Potato said: i know
+Potato: i know
+84.126.155.112:50284 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked AlvarGD2 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 05:12:42 -05:00] [Info] **:red_circle: AlvarGD2 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+user del 655342932341293066
+Account removed successfully.
+Server successfully deleted account: 655342932341293066.
+: user add 655342932341293066 t8qg default
+Account 655342932341293066 has been added to group default!
+Server added Account 655342932341293066 to group default
+: Terracord: [06/25/2021 05:13:19 -05:00] [Info] Arazoan said: bruh
+Arazoan: bruh
+Terracord: [06/25/2021 05:13:23 -05:00] [Info] Arazoan said: i stuck
+Arazoan: i stuck
+84.126.155.112:50296 is connecting...
+Terracord: [06/25/2021 05:13:27 -05:00] [Info] **:green_circle: AlvarGD3 has joined the server.**
+AlvarGD3 has joined.
+AlvarGD3 authenticated successfully as user: 655342932341293066.
+Terracord: [06/25/2021 05:14:00 -05:00] [Info] Potato said: lets goo
+Potato: lets goo
+84.126.155.112:50296 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked AlvarGD3 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 05:14:36 -05:00] [Info] **:red_circle: AlvarGD3 has left the server.**
+Terracord: [06/25/2021 05:14:36 -05:00] [Info] Server broadcast: AlvarGD3 was slain by Explosives.
+Terracord: [06/25/2021 05:14:44 -05:00] [Info] Potato said: R.I.P
+Potato: R.I.P
+Terracord: [06/25/2021 05:14:51 -05:00] [Info] Arazoan said: bro
+Arazoan: bro
+user del 655342932341293066
+Account removed successfully.
+Server successfully deleted account: 655342932341293066.
+: user add 655342932341293066 2mzp default
+Account 655342932341293066 has been added to group default!
+Server added Account 655342932341293066 to group default
+: 84.126.155.112:50300 is connecting...
+Terracord: [06/25/2021 05:15:17 -05:00] [Info] **:green_circle: AlvarGD4 has joined the server.**
+AlvarGD4 has joined.
+Terracord: [06/25/2021 05:15:25 -05:00] [Info] Potato said: wait you can rejoin in grace?
+Potato: wait you can rejoin in grace?
+AlvarGD4 authenticated successfully as user: 655342932341293066.
+Terracord: [06/25/2021 05:15:32 -05:00] [Info] AlvarGD4 said: fourth time for me
+AlvarGD4: fourth time for me
+84.126.155.112:50300 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked AlvarGD4 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 05:16:58 -05:00] [Info] **:red_circle: AlvarGD4 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+user del 655342932341293066
+Account removed successfully.
+Server successfully deleted account: 655342932341293066.
+: user add 655342932341293066 knvq default
+Account 655342932341293066 has been added to group default!
+Server added Account 655342932341293066 to group default
+: 84.126.155.112:50309 is connecting...
+Terracord: [06/25/2021 05:17:38 -05:00] [Info] **:green_circle: AlvarGD5 has joined the server.**
+AlvarGD5 has joined.
+AlvarGD5 authenticated successfully as user: 655342932341293066.
+Terracord: [06/25/2021 05:17:49 -05:00] [Info] AlvarGD5 said: lets go 5th time
+AlvarGD5: lets go 5th time
+213.230.113.244:53395 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Arazoan for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 05:18:02 -05:00] [Info] **:red_circle: Arazoan has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+213.230.113.244:52497 is connecting...
+Terracord: [06/25/2021 05:18:33 -05:00] [Info] **:green_circle: Arazoan has joined the server.**
+Arazoan has joined.
+Arazoan authenticated successfully as user: 644380837625724959.
+84.126.155.112:50309 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked AlvarGD5 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 05:19:13 -05:00] [Info] **:red_circle: AlvarGD5 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+user del 655342932341293066
+Account removed successfully.
+Server successfully deleted account: 655342932341293066.
+: user add 655342932341293066 dnzz default
+Account 655342932341293066 has been added to group default!
+Server added Account 655342932341293066 to group default
+: 84.126.155.112:50322 is connecting...
+Terracord: [06/25/2021 05:19:58 -05:00] [Info] **:green_circle: AlvarGD6 has joined the server.**
+AlvarGD6 has joined.
+AlvarGD6 authenticated successfully as user: 655342932341293066.
+Terracord: [06/25/2021 05:20:04 -05:00] [Info] Potato said: 6th time lets go
+Potato: 6th time lets go
+Terracord: [06/25/2021 05:20:10 -05:00] [Info] AlvarGD6 said: lol
+AlvarGD6: lol
+Terracord: [06/25/2021 05:20:34 -05:00] [Info] Potato said: grenades are banned in pvp right
+Potato: grenades are banned in pvp right
+84.126.155.112:50322 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked AlvarGD6 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 05:20:36 -05:00] [Info] **:red_circle: AlvarGD6 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+84.126.155.112:50330 is connecting...
+Terracord: [06/25/2021 05:21:13 -05:00] [Info] **:green_circle: AlvarGD7 has joined the server.**
+AlvarGD7 has joined.
+user del 655342932341293066
+Account removed successfully.
+Server successfully deleted account: 655342932341293066.
+: user add 655342932341293066 tbx9 default
+Account 655342932341293066 has been added to group default!
+Server added Account 655342932341293066 to group default
+: AlvarGD7 authenticated successfully as user: 655342932341293066.
+playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: Terracord: [06/25/2021 05:24:58 -05:00] [Info] AlvarGD7 said: shees
+AlvarGD7: shees
+playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: Terracord: [06/25/2021 05:25:10 -05:00] [Info] Potato said: finally a jungle cave entrance
+Potato: finally a jungle cave entrance
+playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: Terracord: [06/25/2021 05:26:38 -05:00] [Info] AlvarGD7 said: i got my stuff back
+AlvarGD7: i got my stuff back
+playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: Terracord: [06/25/2021 05:27:17 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/25/2021 05:27:17 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playingTerracord: [06/25/2021 05:30:04 -05:00] [Info] Potato said: oh hello
+Potato: oh hello
+
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: 213.230.113.244:52497 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Arazoan for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 05:30:11 -05:00] [Info] **:red_circle: Arazoan has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: Terracord: [06/25/2021 05:30:16 -05:00] [Info] Potato said: d
+Potato: d
+playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: 213.230.113.244:17427 is connecting...
+playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: Terracord: [06/25/2021 05:30:44 -05:00] [Info] **:green_circle: Arazoan has joined the server.**
+playingTerracord: [06/25/2021 05:30:45 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: plArazoan has joined.
+aying
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: Terracord: [06/25/2021 05:30:56 -05:00] [Info] Arazoan said: bruuuuh
+Arazoan: bruuuuh
+playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playingTerracord: [06/25/2021 05:31:14 -05:00] [Info] Arazoan said: you had starsword
+Arazoan: you had starsword
+
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: Terracord: [06/25/2021 05:31:22 -05:00] [Info] Potato said: thanks to gravity potions
+Potato: thanks to gravity potions
+playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: Terracord: [06/25/2021 05:31:24 -05:00] [Info] Server broadcast: Screams echo around you...
+playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: Terracord: [06/25/2021 05:31:34 -05:00] [Info] AlvarGD7 said: screams echo around me btw
+AlvarGD7: screams echo around me btw
+playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playingTerracord: [06/25/2021 05:31:40 -05:00] [Info] Potato said: cool
+Potato: cool
+
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: Terracord: [06/25/2021 05:31:48 -05:00] [Info] AlvarGD7 said: i am able to panic
+AlvarGD7: i am able to panic
+playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playingTerracord: [06/25/2021 05:31:54 -05:00] [Info] AlvarGD7 said: 4 whole defense
+AlvarGD7: 4 whole defense
+
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playiArazoan authenticated successfully as user: 644380837625724959.
+ng
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: Terracord: [06/25/2021 05:31:59 -05:00] [Info] Potato said: pshh
+Potato: pshh
+playiTerracord: [06/25/2021 05:32:00 -05:00] [Info] Potato said: i have 3
+nPotato: i have 3
+g
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: Terracord: [06/25/2021 05:32:05 -05:00] [Info] AlvarGD7 said: lmao
+AlvarGD7: lmao
+playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: Terracord: [06/25/2021 05:32:45 -05:00] [Info] Arazoan said: can i try again?
+Arazoan: can i try again?
+playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: Terracord: [06/25/2021 05:32:49 -05:00] [Info] AlvarGD7 said: sure
+AlvarGD7: sure
+playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: Terracord: [06/25/2021 05:32:52 -05:00] [Info] Potato said: why not fam
+Potato: why not fam
+playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: Terracord: [06/25/2021 05:33:00 -05:00] [Info] Potato said: it was kinda unfair lol
+Potato: it was kinda unfair lol
+playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playingTerracord: [06/25/2021 05:34:21 -05:00] [Info] Arazoan said: well that was akward
+Arazoan: well that was akward
+
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: 213.230.113.244:17427 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Arazoan for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 05:35:03 -05:00] [Info] **:red_circle: Arazoan has left the server.**
+Terracord: [06/25/2021 05:35:03 -05:00] [Info] Server broadcast: Arazoan's skull was crushed by Zombie.
+playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: 213.230.113.244:19927 is connecting...
+playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: Terracord: [06/25/2021 05:35:25 -05:00] [Info] **:green_circle: Arazoan has joined the server.**
+playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Potato
+: playiArazoan has joined.
+ng
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: Arazoan authenticated successfully as user: 644380837625724959.
+playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: playing
+Server executed: /playing.
+Online Players (3/69)
+AlvarGD7, Potato, Arazoan
+: 49.145.78.200:25205 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Potato for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 05:35:57 -05:00] [Info] **:red_circle: Potato has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Arazoan
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Arazoan
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Arazoan
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Arazoan
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Arazoan
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Arazoan
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Arazoan
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Arazoan
+: Terracord: [06/25/2021 05:36:14 -05:00] [Info] AlvarGD7 said: pls dont kill me
+AlvarGD7: pls dont kill me
+playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Arazoan
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Arazoan
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Arazoan
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Arazoan
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Arazoan
+: playing
+Server executed: /playing.
+Online Players (2/69)
+AlvarGD7, Arazoan
+: pl213.230.113.244:19927 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Arazoan for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+aTerracord: [06/25/2021 05:36:28 -05:00] [Info] **:red_circle: Arazoan has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+ying
+Server executed: /playing.
+Online Players (1/69)
+AlvarGD7
+:

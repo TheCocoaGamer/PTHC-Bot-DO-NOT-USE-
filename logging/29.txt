@@ -1,0 +1,5116 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7777
+Type 'help' for a list of commands.
+
+Terracord: [06/23/2021 10:55:43 -05:00] [Info] Connecting to Discord...
+Terracord: [06/23/2021 10:55:43 -05:00] [Info] 10:55:43 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/23/2021 10:55:43 -05:00] [Info] 10:55:43 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+:
+:
+: Server started
+Terracord: [06/23/2021 10:55:44 -05:00] [Info] 10:55:44 Gateway     Connected
+Terracord: [06/23/2021 10:55:44 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/23/2021 10:55:44 -05:00] [Info] 10:55:44 Gateway     Ready
+45.18.121.19:53701 is connecting...
+Terracord: [06/23/2021 10:55:51 -05:00] [Info] **:green_circle: Airships has joined the server.**
+Airships has joined.
+109.252.65.110:16117 is connecting...
+Terracord: [06/23/2021 10:55:54 -05:00] [Info] **:green_circle: heroy_105 has joined the server.**
+heroy_105 has joined.
+Terracord: [06/23/2021 10:56:01 -05:00] [Info] heroy_105 said: um
+heroy_105: um
+heroy_105 authenticated successfully as user: 244501248861011968.
+70.137.105.70:55306 is connecting...
+Terracord: [06/23/2021 10:56:05 -05:00] [Info] **:green_circle: Zerprent has joined the server.**
+Zerprent has joined.
+178.76.167.55:52782 is connecting...
+Terracord: [06/23/2021 10:56:08 -05:00] [Info] **:green_circle: Blazingfury64 has joined the server.**
+Zerprent authenticated successfully as user: 262003003186216973.
+Blazingfury64 has joined.
+Blazingfury64 authenticated successfully as user: 414496759809572876.
+Airships authenticated successfully as user: 219605311202394112.
+Terracord: [06/23/2021 10:56:32 -05:00] [Info] Zerprent said: is grace period infinite?
+Zerprent: is grace period infinite?
+grace begin 1m
+Server executed: /grace begin 1m.
+Terracord: [06/23/2021 10:56:39 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: say forgot i had to do it myself since i did Terracord: [06/23/2021 10:56:49 -05:00] [Info] Blazingfury64 said: there is uh
+Blazingfury64: there is uh
+it manually
+Server executed: /say forgot i had to do it myself since i did it manually.
+Terracord: [06/23/2021 10:56:50 -05:00] [Info] Server broadcast: (Server Broadcast) forgot i had to do it myself since i did it manually
+(Server Broadcast) forgot i had to do it myself since i did it manually
+: Terracord: [06/23/2021 10:56:51 -05:00] [Info] Blazingfury64 said: no grace
+Blazingfury64: no grace
+Terracord: [06/23/2021 10:56:54 -05:00] [Info] Blazingfury64 said: have fun
+Blazingfury64: have fun
+say there is now, for 1minpl
+Server executed: /say there is now, for 1minpl.
+Terracord: [06/23/2021 10:56:59 -05:00] [Info] Server broadcast: (Server Broadcast) there is now, for 1minpl
+(Server Broadcast) there is now, for 1minpl
+: aying
+Invalid command entered. Type /help for a list of valid commands.
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: Terracord: [06/23/2021 10:57:39 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/23/2021 10:57:39 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, Zerprent, Blazingfury64
+: 70.137.105.70:55306 was booted: Kicked: You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.
+Kicked Zerprent for : 'You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.'
+Terracord: [06/23/2021 10:59:04 -05:00] [Info] **:red_circle: Zerprent has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/23/2021 11:00:45 -05:00] [Warning] 11:00:45 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/23/2021 11:00:45 -05:00] [Warning] 11:00:45 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/23/2021 11:00:45 -05:00] [Warning] 11:00:45 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/23/2021 11:00:45 -05:00] [Warning] 11:00:45 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/23/2021 11:00:45 -05:00] [Warning] 11:00:45 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/23/2021 11:00:45 -05:00] [Warning] 11:00:45 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/23/2021 11:00:45 -05:00] [Warning] 11:00:45 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/23/2021 11:00:45 -05:00] [Warning] 11:00:45 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/23/2021 11:00:46 -05:00] [Warning] 11:00:46 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/23/2021 11:00:46 -05:00] [Warning] 11:00:46 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+
+: 94.0.143.92:50172 is connecting...
+Terracord: [06/23/2021 11:02:03 -05:00] [Info] **:green_circle: baguette has joined the server.**
+baguette has joined.
+baguette authenticated successfully as user: 602549842367217665.
+Terracord: [06/23/2021 11:02:12 -05:00] [Info] Blazingfury64 said: how the
+Blazingfury64: how the
+Terracord: [06/23/2021 11:02:46 -05:00] [Info] baguette said: oof
+baguette: oof
+Terracord: [06/23/2021 11:02:53 -05:00] [Info] baguette said: I joined waaay too late
+baguette: I joined waaay too late
+playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Airships, heroy_105, baguette, Blazingfury64
+: 94.0.143.92:50172 was booted: Kicked: You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.
+Kicked baguette for : 'You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.'
+Terracord: [06/23/2021 11:08:19 -05:00] [Info] **:red_circle: baguette has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: Terracord: [06/23/2021 11:11:41 -05:00] [Info] Blazingfury64 said: **[Hasty Tendon Bow]**
+Blazingfury64: [Hasty Tendon Bow]
+playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Airships, heroy_105, Blazingfury64
+: 178.76.167.55:52782 was booted: Kicked: You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.
+Kicked Blazingfury64 for : 'You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.'
+Terracord: [06/23/2021 11:13:02 -05:00] [Info] **:red_circle: Blazingfury64 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: Terracord: [06/23/2021 11:36:48 -05:00] [Info] Command sent: playing
+TheCocoaGamer executed: /playing.
+Terracord: [06/23/2021 11:36:48 -05:00] [Info] <TheCocoaGamer@Discord> !playing
+<TheCocoaGamer@Discord> !playing
+playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: Terracord: [06/23/2021 11:44:02 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: Terracord: [06/23/2021 11:44:27 -05:00] [Info] Server broadcast: Screams echo around you...
+playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: Terracord: [06/23/2021 11:44:30 -05:00] [Info] Server broadcast: Brain of Cthulhu has awoken!
+playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: plaTerracord: [06/23/2021 11:45:51 -05:00] [Info] Server broadcast: Brain of Cthulhu has been defeated!
+ying
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: Terracord: [06/23/2021 11:48:22 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: Terracord: [06/23/2021 11:48:33 -05:00] [Info] Server broadcast: Screams echo around you...
+playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: Terracord: [06/23/2021 11:48:41 -05:00] [Info] Server broadcast: Brain of Cthulhu has awoken!
+playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Airships, heroy_105
+: 45.18.121.19:53701 was booted: Kicked: You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.
+Kicked Airships for : 'You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.'
+Terracord: [06/23/2021 11:48:59 -05:00] [Info] **:red_circle: Airships has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (1/69)
+heroy_105
+:

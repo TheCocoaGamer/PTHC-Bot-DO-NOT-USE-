@@ -1,0 +1,445 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7778
+Type 'help' for a list of commands.
+
+Terracord: [06/26/2021 23:56:06 -05:00] [Info] Connecting to Discord...
+Terracord: [06/26/2021 23:56:06 -05:00] [Info] 23:56:06 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/26/2021 23:56:07 -05:00] [Info] 23:56:07 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 0m
+Server executed: /grace begin 0m.
+Terracord: [06/26/2021 23:56:07 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Server started
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playingTerracord: [06/26/2021 23:56:07 -05:00] [Info] 23:56:07 Gateway     Connected
+
+Server executed: /playing.
+Online Players (0/69)
+: Terracord: [06/26/2021 23:56:08 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/26/2021 23:56:08 -05:00] [Info] 23:56:08 Gateway     Ready
+playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: playing
+Server executed: /playing.
+Online Players (0/69)
+: 98.220.227.57:54603 is connecting...
+Terracord: [06/27/2021 00:00:31 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/27/2021 00:00:31 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+playing
+Server executed: /playing.
+Online Players (0/69)
+: Terracord: [06/27/2021 00:00:33 -05:00] [Info] **:green_circle: adsfghn has joined the server.**
+adsfghn has joined.
+playing
+Server executed: /playing.
+Online Players (1/69)
+adsfghn
+:  

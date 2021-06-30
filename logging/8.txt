@@ -1,0 +1,1208 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7777
+Type 'help' for a list of commands.
+
+: grace begin 3m
+Server executed: /grace begin 3m.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: Server started
+70.137.105.70:51142 is connecting...
+178.76.157.175:61048 is connecting...
+188.127.170.93:55929 is connecting...
+Zerpant has joined.
+Plas have mercy has joined.
+blazingfury69 has joined.
+blazingfury69 authenticated successfully as user: 414496759809572876.
+80.229.138.39:49927 is connecting...
+80.229.138.39:49927 was booted: Kicked: You need to join with a hardcore player.
+Kicked  for : 'You need to join with a hardcore player.'
+Plas have mercy authenticated successfully as user: 365534393483395092.
+46.39.45.139:41805 is connecting...
+heroy_105 has joined.
+80.229.138.39:49934 is connecting...
+76.92.134.227:55402 is connecting...
+nathanpooper has joined.
+heroy_105 authenticated successfully as user: 244501248861011968.
+speed catus has joined.
+user del 609779161229426688
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '609779161229426688' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 609779161229426688 duic default
+Account 609779161229426688 has been added to group default!
+Server added Account 609779161229426688 to group default
+: speed catus authenticated successfully as user: 352243064179392512.
+nathanpooper authenticated successfully as user: 609779161229426688.
+nathanpooper: p
+24.0.9.149:60561 is connecting...
+blazingfury69: [Heart Statue]
+sleepy ttrepto has joined.
+sleepy ttrepto: h
+Zerpant tried to execute /register Zerprent#0870.
+Zerpant executed: /help.
+speed catus: H
+sleepy ttrepto authenticated successfully as user: 411350663281508352.
+speed catus: 1 life thc moment
+Zerpant: so we copy the entire command the bot sent us right
+sleepy ttrepto: yeah
+speed catus: yes
+The grace period has ended.
+You are now at the mercy of yourself and others.
+Zerpant: it just tells me invalid password
+sleepy ttrepto: wtf
+sleepy ttrepto: it's over already???
+speed catus: yes
+sleepy ttrepto: 30 second grace
+speed catus: 3 minute
+sleepy ttrepto: ah i see
+sleepy ttrepto: for the speedrunning
+speed catus: speed thc
+Zerpant: hm
+nathanpooper: you betrayed me!
+blazingfury69: stab
+blazingfury69: I said I would stab
+blazingfury69: and I did
+speed catus: lol
+Zerpant: my ingame name probably needs to be the same as my discord name
+heroy_105: stab time
+Zerpant: i guess ill just drink this and wait until the next pthc[Red Potion (30)]
+nathanpooper: ayyyyyyyyy
+Zerpant has left.
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: sleepy ttrepto: The
+speed catus: fair fight
+playinspeed catus: my god
+g
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: speed catus: so fun
+speed catus: ahhaha
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playispeed catus: get cornered by fucking mods
+ng
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: speed catus: HAHAHHAHABAH
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: speed catus: HAJHSGAHJKSgsadjhfsldf
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playingblazingfury69: WHY DO YOU HAVE 400 HP
+
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: sleepy ttrepto: i heard your sound effects
+nathanpooper: ded
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: sleepy ttrepto: splashing in the water
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: sleepy ttrepto: so i came
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: speed catus: dont come
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: speed catus: smh
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playingsleepy ttrepto: you came the last time i told you not to
+
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: sleepy ttrepto: rage
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playispeed catus: nerd
+ng
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: psleepy ttrepto: no
+layingspeed catus: now die
+
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: plsleepy ttrepto: no
+aying
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: plaspeed catus: yes
+ying
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: speed catus: what ya get?
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: nathanpooper: zeroy has 400hp
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: plaspeed catus: HOW
+ying
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: speed catus: WTF
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: sleepy ttrepto: he might be hacking
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: heroy_105: cus  i got it from login
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: Plas have mercy:  thats not cool
+sleepy ttrepto: ro
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: sleepy ttrepto: heroy
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: nathanpooper: shocking behavour
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: sleepy ttrepto: that's not allowed
+sleepy ttrepto: a
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playingspeed catus: you are not allowed
+
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playingspeed catus: too have that
+
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: blazingfury69: he got it from the glitch that occured to me
+speed catus: bruh
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playingspeed catus: yeah
+
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playinspeed catus: welp
+g
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: speed catus: everyone
+playspeed catus: in lke
+ing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: speed catus: 10 minutes
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: speed catus: you should  go too psnaw
+plaspeed catus: and fight
+yinnathanpooper tried to execute /spawn.
+g
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: speed catus: uless crin
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: speed catus: g
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playingsleepy ttrepto: o
+
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: Plas have mercy: speed cactus
+playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (6/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, speed catus,
+sleepy ttrepto
+: playingspeed catus has left.
+
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: nathanpooper: Moon Lord has awoken!
+playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: plasleepy ttrepto: you got the whole squad laughing
+ying
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playingnathanpooper: :(
+
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playsleepy ttrepto: be proud
+ing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: nathanpooper: if i was in porple, it would be belivable
+playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: playing
+Server executed: /playing.
+Online Players (5/69)
+blazingfury69, Plas have mercy, heroy_105, nathanpooper, sleepy ttrepto
+: nathanpooper has left.
+playing
+Server executed: /playing.
+Online Players (4/69)
+blazingfury69, Plas have mercy, heroy_105, sleepy ttrepto
+: sleepy ttrepto: the pooper is no more
+sleepy ttrepto: noooo
+blazingfury69: OOOf
+sleepy ttrepto executed: /who.
+heroy_105: f
+sleepy ttrepto: i got stunlocked
+sleepy ttrepto: ok im going
+sleepy ttrepto has left.
+blazingfury69: fuck I had no weapon XD
+Plas have mercy: first kill ever
+heroy_105: f
+blazingfury69: ran out of knives
+heroy_105: congrats
+Plas have mercy: thx
+blazingfury69: I was about to craft but then you killed me
+playing
+Server executed: /playing.
+Online Players (3/69)
+blazingfury69, Plas have mercy, heroy_105
+: blazingfury69 has left.
+heroy_105 executed: /playing.
+playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: Plas have mercy executed: /playing.
+playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playheroy_105: gg
+ing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Plas have mercy, heroy_105
+: acplaying
+Invalid command entered. Type /help for a list of valid commands.
+: acplayinPlas have mercy has left.
+g
+Invalid command entered. Type /help for a list of valid commands.
+: playing
+Server executed: /playing.
+Online Players (1/69)
+heroy_105
+:

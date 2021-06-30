@@ -1,0 +1,386 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7778
+Type 'help' for a list of commands.
+
+Terracord: [06/29/2021 00:09:33 -05:00] [Info] Connecting to Discord...
+Terracord: [06/29/2021 00:09:34 -05:00] [Info] 00:09:34 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/29/2021 00:09:34 -05:00] [Info] 00:09:34 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 25m
+Server executed: /grace begin 25m.
+Terracord: [06/29/2021 00:09:34 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 730308043794808854
+Server started
+Account removed successfully.
+Server successfully deleted account: 730308043794808854.
+: user add 730308043794808854 95c8 default
+Account 730308043794808854 has been added to group default!
+Server added Account 730308043794808854 to group default
+: user del 458616730655391744
+Account removed successfully.
+Server successfully deleted account: 458616730655391744.
+: user add 458616730655391744 jk5s default
+Account 458616730655391744 has been added to group default!
+Server added Account 458616730655391744 to group default
+: user del 753949752843829249
+Account removed successfully.
+Server successfully deleted account: 753949752843829249.
+: user add 753949752843829249 fgri default
+70.137.105.70:49367 is connecting...
+Account 753949752843829249 has been added to group default!
+Server added Account 753949752843829249 to group default
+: user del 262003003186216973
+Account removed successfully.
+Server successfully deleted account: 262003003186216973.
+: user add 262003003186216973 88qe default
+Terracord: [06/29/2021 00:09:35 -05:00] [Info] 00:09:35 Gateway     Connected
+Account 262003003186216973 has been added to group default!
+Server added Account 262003003186216973 to group default
+: user del 458616730655391744
+49.145.73.219:23902 is connecting...
+Account removed successfully.
+Server successfully deleted account: 458616730655391744.
+: user add 458616730655391744 0fpu default
+Terracord: [06/29/2021 00:09:35 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Account 458616730655391744 has been added to group default!
+Server added Account 458616730655391744 to group default
+: user del 516314535125319691
+Terracord: [06/29/2021 00:09:35 -05:00] [Info] 00:09:35 Gateway     Ready
+Account removed successfully.
+Server successfully deleted account: 516314535125319691.
+: user add 516314535125319691 isdm default
+Account 516314535125319691 has been added to group default!
+Server added Account 516314535125319691 to group default
+: user del 313315336617328640
+Account removed successfully.
+Server successfully deleted account: 313315336617328640.
+: user add 313315336617328640 p363 default
+Terracord: [06/29/2021 00:09:36 -05:00] [Info] <Habyu@Discord> The connecting so long
+<Habyu@Discord> The connecting so long
+Account 313315336617328640 has been added to group default!
+Server added Account 313315336617328640 to group default
+: user del 468821061040078858
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '468821061040078858' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 468821061040078858 33v1 default
+Account 468821061040078858 has been added to group default!
+Server added Account 468821061040078858 to group default
+: Terracord: [06/29/2021 00:09:36 -05:00] [Info] **:green_circle: brwawler has joined the server.**
+brwawler has joined.
+Terracord: [06/29/2021 00:09:38 -05:00] [Info] **:green_circle: Potato has joined the server.**
+121.45.96.10:51492 is connecting...
+brwawler authenticated successfully as user: 262003003186216973.
+Terracord: [06/29/2021 00:09:39 -05:00] [Info] **:green_circle: copper has joined the server.**
+Potato has joined.
+73.22.153.51:54704 is connecting...
+copper has joined.
+Terracord: [06/29/2021 00:09:41 -05:00] [Info] **:green_circle: Buddy1Sock has joined the server.**
+Buddy1Sock has joined.
+71.197.184.18:61446 is connecting...
+Potato authenticated successfully as user: 753949752843829249.
+Terracord: [06/29/2021 00:09:42 -05:00] [Info] **:green_circle: Zoethecat has joined the server.**
+Zoethecat has joined.
+161.49.149.203:63802 is connecting...
+Zoethecat authenticated successfully as user: 516314535125319691.
+Terracord: [06/29/2021 00:09:45 -05:00] [Info] **:green_circle: Tiny225 has joined the server.**
+Tiny225 has joined.
+Buddy1Sock authenticated successfully as user: 468821061040078858.
+copper authenticated successfully as user: 730308043794808854.
+Tiny225 authenticated successfully as user: 458616730655391744.
+Terracord: [06/29/2021 00:10:12 -05:00] [Info] Tiny225 said: I hit a butterfly with my axe
+Tiny225: I hit a butterfly with my axe
+Terracord: [06/29/2021 00:10:20 -05:00] [Info] Buddy1Sock said: living wood wand
+Buddy1Sock: living wood wand
+121.45.96.10:51492 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked copper for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 00:12:33 -05:00] [Info] **:red_circle: copper has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+121.45.96.10:51508 is connecting...
+Terracord: [06/29/2021 00:12:49 -05:00] [Info] **:green_circle: css has joined the server.**
+css has joined.
+Terracord: [06/29/2021 00:12:56 -05:00] [Info] css said: ok used recall and died
+css: ok used recall and died
+css authenticated successfully as user: 730308043794808854.
+Terracord: [06/29/2021 00:13:06 -05:00] [Info] <Habyu@Discord> Why i can't join
+<Habyu@Discord> Why i can't join
+Terracord: [06/29/2021 00:13:20 -05:00] [Info] css said: im gay, i like men
+css: im gay, i like men
+71.197.184.18:61446 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Zoethecat for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 00:13:24 -05:00] [Info] **:red_circle: Zoethecat has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/29/2021 00:13:33 -05:00] [Info] Potato said: guess u don't like me :0
+Potato: guess u don't like me :0
+Terracord: [06/29/2021 00:13:33 -05:00] [Info] brwawler said: copy the command in your dms
+brwawler: copy the command in your dms
+Terracord: [06/29/2021 00:13:34 -05:00] [Info] css said: im also a girl
+css: im also a girl
+71.197.184.18:61452 is connecting...
+Terracord: [06/29/2021 00:13:39 -05:00] [Info] **:green_circle: Zoethecat2 has joined the server.**
+Zoethecat2 has joined.
+Zoethecat2 authenticated successfully as user: 516314535125319691.
+Terracord: [06/29/2021 00:13:51 -05:00] [Info] Potato said: bruh
+Potato: bruh
+218.111.6.216:49837 is connecting...
+Terracord: [06/29/2021 00:13:53 -05:00] [Info] **:green_circle: Habyu has joined the server.**
+Habyu has joined.
+73.253.213.97:59612 is connecting...
+Terracord: [06/29/2021 00:14:59 -05:00] [Info] **:green_circle: MaxedOut has joined the server.**
+MaxedOut has joined.
+Habyu tried to execute /register.
+Habyu executed: /help.
+Habyu tried to execute /register.
+MaxedOut tried to execute /register.
+Terracord: [06/29/2021 00:16:01 -05:00] [Info] MaxedOut said: my login isnt working
+MaxedOut: my login isnt working
+Terracord: [06/29/2021 00:16:15 -05:00] [Info] Habyu said: same
+Habyu: same
+Terracord: [06/29/2021 00:16:16 -05:00] [Info] Potato said: did ya include the letters
+Potato: did ya include the letters
+Terracord: [06/29/2021 00:16:19 -05:00] [Info] MaxedOut said: yes
+MaxedOut: yes
+Terracord: [06/29/2021 00:16:26 -05:00] [Info] Potato said: just react again i guess
+Potato: just react again i guess
+Terracord: [06/29/2021 00:16:31 -05:00] [Info] MaxedOut said: ok
+MaxedOut: ok
+user del 609476717311950877
+Account removed successfully.
+Server successfully deleted account: 609476717311950877.
+: user add 609476717311950877 3p69 default
+Account 609476717311950877 has been added to group default!
+Server added Account 609476717311950877 to group default
+: MaxedOut authenticated successfully as user: 609476717311950877.
+Terracord: [06/29/2021 00:16:49 -05:00] [Info] MaxedOut said: there it worked
+MaxedOut: there it worked
+user del 746297216855179364
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '746297216855179364' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 746297216855179364 qz6r default
+Account 746297216855179364 has been added to group default!
+Server added Account 746297216855179364 to group default
+: Terracord: [06/29/2021 00:16:55 -05:00] [Info] Potato said: now go
+Potato: now go
+Terracord: [06/29/2021 00:17:00 -05:00] [Info] Potato said: quit diddly daddling
+Potato: quit diddly daddling
+Terracord: [06/29/2021 00:17:11 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+Terracord: [06/29/2021 00:17:15 -05:00] [Info] Buddy1Sock said: what\
+Buddy1Sock: what\
+Terracord: [06/29/2021 00:17:15 -05:00] [Info] brwawler said: why
+brwawler: why
+Terracord: [06/29/2021 00:17:19 -05:00] [Info] MaxedOut said: already?
+MaxedOut: already?
+71.197.184.18:61452 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Zoethecat2 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 00:17:22 -05:00] [Info] **:red_circle: Zoethecat2 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/29/2021 00:17:28 -05:00] [Info] css said: **[Sandstone Brick]** hmm
+css: [Sandstone Brick] hmm
+Terracord: [06/29/2021 00:17:43 -05:00] [Info] <zoethecat@Discord> LOL A CRIMERA USED MY HOIK
+<zoethecat@Discord> LOL A CRIMERA USED MY HOIK
+Terracord: [06/29/2021 00:17:50 -05:00] [Info] MaxedOut said: lol
+MaxedOut: lol
+Terracord: [06/29/2021 00:17:57 -05:00] [Info] brwawler said: finally hoiks backfi
+brwawler: finally hoiks backfi
+Terracord: [06/29/2021 00:17:57 -05:00] [Info] Potato said: crimera go brrr
+Potato: crimera go brrr
+user del 746297216855179364
+Account removed successfully.
+Server successfully deleted account: 746297216855179364.
+: user add 746297216855179364 b0e6 default
+Account 746297216855179364 has been added to group default!
+Server added Account 746297216855179364 to group default
+: Terracord: [06/29/2021 00:18:09 -05:00] [Info] brwawler said: someone steal zoe's dead body loot
+brwawler: someone steal zoe's dead body loot
+Terracord: [06/29/2021 00:18:33 -05:00] [Info] MaxedOut said: ill take a free undertaker
+MaxedOut: ill take a free undertaker
+Terracord: [06/29/2021 00:18:40 -05:00] [Info] css said: **[Wild Sandstorm in a Bottle]** hmm
+css: [Wild Sandstorm in a Bottle] hmm
+161.49.149.203:63802 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Tiny225 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 00:19:03 -05:00] [Info] **:red_circle: Tiny225 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+user del 458616730655391744
+Account removed successfully.
+Server successfully deleted account: 458616730655391744.
+: user add 458616730655391744 398a default
+Account 458616730655391744 has been added to group default!
+Server added Account 458616730655391744 to group default
+: 49.145.73.219:23902 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Potato for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 00:19:29 -05:00] [Info] **:red_circle: Potato has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/29/2021 00:19:32 -05:00] [Info] Habyu said: why i cant login
+Habyu: why i cant login
+161.49.149.203:44790 is connecting...
+Terracord: [06/29/2021 00:19:38 -05:00] [Info] **:green_circle: Tiny225 has joined the server.**
+Terracord: [06/29/2021 00:19:42 -05:00] [Info] Buddy1Sock said: use bot code
+Buddy1Sock: use bot code
+Tiny225 has joined.
+Tiny225 authenticated successfully as user: 458616730655391744.
+user del 746297216855179364
+Account removed successfully.
+Server successfully deleted account: 746297216855179364.
+: user add 746297216855179364 67mq default
+Account 746297216855179364 has been added to group default!
+Server added Account 746297216855179364 to group default
+: Habyu authenticated successfully as user: 746297216855179364.
+Terracord: [06/29/2021 00:21:11 -05:00] [Info] Habyu said: finally i can play
+Habyu: finally i can play
+Terracord: [06/29/2021 00:24:18 -05:00] [Info] css said: im going to make a house in the pharoas tomb
+css: im going to make a house in the pharoas tomb
+73.253.213.97:59612 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked MaxedOut for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 00:24:19 -05:00] [Info] **:red_circle: MaxedOut has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/29/2021 00:24:38 -05:00] [Info] <MaxedOutSociety@Discord> ive been swarmed by jungle bats
+<MaxedOutSociety@Discord> ive been swarmed by jungle bats
+218.111.6.216:49837 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Habyu for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 00:26:32 -05:00] [Info] **:red_circle: Habyu has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/29/2021 00:27:30 -05:00] [Info] css said: a chest had just **[Jester's Arrow (29)]** **[Extractinator]** nothing else
+css: a chest had just [Jester's Arrow (29)][Extractinator] nothing else
+Terracord: [06/29/2021 00:27:36 -05:00] [Info] Buddy1Sock said: rip
+Buddy1Sock: rip
+Terracord: [06/29/2021 00:28:41 -05:00] [Info] **:red_circle: Tiny225 has left the server.**
+Tiny225 has left.
+Terracord: [06/29/2021 00:29:20 -05:00] [Info] css said: let me guess zoe alr has grav pot and wings
+css: let me guess zoe alr has grav pot and wings
+brwawler executed: /who.
+Terracord: [06/29/2021 00:29:45 -05:00] [Info] brwawler said: why are there only 3 people?
+brwawler: why are there only 3 people?
+Terracord: [06/29/2021 00:29:50 -05:00] [Info] css said: idk
+css: idk
+Terracord: [06/29/2021 00:31:05 -05:00] [Info] brwawler said: grace is still on so people can rejoin
+brwawler: grace is still on so people can rejoin
+Terracord: [06/29/2021 00:31:11 -05:00] [Info] css said: mhm
+css: mhm
+Terracord: [06/29/2021 00:32:15 -05:00] [Info] Server broadcast: Humphrey the Merchant has arrived!
+uuser del 692133379952607313
+Invalid command entered. Type /help for a list of valid commands.
+: user add 692133379952607313 v0kb default
+User 692133379952607313 already exists!
+: Terracord: [06/29/2021 00:33:51 -05:00] [Info] css said: hello my good sir
+css: hello my good sir
+75.158.83.254:54051 is connecting...
+Terracord: [06/29/2021 00:34:07 -05:00] [Info] **:green_circle: Ns has joined the server.**
+Ns has joined.
+Terracord: [06/29/2021 00:34:34 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/29/2021 00:34:34 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+121.45.96.10:51508 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked css for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 00:35:20 -05:00] [Info] **:red_circle: css has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Ns authenticated successfully as user: 692133379952607313.
+Terracord: [06/29/2021 00:35:38 -05:00] [Info] Server broadcast: Carly the Nurse has arrived!
+Terracord: [06/29/2021 00:35:42 -05:00] [Info] <Copper Shortsword@Discord> intentional game design
+<Copper Shortsword@Discord> intentional game design
+Terracord: [06/29/2021 00:35:52 -05:00] [Info] <Copper Shortsword@Discord> thankss for not using my cloud bottle game
+<Copper Shortsword@Discord> thankss for not using my cloud bottle game
+75.158.83.254:54051 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Ns for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 00:36:26 -05:00] [Info] **:red_circle: Ns has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (2/69)
+brwawler, Buddy1Sock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+brwawler, Buddy1Sock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+brwawler, Buddy1Sock
+: Terracord: [06/29/2021 00:37:00 -05:00] [Info] Command sent: playing
+Terracord: [06/29/2021 00:37:00 -05:00] [Info] <Ns06@Discord> !playing
+<Ns06@Discord> !playing
+playing
+Server executed: /playing.
+Online Players (2/69)
+brwawler, Buddy1Sock
+: 70.137.105.70:49367 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked brwawler for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 00:37:03 -05:00] [Info] **:red_circle: brwawler has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (1/69)
+Buddy1Sock
+:  

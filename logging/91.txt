@@ -1,0 +1,2232 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7778
+Type 'help' for a list of commands.
+
+Terracord: [06/28/2021 15:56:38 -05:00] [Info] Connecting to Discord...
+Terracord: [06/28/2021 15:56:38 -05:00] [Info] 15:56:38 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/28/2021 15:56:39 -05:00] [Info] 15:56:39 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 35m
+Server executed: /grace begin 35m.
+Terracord: [06/28/2021 15:56:39 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 376522837693038593
+Server started
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 s8w3 default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 318028763776679936
+Account removed successfully.
+Server successfully deleted account: 318028763776679936.
+: user add 318028763776679936 9je3 default
+Terracord: [06/28/2021 15:56:40 -05:00] [Info] 15:56:40 Gateway     Connected
+Account 318028763776679936 has been added to group default!
+Server added Account 318028763776679936 to group default
+: user del 586336691640467457
+98.220.237.255:49911 is connecting...
+Account removed successfully.
+Server successfully deleted account: 586336691640467457.
+: user add 586336691640467457 x4ll default
+Account 586336691640467457 has been added to group default!
+Server added Account 586336691640467457 to group default
+: user del 643950324075462656
+Account removed successfully.
+Server successfully deleted account: 643950324075462656.
+: user add 643950324075462656 baga default
+Account 643950324075462656 has been added to group default!
+Server added Account 643950324075462656 to group default
+: user del 456110220322668566
+Account removed successfully.
+Server successfully deleted account: 456110220322668566.
+: user add 456110220322668566 9te9 default
+Account 456110220322668566 has been added to group default!
+Server added Account 456110220322668566 to group default
+: Terracord: [06/28/2021 15:56:41 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/28/2021 15:56:41 -05:00] [Info] 15:56:41 Gateway     Ready
+Terracord: [06/28/2021 15:56:42 -05:00] [Info] **:green_circle: Youin has joined the server.**
+Youin has joined.
+96.33.39.151:53055 is connecting...
+Terracord: [06/28/2021 15:56:43 -05:00] [Info] **:green_circle: dumpster burn has joined the server.**
+dumpster burn has joined.
+98.220.227.57:64216 is connecting...
+Terracord: [06/28/2021 15:56:45 -05:00] [Info] **:green_circle: [c/fe3239:Supremas] has joined the server.**
+82.15.210.146:53058 is connecting...
+Supremas has joined.
+Terracord: [06/28/2021 15:56:46 -05:00] [Info] **:green_circle: .-. has joined the server.**
+.-. has joined.
+dumpster burn authenticated successfully as user: 456110220322668566.
+.-. authenticated successfully as user: 318028763776679936.
+Terracord: [06/28/2021 15:56:58 -05:00] [Info] .-. said: ello
+.-.: ello
+Youin authenticated successfully as user: 586336691640467457.
+[c/fe3239:Supremas] authenticated successfully as user: 376522837693038593.
+47.5.141.86:56556 is connecting...
+Terracord: [06/28/2021 15:57:07 -05:00] [Info] **:green_circle: Chookagong has joined the server.**
+Chookagong has joined.
+Chookagong authenticated successfully as user: 643950324075462656.
+user del 570187358683529217
+Account removed successfully.
+Server successfully deleted account: 570187358683529217.
+: user add 570187358683529217 h04o default
+Account 570187358683529217 has been added to group default!
+Server added Account 570187358683529217 to group default
+: 96.253.98.158:65215 is connecting...
+Terracord: [06/28/2021 15:59:22 -05:00] [Info] **:green_circle: Dev has joined the server.**
+Dev has joined.
+Dev authenticated successfully as user: 570187358683529217.
+user del 692133379952607313
+Account removed successfully.
+Server successfully deleted account: 692133379952607313.
+: user add 692133379952607313 spns default
+Account 692133379952607313 has been added to group default!
+Server added Account 692133379952607313 to group default
+: 75.158.83.254:52873 is connecting...
+75.158.83.254:52873 was booted: Only Non-Journey characters may enter a Non-Journey server.
+Terracord: [06/28/2021 16:02:39 -05:00] [Info] **:red_circle: Ns has left the server.**
+Supremas executed: /playing.
+75.158.83.254:52874 is connecting...
+Terracord: [06/28/2021 16:02:49 -05:00] [Info] **:green_circle: Ns has joined the server.**
+Ns has joined.
+Ns authenticated successfully as user: 692133379952607313.
+96.253.98.158:65215 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Dev for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 16:03:59 -05:00] [Info] **:red_circle: Dev has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+96.253.98.158:50944 is connecting...
+Terracord: [06/28/2021 16:04:03 -05:00] [Info] **:green_circle: Dev 1 has joined the server.**
+Dev 1 has joined.
+Dev 1 authenticated successfully as user: 570187358683529217.
+Terracord: [06/28/2021 16:05:21 -05:00] [Info] Server broadcast: Gus the Merchant has arrived!
+96.253.98.158:50944 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Dev 1 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 16:06:18 -05:00] [Info] **:red_circle: Dev 1 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+96.253.98.158:62267 is connecting...
+Terracord: [06/28/2021 16:06:30 -05:00] [Info] **:green_circle: Dev 2 has joined the server.**
+Dev 2 has joined.
+Dev 2 authenticated successfully as user: 570187358683529217.
+Terracord: [06/28/2021 16:06:35 -05:00] [Info] Chookagong said: i need money
+Chookagong: i need money
+Terracord: [06/28/2021 16:06:47 -05:00] [Info] dumpster burn said: dont we all
+dumpster burn: dont we all
+Terracord: [06/28/2021 16:06:56 -05:00] [Info] Youin said: 8 gold moment
+Youin: 8 gold moment
+Terracord: [06/28/2021 16:06:56 -05:00] [Info] Chookagong said: bug net is so overpriced
+Chookagong: bug net is so overpriced
+75.158.83.254:52874 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Ns for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 16:11:26 -05:00] [Info] Server broadcast: Ns's entrails were ripped out by Demon Eye.
+Terracord: [06/28/2021 16:11:26 -05:00] [Info] **:red_circle: Ns has left the server.**
+75.158.83.254:52897 is connecting...
+Terracord: [06/28/2021 16:12:48 -05:00] [Info] **:green_circle: Ns has joined the server.**
+Ns has joined.
+Ns authenticated successfully as user: 692133379952607313.
+Supremas executed: /playing.
+Terracord: [06/28/2021 16:13:53 -05:00] [Info] Youin said: anyone know what side is the corruption?
+Youin: anyone know what side is the corruption?
+Terracord: [06/28/2021 16:14:02 -05:00] [Info] Ns said: right
+Ns: right
+47.5.141.86:56556 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Chookagong for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 16:14:02 -05:00] [Info] **:red_circle: Chookagong has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+75.158.83.254:52897 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Ns for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 16:14:27 -05:00] [Info] **:red_circle: Ns has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+67.169.170.162:56056 is connecting...
+Terracord: [06/28/2021 16:14:44 -05:00] [Info] **:green_circle: Bluberry108 has joined the server.**
+Bluberry108 has joined.
+75.158.83.254:52907 is connecting...
+Terracord: [06/28/2021 16:14:57 -05:00] [Info] **:green_circle: Ns has joined the server.**
+Ns has joined.
+Ns authenticated successfully as user: 692133379952607313.
+98.220.237.255:49911 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Youin for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 16:15:08 -05:00] [Info] **:red_circle: Youin has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+98.220.237.255:62782 is connecting...
+Terracord: [06/28/2021 16:15:23 -05:00] [Info] **:green_circle: Youin2 has joined the server.**
+Youin2 has joined.
+Terracord: [06/28/2021 16:15:26 -05:00] [Info] Youin2 said: shit
+Youin2: shit
+Terracord: [06/28/2021 16:16:29 -05:00] [Info] Bluberry108 said: whyyyy
+Bluberry108: whyyyy
+Terracord: [06/28/2021 16:16:36 -05:00] [Info] Bluberry108 said: how do i login
+Bluberry108: how do i login
+Youin2 authenticated successfully as user: 586336691640467457.
+98.220.237.255:62782 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Youin2 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 16:18:06 -05:00] [Info] **:red_circle: Youin2 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/28/2021 16:20:22 -05:00] [Info] Bluberry108 said: HELP
+Bluberry108: HELP
+Terracord: [06/28/2021 16:20:33 -05:00] [Info] Bluberry108 said: what is the enter key?
+Bluberry108: what is the enter key?
+Terracord: [06/28/2021 16:23:50 -05:00] [Info] <Omori@Discord> waut
+<Omori@Discord> waut
+Terracord: [06/28/2021 16:23:50 -05:00] [Info] **:red_circle: Bluberry108 has left the server.**
+Bluberry108 has left.
+Terracord: [06/28/2021 16:23:52 -05:00] [Info] <Omori@Discord> there a game?
+<Omori@Discord> there a game?
+Terracord: [06/28/2021 16:23:56 -05:00] [Info] Dev 2 said: ye
+Dev 2: ye
+Terracord: [06/28/2021 16:24:00 -05:00] [Info] [c/fe3239:Supremas] said: yep
+Supremas: yep
+Terracord: [06/28/2021 16:24:04 -05:00] [Info] [c/fe3239:Supremas] said: grace ends in 7m
+Supremas: grace ends in 7m
+Terracord: [06/28/2021 16:24:04 -05:00] [Info] <Omori@Discord> can I still join
+<Omori@Discord> can I still join
+67.169.170.162:65138 is connecting...
+Terracord: [06/28/2021 16:24:05 -05:00] [Info] **:green_circle: Bluberry108 has joined the server.**
+Bluberry108 has joined.
+Terracord: [06/28/2021 16:24:07 -05:00] [Info] [c/fe3239:Supremas] said: yep
+Supremas: yep
+Terracord: [06/28/2021 16:24:09 -05:00] [Info] [c/fe3239:Supremas] said: just react
+Supremas: just react
+user del 632016986658045961
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '632016986658045961' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 632016986658045961 qq8j default
+Account 632016986658045961 has been added to group default!
+Server added Account 632016986658045961 to group default
+: user del 663679335592493057
+Account removed successfully.
+Server successfully deleted account: 663679335592493057.
+: user add 663679335592493057 4ddp default
+Account 663679335592493057 has been added to group default!
+Server added Account 663679335592493057 to group default
+: Bluberry108 authenticated successfully as user: 632016986658045961.
+Terracord: [06/28/2021 16:24:58 -05:00] [Info] <Omori@Discord> anyone wanna team?
+<Omori@Discord> anyone wanna team?
+Terracord: [06/28/2021 16:25:05 -05:00] [Info] [c/fe3239:Supremas] said: nop
+Supremas: nop
+Terracord: [06/28/2021 16:25:12 -05:00] [Info] <Omori@Discord> @Rod of discord
+<Omori@Discord> @Rod of discord
+Terracord: [06/28/2021 16:25:15 -05:00] [Info] <Omori@Discord> wanna team?
+<Omori@Discord> wanna team?
+Terracord: [06/28/2021 16:25:16 -05:00] [Info] Bluberry108 said: i have nothin so for now sure:)
+Bluberry108: i have nothin so for now sure:)
+Terracord: [06/28/2021 16:25:48 -05:00] [Info] [c/fe3239:Supremas] said: wait i wanna see somthin
+Supremas: wait i wanna see somthin
+Terracord: [06/28/2021 16:25:50 -05:00] [Info] [c/fe3239:Supremas] said: !playing
+Supremas: !playing
+Terracord: [06/28/2021 16:25:54 -05:00] [Info] [c/fe3239:Supremas] said: doesnt work oof
+Supremas: doesnt work oof
+94.69.222.181:50995 is connecting...
+Terracord: [06/28/2021 16:26:40 -05:00] [Info] **:green_circle: Omori has joined the server.**
+Omori has joined.
+Omori authenticated successfully as user: 663679335592493057.
+Terracord: [06/28/2021 16:26:51 -05:00] [Info] Omori said: anyone wanna team?
+Omori: anyone wanna team?
+82.15.210.146:53058 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked .-. for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 16:26:58 -05:00] [Info] **:red_circle: .-. has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/28/2021 16:27:18 -05:00] [Info] Ns said: Sure
+Ns: Sure
+Terracord: [06/28/2021 16:27:31 -05:00] [Info] Omori said: join red
+Omori: join red
+Terracord: [06/28/2021 16:27:43 -05:00] [Info] Omori said: pog
+Omori: pog
+Terracord: [06/28/2021 16:28:31 -05:00] [Info] Omori said: where u?
+Omori: where u?
+Terracord: [06/28/2021 16:28:52 -05:00] [Info] Ns said: one sec, theres a life crystal near me
+Ns: one sec, theres a life crystal near me
+Terracord: [06/28/2021 16:29:03 -05:00] [Info] Omori said: u down this cave?
+Omori: u down this cave?
+Terracord: [06/28/2021 16:29:12 -05:00] [Info] Server broadcast: Ns has teleported to Omori
+Terracord: [06/28/2021 16:29:15 -05:00] [Info] Omori said: oh hi
+Omori: oh hi
+Terracord: [06/28/2021 16:31:39 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/28/2021 16:31:39 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+Terracord: [06/28/2021 16:31:43 -05:00] [Info] Omori said: anyway
+Omori: anyway
+Terracord: [06/28/2021 16:31:57 -05:00] [Info] Server broadcast: Skeletron has awoken!
+Terracord: [06/28/2021 16:32:01 -05:00] [Info] Omori said: e
+Omori: e
+Terracord: [06/28/2021 16:32:42 -05:00] [Info] Omori said: gem corns
+Omori: gem corns
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:33:49 -05:00] [Info] Omori said: I got a wormhole
+Omori: I got a wormhole
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:33:56 -05:00] [Info] Ns said: nice
+Ns: nice
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:34:27 -05:00] [Info] Omori said: gold
+Omori: gold
+playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Bluberry108, dumpster burn, Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:34:56 -05:00] [Info] **:red_circle: Bluberry108 has left the server.**
+Bluberry108 has left.
+playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:34:59 -05:00] [Info] Omori said: YOO
+Omori: YOO
+plTerracord: [06/28/2021 16:35:00 -05:00] [Info] Omori said: WE RICH
+Omori: WE RICH
+aying
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:35:04 -05:00] [Info] Omori said: SO MUCH ORE
+Omori: SO MUCH ORE
+playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (5/69)
+dumpster burn, Supremas, Omori, Dev 2, Ns
+: 96.33.39.151:53055 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked dumpster burn for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 16:35:58 -05:00] [Info] **:red_circle: dumpster burn has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:36:04 -05:00] [Info] Server broadcast: Skeletron has been defeated!
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:36:26 -05:00] [Info] Dev 2 said: Don't Die cocoa
+Dev 2: Don't Die cocoa
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:37:35 -05:00] [Info] Omori said: help
+Omori: help
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:37:39 -05:00] [Info] Omori said: ns
+Omori: ns
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:37:46 -05:00] [Info] Omori said: lizards
+Omori: lizards
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playingTerracord: [06/28/2021 16:37:51 -05:00] [Info] Omori said: NS
+Omori: NS
+
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:37:52 -05:00] [Info] Omori said: NS
+Omori: NS
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:39:29 -05:00] [Info] Dev 2 said: Is it day?
+Dev 2: Is it day?
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:39:33 -05:00] [Info] [c/fe3239:Supremas] said: **[Muramasa]** yawnnnn
+Supremas: [Muramasa] yawnnnn
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: plaTerracord: [06/28/2021 16:39:45 -05:00] [Info] Omori said: wae
+Omori: wae
+ying
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: plTerracord: [06/28/2021 16:39:51 -05:00] [Info] Omori said: should I get a sapphire staff
+Omori: should I get a sapphire staff
+aying
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:39:55 -05:00] [Info] Omori said: or silver bow
+Omori: or silver bow
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: plaTerracord: [06/28/2021 16:40:09 -05:00] [Info] Omori said: WAIT
+Omori: WAIT
+ying
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:40:12 -05:00] [Info] Omori said: I CAN MAKE A HOOK
+Omori: I CAN MAKE A HOOK
+Terracord: [06/28/2021 16:40:13 -05:00] [Info] Ns said: Idk, how much mana you have?
+Ns: Idk, how much mana you have?
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:40:27 -05:00] [Info] Omori said: **[Sapphire Hook]**
+Omori: [Sapphire Hook]
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:40:45 -05:00] [Info] Omori said: e
+Omori: e
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: plTerracord: [06/28/2021 16:40:55 -05:00] [Info] Omori said: I got 19 lead
+Omori: I got 19 lead
+aying
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: plTerracord: [06/28/2021 16:40:57 -05:00] [Info] Omori said: what I do with it
+Omori: what I do with it
+aying
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: plTerracord: [06/28/2021 16:41:08 -05:00] [Info] Ns said: Can I have it
+Ns: Can I have it
+aying
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:41:29 -05:00] [Info] Omori said: sure
+Omori: sure
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:41:36 -05:00] [Info] Omori said: u got any gemstones?
+Omori: u got any gemstones?
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:41:51 -05:00] [Info] Ns said: no that was all I had
+Ns: no that was all I had
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:42:04 -05:00] [Info] Omori said: ty
+Omori: ty
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playingTerracord: [06/28/2021 16:42:40 -05:00] [Info] Omori said: e
+Omori: e
+
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:42:42 -05:00] [Info] Omori said: help
+Omori: help
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:43:14 -05:00] [Info] Ns said: I accidentally dropped my pick, its in your inventory
+Ns: I accidentally dropped my pick, its in your inventory
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: plaTerracord: [06/28/2021 16:43:21 -05:00] [Info] Omori said: ye
+Omori: ye
+ying
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:43:33 -05:00] [Info] Ns said: I'm stuck
+Ns: I'm stuck
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:43:37 -05:00] [Info] Omori said: coming
+Omori: coming
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:44:57 -05:00] [Info] Omori said: any ruby?
+Omori: any ruby?
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playingTerracord: [06/28/2021 16:45:02 -05:00] [Info] Ns said: nope
+Ns: nope
+
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:45:06 -05:00] [Info] Omori said: Saph
+Omori: Saph
+playinTerracord: [06/28/2021 16:45:06 -05:00] [Info] Omori said: ?
+Omori: ?
+g
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:45:13 -05:00] [Info] Ns said: 1 saph
+Ns: 1 saph
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:45:20 -05:00] [Info] Omori said: e
+Omori: e
+Terracord: [06/28/2021 16:45:21 -05:00] [Info] Omori said: gib
+Omori: gib
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:46:00 -05:00] [Info] Omori said: ty
+Omori: ty
+playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Supremas, Omori, Dev 2, Ns
+: 98.220.227.57:64216 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked [c/fe3239:Supremas] for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 16:46:11 -05:00] [Info] **:red_circle: [c/fe3239:Supremas] has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:46:27 -05:00] [Info] <TheCocoaGamer@Discord> DAM
+<TheCocoaGamer@Discord> DAM
+playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:46:29 -05:00] [Info] <TheCocoaGamer@Discord> oof caps
+<TheCocoaGamer@Discord> oof caps
+playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:46:32 -05:00] [Info] <TheCocoaGamer@Discord> that was pretty close ngl
+<TheCocoaGamer@Discord> that was pretty close ngl
+playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:46:35 -05:00] [Info] <TheCocoaGamer@Discord> good luck guys
+<TheCocoaGamer@Discord> good luck guys
+playingTerracord: [06/28/2021 16:46:36 -05:00] [Info] Command sent: playing
+TheCocoaGamer executed: /playing.
+Terracord: [06/28/2021 16:46:36 -05:00] [Info] <TheCocoaGamer@Discord> !playing
+<TheCocoaGamer@Discord> !playing
+
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:46:48 -05:00] [Info] Omori said: WE AT HELL ALMOST
+Omori: WE AT HELL ALMOST
+playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:46:58 -05:00] [Info] Omori said: FROM 1 CAVE
+Omori: FROM 1 CAVE
+Terracord: [06/28/2021 16:46:59 -05:00] [Info] Dev 2 said: Let me guess you died high up in the dungeon?
+Dev 2: Let me guess you died high up in the dungeon?
+playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playingTerracord: [06/28/2021 16:47:07 -05:00] [Info] <TheCocoaGamer@Discord> nah i got muramasa
+<TheCocoaGamer@Discord> nah i got muramasa
+
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:47:14 -05:00] [Info] <TheCocoaGamer@Discord> i died to spike ofc
+<TheCocoaGamer@Discord> i died to spike ofc
+playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:47:17 -05:00] [Info] <TheCocoaGamer@Discord> and enemies
+<TheCocoaGamer@Discord> and enemies
+playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:47:29 -05:00] [Info] <TheCocoaGamer@Discord> really i got greedg
+<TheCocoaGamer@Discord> really i got greedg
+playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:47:34 -05:00] [Info] <TheCocoaGamer@Discord> i had an obi key
+<TheCocoaGamer@Discord> i had an obi key
+playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:47:36 -05:00] [Info] <TheCocoaGamer@Discord> and muramasa
+<TheCocoaGamer@Discord> and muramasa
+playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:47:42 -05:00] [Info] <TheCocoaGamer@Discord> i just wanted cobalt shield too lol
+<TheCocoaGamer@Discord> i just wanted cobalt shield too lol
+playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playingTerracord: [06/28/2021 16:47:48 -05:00] [Info] Dev 2 said: Well time for me to steal that loot
+Dev 2: Well time for me to steal that loot
+
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playTerracord: [06/28/2021 16:47:57 -05:00] [Info] <TheCocoaGamer@Discord> lol
+<TheCocoaGamer@Discord> lol
+ing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: plaTerracord: [06/28/2021 16:48:01 -05:00] [Info] Ns said: We won the lottery my friend
+Ns: We won the lottery my friend
+ying
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: Terracord: [06/28/2021 16:48:12 -05:00] [Info] Ns said: I found someones loot down here
+Ns: I found someones loot down here
+playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Omori, Dev 2, Ns
+: 94.69.222.181:50995 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Omori for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 16:48:22 -05:00] [Info] **:red_circle: Omori has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (2/69)
+Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Dev 2, Ns
+: playingTerracord: [06/28/2021 16:48:34 -05:00] [Info] <Omori@Discord> Gaysar
+<Omori@Discord> Gaysar
+
+Server executed: /playing.
+Online Players (2/69)
+Dev 2, Ns
+: Terracord: [06/28/2021 16:48:35 -05:00] [Info] Ns said: oh no
+Ns: oh no
+playing
+Server executed: /playing.
+Online Players (2/69)
+Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Dev 2, Ns
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Dev 2, Ns
+: 75.158.83.254:52907 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Ns for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 16:48:55 -05:00] [Info] **:red_circle: Ns has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (1/69)
+Dev 2
+:  

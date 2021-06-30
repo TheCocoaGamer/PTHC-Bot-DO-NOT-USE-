@@ -1,0 +1,47 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7778
+Type 'help' for a list of commands.
+
+Terracord: [06/29/2021 19:27:41 -05:00] [Info] Connecting to Discord...
+Terracord: [06/29/2021 19:27:41 -05:00] [Info] 19:27:41 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/29/2021 19:27:41 -05:00] [Info] 19:27:41 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 5m
+Server executed: /grace begin 5m.
+Terracord: [06/29/2021 19:27:41 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 376522837693038593
+Server started
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 3762283693038593 6vcb default
+Account 3762283693038593 has been added to group default!
+Server added Account 3762283693038593 to group default
+: Terracord: [06/29/2021 19:27:42 -05:00] [Info] 19:27:42 Gateway     Connected
+Terracord: [06/29/2021 19:27:42 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/29/2021 19:27:42 -05:00] [Info] 19:27:42 Gateway     Ready
+98.220.227.57:59180 is connecting...
+Terracord: [06/29/2021 19:28:33 -05:00] [Info] **:green_circle: nigger has joined the server.**
+nigger has joined.
+Terracord: [06/29/2021 19:31:07 -05:00] [Info] <Dumpster Burner@Discord> wha t
+<Dumpster Burner@Discord> wha t
+Terracord: [06/29/2021 19:32:41 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/29/2021 19:32:41 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+96.33.39.151:57197 is connecting...
+Terracord: [06/29/2021 19:33:15 -05:00] [Info] **:green_circle: dumper has joined the server.**
+dumper has joined.
+dumper authenticated successfully as user: 456110220322668566.
+98.220.227.57:59180 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked nigger for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/29/2021 19:34:57 -05:00] [Info] Server broadcast: nigger watched their innards become outards by Green Slime.
+Terracord: [06/29/2021 19:34:57 -05:00] [Info] **:red_circle: nigger has left the server.**
+playing
+Server executed: /playing.
+Online Players (1/69)
+dumper
+:  

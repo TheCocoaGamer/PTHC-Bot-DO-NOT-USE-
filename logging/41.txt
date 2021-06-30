@@ -1,0 +1,2668 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7777
+Type 'help' for a list of commands.
+
+Terracord: [06/25/2021 22:34:29 -05:00] [Info] Connecting to Discord...
+Terracord: [06/25/2021 22:34:29 -05:00] [Info] 22:34:29 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/25/2021 22:34:30 -05:00] [Info] 22:34:30 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 15m
+Server executed: /grace begin 15m.
+Terracord: [06/25/2021 22:34:30 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 468202262829989888
+Account removed successfully.
+Server successfully deleted account: 468202262829989888.
+: user add 468202262829989888 lzxw default
+Server started
+Account 468202262829989888 has been added to group default!
+Server added Account 468202262829989888 to group default
+: user del 262003003186216973
+Account removed successfully.
+Server successfully deleted account: 262003003186216973.
+: user add 262003003186216973 9bja default
+Account 262003003186216973 has been added to group default!
+Server added Account 262003003186216973 to group default
+: user del 697927492568088687
+Account removed successfully.
+Server successfully deleted account: 697927492568088687.
+: user add 697927492568088687 xegg default
+Account 697927492568088687 has been added to group default!
+Server added Account 697927492568088687 to group default
+: user del 419317290119462917
+Account removed successfully.
+Server successfully deleted account: 419317290119462917.
+: user add 419317290119462917 gpg8 default
+Account 419317290119462917 has been added to group default!
+Server added Account 419317290119462917 to group default
+: user del 314718759216611328
+Account removed successfully.
+Server successfully deleted account: 314718759216611328.
+: user add 314718759216611328 q8mu default
+Terracord: [06/25/2021 22:34:30 -05:00] [Info] 22:34:30 Gateway     Connected
+Account 314718759216611328 has been added to group default!
+Server added Account 314718759216611328 to group default
+: user del 145527890832785408
+Account removed successfully.
+Server successfully deleted account: 145527890832785408.
+: user add 145527890832785408 plow default
+Account 145527890832785408 has been added to group default!
+Server added Account 145527890832785408 to group default
+: user del 773552794887258122
+Account removed successfully.
+Server successfully deleted account: 773552794887258122.
+: user add 773552794887258122 907f default
+Account 773552794887258122 has been added to group default!
+Server added Account 773552794887258122 to group default
+: Terracord: [06/25/2021 22:34:31 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/25/2021 22:34:31 -05:00] [Info] 22:34:31 Gateway     Ready
+24.61.208.102:55500 is connecting...
+70.137.105.70:54527 is connecting...
+71.239.188.130:62344 is connecting...
+Terracord: [06/25/2021 22:34:37 -05:00] [Info] **:green_circle: Caxew has joined the server.**
+Terracord: [06/25/2021 22:34:37 -05:00] [Info] **:green_circle: superluigi has joined the server.**
+Terracord: [06/25/2021 22:34:37 -05:00] [Info] **:green_circle: qwe has joined the server.**
+Caxew has joined.
+superluigi has joined.
+qwe has joined.
+qwe authenticated successfully as user: 262003003186216973.
+173.168.136.13:55759 is connecting...
+Caxew authenticated successfully as user: 419317290119462917.
+Terracord: [06/25/2021 22:34:44 -05:00] [Info] **:green_circle: Goldblock has joined the server.**
+Goldblock has joined.
+Goldblock authenticated successfully as user: 773552794887258122.
+superluigi authenticated successfully as user: 468202262829989888.
+Terracord: [06/25/2021 22:34:52 -05:00] [Info] <iknowhowtomakeramen@Discord> still not working
+<iknowhowtomakeramen@Discord> still not working
+user del 753949752843829249
+Account removed successfully.
+Server successfully deleted account: 753949752843829249.
+: user add 753949752843829249 8g8t default
+Account 753949752843829249 has been added to group default!
+Server added Account 753949752843829249 to group default
+: 103.164.235.2:56382 is connecting...
+Terracord: [06/25/2021 22:35:26 -05:00] [Info] **:green_circle: ech has joined the server.**
+ech has joined.
+ech authenticated successfully as user: 314718759216611328.
+user del 456110220322668566
+Account removed successfully.
+Server successfully deleted account: 456110220322668566.
+: user add 456110220322668566 2gag default
+Account 456110220322668566 has been added to group default!
+Server added Account 456110220322668566 to group default
+: 47.40.212.3:49191 is connecting...
+Terracord: [06/25/2021 22:35:52 -05:00] [Info] **:green_circle: Born2Die4 has joined the server.**
+Born2Die4 has joined.
+Born2Die4 authenticated successfully as user: 145527890832785408.
+Terracord: [06/25/2021 22:36:53 -05:00] [Info] ech said: jungle :ech:
+ech: jungle :ech:
+Terracord: [06/25/2021 22:37:15 -05:00] [Info] <iknowhowtomakeramen@Discord> bruh it wont work
+<iknowhowtomakeramen@Discord> bruh it wont work
+49.145.78.200:22768 is connecting...
+Terracord: [06/25/2021 22:37:33 -05:00] [Info] **:green_circle: Potato has joined the server.**
+Potato has joined.
+Potato authenticated successfully as user: 753949752843829249.
+103.164.235.2:56382 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked ech for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 22:38:27 -05:00] [Info] **:red_circle: ech has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 22:38:35 -05:00] [Info] <HeinzABC@Discord> LEL
+<HeinzABC@Discord> LEL
+Terracord: [06/25/2021 22:38:41 -05:00] [Info] <HeinzABC@Discord> EXPLOSIVE TRAP
+<HeinzABC@Discord> EXPLOSIVE TRAP
+96.33.39.151:55711 is connecting...
+Terracord: [06/25/2021 22:38:53 -05:00] [Info] **:green_circle: dumpster burner has joined the server.**
+dumpster burner has joined.
+dumpster burner authenticated successfully as user: 456110220322668566.
+49.145.78.200:22768 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Potato for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 22:39:52 -05:00] [Info] **:red_circle: Potato has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 22:40:19 -05:00] [Info] <iknowhowtomakeramen@Discord> bro it wont work for me
+<iknowhowtomakeramen@Discord> bro it wont work for me
+Terracord: [06/25/2021 22:41:14 -05:00] [Info] qwe said: :)
+qwe: :)
+Terracord: [06/25/2021 22:41:29 -05:00] [Info] superluigi said: if you wanna help take down the big skeleman before grace ends then be my guest
+superluigi: if you wanna help take down the big skeleman before grace ends then be my guest
+Terracord: [06/25/2021 22:42:28 -05:00] [Info] **:red_circle: Caxew has left the server.**
+Caxew has left.
+24.61.208.102:55506 is connecting...
+Terracord: [06/25/2021 22:42:32 -05:00] [Info] **:green_circle: Caxew has joined the server.**
+Caxew has joined.
+Caxew authenticated successfully as user: 419317290119462917.
+173.174.122.120:51321 is connecting...
+Terracord: [06/25/2021 22:43:04 -05:00] [Info] **:green_circle: ramen has joined the server.**
+ramen has joined.
+Terracord: [06/25/2021 22:44:08 -05:00] [Info] Caxew said: what way is dungeon
+Caxew: what way is dungeon
+Terracord: [06/25/2021 22:44:12 -05:00] [Info] qwe said: left
+qwe: left
+Terracord: [06/25/2021 22:44:13 -05:00] [Info] Born2Die4 said: right
+Born2Die4: right
+Caxew executed: /playing.
+Terracord: [06/25/2021 22:44:43 -05:00] [Info] ramen said: help
+ramen: help
+Terracord: [06/25/2021 22:44:49 -05:00] [Info] superluigi said: no
+superluigi: no
+Terracord: [06/25/2021 22:44:56 -05:00] [Info] ramen said: cant move mouse
+ramen: cant move mouse
+Terracord: [06/25/2021 22:45:03 -05:00] [Info] superluigi said: sounds like a you problem
+superluigi: sounds like a you problem
+Terracord: [06/25/2021 22:45:09 -05:00] [Info] dumpster burner said: skill issue
+dumpster burner: skill issue
+Terracord: [06/25/2021 22:45:16 -05:00] [Info] qwe said: hm
+qwe: hm
+Terracord: [06/25/2021 22:45:20 -05:00] [Info] qwe said: checked your sens?
+qwe: checked your sens?
+ramen authenticated successfully as user: 697927492568088687.
+Terracord: [06/25/2021 22:45:35 -05:00] [Info] ramen said: got it
+ramen: got it
+Terracord: [06/25/2021 22:45:56 -05:00] [Info] Server broadcast: Skeletron has awoken!
+71.239.188.130:62344 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked superluigi for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 22:46:49 -05:00] [Info] **:red_circle: superluigi has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+71.239.188.130:62348 is connecting...
+Terracord: [06/25/2021 22:47:10 -05:00] [Info] **:green_circle: luigi has joined the server.**
+luigi has joined.
+Terracord: [06/25/2021 22:47:16 -05:00] [Info] luigi said: yeah i might be stupid
+luigi: yeah i might be stupid
+luigi authenticated successfully as user: 468202262829989888.
+173.174.122.120:51321 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked ramen for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 22:48:41 -05:00] [Info] **:red_circle: ramen has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (6/69)
+Caxew, qwe, luigi, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Caxew, qwe, luigi, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Caxew, qwe, luigi, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Caxew, qwe, luigi, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Caxew, qwe, luigi, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Caxew, qwe, luigi, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Caxew, qwe, luigi, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Caxew, qwe, luigi, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (6/69)
+Caxew, qwe, luigi, Goldblock, dumpster burner, Born2Die4
+: 71.239.188.130:62348 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked luigi for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 22:49:02 -05:00] [Info] **:red_circle: luigi has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: Terracord: [06/25/2021 22:49:30 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/25/2021 22:49:30 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playingTerracord: [06/25/2021 22:49:48 -05:00] [Info] <iknowhowtomakeramen@Discord> i didnt get far
+<iknowhowtomakeramen@Discord> i didnt get far
+
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: Terracord: [06/25/2021 22:50:01 -05:00] [Info] Server broadcast: Skeletron has been defeated!
+playiTerracord: [06/25/2021 22:50:03 -05:00] [Info] Caxew said: gg
+Caxew: gg
+ng
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: plaTerracord: [06/25/2021 22:50:21 -05:00] [Info] <MaxedOutSociety@Discord> How and why was skeleton fought in grace lmao
+<MaxedOutSociety@Discord> How and why was skeleton fought in grace lmao
+ying
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: Terracord: [06/25/2021 22:50:40 -05:00] [Info] qwe said: **[Frostburn Arrow (51)]** **[Agile Boreal Wood Bow]**
+qwe: [Frostburn Arrow (51)][Agile Boreal Wood Bow]
+playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: Terracord: [06/25/2021 22:50:48 -05:00] [Info] Caxew said: cause we had 2 people
+Caxew: cause we had 2 people
+playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: Terracord: [06/25/2021 22:50:51 -05:00] [Info] qwe said: 3*
+qwe: 3*
+playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: pTerracord: [06/25/2021 22:50:54 -05:00] [Info] Caxew said: oh 3
+Caxew: oh 3
+laying
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: Terracord: [06/25/2021 22:51:05 -05:00] [Info] <MaxedOutSociety@Discord> Oh ok
+<MaxedOutSociety@Discord> Oh ok
+playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: Terracord: [06/25/2021 22:51:09 -05:00] [Info] qwe said: i also had hermes so i couldve soloed
+qwe: i also had hermes so i couldve soloed
+playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playinTerracord: [06/25/2021 22:51:14 -05:00] [Info] <MaxedOutSociety@Discord> Ok
+<MaxedOutSociety@Discord> Ok
+g
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (5/69)
+Caxew, qwe, Goldblock, dumpster burner, Born2Die4
+: 96.33.39.151:55711 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked dumpster burner for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 22:52:16 -05:00] [Info] **:red_circle: dumpster burner has left the server.**
+Terracord: [06/25/2021 22:52:16 -05:00] [Info] Server broadcast: dumpster burner fell to their death.
+playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: Terracord: [06/25/2021 22:52:21 -05:00] [Info] Born2Die4 said: f
+Born2Die4: f
+playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (4/69)
+Caxew, qwe, Goldblock, Born2Die4
+: 70.137.105.70:54527 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked qwe for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 22:53:44 -05:00] [Info] **:red_circle: qwe has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: pTerracord: [06/25/2021 22:53:49 -05:00] [Info] <Zerprent@Discord> no way
+<Zerprent@Discord> no way
+laying
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: Terracord: [06/25/2021 22:53:57 -05:00] [Info] <Dumpster Burner@Discord> i love falling
+<Dumpster Burner@Discord> i love falling
+playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: Caxew executed: /playing.
+playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: playing
+Server executed: /playing.
+Online Players (3/69)
+Caxew, Goldblock, Born2Die4
+: 47.40.212.3:49191 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Born2Die4 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 22:56:43 -05:00] [Info] **:red_circle: Born2Die4 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: Terracord: [06/25/2021 22:57:07 -05:00] [Info] <Aris@Discord> the underground desert has ended 75% of my runs
+<Aris@Discord> the underground desert has ended 75% of my runs
+playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: Terracord: [06/25/2021 22:57:25 -05:00] [Info] <Aris@Discord> tomb crawler this time instead of an antlion charger tho
+<Aris@Discord> tomb crawler this time instead of an antlion charger tho
+playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: Caxew executed: /playing.
+playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: Terracord: [06/25/2021 22:58:15 -05:00] [Info] Caxew said: goldblock go to spawn
+Caxew: goldblock go to spawn
+playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playTerracord: [06/25/2021 22:58:20 -05:00] [Info] Goldblock said: why...
+Goldblock: why...
+ing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: Terracord: [06/25/2021 22:58:24 -05:00] [Info] Caxew said: 1v1
+Caxew: 1v1
+playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: Terracord: [06/25/2021 22:58:35 -05:00] [Info] Goldblock said: I don't have recalls :/
+Goldblock: I don't have recalls :/
+playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: Terracord: [06/25/2021 22:58:39 -05:00] [Info] Caxew said: f
+Caxew: f
+playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: plaTerracord: [06/25/2021 22:59:00 -05:00] [Info] Goldblock said: also, lemme get some armor first
+Goldblock: also, lemme get some armor first
+ying
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: Terracord: [06/25/2021 22:59:17 -05:00] [Info] Caxew said: are u at surface?
+Caxew: are u at surface?
+playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: Terracord: [06/25/2021 22:59:21 -05:00] [Info] Goldblock said: no
+Goldblock: no
+playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: Terracord: [06/25/2021 22:59:24 -05:00] [Info] Caxew said: danget
+Caxew: danget
+playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playingTerracord: [06/25/2021 22:59:42 -05:00] [Info] Goldblock said: I'm stuck in a cave looking for recall pots
+Goldblock: I'm stuck in a cave looking for recall pots
+
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: Terracord: [06/25/2021 22:59:46 -05:00] [Info] Caxew said: k
+Caxew: k
+playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: Terracord: [06/25/2021 23:00:07 -05:00] [Info] <Aris@Discord> we got people teaming?
+<Aris@Discord> we got people teaming?
+playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: Terracord: [06/25/2021 23:00:10 -05:00] [Info] Caxew said: no
+Caxew: no
+playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: Terracord: [06/25/2021 23:00:16 -05:00] [Info] Caxew said: he is looking for recalls
+Caxew: he is looking for recalls
+playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: Terracord: [06/25/2021 23:00:18 -05:00] [Info] Caxew said: idot
+Caxew: idot
+playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: Terracord: [06/25/2021 23:00:27 -05:00] [Info] <Aris@Discord> yeah I missed the 1v1 bit
+<Aris@Discord> yeah I missed the 1v1 bit
+playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: Terracord: [06/25/2021 23:00:31 -05:00] [Info] <Aris@Discord> is it just you two?
+Terracord: [06/25/2021 23:00:31 -05:00] [Info] Caxew said: ah
+<Aris@Discord> is it just you two?
+Caxew: ah
+playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: Terracord: [06/25/2021 23:00:34 -05:00] [Info] Caxew said: yep
+Caxew: yep
+playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: pTerracord: [06/25/2021 23:00:46 -05:00] [Info] <Aris@Discord> well I guess we get a new game soon, huh
+<Aris@Discord> well I guess we get a new game soon, huh
+laying
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: Terracord: [06/25/2021 23:01:28 -05:00] [Info] Caxew said: i mean an admin could force a 1v1
+Caxew: i mean an admin could force a 1v1
+playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: Caxew executed: /playing.
+playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playinTerracord: [06/25/2021 23:05:38 -05:00] [Info] Caxew said: nothin?
+Caxew: nothin?
+g
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: Terracord: [06/25/2021 23:07:26 -05:00] [Info] <Caxew@Discord> @TheCocoaGamer  please force a 1v1
+<Caxew@Discord> @TheCocoaGamer  please force a 1v1
+playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: Terracord: [06/25/2021 23:10:08 -05:00] [Info] Caxew said: ok you get free win cause i gtg
+Caxew: ok you get free win cause i gtg
+playing
+Server executed: /playing.
+Online Players (2/69)
+Caxew, Goldblock
+: Terracord: [06/25/2021 23:10:11 -05:00] [Info] **:red_circle: Caxew has left the server.**
+Caxew has left.
+playing
+Server executed: /playing.
+Online Players (1/69)
+Goldblock
+:

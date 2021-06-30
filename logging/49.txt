@@ -1,0 +1,453 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7778
+Type 'help' for a list of commands.
+
+Terracord: [06/26/2021 18:16:53 -05:00] [Info] Connecting to Discord...
+Terracord: [06/26/2021 18:16:53 -05:00] [Info] 18:16:53 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/26/2021 18:16:55 -05:00] [Info] 18:16:55 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 40m
+Server executed: /grace begin 40m.
+Terracord: [06/26/2021 18:16:55 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: Server started
+70.137.105.70:50840 is connecting...
+Terracord: [06/26/2021 18:16:57 -05:00] [Info] 18:16:56 Gateway     Connected
+Terracord: [06/26/2021 18:16:57 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/26/2021 18:16:57 -05:00] [Info] 18:16:57 Gateway     Ready
+Terracord: [06/26/2021 18:16:58 -05:00] [Info] **:green_circle: www has joined the server.**
+www has joined.
+76.20.244.162:58252 is connecting...
+Terracord: [06/26/2021 18:17:18 -05:00] [Info] **:green_circle: Cat_dominator has joined the server.**
+Cat_dominator has joined.
+Terracord: [06/26/2021 18:17:26 -05:00] [Info] Command sent: grace begin 5m
+TheCocoaGamer executed: /grace begin 5m.
+Terracord: [06/26/2021 18:17:27 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+Terracord: [06/26/2021 18:17:27 -05:00] [Info] <TheCocoaGamer@Discord> !grace begin 5m
+<TheCocoaGamer@Discord> !grace begin 5m
+75.158.83.254:50175 is connecting...
+Terracord: [06/26/2021 18:17:29 -05:00] [Info] **:green_circle: n has joined the server.**
+n has joined.
+84.126.155.112:56139 is connecting...
+n authenticated successfully as user: 692133379952607313.
+Terracord: [06/26/2021 18:17:34 -05:00] [Info] **:green_circle: AlvarGD has joined the server.**
+Cat_dominator authenticated successfully as user: 399923027208568832.
+AlvarGD has joined.
+Terracord: [06/26/2021 18:17:37 -05:00] [Info] AlvarGD said: https://terrariamods.fandom.com/wiki/Ancients_Awakened
+AlvarGD: https://terrariamods.fandom.com/wiki/Ancients_Awakened
+Terracord: [06/26/2021 18:17:49 -05:00] [Info] <TheCocoaGamer@Discord> pls dont win the game till like 40 mins from now as the bot will not count the win till then
+<TheCocoaGamer@Discord> pls dont win the game till like 40 mins from now as the bot will not count the win till then
+AlvarGD authenticated successfully as user: 655342932341293066.
+162.157.69.233:49507 is connecting...
+Terracord: [06/26/2021 18:18:00 -05:00] [Info] **:green_circle: I like the letter A has joined the server.**
+I like the letter A has joined.
+I like the letter A authenticated successfully as user: 636718232799281162.
+Terracord: [06/26/2021 18:18:20 -05:00] [Info] **:red_circle: I like the letter A has left the server.**
+I like the letter A has left.
+162.157.69.233:49508 is connecting...
+Terracord: [06/26/2021 18:18:30 -05:00] [Info] **:green_circle: Wolywog has joined the server.**
+Wolywog has joined.
+www authenticated successfully as user: 262003003186216973.
+Wolywog authenticated successfully as user: 636718232799281162.
+Terracord: [06/26/2021 18:19:14 -05:00] [Info] <TheCocoaGamer@Discord> ok
+<TheCocoaGamer@Discord> ok
+Terracord: [06/26/2021 18:19:16 -05:00] [Info] <TheCocoaGamer@Discord> all fixe
+<TheCocoaGamer@Discord> all fixe
+Terracord: [06/26/2021 18:19:18 -05:00] [Info] <TheCocoaGamer@Discord> nice
+<TheCocoaGamer@Discord> nice
+Terracord: [06/26/2021 18:19:20 -05:00] [Info] <TheCocoaGamer@Discord> sorry bout that
+<TheCocoaGamer@Discord> sorry bout that
+Terracord: [06/26/2021 18:19:24 -05:00] [Info] <TheCocoaGamer@Discord> my pc didnt sleep
+<TheCocoaGamer@Discord> my pc didnt sleep
+Terracord: [06/26/2021 18:19:28 -05:00] [Info] <TheCocoaGamer@Discord> it was straight up off
+<TheCocoaGamer@Discord> it was straight up off
+Terracord: [06/26/2021 18:19:29 -05:00] [Info] <TheCocoaGamer@Discord> myb
+<TheCocoaGamer@Discord> myb
+47.5.141.86:49524 is connecting...
+Terracord: [06/26/2021 18:19:35 -05:00] [Info] **:green_circle: Chookagong has joined the server.**
+Chookagong has joined.
+Terracord: [06/26/2021 18:19:39 -05:00] [Info] www said: thank you
+www: thank you
+Chookagong authenticated successfully as user: 643950324075462656.
+Terracord: [06/26/2021 18:20:04 -05:00] [Info] Chookagong said: is this the other server
+Chookagong: is this the other server
+Terracord: [06/26/2021 18:20:09 -05:00] [Info] Chookagong said: the one that crashed
+Chookagong: the one that crashed
+Terracord: [06/26/2021 18:20:17 -05:00] [Info] AlvarGD said: no
+AlvarGD: no
+Terracord: [06/26/2021 18:20:19 -05:00] [Info] Chookagong said: oh
+Chookagong: oh
+Terracord: [06/26/2021 18:20:22 -05:00] [Info] **:red_circle: Chookagong has left the server.**
+Chookagong has left.
+47.5.141.86:53346 is connecting...
+Terracord: [06/26/2021 18:20:34 -05:00] [Info] **:green_circle: Chookagong has joined the server.**
+Chookagong has joined.
+user del 643950324075462656
+Account removed successfully.
+Server successfully deleted account: 643950324075462656.
+: user add 643950324075462656 5dyg default
+Account 643950324075462656 has been added to group default!
+Server added Account 643950324075462656 to group default
+: Chookagong authenticated successfully as user: 643950324075462656.
+84.126.155.112:56139 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked AlvarGD for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/26/2021 18:22:25 -05:00] [Info] **:red_circle: AlvarGD has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/26/2021 18:22:27 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/26/2021 18:22:27 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+user del 692133379952607313
+Account removed successfully.
+Server successfully deleted account: 692133379952607313.
+: user add 692133379952607313 1bwh default
+Account 692133379952607313 has been added to group default!
+Server added Account 692133379952607313 to group default
+: Terracord: [06/26/2021 18:23:04 -05:00] [Info] **:red_circle: n has left the server.**
+n has left.
+Terracord: [06/26/2021 18:23:06 -05:00] [Info] Chookagong said: if anyone wants to team join yellow
+Chookagong: if anyone wants to team join yellow
+Terracord: [06/26/2021 18:23:11 -05:00] [Info] www said: grace over
+www: grace over
+Terracord: [06/26/2021 18:23:13 -05:00] [Info] Chookagong said: oh
+Chookagong: oh
+Terracord: [06/26/2021 18:23:14 -05:00] [Info] Chookagong said: ok
+Chookagong: ok
+75.158.83.254:50192 is connecting...
+Terracord: [06/26/2021 18:23:45 -05:00] [Info] **:green_circle: n has joined the server.**
+n has joined.
+Terracord: [06/26/2021 18:23:50 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+n authenticated successfully as user: 692133379952607313.
+Terracord: [06/26/2021 18:24:40 -05:00] [Info] www said: has the world been reset (like chest loot)?
+www: has the world been reset (like chest loot)?
+Terracord: [06/26/2021 18:25:21 -05:00] [Info] Chookagong said: can n be in my team or no
+Chookagong: can n be in my team or no
+47.5.141.86:53346 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Chookagong for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/26/2021 18:26:11 -05:00] [Info] **:red_circle: Chookagong has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/26/2021 18:26:21 -05:00] [Info] <Chookagong@Discord> bruhhh the cactus thing
+<Chookagong@Discord> bruhhh the cactus thing
+Terracord: [06/26/2021 18:26:40 -05:00] [Info] www said: how you alive?
+www: how you alive?
+Terracord: [06/26/2021 18:26:49 -05:00] [Info] www said: you were 0/100 for me lol
+www: you were 0/100 for me lol
+Terracord: [06/26/2021 18:27:24 -05:00] [Info] <raevyn@Discord> when the next
+<raevyn@Discord> when the next
+Terracord: [06/26/2021 18:27:31 -05:00] [Info] <raevyn@Discord> pthc happen
+<raevyn@Discord> pthc happen
+www executed: /who.
+Terracord: [06/26/2021 18:27:38 -05:00] [Info] www said: there are 4 people left
+www: there are 4 people left
+Terracord: [06/26/2021 18:27:39 -05:00] [Info] <Chookagong@Discord> when someone starts a new one
+<Chookagong@Discord> when someone starts a new one
+Terracord: [06/26/2021 18:27:47 -05:00] [Info] Server broadcast: Cat_dominator has teleported to n
+Terracord: [06/26/2021 18:28:01 -05:00] [Info] n said: kill me
+n: kill me
+75.158.83.254:50192 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Terracord: [06/26/2021 18:28:09 -05:00] [Info] **:red_circle: n has left the server.**
+Kicked n for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/26/2021 18:28:23 -05:00] [Info] Cat_dominator said: im sorry
+Cat_dominator: im sorry
+Terracord: [06/26/2021 18:28:27 -05:00] [Info] Command sent: playing
+TheCocoaGamer executed: /playing.
+Terracord: [06/26/2021 18:28:27 -05:00] [Info] <TheCocoaGamer@Discord> !playing
+<TheCocoaGamer@Discord> !playing
+Terracord: [06/26/2021 18:28:34 -05:00] [Info] <Ns06@Discord> No problem
+<Ns06@Discord> No problem
+Terracord: [06/26/2021 18:28:39 -05:00] [Info] <TheCocoaGamer@Discord> when theres one person left theyll be a new game
+<TheCocoaGamer@Discord> when theres one person left theyll be a new game
+Terracord: [06/26/2021 18:28:42 -05:00] [Info] <TheCocoaGamer@Discord> probably at least
+<TheCocoaGamer@Discord> probably at least
+Terracord: [06/26/2021 18:28:48 -05:00] [Info] <TheCocoaGamer@Discord> you can make one in #gamehosting-bot-commands
+<TheCocoaGamer@Discord> you can make one in #gamehosting-bot-commands
+Terracord: [06/26/2021 18:29:12 -05:00] [Info] <TheCocoaGamer@Discord> the game will end soonest 6:57
+<TheCocoaGamer@Discord> the game will end soonest 6:57
+Terracord: [06/26/2021 18:29:21 -05:00] [Info] <TheCocoaGamer@Discord> so in 27 or so minutes
+<TheCocoaGamer@Discord> so in 27 or so minutes
+Terracord: [06/26/2021 18:29:24 -05:00] [Info] <raevyn@Discord> k
+<raevyn@Discord> k
+Terracord: [06/26/2021 18:29:34 -05:00] [Info] <raevyn@Discord> will another one be able to be hosted sometime after that
+<raevyn@Discord> will another one be able to be hosted sometime after that
+Terracord: [06/26/2021 18:29:36 -05:00] [Info] <TheCocoaGamer@Discord> if everybody dies the last person will have to wait lol
+<TheCocoaGamer@Discord> if everybody dies the last person will have to wait lol
+Terracord: [06/26/2021 18:29:42 -05:00] [Info] <TheCocoaGamer@Discord> anyone can host here
+<TheCocoaGamer@Discord> anyone can host here
+Terracord: [06/26/2021 18:29:48 -05:00] [Info] <raevyn@Discord> aight
+<raevyn@Discord> aight
+Terracord: [06/26/2021 18:29:52 -05:00] [Info] <TheCocoaGamer@Discord> just gotta be the first one to type !new in #gamehosting-bot-commands
+<TheCocoaGamer@Discord> just gotta be the first one to type !new in #gamehosting-bot-commands
+Terracord: [06/26/2021 18:30:08 -05:00] [Info] Server broadcast: Screams echo around you...
+Terracord: [06/26/2021 18:30:35 -05:00] [Info] <raevyn@Discord> oo
+<raevyn@Discord> oo
+76.20.244.162:58252 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Cat_dominator for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/26/2021 18:30:39 -05:00] [Info] **:red_circle: Cat_dominator has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/26/2021 18:30:46 -05:00] [Info] <raevyn@Discord> i think itll be really fun to play this
+<raevyn@Discord> i think itll be really fun to play this
+Terracord: [06/26/2021 18:30:49 -05:00] [Info] <raevyn@Discord> haevnt done it yet
+<raevyn@Discord> haevnt done it yet
+Terracord: [06/26/2021 18:30:52 -05:00] [Info] Command sent: playing
+Terracord: [06/26/2021 18:30:52 -05:00] [Info] <raevyn@Discord> !playing
+<raevyn@Discord> !playing
+Terracord: [06/26/2021 18:31:00 -05:00] [Info] <raevyn@Discord> haven't
+<raevyn@Discord> haven't
+Terracord: [06/26/2021 18:31:50 -05:00] [Info] Server broadcast: Brain of Cthulhu has awoken!
+user del 561038695025868801
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '561038695025868801' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 561038695025868801 8ml7 default
+Account 561038695025868801 has been added to group default!
+Server added Account 561038695025868801 to group default
+: user del 561038695025868801
+Account removed successfully.
+Server successfully deleted account: 561038695025868801.
+: user add 561038695025868801 xodu default
+Account 561038695025868801 has been added to group default!
+Server added Account 561038695025868801 to group default
+: Terracord: [06/26/2021 18:32:25 -05:00] [Info] <raevyn@Discord> lol
+<raevyn@Discord> lol
+Terracord: [06/26/2021 18:32:28 -05:00] [Info] Command sent: playing
+TheCocoaGamer executed: /playing.
+Terracord: [06/26/2021 18:32:28 -05:00] [Info] <TheCocoaGamer@Discord> !playing
+<TheCocoaGamer@Discord> !playing
+Terracord: [06/26/2021 18:32:41 -05:00] [Info] <TheCocoaGamer@Discord> lol in someone dies theyll have to wait so long
+<TheCocoaGamer@Discord> lol in someone dies theyll have to wait so long
+Terracord: [06/26/2021 18:32:47 -05:00] [Info] <TheCocoaGamer@Discord> dont die guys
+<TheCocoaGamer@Discord> dont die guys
+Terracord: [06/26/2021 18:32:52 -05:00] [Info] <TheCocoaGamer@Discord> make it interesting for the eventual winner
+<TheCocoaGamer@Discord> make it interesting for the eventual winner
+Terracord: [06/26/2021 18:33:03 -05:00] [Info] Server broadcast: Brain of Cthulhu has been defeated!
+Terracord: [06/26/2021 18:33:04 -05:00] [Info] Server broadcast: A meteorite has landed!
+Terracord: [06/26/2021 18:34:11 -05:00] [Info] <Rod of discord (ded)@Discord> i needed to reset my pc cuz of the laag
+<Rod of discord (ded)@Discord> i needed to reset my pc cuz of the laag
+Terracord: [06/26/2021 18:34:30 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+Terracord: [06/26/2021 18:34:30 -05:00] [Info] Server broadcast: Screams echo around you...
+Terracord: [06/26/2021 18:34:46 -05:00] [Info] <Rod of discord (ded)@Discord> also give me a challeging thing to do
+<Rod of discord (ded)@Discord> also give me a challeging thing to do
+Terracord: [06/26/2021 18:34:50 -05:00] [Info] <Rod of discord (ded)@Discord> on terraria
+<Rod of discord (ded)@Discord> on terraria
+Terracord: [06/26/2021 18:34:58 -05:00] [Info] www said: skeletron expert 1st night
+www: skeletron expert 1st night
+Terracord: [06/26/2021 18:35:16 -05:00] [Info] <Rod of discord (ded)@Discord> get a boonstick
+<Rod of discord (ded)@Discord> get a boonstick
+Terracord: [06/26/2021 18:35:20 -05:00] [Info] <Rod of discord (ded)@Discord> simple
+<Rod of discord (ded)@Discord> simple
+Terracord: [06/26/2021 18:35:24 -05:00] [Info] <Rod of discord (ded)@Discord> or a minishak
+<Rod of discord (ded)@Discord> or a minishak
+Terracord: [06/26/2021 18:35:47 -05:00] [Info] <Rod of discord (ded)@Discord> a challenge with character diffuculty
+<Rod of discord (ded)@Discord> a challenge with character diffuculty
+Terracord: [06/26/2021 18:35:53 -05:00] [Info] <Rod of discord (ded)@Discord> and world difficulty
+<Rod of discord (ded)@Discord> and world difficulty
+Terracord: [06/26/2021 18:36:36 -05:00] [Info] www said: empress of light day expert with obsdidian armor and whips only
+www: empress of light day expert with obsdidian armor and whips only
+Terracord: [06/26/2021 18:37:15 -05:00] [Info] Server broadcast: Brain of Cthulhu has awoken!
+Terracord: [06/26/2021 18:37:15 -05:00] [Info] <Rod of discord (ded)@Discord> how im supposed to go hardmode on first day ?
+<Rod of discord (ded)@Discord> how im supposed to go hardmode on first day ?
+Terracord: [06/26/2021 18:37:21 -05:00] [Info] <Rod of discord (ded)@Discord> and kill plantera
+<Rod of discord (ded)@Discord> and kill plantera
+Terracord: [06/26/2021 18:38:16 -05:00] [Info] Server broadcast: Brain of Cthulhu has been defeated!
+Terracord: [06/26/2021 18:41:42 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+Terracord: [06/26/2021 18:42:19 -05:00] [Info] <Rod of discord (ded)@Discord> @me if the game ends
+<Rod of discord (ded)@Discord> @me if the game ends
+www executed: /who.
+Terracord: [06/26/2021 18:42:29 -05:00] [Info] www said: o
+www: o
+Terracord: [06/26/2021 18:42:32 -05:00] [Info] www said: its a 1v1
+www: its a 1v1
+Terracord: [06/26/2021 18:42:43 -05:00] [Info] www said: do you want to fight now?
+www: do you want to fight now?
+Terracord: [06/26/2021 18:42:47 -05:00] [Info] Wolywog said: uhh
+Wolywog: uhh
+Terracord: [06/26/2021 18:42:47 -05:00] [Info] www said: or later?
+www: or later?
+Terracord: [06/26/2021 18:42:51 -05:00] [Info] Wolywog said: yea later
+Wolywog: yea later
+Terracord: [06/26/2021 18:44:01 -05:00] [Info] <Rod of discord (ded)@Discord> do it now
+<Rod of discord (ded)@Discord> do it now
+162.157.69.233:49508 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Wolywog for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/26/2021 18:44:07 -05:00] [Info] **:red_circle: Wolywog has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/26/2021 18:44:15 -05:00] [Info] <Rod of discord (ded)@Discord> ??
+<Rod of discord (ded)@Discord> ??
+Terracord: [06/26/2021 18:44:19 -05:00] [Info] <raevyn@Discord> a
+<raevyn@Discord> a
+Terracord: [06/26/2021 18:44:21 -05:00] [Info] <Wolywog@Discord> That could happen too
+<Wolywog@Discord> That could happen too
+Terracord: [06/26/2021 18:44:24 -05:00] [Info] <Rod of discord (ded)@Discord> how did you die?
+<Rod of discord (ded)@Discord> how did you die?
+Terracord: [06/26/2021 18:44:31 -05:00] [Info] <Wolywog@Discord> Angry trapper
+<Wolywog@Discord> Angry trapper
+www executed: /who.
+Terracord: [06/26/2021 18:44:35 -05:00] [Info] www said: **[Meteorite (70)]**
+www: [Meteorite (70)]
+Terracord: [06/26/2021 18:44:39 -05:00] [Info] www said: **[Nasty Tendon Bow]** **[The Meatball]** **[Keen Deathbringer Pickaxe]** **[Crimson Rod]**
+www: [Nasty Tendon Bow][The Meatball][Keen Deathbringer Pickaxe][Crimson Rod]
+Terracord: [06/26/2021 18:44:41 -05:00] [Info] www said: **[The Undertaker]**
+www: [The Undertaker]
+Terracord: [06/26/2021 18:44:54 -05:00] [Info] <Wolywog@Discord> good to note I had no chance
+<Wolywog@Discord> good to note I had no chance
+Terracord: [06/26/2021 18:45:00 -05:00] [Info] <Rod of discord (ded)@Discord> wait hardmode started?
+<Rod of discord (ded)@Discord> wait hardmode started?
+Terracord: [06/26/2021 18:45:13 -05:00] [Info] <raevyn@Discord> what
+<raevyn@Discord> what
+Terracord: [06/26/2021 18:45:16 -05:00] [Info] <raevyn@Discord> no probs not
+<raevyn@Discord> no probs not
+Terracord: [06/26/2021 18:45:22 -05:00] [Info] <raevyn@Discord> those are all ph items
+<raevyn@Discord> those are all ph items
+Terracord: [06/26/2021 18:45:47 -05:00] [Info] <Rod of discord (ded)@Discord> gg
+<Rod of discord (ded)@Discord> gg
+Terracord: [06/26/2021 18:46:52 -05:00] [Info] <raevyn@Discord> can we host another one
+<raevyn@Discord> can we host another one
+Terracord: [06/26/2021 18:46:53 -05:00] [Info] <raevyn@Discord> soon
+<raevyn@Discord> soon
+Terracord: [06/26/2021 18:46:54 -05:00] [Info] www said: i want to try wof but I suppose i should leave
+www: i want to try wof but I suppose i should leave
+70.137.105.70:50840 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked www for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/26/2021 18:46:54 -05:00] [Info] **:red_circle: www has left the server.**
+Terracord: [06/26/2021 18:46:54 -05:00] [Info] Server broadcast: Saving world...
+Saving world...
+Terracord: [06/26/2021 18:46:54 -05:00] [Info] Server broadcast: www got impaled by Meteor Head.
+Saving world data: 15%
+Saving world data: 16%
+Saving world data: 17%
+Saving world data: 18%
+Saving world data: 21%
+Saving world data: 24%
+Saving world data: 26%
+Saving world data: 29%
+Saving world data: 34%
+Saving world data: 38%
+Saving world data: 43%
+Saving world data: 47%
+Saving world data: 50%
+Saving world data: 54%
+Saving world data: 57%
+Saving world data: 62%
+Saving world data: 67%
+Saving world data: 71%
+Saving world data: 76%
+Saving world data: 81%
+Saving world data: 86%
+Saving world data: 91%
+Saving world data: 96%
+Saving world data: 100%
+Validating world save: 7%
+Validating world save: 45%
+Validating world save: 87%
+Backing up world file
+Terracord: [06/26/2021 18:46:55 -05:00] [Info] Server broadcast: World saved.
+World saved.
+Terracord: [06/26/2021 18:47:44 -05:00] [Info] Command sent: playing
+TheCocoaGamer executed: /playing.
+Terracord: [06/26/2021 18:47:44 -05:00] [Info] <TheCocoaGamer@Discord> !playing
+<TheCocoaGamer@Discord> !playing
+Terracord: [06/26/2021 18:47:56 -05:00] [Info] <Rod of discord (ded)@Discord> www won
+<Rod of discord (ded)@Discord> www won
+Terracord: [06/26/2021 18:48:00 -05:00] [Info] <TheCocoaGamer@Discord> www get back on the server didnt end
+<TheCocoaGamer@Discord> www get back on the server didnt end
+Terracord: [06/26/2021 18:48:08 -05:00] [Info] <TheCocoaGamer@Discord> never leave the game, the bot should kick you out
+<TheCocoaGamer@Discord> never leave the game, the bot should kick you out
+Terracord: [06/26/2021 18:48:16 -05:00] [Info] <TheCocoaGamer@Discord> wait www died
+<TheCocoaGamer@Discord> wait www died
+Terracord: [06/26/2021 18:48:17 -05:00] [Info] <TheCocoaGamer@Discord> feck
+<TheCocoaGamer@Discord> feck
+70.137.105.70:50880 is connecting...
+Terracord: [06/26/2021 18:48:23 -05:00] [Info] **:green_circle: www has joined the server.**
+www has joined.
+www authenticated successfully as user: 262003003186216973.
+Terracord: [06/26/2021 18:48:27 -05:00] [Info] <TheCocoaGamer@Discord> ok
+<TheCocoaGamer@Discord> ok
+Terracord: [06/26/2021 18:48:32 -05:00] [Info] <TheCocoaGamer@Discord> make a box
+<TheCocoaGamer@Discord> make a box
+Terracord: [06/26/2021 18:48:35 -05:00] [Info] <TheCocoaGamer@Discord> and wait a few mins
+<TheCocoaGamer@Discord> and wait a few mins
+Terracord: [06/26/2021 18:48:43 -05:00] [Info] <TheCocoaGamer@Discord> till the bot thinks grace is over and kicks you
+<TheCocoaGamer@Discord> till the bot thinks grace is over and kicks you
+say whats your user btw?
+Server executed: /say whats your user btw?.
+Terracord: [06/26/2021 18:49:01 -05:00] [Info] Server broadcast: (Server Broadcast) whats your user btw?
+(Server Broadcast) whats your user btw?
+: Terracord: [06/26/2021 18:49:07 -05:00] [Info] www said: www
+www: www
+Terracord: [06/26/2021 18:49:23 -05:00] [Info] <Rod of discord (ded)@Discord> a challengeing thing that you can do master mode hardcore character
+<Rod of discord (ded)@Discord> a challengeing thing that you can do master mode hardcore character
+Terracord: [06/26/2021 18:49:29 -05:00] [Info] <TheCocoaGamer@Discord> @Zerprent hmmmm
+<TheCocoaGamer@Discord> @Zerprent hmmmm
+Terracord: [06/26/2021 18:49:43 -05:00] [Info] <Zerprent@Discord> wow looked at my ip smh
+<Zerprent@Discord> wow looked at my ip smh
+Terracord: [06/26/2021 18:49:55 -05:00] [Info] <TheCocoaGamer@Discord> i didnt look at that, you login with your discord id lol
+<TheCocoaGamer@Discord> i didnt look at that, you login with your discord id lol
+Terracord: [06/26/2021 18:50:05 -05:00] [Info] <TheCocoaGamer@Discord> so i just copied the id to find out
+<TheCocoaGamer@Discord> so i just copied the id to find out
+Terracord: [06/26/2021 18:50:28 -05:00] [Info] <Zerprent@Discord> so you looked at my "penis" and found out?
+<Zerprent@Discord> so you looked at my "penis" and found out?
+Terracord: [06/26/2021 18:50:36 -05:00] [Info] <Rod of discord (ded)@Discord> a
+<Rod of discord (ded)@Discord> a
+Terracord: [06/26/2021 18:50:57 -05:00] [Info] <TheCocoaGamer@Discord> yep
+<TheCocoaGamer@Discord> yep
+Terracord: [06/26/2021 18:51:10 -05:00] [Info] <Chookagong@Discord> is the server still up
+<Chookagong@Discord> is the server still up
+47.5.141.86:52618 is connecting...
+Terracord: [06/26/2021 18:51:22 -05:00] [Info] **:green_circle: amogus has joined the server.**
+amogus has joined.
+Terracord: [06/26/2021 18:51:28 -05:00] [Info] **:red_circle: amogus has left the server.**
+amogus has left.
+Terracord: [06/26/2021 18:51:35 -05:00] [Info] <Rod of discord (ded)@Discord> uhhh im really disturbed when zerprent said that
+<Rod of discord (ded)@Discord> uhhh im really disturbed when zerprent said that
+Terracord: [06/26/2021 18:53:47 -05:00] [Info] <raevyn@Discord> there will be a new one soon right
+<raevyn@Discord> there will be a new one soon right
+Terracord: [06/26/2021 18:53:49 -05:00] [Info] <raevyn@Discord> will there
+<raevyn@Discord> will there
+Terracord: [06/26/2021 18:54:48 -05:00] [Info] <Rod of discord (ded)@Discord> don't start the game im going to eat
+<Rod of discord (ded)@Discord> don't start the game im going to eat
+Terracord: [06/26/2021 18:55:02 -05:00] [Info] <Rod of discord (ded)@Discord> or get a 60 min grace
+<Rod of discord (ded)@Discord> or get a 60 min grace
+playing
+Server executed: /playing.
+Online Players (1/69)
+www
+:  

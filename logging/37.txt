@@ -1,0 +1,1185 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7777
+Type 'help' for a list of commands.
+
+Terracord: [06/24/2021 17:30:35 -05:00] [Info] Connecting to Discord...
+Terracord: [06/24/2021 17:30:35 -05:00] [Info] 17:30:35 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/24/2021 17:30:35 -05:00] [Info] 17:30:35 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 11m
+Server executed: /grace begin 11m.
+Terracord: [06/24/2021 17:30:35 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 602217909032321045
+Server started
+Account removed successfully.
+Server successfully deleted account: 602217909032321045.
+: user add 602217909032321045 fxsw default
+Account 602217909032321045 has been added to group default!
+Server added Account 602217909032321045 to group default
+: user del 244501248861011968
+Account removed successfully.
+Server successfully deleted account: 244501248861011968.
+: user add 244501248861011968 7mt9 default
+Account 244501248861011968 has been added to group default!
+Server added Account 244501248861011968 to group default
+: user del 262003003186216973
+Account removed successfully.
+Server successfully deleted account: 262003003186216973.
+: user add 262003003186216973 c30i default
+Account 262003003186216973 has been added to group default!
+Server added Account 262003003186216973 to group default
+: user del 754784095090770081
+Account removed successfully.
+Server successfully deleted account: 754784095090770081.
+: user add 754784095090770081 17nw default
+Account 754784095090770081 has been added to group default!
+Server added Account 754784095090770081 to group default
+: user del 602217909032321045
+Account removed successfully.
+Server successfully deleted account: 602217909032321045.
+: user add 602217909032321045 tv4e default
+Account 602217909032321045 has been added to group default!
+Server added Account 602217909032321045 to group default
+: user del 692133379952607313
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '692133379952607313' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 692133379952607313 6xud default
+Account 692133379952607313 has been added to group default!
+Server added Account 692133379952607313 to group default
+: user del 592763164505014434
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '592763164505014434' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 592763164505014434 q5bk default
+24.191.205.252:52325 is connecting...
+Account 592763164505014434 has been added to group default!
+Server added Account 592763164505014434 to group default
+: user del 632867608672075786
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '632867608672075786' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 632867608672075786 xwbq default
+Account 632867608672075786 has been added to group default!
+Server added Account 632867608672075786 to group default
+: Terracord: [06/24/2021 17:30:36 -05:00] [Info] 17:30:36 Gateway     Connected
+Terracord: [06/24/2021 17:30:36 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/24/2021 17:30:36 -05:00] [Info] 17:30:36 Gateway     Ready
+Terracord: [06/24/2021 17:30:37 -05:00] [Info] **:green_circle: animpolitesnaaal has joined the server.**
+animpolitesnaaal has joined.
+70.137.105.70:51548 is connecting...
+Terracord: [06/24/2021 17:30:42 -05:00] [Info] **:green_circle: dasd has joined the server.**
+dasd has joined.
+109.252.65.110:2397 is connecting...
+Terracord: [06/24/2021 17:30:44 -05:00] [Info] **:green_circle: heroy_105 has joined the server.**
+heroy_105 has joined.
+dasd authenticated successfully as user: 262003003186216973.
+animpolitesnaaal authenticated successfully as user: 602217909032321045.
+heroy_105 authenticated successfully as user: 244501248861011968.
+75.158.83.254:49780 is connecting...
+Terracord: [06/24/2021 17:31:58 -05:00] [Info] **:green_circle: Nick has joined the server.**
+Nick has joined.
+user del 632867608672075786
+Account removed successfully.
+Server successfully deleted account: 632867608672075786.
+: user add 632867608672075786 6qfl default
+Account 632867608672075786 has been added to group default!
+Server added Account 632867608672075786 to group default
+: Nick authenticated successfully as user: 692133379952607313.
+92.170.211.29:53423 is connecting...
+Terracord: [06/24/2021 17:33:03 -05:00] [Info] **:green_circle: yo momma has joined the server.**
+yo momma has joined.
+Terracord: [06/24/2021 17:34:05 -05:00] [Info] dasd said: wow
+dasd: wow
+Terracord: [06/24/2021 17:34:18 -05:00] [Info] Nick said: whoops
+Nick: whoops
+Terracord: [06/24/2021 17:34:18 -05:00] [Info] dasd said: scared?
+dasd: scared?
+75.158.83.254:49780 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Nick for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 17:34:43 -05:00] [Info] **:red_circle: Nick has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/24/2021 17:34:46 -05:00] [Info] dasd said: damn
+dasd: damn
+Terracord: [06/24/2021 17:34:53 -05:00] [Info] dasd said: nick
+dasd: nick
+Terracord: [06/24/2021 17:35:01 -05:00] [Info] dasd said: you can rejoin only once during grace period
+dasd: you can rejoin only once during grace period
+dasd executed: /who.
+Terracord: [06/24/2021 17:35:12 -05:00] [Info] dasd said: rejoin
+dasd: rejoin
+yo momma authenticated successfully as user: 632867608672075786.
+75.158.83.254:49787 is connecting...
+Terracord: [06/24/2021 17:35:41 -05:00] [Info] **:green_circle: Nick has joined the server.**
+Nick has joined.
+Terracord: [06/24/2021 17:35:47 -05:00] [Info] yo momma said: lets fuckin go
+yo momma: lets fuckin go
+Terracord: [06/24/2021 17:36:09 -05:00] [Info] yo momma said: hum
+yo momma: hum
+Terracord: [06/24/2021 17:36:11 -05:00] [Info] animpolitesnaaal said: no way i just got zenith from water chest
+animpolitesnaaal: no way i just got zenith from water chest
+Terracord: [06/24/2021 17:36:27 -05:00] [Info] yo momma said: is "temporary alliance" allowed
+yo momma: is "temporary alliance" allowed
+Terracord: [06/24/2021 17:36:43 -05:00] [Info] heroy_105 said: yes
+heroy_105: yes
+Terracord: [06/24/2021 17:36:48 -05:00] [Info] yo momma said: cool
+yo momma: cool
+Terracord: [06/24/2021 17:36:55 -05:00] [Info] yo momma said: its waddle btw
+yo momma: its waddle btw
+Terracord: [06/24/2021 17:36:59 -05:00] [Info] yo momma said: i know you :o
+yo momma: i know you :o
+Terracord: [06/24/2021 17:37:04 -05:00] [Info] dasd said: **[Ruthless Zenith]** NO WAY
+dasd: [Ruthless Zenith] NO WAY
+Terracord: [06/24/2021 17:37:20 -05:00] [Info] yo momma said: i have yo momma in ()
+yo momma: i have yo momma in ()
+Nick authenticated successfully as user: 692133379952607313.
+127.0.0.1:61192 is connecting...
+Terracord: [06/24/2021 17:37:44 -05:00] [Info] **:green_circle: Owner has joined the server.**
+Owner has SSC data in the database, but has the tshock.ignore.ssc permission. This means their SSC data is being ignored.
+You may wish to consider removing the tshock.ignore.ssc permission or negating it for this player.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Owner authenticated successfully as user Owner.
+Owner has joined.
+Owner executed: /ghost.
+Owner executed: /godmode.
+Owner executed: /ghost.
+Terracord: [06/24/2021 17:37:55 -05:00] [Info] Owner said: /
+(Super Admin) Owner: /
+Owner executed: /i invis.
+Owner executed: /buff.
+Owner executed: /buff invis -1.
+Owner executed: /playing.
+Owner executed: /tp heroy.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+dasd executed: /who.
+Owner executed: /i broom.
+Owner executed: /i broom.
+Owner executed: /i witch.
+Owner executed: /i 4444.
+Owner executed: /i truffle.
+Owner executed: /i shrimpy.
+Owner executed: /tp he.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+75.158.83.254:49787 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Nick for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 17:40:04 -05:00] [Info] **:red_circle: Nick has left the server.**
+Terracord: [06/24/2021 17:40:04 -05:00] [Info] Server broadcast: Nick's flailing about was finally stopped by Crimera.
+Terracord: [06/24/2021 17:40:06 -05:00] [Info] animpolitesnaaal said: F
+animpolitesnaaal: F
+Terracord: [06/24/2021 17:40:17 -05:00] [Info] yo momma said: F
+yo momma: F
+Terracord: [06/24/2021 17:40:19 -05:00] [Info] yo momma said: L
+yo momma: L
+Terracord: [06/24/2021 17:40:22 -05:00] [Info] yo momma said: also
+yo momma: also
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+playing
+Server executed: /playing.
+Online Players (5/69)
+animpolitesnaaal, dasd, heroy_105, yo momma, Owner
+: playing
+Server executed: /playing.
+Online Players (5/69)
+animpolitesnaaal, dasd, heroy_105, yo momma, Owner
+: playing
+Server executed: /playing.
+Online Players (5/69)
+animpolitesnaaal, dasd, heroy_105, yo momma, Owner
+: Owner executed: /buff calming -1.
+playing
+Server executed: /playing.
+Online Players (5/69)
+animpolitesnaaal, dasd, heroy_105, yo momma, Owner
+: playing
+Server executed: /playing.
+Online Players (5/69)
+animpolitesnaaal, dasd, heroy_105, yo momma, Owner
+: playing
+Server executed: /playing.
+Online Players (5/69)
+animpolitesnaaal, dasd, heroy_105, yo momma, Owner
+: playingOwner executed: /buff.
+
+Server executed: /playing.
+Online Players (5/69)
+animpolitesnaaal, dasd, heroy_105, yo momma, Owner
+: playingOwner executed: /buff calm.
+
+Server executed: /playing.
+Online Players (5/69)
+animpolitesnaaal, dasd, heroy_105, yo momma, Owner
+: playing
+Server executed: /playing.
+Online Players (5/69)
+animpolitesnaaal, dasd, heroy_105, yo momma, Owner
+: playing
+Server executed: /playing.
+Online Players (5/69)
+animpolitesnaaal, dasd, heroy_105, yo momma, Owner
+: playing
+Server executed: /playing.
+Online Players (5/69)
+animpolitesnaaal, dasd, heroy_105, yo momma, Owner
+: playing
+Server executed: /playing.
+Online Players (5/69)
+animpolitesnaaal, dasd, heroy_105, yo momma, Owner
+: playing
+Server executed: /playing.
+Online Players (5/69)
+animpolitesnaaal, dasd, heroy_105, yo momma, Owner
+: playing
+Server executed: /playing.
+Online Players (5/69)
+animpolitesnaaal, dasd, heroy_105, yo momma, Owner
+: playing
+Server executed: /playing.
+Online Players (5/69)
+animpolitesnaaal, dasd, heroy_105, yo momma, Owner
+: Owner executed: /buff calm 0.
+playing
+Server executed: /playing.
+Online Players (5/69)
+animpolitesnaaal, dasd, heroy_105, yo momma, Owner
+: playing
+Server executed: /playing.
+Online Players (5/69)
+animpolitesnaaal, dasd, heroy_105, yo momma, Owner
+: Terracord: [06/24/2021 17:41:35 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/24/2021 17:41:35 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+playing
+Server executed: /playing.
+Online Players (5/69)
+animpolitesnaaal, dasd, heroy_105, yo momma, Owner
+: playing
+Server executed: /playing.
+Online Players (5/69)
+animpolitesnaaal, dasd, heroy_105, yo momma, Owner
+: Owner executed: /buff calm -1.
+playi92.170.211.29:53423 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked yo momma for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 17:41:41 -05:00] [Info] **:red_circle: yo momma has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+ng
+Server executed: /playing.
+Online Players (4/69)
+animpolitesnaaal, dasd, heroy_105, Owner
+: Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Terracord: [06/24/2021 17:41:47 -05:00] [Info] dasd said: broke
+dasd: broke
+Owner executed: /i putrid.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Owner executed: /i arcane.
+Owner executed: /i 3991.
+Owner executed: /i recon.
+Owner executed: /i stalker.
+Owner executed: /i vortex helm.
+Owner executed: /i vortex brea.
+Terracord: [06/24/2021 17:43:39 -05:00] [Info] Server broadcast: Skeletron has awoken!
+Owner executed: /i vortex legg.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Owner executed: /i vortex pick.
+Owner executed: /i psycho.
+Owner executed: /i 3106.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Owner executed: /i rod.
+Owner executed: /i recall.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+109.252.65.110:2397 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked heroy_105 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 17:45:54 -05:00] [Info] **:red_circle: heroy_105 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Owner executed: /i spectre.
+Owner executed: /i 4409.
+Owner executed: /i encum.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Owner executed: /playing.
+Terracord: [06/24/2021 17:48:12 -05:00] [Info] **:red_circle: Owner has left the server.**
+Owner has left.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+dasd executed: /who.
+Terracord: [06/24/2021 17:48:18 -05:00] [Info] dasd said: o
+dasd: o
+Terracord: [06/24/2021 17:48:20 -05:00] [Info] dasd said: its a 1v
+dasd: its a 1v
+Terracord: [06/24/2021 17:49:52 -05:00] [Info] dasd said: pls dont open your map and zoom out :((((
+dasd: pls dont open your map and zoom out :((((
+Terracord: [06/24/2021 17:49:56 -05:00] [Info] dasd said: nothing good is there
+dasd: nothing good is there
+Terracord: [06/24/2021 17:50:18 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+Terracord: [06/24/2021 17:50:31 -05:00] [Info] Server broadcast: Screams echo around you...
+Terracord: [06/24/2021 17:50:32 -05:00] [Info] Command sent: playing
+TheCocoaGamer executed: /playing.
+Terracord: [06/24/2021 17:50:32 -05:00] [Info] <TheCocoaGamer@Discord> !playing
+<TheCocoaGamer@Discord> !playing
+89.248.165.6:60966 is connecting...
+Terracord: [06/24/2021 17:51:18 -05:00] [Info] animpolitesnaaal said: did i do something wrong
+animpolitesnaaal: did i do something wrong
+127.0.0.1:50011 is connecting...
+Terracord: [06/24/2021 17:52:37 -05:00] [Info] **:green_circle: Owner has joined the server.**
+Owner has SSC data in the database, but has the tshock.ignore.ssc permission. This means their SSC data is being ignored.
+You may wish to consider removing the tshock.ignore.ssc permission or negating it for this player.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Owner authenticated successfully as user Owner.
+Owner has joined.
+Owner executed: /godmode.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Owner executed: /buff invis.
+Owner executed: /i shrimpy.
+Owner executed: /i rod.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Terracord: [06/24/2021 17:54:37 -05:00] [Info] **:red_circle: Owner has left the server.**
+Owner has left.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: Terracord: [06/24/2021 17:55:21 -05:00] [Info] dasd said: hi
+dasd: hi
+Terracord: [06/24/2021 17:55:23 -05:00] [Info] animpolitesnaaal said: hi
+animpolitesnaaal: hi
+Terracord: [06/24/2021 17:55:40 -05:00] [Info] animpolitesnaaal said: are we the last 2?
+animpolitesnaaal: are we the last 2?
+Terracord: [06/24/2021 17:55:42 -05:00] [Info] dasd said: yes
+dasd: yes
+Terracord: [06/24/2021 17:55:44 -05:00] [Info] dasd said: do /who
+dasd: do /who
+dasd executed: /who.
+animpolitesnaaal executed: /who.
+Terracord: [06/24/2021 17:55:49 -05:00] [Info] animpolitesnaaal said: oh
+animpolitesnaaal: oh
+Terracord: [06/24/2021 17:55:58 -05:00] [Info] animpolitesnaaal said: well
+animpolitesnaaal: well
+dasd executed: /help.
+Terracord: [06/24/2021 17:56:01 -05:00] [Info] animpolitesnaaal said: how are you
+animpolitesnaaal: how are you
+Terracord: [06/24/2021 17:56:07 -05:00] [Info] dasd said: bad
+dasd: bad
+Terracord: [06/24/2021 17:56:10 -05:00] [Info] dasd said: terrible luck
+dasd: terrible luck
+Terracord: [06/24/2021 17:56:11 -05:00] [Info] animpolitesnaaal said: oh
+animpolitesnaaal: oh
+Terracord: [06/24/2021 17:56:14 -05:00] [Info] animpolitesnaaal said: me too
+animpolitesnaaal: me too
+Terracord: [06/24/2021 17:56:30 -05:00] [Info] animpolitesnaaal said: the only reason why im doing decent is because of crimson hearts
+animpolitesnaaal: the only reason why im doing decent is because of crimson hearts
+Terracord: [06/24/2021 17:57:22 -05:00] [Info] animpolitesnaaal said: i got broken on my rotten fork
+animpolitesnaaal: i got broken on my rotten fork
+Terracord: [06/24/2021 17:57:25 -05:00] [Info] animpolitesnaaal said: very annoying
+animpolitesnaaal: very annoying
+Terracord: [06/24/2021 18:00:51 -05:00] [Info] animpolitesnaaal said: i dont like hoplites
+animpolitesnaaal: i dont like hoplites
+Terracord: [06/24/2021 18:01:03 -05:00] [Info] dasd said: isnt that a hardmode enemy?
+dasd: isnt that a hardmode enemy?
+Terracord: [06/24/2021 18:01:20 -05:00] [Info] animpolitesnaaal said: wait who are the people who throw javelines at you
+animpolitesnaaal: wait who are the people who throw javelines at you
+Terracord: [06/24/2021 18:01:27 -05:00] [Info] dasd said: medusa
+dasd: medusa
+Terracord: [06/24/2021 18:01:41 -05:00] [Info] animpolitesnaaal said: i thought that was when you look at them you turn to stone
+animpolitesnaaal: i thought that was when you look at them you turn to stone
+Terracord: [06/24/2021 18:02:06 -05:00] [Info] animpolitesnaaal said: pog crazy good chest
+animpolitesnaaal: pog crazy good chest
+Terracord: [06/24/2021 18:02:06 -05:00] [Info] dasd said: re logic mixed the mythos and the name up so now the javelin throwing monsters are medusa
+dasd: re logic mixed the mythos and the name up so now the javelin throwing monsters are medusa
+Terracord: [06/24/2021 18:03:44 -05:00] [Info] animpolitesnaaal said: bad luck my ass
+animpolitesnaaal: bad luck my ass
+Terracord: [06/24/2021 18:03:52 -05:00] [Info] animpolitesnaaal said: you had an enchatned sword
+animpolitesnaaal: you had an enchatned sword
+Terracord: [06/24/2021 18:03:59 -05:00] [Info] dasd said: it doesnt have legendary reforge :(((
+dasd: it doesnt have legendary reforge :(((
+Terracord: [06/24/2021 18:04:02 -05:00] [Info] animpolitesnaaal said: damn
+animpolitesnaaal: damn
+Terracord: [06/24/2021 18:04:06 -05:00] [Info] animpolitesnaaal said: horrible luck
+animpolitesnaaal: horrible luck
+Terracord: [06/24/2021 18:04:59 -05:00] [Info] dasd said: are you heading to the dungeon now?
+dasd: are you heading to the dungeon now?
+Terracord: [06/24/2021 18:05:04 -05:00] [Info] animpolitesnaaal said: maybe
+animpolitesnaaal: maybe
+Terracord: [06/24/2021 18:05:50 -05:00] [Info] animpolitesnaaal said: harpeys are scary
+animpolitesnaaal: harpeys are scary
+Terracord: [06/24/2021 18:05:53 -05:00] [Info] animpolitesnaaal said: harpies
+animpolitesnaaal: harpies
+playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: Terracord: [06/24/2021 18:06:19 -05:00] [Info] <TheCocoaGamer@Discord> herpies is also scary
+<TheCocoaGamer@Discord> herpies is also scary
+Terracord: [06/24/2021 18:06:25 -05:00] [Info] animpolitesnaaal said: also true
+animpolitesnaaal: also true
+Terracord: [06/24/2021 18:06:40 -05:00] [Info] animpolitesnaaal said: i have a master plan
+animpolitesnaaal: i have a master plan
+Terracord: [06/24/2021 18:06:56 -05:00] [Info] dasd said: i have none
+dasd: i have none
+Terracord: [06/24/2021 18:07:42 -05:00] [Info] animpolitesnaaal said: hmmm
+animpolitesnaaal: hmmm
+Terracord: [06/24/2021 18:07:50 -05:00] [Info] animpolitesnaaal said: mobs are definetly annoying
+animpolitesnaaal: mobs are definetly annoying
+Terracord: [06/24/2021 18:08:02 -05:00] [Info] animpolitesnaaal said: i cant even spell because im being assaulted
+animpolitesnaaal: i cant even spell because im being assaulted
+Terracord: [06/24/2021 18:10:12 -05:00] [Info] animpolitesnaaal said: wow
+animpolitesnaaal: wow
+Terracord: [06/24/2021 18:10:16 -05:00] [Info] animpolitesnaaal said: shiny red balloon
+animpolitesnaaal: shiny red balloon
+Terracord: [06/24/2021 18:10:18 -05:00] [Info] animpolitesnaaal said: thanks terraria
+animpolitesnaaal: thanks terraria
+playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+:
+:
+: Terracord: [06/24/2021 18:13:01 -05:00] [Info] Command sent: playing
+Terracord: [06/24/2021 18:13:01 -05:00] [Info] <zoethecat@Discord> !playing
+<zoethecat@Discord> !playing
+Terracord: [06/24/2021 18:13:08 -05:00] [Info] <zoethecat@Discord> :ech:
+<zoethecat@Discord> :ech:
+Terracord: [06/24/2021 18:13:21 -05:00] [Info] animpolitesnaaal said: look
+animpolitesnaaal: look
+Terracord: [06/24/2021 18:13:25 -05:00] [Info] animpolitesnaaal said: im tryna win
+animpolitesnaaal: im tryna win
+Terracord: [06/24/2021 18:13:55 -05:00] [Info] <TheCocoaGamer@Discord> wha
+<TheCocoaGamer@Discord> wha
+Terracord: [06/24/2021 18:13:59 -05:00] [Info] <TheCocoaGamer@Discord> i made it so mods can do it wut
+<TheCocoaGamer@Discord> i made it so mods can do it wut
+Terracord: [06/24/2021 18:14:15 -05:00] [Info] dasd said: im getting banned? :flushed:
+dasd: im getting banned? :flushed:
+Terracord: [06/24/2021 18:14:19 -05:00] [Info] dasd said: does it show on discord?
+dasd: does it show on discord?
+Terracord: [06/24/2021 18:14:22 -05:00] [Info] animpolitesnaaal said: we had a good run
+animpolitesnaaal: we had a good run
+Terracord: [06/24/2021 18:14:31 -05:00] [Info] <TheCocoaGamer@Discord> ?
+<TheCocoaGamer@Discord> ?
+Terracord: [06/24/2021 18:15:11 -05:00] [Info] <TheCocoaGamer@Discord> Attachment: (File: unknown.png) (URL: https://cdn.discordapp.com/attachments/856021921757528134/857760799555977237/unknown.png) (Message: i added an s fml)
+<TheCocoaGamer@Discord> Attachment: (File: unknown.png) (URL: https://cdn.discordapp.com/attachments/856021921757528134/857760799555977237/unknown.png) (Message: i added an s fml)
+Terracord: [06/24/2021 18:15:47 -05:00] [Info] animpolitesnaaal said: stupid stylist taking up the room
+animpolitesnaaal: stupid stylist taking up the room
+Terracord: [06/24/2021 18:16:01 -05:00] [Info] dasd said: nice
+dasd: nice
+24.61.211.167:55649 is connecting...
+24.61.211.167:55649 was booted: Kicked: You need to join with a hardcore player.
+Kicked  for : 'You need to join with a hardcore player.'
+playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: 24.61.211.167:55651 is connecting...
+Terracord: [06/24/2021 18:18:04 -05:00] [Info] **:green_circle: Caxew has joined the server.**
+Caxew has joined.
+Terracord: [06/24/2021 18:18:14 -05:00] [Info] Caxew said: wat
+Caxew: wat
+Terracord: [06/24/2021 18:18:22 -05:00] [Info] animpolitesnaaal said: what
+animpolitesnaaal: what
+Caxew tried to execute /register.
+Caxew executed: /help.
+Caxew executed: /setup.
+Terracord: [06/24/2021 18:18:53 -05:00] [Info] Caxew said: what do i do?
+Caxew: what do i do?
+Terracord: [06/24/2021 18:19:00 -05:00] [Info] animpolitesnaaal said: its too late to join
+animpolitesnaaal: its too late to join
+Terracord: [06/24/2021 18:19:03 -05:00] [Info] Caxew said: ah
+Caxew: ah
+Terracord: [06/24/2021 18:19:07 -05:00] [Info] Caxew said: ok
+Caxew: ok
+Terracord: [06/24/2021 18:19:08 -05:00] [Info] <zoethecat@Discord> <@376522837693038593> someone joined somehow
+<zoethecat@Discord> <@376522837693038593> someone joined somehow
+Terracord: [06/24/2021 18:19:17 -05:00] [Info] Server broadcast: Gilbert the Merchant has arrived!
+99.108.224.54:55253 is connecting...
+Terracord: [06/24/2021 18:19:22 -05:00] [Info] **:green_circle: CrazedDog has joined the server.**
+Terracord: [06/24/2021 18:19:22 -05:00] [Info] animpolitesnaaal said: damnit
+animpolitesnaaal: damnit
+CrazedDog has joined.
+Terracord: [06/24/2021 18:19:24 -05:00] [Info] Caxew said: should i just leave?
+Caxew: should i just leave?
+Terracord: [06/24/2021 18:19:25 -05:00] [Info] dasd said: how
+dasd: how
+Terracord: [06/24/2021 18:19:27 -05:00] [Info] animpolitesnaaal said: yea
+animpolitesnaaal: yea
+Terracord: [06/24/2021 18:19:29 -05:00] [Info] **:red_circle: Caxew has left the server.**
+Caxew has left.
+Terracord: [06/24/2021 18:19:37 -05:00] [Info] animpolitesnaaal said: you should also leave
+animpolitesnaaal: you should also leave
+99.108.224.54:55253 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked CrazedDog for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 18:19:56 -05:00] [Info] Server broadcast: CrazedDog's skull was crushed by animpolitesnaaal's The Rotted Fork.
+Terracord: [06/24/2021 18:19:56 -05:00] [Info] **:red_circle: CrazedDog has left the server.**
+Terracord: [06/24/2021 18:20:05 -05:00] [Info] animpolitesnaaal said: well thats one way to get him outta here
+animpolitesnaaal: well thats one way to get him outta here
+Terracord: [06/24/2021 18:20:25 -05:00] [Info] <TheCocoaGamer@Discord> yea ppl can join after grace, i didnt try to stop that since if someone dced itll be impossible to add them back
+<TheCocoaGamer@Discord> yea ppl can join after grace, i didnt try to stop that since if someone dced itll be impossible to add them back
+Terracord: [06/24/2021 18:20:32 -05:00] [Info] <TheCocoaGamer@Discord> worse case scenario we can kick them from here
+<TheCocoaGamer@Discord> worse case scenario we can kick them from here
+Terracord: [06/24/2021 18:21:14 -05:00] [Info] dasd said: hey queen i just gotta say that i love the aesthetic of your necro armor
+dasd: hey queen i just gotta say that i love the aesthetic of your necro armor
+Terracord: [06/24/2021 18:21:32 -05:00] [Info] animpolitesnaaal said: em
+animpolitesnaaal: em
+Terracord: [06/24/2021 18:21:40 -05:00] [Info] animpolitesnaaal said: wut
+animpolitesnaaal: wut
+Terracord: [06/24/2021 18:21:53 -05:00] [Info] dasd said: youre wearing necro armor
+dasd: youre wearing necro armor
+Terracord: [06/24/2021 18:22:05 -05:00] [Info] animpolitesnaaal said: im wearing catcus armor
+animpolitesnaaal: im wearing catcus armor
+Terracord: [06/24/2021 18:22:09 -05:00] [Info] animpolitesnaaal said: cactus
+animpolitesnaaal: cactus
+Terracord: [06/24/2021 18:22:18 -05:00] [Info] dasd said: liar
+dasd: liar
+Terracord: [06/24/2021 18:22:57 -05:00] [Info] Server broadcast: Lisa the Nurse has arrived!
+Terracord: [06/24/2021 18:23:01 -05:00] [Info] animpolitesnaaal said: DAMNIT
+animpolitesnaaal: DAMNIT
+Terracord: [06/24/2021 18:23:06 -05:00] [Info] Command sent: playing
+TheCocoaGamer executed: /playing.
+Terracord: [06/24/2021 18:23:06 -05:00] [Info] <TheCocoaGamer@Discord> !playing
+<TheCocoaGamer@Discord> !playing
+Terracord: [06/24/2021 18:23:24 -05:00] [Info] <TheCocoaGamer@Discord> hey yall if you could not team up since ppl cant play rn
+<TheCocoaGamer@Discord> hey yall if you could not team up since ppl cant play rn
+dasd executed: /who.
+Terracord: [06/24/2021 18:23:35 -05:00] [Info] animpolitesnaaal said: we havent even seen each other
+animpolitesnaaal: we havent even seen each other
+Terracord: [06/24/2021 18:23:54 -05:00] [Info] <TheCocoaGamer@Discord> ok, wanted to make sure
+<TheCocoaGamer@Discord> ok, wanted to make sure
+Terracord: [06/24/2021 18:23:58 -05:00] [Info] dasd said: i would love to recall and go to spawn but I HAVE NONE
+dasd: i would love to recall and go to spawn but I HAVE NONE
+Terracord: [06/24/2021 18:24:07 -05:00] [Info] animpolitesnaaal said: im at spawn truna get some arms dealer action
+animpolitesnaaal: im at spawn truna get some arms dealer action
+Terracord: [06/24/2021 18:24:24 -05:00] [Info] <CalmMagma@Discord> [c/ff0000:skill issue]
+<CalmMagma@Discord> skill issue
+Terracord: [06/24/2021 18:24:32 -05:00] [Info] animpolitesnaaal said: yes
+animpolitesnaaal: yes
+172.222.71.241:53407 is connecting...
+Terracord: [06/24/2021 18:24:42 -05:00] [Info] **:green_circle: thelearningone has joined the server.**
+thelearningone has joined.
+Terracord: [06/24/2021 18:24:55 -05:00] [Info] Command sent: kick thelearningone grace has ended, wait till next game
+TheCocoaGamer executed: /kick thelearningone grace has ended, wait till next game.
+172.222.71.241:53407 was booted: Kicked: grace has ended, wait till next game
+Kicked thelearningone for : 'grace has ended, wait till next game'
+Terracord: [06/24/2021 18:24:55 -05:00] [Info] Server broadcast: TheCocoaGamer force kicked thelearningone for 'grace has ended, wait till next game'
+TheCocoaGamer force kicked thelearningone for 'grace has ended, wait till next game'
+Terracord: [06/24/2021 18:24:55 -05:00] [Info] <TheCocoaGamer@Discord> !kick thelearningone grace has ended, wait till next game
+<TheCocoaGamer@Discord> !kick thelearningone grace has ended, wait till next game
+Terracord: [06/24/2021 18:24:55 -05:00] [Info] **:red_circle: thelearningone has left the server.**
+thelearningone has left.
+Terracord: [06/24/2021 18:25:09 -05:00] [Info] animpolitesnaaal said: aw man i was gonna kill them
+animpolitesnaaal: aw man i was gonna kill them
+172.222.71.241:53422 is connecting...
+Terracord: [06/24/2021 18:25:13 -05:00] [Info] **:green_circle: thelearningone has joined the server.**
+thelearningone has joined.
+172.222.71.241:53422 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked thelearningone for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 18:25:25 -05:00] [Info] Server broadcast: thelearningone's skull was crushed by animpolitesnaaal's The Rotted Fork.
+Terracord: [06/24/2021 18:25:25 -05:00] [Info] **:red_circle: thelearningone has left the server.**
+Terracord: [06/24/2021 18:26:49 -05:00] [Info] Server broadcast: DeAndre the Arms Dealer has arrived!
+Terracord: [06/24/2021 18:26:52 -05:00] [Info] animpolitesnaaal said: YES
+animpolitesnaaal: YES
+Terracord: [06/24/2021 18:26:53 -05:00] [Info] dasd said: mno
+dasd: mno
+Terracord: [06/24/2021 18:26:55 -05:00] [Info] Server broadcast: Morthal the Demolitionist has arrived!
+Terracord: [06/24/2021 18:26:58 -05:00] [Info] dasd said: wtf
+dasd: wtf
+Terracord: [06/24/2021 18:26:59 -05:00] [Info] animpolitesnaaal said: oh yes
+animpolitesnaaal: oh yes
+maxspawns
+Server executed: /maxspawns.
+Current maximum spawns: 5
+: maxspawn 0
+Invalid command entered. Type /help for a list of valid commands.
+: maxTerracord: [06/24/2021 18:27:22 -05:00] [Info] dasd said: i have my recall
+dasd: i have my recall
+spawns 0
+Server executed: /maxspawns 0.
+Terracord: [06/24/2021 18:27:25 -05:00] [Info] Server broadcast: Server changed the maximum spawns to 0.
+: maxTerracord: [06/24/2021 18:27:27 -05:00] [Info] dasd said: im recalliing right now
+dasd: im recalliing right now
+spawns 5
+Server executed: /maxspawns 5.
+Terracord: [06/24/2021 18:27:31 -05:00] [Info] Server broadcast: Server changed the maximum spawns to 5.
+: Terracord: [06/24/2021 18:28:28 -05:00] [Info] animpolitesnaaal said: did u recall?
+animpolitesnaaal: did u recall?
+Terracord: [06/24/2021 18:28:34 -05:00] [Info] dasd said: yup
+dasd: yup
+Terracord: [06/24/2021 18:28:38 -05:00] [Info] dasd said: right behind you
+dasd: right behind you
+Terracord: [06/24/2021 18:28:39 -05:00] [Info] animpolitesnaaal said: really?
+animpolitesnaaal: really?
+Terracord: [06/24/2021 18:28:56 -05:00] [Info] animpolitesnaaal said: dont tell me you have an invis pot
+animpolitesnaaal: dont tell me you have an invis pot
+Terracord: [06/24/2021 18:29:00 -05:00] [Info] dasd said: :)
+dasd: :)
+playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: Terracord: [06/24/2021 18:29:51 -05:00] [Info] Server broadcast: You feel an evil presence watching you...
+127.0.0.1:50348 is connecting...
+Terracord: [06/24/2021 18:29:52 -05:00] [Info] **:green_circle: Owner has joined the server.**
+Owner has SSC data in the database, but has the tshock.ignore.ssc permission. This means their SSC data is being ignored.
+You may wish to consider removing the tshock.ignore.ssc permission or negating it for this player.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Owner authenticated successfully as user Owner.
+Owner has joined.
+Terracord: [06/24/2021 18:30:06 -05:00] [Info] Owner said: ello
+(Super Admin) Owner: ello
+Terracord: [06/24/2021 18:30:06 -05:00] [Info] animpolitesnaaal said: oh god oh god
+animpolitesnaaal: oh god oh god
+Terracord: [06/24/2021 18:30:12 -05:00] [Info] dasd said: kill the owner
+dasd: kill the owner
+Terracord: [06/24/2021 18:30:13 -05:00] [Info] animpolitesnaaal said: hi
+animpolitesnaaal: hi
+Terracord: [06/24/2021 18:30:14 -05:00] [Info] Owner said: just doing some testing
+(Super Admin) Owner: just doing some testing
+Terracord: [06/24/2021 18:30:16 -05:00] [Info] Owner said: dont mind me
+(Super Admin) Owner: dont mind me
+Owner executed: /godmode.
+Owner executed: /maxspawns.
+Owner executed: /help.
+Terracord: [06/24/2021 18:30:27 -05:00] [Info] animpolitesnaaal said: well eye of cufjvrbufbv is abouta spawn
+animpolitesnaaal: well eye of cufjvrbufbv is abouta spawn
+Terracord: [06/24/2021 18:30:41 -05:00] [Info] Owner said: region
+(Super Admin) Owner: region
+Owner executed: /region.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Owner executed: /help.
+Owner executed: /overridessc.
+24.61.211.167:55702 is connecting...
+Terracord: [06/24/2021 18:31:04 -05:00] [Info] **:green_circle: Caxew has joined the server.**
+Caxew has joined.
+Terracord: [06/24/2021 18:31:12 -05:00] [Info] Server broadcast: Eye of Cthulhu has awoken!
+Terracord: [06/24/2021 18:31:12 -05:00] [Info] **:red_circle: Caxew has left the server.**
+Caxew has left.
+Owner executed: /kick Caxew grace has ended!.
+Owner executed: /su.
+Owner executed: /sudo.
+Owner executed: /help.
+Owner executed: /annoy .
+151.42.141.161:62068 is connecting...
+Terracord: [06/24/2021 18:31:29 -05:00] [Info] **:green_circle: Pidgeon pid has joined the server.**
+Pidgeon pid has joined.
+Owner executed: /annoy owner 1.
+Owner executed: /annoy owner 10.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Pidgeon pid tried to execute /register.
+Owner executed: /rocket owner.
+Pidgeon pid tried to execute /register.
+Owner executed: /rocket owner.
+Owner executed: /firework.
+Owner executed: /rocket.
+Pidgeon pid executed: /help.
+Owner executed: /firework owner red.
+Owner executed: /firework blue.
+Pidgeon pid executed: /setup.
+Owner executed: /firework de blue.
+Owner executed: /playing.
+Owner executed: /firework pidgeon.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+24.61.211.167:55709 is connecting...
+Terracord: [06/24/2021 18:33:05 -05:00] [Info] **:green_circle: Caxew has joined the server.**
+Caxew has joined.
+Terracord: [06/24/2021 18:33:08 -05:00] [Info] **:red_circle: Caxew has left the server.**
+Caxew has left.
+Terracord: [06/24/2021 18:33:12 -05:00] [Info] Server broadcast: Eye of Cthulhu has been defeated!
+Terracord: [06/24/2021 18:33:22 -05:00] [Info] Pidgeon pid said: it does not let be register
+Pidgeon pid: it does not let be register
+Terracord: [06/24/2021 18:33:31 -05:00] [Info] animpolitesnaaal said: its too late to join
+animpolitesnaaal: its too late to join
+24.61.211.167:55712 is connecting...
+Terracord: [06/24/2021 18:33:35 -05:00] [Info] **:green_circle: Caxew has joined the server.**
+Caxew has joined.
+Terracord: [06/24/2021 18:33:38 -05:00] [Info] animpolitesnaaal said: you should just leave
+animpolitesnaaal: you should just leave
+Terracord: [06/24/2021 18:33:41 -05:00] [Info] **:red_circle: Pidgeon pid has left the server.**
+Pidgeon pid has left.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Terracord: [06/24/2021 18:33:51 -05:00] [Info] dasd said: wtf
+dasd: wtf
+Terracord: [06/24/2021 18:33:56 -05:00] [Info] Caxew said: me
+Caxew: me
+Terracord: [06/24/2021 18:34:12 -05:00] [Info] animpolitesnaaal said: yea probably
+animpolitesnaaal: yea probably
+Terracord: [06/24/2021 18:34:17 -05:00] [Info] animpolitesnaaal said: because you cant do anything
+animpolitesnaaal: because you cant do anything
+24.61.211.167:55712 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Caxew for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 18:34:22 -05:00] [Info] Server broadcast: Caxew's face was torn off by animpolitesnaaal's Blood Butcherer.
+Terracord: [06/24/2021 18:34:22 -05:00] [Info] **:red_circle: Caxew has left the server.**
+Terracord: [06/24/2021 18:34:26 -05:00] [Info] animpolitesnaaal said: there we go
+animpolitesnaaal: there we go
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Terracord: [06/24/2021 18:34:44 -05:00] [Info] animpolitesnaaal said: bro where are you
+animpolitesnaaal: bro where are you
+Terracord: [06/24/2021 18:34:53 -05:00] [Info] dasd said: underground jungle
+dasd: underground jungle
+Terracord: [06/24/2021 18:35:02 -05:00] [Info] animpolitesnaaal said: you prob have so much life
+animpolitesnaaal: you prob have so much life
+Terracord: [06/24/2021 18:35:13 -05:00] [Info] dasd said: yeah lol
+dasd: yeah lol
+Terracord: [06/24/2021 18:35:17 -05:00] [Info] dasd said: and im about to get more
+dasd: and im about to get more
+Terracord: [06/24/2021 18:35:18 -05:00] [Info] animpolitesnaaal said: how much
+animpolitesnaaal: how much
+Terracord: [06/24/2021 18:35:22 -05:00] [Info] <zoethecat@Discord> Please do not join games that are in progress
+<zoethecat@Discord> Please do not join games that are in progress
+Terracord: [06/24/2021 18:35:26 -05:00] [Info] animpolitesnaaal said: imma be honest im at 140
+animpolitesnaaal: imma be honest im at 140
+Terracord: [06/24/2021 18:35:30 -05:00] [Info] dasd said: wont be coming back to spawn soon ;)
+dasd: wont be coming back to spawn soon ;)
+Terracord: [06/24/2021 18:35:34 -05:00] [Info] dasd said: bouta get 400
+dasd: bouta get 400
+Terracord: [06/24/2021 18:35:38 -05:00] [Info] animpolitesnaaal said: im damned
+animpolitesnaaal: im damned
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Terracord: [06/24/2021 18:37:05 -05:00] [Info] animpolitesnaaal said: well ill also go get life
+animpolitesnaaal: well ill also go get life
+Terracord: [06/24/2021 18:37:09 -05:00] [Info] dasd said: ok
+dasd: ok
+Terracord: [06/24/2021 18:37:23 -05:00] [Info] animpolitesnaaal said: and to spice it up ill go underground jungle
+animpolitesnaaal: and to spice it up ill go underground jungle
+Terracord: [06/24/2021 18:37:29 -05:00] [Info] dasd said: EEEEEEEE
+dasd: EEEEEEEE
+Terracord: [06/24/2021 18:37:38 -05:00] [Info] animpolitesnaaal said: you btter be scared of my 140 life
+animpolitesnaaal: you btter be scared of my 140 life
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Terracord: [06/24/2021 18:40:06 -05:00] [Info] **:red_circle: Owner has left the server.**
+Owner has left.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Terracord: [06/24/2021 18:40:12 -05:00] [Info] dasd said: am i allowed to bomb the spawn point?
+dasd: am i allowed to bomb the spawn point?
+Terracord: [06/24/2021 18:40:18 -05:00] [Info] animpolitesnaaal said: idk
+animpolitesnaaal: idk
+Terracord: [06/24/2021 18:41:23 -05:00] [Info] <Medo@Discord> no
+<Medo@Discord> no
+Terracord: [06/24/2021 18:41:29 -05:00] [Info] dasd said: alright
+dasd: alright
+Terracord: [06/24/2021 18:42:13 -05:00] [Info] animpolitesnaaal said: almost died right there
+animpolitesnaaal: almost died right there
+Terracord: [06/24/2021 18:42:19 -05:00] [Info] animpolitesnaaal said: dropped to 13 hp
+animpolitesnaaal: dropped to 13 hp
+Terracord: [06/24/2021 18:43:01 -05:00] [Info] animpolitesnaaal said: omg
+animpolitesnaaal: omg
+Terracord: [06/24/2021 18:43:03 -05:00] [Info] animpolitesnaaal said: big find
+animpolitesnaaal: big find
+Terracord: [06/24/2021 18:44:12 -05:00] [Info] <TheCocoaGamer@Discord> hey yall ima force you guys to pvp in a min
+<TheCocoaGamer@Discord> hey yall ima force you guys to pvp in a min
+Terracord: [06/24/2021 18:44:19 -05:00] [Info] <TheCocoaGamer@Discord> and you guys cant tp out of it
+<TheCocoaGamer@Discord> and you guys cant tp out of it
+Terracord: [06/24/2021 18:44:20 -05:00] [Info] dasd said: alrigh
+dasd: alrigh
+Terracord: [06/24/2021 18:44:21 -05:00] [Info] animpolitesnaaal said: please do
+animpolitesnaaal: please do
+Terracord: [06/24/2021 18:44:30 -05:00] [Info] animpolitesnaaal said: because im hungry and i have pizza
+animpolitesnaaal: because im hungry and i have pizza
+Terracord: [06/24/2021 18:44:33 -05:00] [Info] animpolitesnaaal said: but i cant eat it
+animpolitesnaaal: but i cant eat it
+Terracord: [06/24/2021 18:44:56 -05:00] [Info] dasd said: actually now that you say that, can we not force pvp? let them starve
+dasd: actually now that you say that, can we not force pvp? let them starve
+Terracord: [06/24/2021 18:45:01 -05:00] [Info] animpolitesnaaal said: NO
+animpolitesnaaal: NO
+Terracord: [06/24/2021 18:45:04 -05:00] [Info] dasd said: i need my opponent to be weakened
+dasd: i need my opponent to be weakened
+Terracord: [06/24/2021 18:45:18 -05:00] [Info] animpolitesnaaal said: you dont wanna face me hangry
+animpolitesnaaal: you dont wanna face me hangry
+
+: Terracord: [06/24/2021 18:45:25 -05:00] [Info] animpolitesnaaal said: ill destroy you
+animpolitesnaaal: ill destroy you
+127.0.0.1:53295 is connecting...
+Terracord: [06/24/2021 18:45:34 -05:00] [Info] **:green_circle: Owner has joined the server.**
+Owner has SSC data in the database, but has the tshock.ignore.ssc permission. This means their SSC data is being ignored.
+You may wish to consider removing the tshock.ignore.ssc permission or negating it for this player.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Owner authenticated successfully as user Owner.
+Owner has joined.
+Terracord: [06/24/2021 18:45:35 -05:00] [Info] dasd said: who you gonna eat huh, me?
+dasd: who you gonna eat huh, me?
+Terracord: [06/24/2021 18:45:38 -05:00] [Info] dasd said: m-me?
+dasd: m-me?
+Terracord: [06/24/2021 18:45:41 -05:00] [Info] animpolitesnaaal said: yup
+animpolitesnaaal: yup
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Terracord: [06/24/2021 18:45:45 -05:00] [Info] dasd said: youre so daring
+dasd: youre so daring
+Owner executed: /tp anim.
+127.0.0.1:53295 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Owner for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/24/2021 18:45:48 -05:00] [Info] **:red_circle: Owner has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/24/2021 18:45:48 -05:00] [Info] dasd said: im gonna blush
+dasd: im gonna blush
+Terracord: [06/24/2021 18:45:50 -05:00] [Info] animpolitesnaaal said: OH
+animpolitesnaaal: OH
+Terracord: [06/24/2021 18:45:53 -05:00] [Info] <TheCocoaGamer@Discord> feck
+<TheCocoaGamer@Discord> feck
+Terracord: [06/24/2021 18:45:53 -05:00] [Info] animpolitesnaaal said: IM SO SORRY
+animpolitesnaaal: IM SO SORRY
+Terracord: [06/24/2021 18:45:55 -05:00] [Info] <TheCocoaGamer@Discord> dont um
+<TheCocoaGamer@Discord> dont um
+Terracord: [06/24/2021 18:45:57 -05:00] [Info] <TheCocoaGamer@Discord> feck
+<TheCocoaGamer@Discord> feck
+127.0.0.1:53299 is connecting...
+Terracord: [06/24/2021 18:46:06 -05:00] [Info] **:green_circle: Owner has joined the server.**
+Owner has SSC data in the database, but has the tshock.ignore.ssc permission. This means their SSC data is being ignored.
+You may wish to consider removing the tshock.ignore.ssc permission or negating it for this player.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Owner authenticated successfully as user Owner.
+Terracord: [06/24/2021 18:46:06 -05:00] [Info] animpolitesnaaal said: this is awkward
+animpolitesnaaal: this is awkward
+Owner has joined.
+Owner executed: /godmode.
+Owner executed: /tp anim.
+Terracord: [06/24/2021 18:46:16 -05:00] [Info] Owner said: forget this
+(Super Admin) Owner: forget this
+Owner executed: /spawn.
+Owner executed: /tp dasd owner.
+Owner executed: /tp anim owner.
+Terracord: [06/24/2021 18:46:33 -05:00] [Info] Owner said: there
+(Super Admin) Owner: there
+Terracord: [06/24/2021 18:46:35 -05:00] [Info] Owner said: fight
+(Super Admin) Owner: fight
+Owner executed: /godmode.
+Owner executed: /godmode.
+Owner executed: /buff invis.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Terracord: [06/24/2021 18:46:51 -05:00] [Info] **:red_circle: Owner has left the server.**
+Owner has left.
+Skipping SSC save (due to tshock.ignore.ssc) for Owner
+Terracord: [06/24/2021 18:47:12 -05:00] [Info] animpolitesnaaal said: oh
+animpolitesnaaal: oh
+24.61.211.167:55763 is connecting...
+Terracord: [06/24/2021 18:47:47 -05:00] [Info] **:green_circle: Caxew has joined the server.**
+Caxew has joined.
+Terracord: [06/24/2021 18:47:51 -05:00] [Info] Caxew said: fight
+Caxew: fight
+Terracord: [06/24/2021 18:47:53 -05:00] [Info] **:red_circle: Caxew has left the server.**
+Caxew has left.
+playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: Terracord: [06/24/2021 18:49:08 -05:00] [Info] animpolitesnaaal said: i magic mirroed
+animpolitesnaaal: i magic mirroed
+playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: playing
+Server executed: /playing.
+Online Players (2/69)
+animpolitesnaaal, dasd
+: play70.137.105.70:51548 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked dasd for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+iTerracord: [06/24/2021 18:50:26 -05:00] [Info] **:red_circle: dasd has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+ng
+Server executed: /playing.
+Online Players (1/69)
+animpolitesnaaal
+:

@@ -1,0 +1,5741 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7777
+Type 'help' for a list of commands.
+
+Terracord: [06/25/2021 09:00:16 -05:00] [Info] Connecting to Discord...
+Terracord: [06/25/2021 09:00:16 -05:00] [Info] 09:00:16 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/25/2021 09:00:16 -05:00] [Info] 09:00:16 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 10m
+Server executed: /grace begin 10m.
+Terracord: [06/25/2021 09:00:16 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 602549842367217665
+Server started
+Account removed successfully.
+Server successfully deleted account: 602549842367217665.
+: user add 602549842367217665 wr4c default
+Account 602549842367217665 has been added to group default!
+Server added Account 602549842367217665 to group default
+: user del 833450171190476800
+Account removed successfully.
+Server successfully deleted account: 833450171190476800.
+: user add 833450171190476800 wf7s default
+Account 833450171190476800 has been added to group default!
+Server added Account 833450171190476800 to group default
+: user del 539083328091848704
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '539083328091848704' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 539083328091848704 ha80 default
+Account 539083328091848704 has been added to group default!
+Server added Account 539083328091848704 to group default
+: user del 628134932455227403
+Account removed successfully.
+Server successfully deleted account: 628134932455227403.
+: user add 628134932455227403 8vjm default
+Account 628134932455227403 has been added to group default!
+Server added Account 628134932455227403 to group default
+: Terracord: [06/25/2021 09:00:16 -05:00] [Info] 09:00:16 Gateway     Connected
+Terracord: [06/25/2021 09:00:17 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/25/2021 09:00:17 -05:00] [Info] 09:00:17 Gateway     Ready
+94.0.143.92:54453 is connecting...
+94.0.143.92:54453 was booted: Kicked: You need to join with a hardcore player.
+Kicked  for : 'You need to join with a hardcore player.'
+5.29.9.179:1050 is connecting...
+Terracord: [06/25/2021 09:00:24 -05:00] [Info] **:green_circle: im  blue has joined the server.**
+im  blue has joined.
+94.0.143.92:54459 is connecting...
+94.0.143.92:54459 was booted: Kicked: You need to join with a hardcore player.
+Kicked  for : 'You need to join with a hardcore player.'
+Terracord: [06/25/2021 09:00:28 -05:00] [Info] Server broadcast: Saving world...
+Saving world...
+Saving world data: 5%
+Saving world data: 15%
+Saving world data: 20%
+Saving world data: 25%
+Saving world data: 30%
+Saving world data: 36%
+Saving world data: 41%
+Saving world data: 46%
+Saving world data: 51%
+Saving world data: 56%
+Saving world data: 61%
+Saving world data: 65%
+Saving world data: 70%
+Saving world data: 75%
+Saving world data: 80%
+Saving world data: 85%
+Saving world data: 90%
+Saving world data: 96%
+Saving world data: 100%
+Validating world save: 89%
+Terracord: [06/25/2021 09:00:29 -05:00] [Info] Server broadcast: World saved.
+World saved.
+Backing up world file
+im  blue authenticated successfully as user: 628134932455227403.
+174.20.66.197:53232 is connecting...
+Terracord: [06/25/2021 09:00:33 -05:00] [Info] **:green_circle: yea its me has joined the server.**
+yea its me has joined.
+94.0.143.92:54460 is connecting...
+Terracord: [06/25/2021 09:00:35 -05:00] [Info] **:green_circle: Baguette has joined the server.**
+Baguette has joined.
+77.22.251.111:1783 is connecting...
+Baguette authenticated successfully as user: 602549842367217665.
+191.189.24.102:7324 is connecting...
+Terracord: [06/25/2021 09:00:38 -05:00] [Info] **:green_circle: Yoshi45555 has joined the server.**
+Yoshi45555 has joined.
+Terracord: [06/25/2021 09:00:39 -05:00] [Info] **:green_circle: Rod of discord has joined the server.**
+Rod of discord has joined.
+Terracord: [06/25/2021 09:00:43 -05:00] [Info] im  blue said: hello
+im  blue: hello
+Yoshi45555 executed: /help.
+Rod of discord authenticated successfully as user: 833450171190476800.
+Yoshi45555 executed: /setup.
+yea its me executed: /help.
+user del 287712402336907265
+Account removed successfully.
+Server successfully deleted account: 287712402336907265.
+: user add 28775.29.9.179:1050 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked im  blue for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:02:37 -05:00] [Info] **:red_circle: im  blue has left the server.**
+Error on message Terraria.MessageBuffer
+1System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+2402336907265 zd2m default
+Yoshi45555 executed: /sync.
+Account 287712402336907265 has been added to group default!
+Server added Account 287712402336907265 to group default
+: 5.29.9.179:1571 is connecting...
+Terracord: [06/25/2021 09:02:53 -05:00] [Info] **:green_circle: im blue has joined the server.**
+im blue has joined.
+im blue authenticated successfully as user: 628134932455227403.
+84.3.60.130:52041 is connecting...
+Terracord: [06/25/2021 09:03:05 -05:00] [Info] **:green_circle: Dzseta has joined the server.**
+Dzseta has joined.
+Dzseta tried to execute /register.
+Dzseta executed: /help.
+user del 419317290119462917
+Account removed successfully.
+Server successfully deleted account: 419317290119462917.
+: user add 419317290119462917 wdur default
+Account 419317290119462917 has been added to group default!
+Server added Account 419317290119462917 to group default
+: Dzseta tried to execute /register.
+Dzseta executed: /playing.
+Terracord: [06/25/2021 09:05:07 -05:00] [Info] yea its me said: how do you login im slightly confused, you do /login and copy and paste the numbers of the dm that the bot sent you right?
+yea its me: how do you login im slightly confused, you do /login and copy and paste the numbers of the dm that the bot sent you right?
+Terracord: [06/25/2021 09:05:17 -05:00] [Info] im blue said: yeah
+im blue: yeah
+Terracord: [06/25/2021 09:05:22 -05:00] [Info] Yoshi45555 said: first your dc name i thinlk
+Yoshi45555: first your dc name i thinlk
+Terracord: [06/25/2021 09:05:29 -05:00] [Info] Yoshi45555 said: didnt even get a dm lol
+Yoshi45555: didnt even get a dm lol
+user del 377920991881592833
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '377920991881592833' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 377920991881592833 kcj5 default
+Account 377920991881592833 has been added to group default!
+Server added Account 377920991881592833 to group default
+: Dzseta authenticated successfully as user: 377920991881592833.
+Terracord: [06/25/2021 09:05:45 -05:00] [Info] Rod of discord said: react with a green square
+Rod of discord: react with a green square
+109.51.128.27:55475 is connecting...
+Terracord: [06/25/2021 09:05:56 -05:00] [Info] **:green_circle: BANANAMOR has joined the server.**
+BANANAMOR has joined.
+Terracord: [06/25/2021 09:05:59 -05:00] [Info] yea its me said: i did react with a green square
+yea its me: i did react with a green square
+BANANAMOR authenticated successfully as user: 287712402336907265.
+user del 470519450630619146
+RemoveUser SQL returned an error
+TShockAPI.DB.UserAccountManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserAccountNotExistException: User account '470519450630619146' does not exist
+   at TShockAPI.DB.UserAccountManager.GetUserAccount(UserAccount account)
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   --- End of inner exception stack trace ---
+   at TShockAPI.DB.UserAccountManager.RemoveUserAccount(UserAccount account)
+   at TShockAPI.Commands.ManageUsers(CommandArgs args)
+: user add 470519450630619146 y2mi default
+Account 470519450630619146 has been added to group default!
+Server added Account 470519450630619146 to group default
+: yea its me authenticated successfully as user: 539083328091848704.
+Yoshi45555 authenticated successfully as user: 470519450630619146.
+24.61.211.167:59142 is connecting...
+Terracord: [06/25/2021 09:06:18 -05:00] [Info] Yoshi45555 said: ohhh
+Yoshi45555: ohhh
+Terracord: [06/25/2021 09:06:18 -05:00] [Info] im blue said: come with me rod of discord
+im blue: come with me rod of discord
+Terracord: [06/25/2021 09:06:18 -05:00] [Info] **:green_circle: eg has joined the server.**
+eg has joined.
+eg authenticated successfully as user: 419317290119462917.
+Terracord: [06/25/2021 09:06:23 -05:00] [Info] yea its me said: nvm i got it thank you!
+yea its me: nvm i got it thank you!
+Terracord: [06/25/2021 09:06:28 -05:00] [Info] Yoshi45555 said: thanks too
+Yoshi45555: thanks too
+user del 711702800954032159
+Account removed successfully.
+Server successfully deleted account: 711702800954032159.
+: user add 711702800954032159 mga9 default
+Account 711702800954032159 has been added to group default!
+Server added Account 711702800954032159 to group default
+: Terracord: [06/25/2021 09:07:04 -05:00] [Info] Rod of discord said: im going to kill you
+Rod of discord: im going to kill you
+174.20.66.197:53232 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked yea its me for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:07:29 -05:00] [Info] **:red_circle: yea its me has left the server.**
+Terracord: [06/25/2021 09:07:29 -05:00] [Info] Server broadcast: yea its me likes to play in magma.
+Terracord: [06/25/2021 09:07:33 -05:00] [Info] eg said: f
+eg: f
+47.45.116.158:49789 is connecting...
+Terracord: [06/25/2021 09:07:33 -05:00] [Info] **:green_circle: samster0 has joined the server.**
+samster0 has joined.
+samster0 authenticated successfully as user: 711702800954032159.
+Terracord: [06/25/2021 09:08:57 -05:00] [Info] Rod of discord said: bye crimson
+Rod of discord: bye crimson
+Terracord: [06/25/2021 09:09:10 -05:00] [Info] im blue said: normal mode is so easy
+im blue: normal mode is so easy
+77.22.251.111:1783 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Yoshi45555 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:09:35 -05:00] [Info] **:red_circle: Yoshi45555 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 09:09:38 -05:00] [Info] Rod of discord said: boss scaling makes the game be normal
+Rod of discord: boss scaling makes the game be normal
+playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, Rod of discord, Dzseta, BANANAMOR, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, Rod of discord, Dzseta, BANANAMOR, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, Rod of discord, Dzseta, BANANAMOR, eg
+: pla109.51.128.27:55475 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked BANANAMOR for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:09:49 -05:00] [Info] **:red_circle: BANANAMOR has left the server.**
+yError on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+ing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, Rod of discord, Dzseta, eg
+: Terracord: [06/25/2021 09:09:55 -05:00] [Info] im blue said: to be fair
+im blue: to be fair
+playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, Rod of discord, Dzseta, eg
+: playingTerracord: [06/25/2021 09:10:16 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/25/2021 09:10:16 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, Rod of discord, Dzseta, eg
+: play109.51.128.27:55604 is connecting...
+ingTerracord: [06/25/2021 09:10:25 -05:00] [Info] **:green_circle: BANANAMOR has joined the server.**
+
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, Rod of discord, Dzseta, eg
+: BANANAMOR has joined.
+playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playTerracord: [06/25/2021 09:10:29 -05:00] [Info] im blue said: :chuckles" im in danger
+im blue: :chuckles" im in danger
+ing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: Terracord: [06/25/2021 09:10:36 -05:00] [Info] Rod of discord said: finally a chest
+Rod of discord: finally a chest
+playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playinBANANAMOR authenticated successfully as user: 287712402336907265.
+g
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: Terracord: [06/25/2021 09:10:54 -05:00] [Info] im blue said: nights edge
+im blue: nights edge
+playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: Terracord: [06/25/2021 09:10:57 -05:00] [Info] eg said: bruh
+eg: bruh
+playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: Terracord: [06/25/2021 09:11:05 -05:00] [Info] eg said: im dead
+eg: im dead
+playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playingTerracord: [06/25/2021 09:11:11 -05:00] [Info] im blue said: gg
+im blue: gg
+
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: eg executed: /help.
+playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: eg executed: /playing.
+playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing
+Server executed: /playing.
+Online Players (7/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta, eg
+: playing24.61.211.167:59142 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked eg for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:12:54 -05:00] [Info] **:red_circle: eg has left the server.**
+Terracord: [06/25/2021 09:12:54 -05:00] [Info] Server broadcast: eg was destroyed by Boulder.
+
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:12:58 -05:00] [Info] Rod of discord said: f
+Rod of discord: f
+playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:13:03 -05:00] [Info] im blue said: the ultimate enemy
+im blue: the ultimate enemy
+playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:13:14 -05:00] [Info] im blue said: how much pepoles are in this server?
+im blue: how much pepoles are in this server?
+Terracord: [06/25/2021 09:13:15 -05:00] [Info] Rod of discord said: im just on the edge of the world
+Rod of discord: im just on the edge of the world
+playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playingTerracord: [06/25/2021 09:13:20 -05:00] [Info] im blue said: fish
+
+Server executed: /playing.
+im blue: fish
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (6/69)
+im blue, samster0, Baguette, BANANAMOR, Rod of discord, Dzseta
+: 94.0.143.92:54460 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Baguette for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:15:22 -05:00] [Info] **:red_circle: Baguette has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:17:45 -05:00] [Info] im blue said: almost got killed by a boulder
+im blue: almost got killed by a boulder
+playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: 5.29.9.179:1571 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked im blue for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+pTerracord: [06/25/2021 09:18:17 -05:00] [Info] **:red_circle: im blue has left the server.**
+Terracord: [06/25/2021 09:18:17 -05:00] [Info] Server broadcast: im blue watched their innards become outards by Ice Spike.
+laying
+Server executed: /playing.
+Online Players (4/69)
+samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, BANANAMOR, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:18:21 -05:00] [Info] Rod of discord said: f
+Rod of discord: f
+playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, BANANAMOR, Rod of discord, Dzseta
+: 5.29.9.179:1025 is connecting...
+Terracord: [06/25/2021 09:19:00 -05:00] [Info] **:green_circle: im blue has joined the server.**
+playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, BANANAMOR, Rod of discord, Dzseta
+: im blue has joined.
+playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:19:11 -05:00] [Info] Rod of discord said: f for im blue
+Rod of discord: f for im blue
+playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:19:15 -05:00] [Info] im blue said: im here
+im blue: im here
+playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:19:22 -05:00] [Info] im blue said: i was near a chest
+im blue: i was near a chest
+Terracord: [06/25/2021 09:19:22 -05:00] [Info] Rod of discord said: still
+Rod of discord: still
+playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:19:29 -05:00] [Info] Rod of discord said: and hi dead man's chest
+Rod of discord: and hi dead man's chest
+playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: im blue authenticated successfully as user: 628134932455227403.
+playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, BANANAMOR, Rod of discord, Dzseta
+: 109.51.128.27:55604 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked BANANAMOR for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:20:34 -05:00] [Info] **:red_circle: BANANAMOR has left the server.**
+Terracord: [06/25/2021 09:20:34 -05:00] [Info] Server broadcast: BANANAMOR didn't bounce.
+playing
+Server executed: /playing.
+Online Players (4/69)
+im blue, samster0, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:20:37 -05:00] [Info] Rod of discord said: f
+Rod of discord: f
+playing
+Server executed: /playing.
+Online Players (4/69)
+im blue, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+im blue, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+im blue, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+im blue, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+im blue, samster0, Rod of discord, Dzseta
+: playing24.61.211.167:59224 is connecting...
+
+Server executed: /playing.
+Online Players (4/69)
+im blue, samster0, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:20:49 -05:00] [Info] **:green_circle: egeg has joined the server.**
+egeg has joined.
+playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: egeg authenticated successfully as user: 419317290119462917.
+playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playin5.29.9.179:1025 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked im blue for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:21:11 -05:00] [Info] **:red_circle: im blue has left the server.**
+Terracord: [06/25/2021 09:21:11 -05:00] [Info] Server broadcast: im blue didn't bounce.
+g
+Server executed: /playing.
+Online Players (4/69)
+samster0, egeg, Rod of discord, Dzseta
+: playinTerracord: [06/25/2021 09:21:13 -05:00] [Info] egeg said: f
+egeg: f
+g
+Server executed: /playing.
+Online Players (4/69)
+samster0, egeg, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:21:14 -05:00] [Info] Rod of discord said: f
+Rod of discord: f
+playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, egeg, Rod of discord, Dzseta
+: egeg executed: /playing.
+playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, egeg, Rod of discord, Dzseta
+: 5.29.9.179:1053 is connecting...
+plTerracord: [06/25/2021 09:21:30 -05:00] [Info] **:green_circle: im blue has joined the server.**
+ayinDzseta executed: /playing.
+g
+Server executed: /playing.
+Online Players (4/69)
+samster0, egeg, Rod of discord, Dzseta
+: im blue has joined.
+playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: im blue authenticated successfully as user: 628134932455227403.
+playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:21:39 -05:00] [Info] Rod of discord said: f
+Rod of discord: f
+playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playinTerracord: [06/25/2021 09:21:42 -05:00] [Info] im blue said: thx
+im blue: thx
+g
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playingTerracord: [06/25/2021 09:21:53 -05:00] [Info] Rod of discord said: im on the edge of the world
+Rod of discord: im on the edge of the world
+
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:22:01 -05:00] [Info] Rod of discord said: doing nothing
+Rod of discord: doing nothing
+Terracord: [06/25/2021 09:22:01 -05:00] [Info] im blue said: cool
+im blue: cool
+playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:22:17 -05:00] [Info] Rod of discord said: atleast i got a hook
+Rod of discord: atleast i got a hook
+playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+im blue, samster0, egeg, Rod of discord, Dzseta
+: pl5.29.9.179:1053 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked im blue for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:22:41 -05:00] [Info] **:red_circle: im blue has left the server.**
+aError on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+ying24.61.211.167:59224 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked egeg for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:22:41 -05:00] [Info] **:red_circle: egeg has left the server.**
+
+Server executed: /playing.
+Online Players (3/69)
+samster0, Rod of discord, Dzseta
+: Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (3/69)
+samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (3/69)
+samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (3/69)
+samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (3/69)
+samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (3/69)
+samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (3/69)
+samster0, Rod of discord, Dzseta
+: 24.61.211.167:59234 is connecting...
+Terracord: [06/25/2021 09:22:55 -05:00] [Info] **:green_circle: ae has joined the server.**
+playiae has joined.
+ng
+Server executed: /playing.
+Online Players (4/69)
+ae, samster0, Rod of discord, Dzseta
+: ae authenticated successfully as user: 419317290119462917.
+5.29.9.179:1539 is connecting...
+plTerracord: [06/25/2021 09:22:58 -05:00] [Info] **:green_circle: im blue has joined the server.**
+aying
+Server executed: /playing.
+Online Players (4/69)
+ae, samster0, Rod of discord, Dzseta
+: im blue has joined.
+playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: im blue authenticated successfully as user: 628134932455227403.
+playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+ae, samster0, im blue, Rod of discord, Dzseta
+: 24.61.211.167:59234 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked ae for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:24:17 -05:00] [Info] **:red_circle: ae has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+samster0, im blue, Rod of discord, Dzseta
+: 24.61.211.167:59244 is connecting...
+Terracord: [06/25/2021 09:24:32 -05:00] [Info] **:green_circle: es has joined the server.**
+es has joined.
+playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: es authenticated successfully as user: 419317290119462917.
+playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: 5.29.9.179:1539 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked im blue for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:25:31 -05:00] [Info] **:red_circle: im blue has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (4/69)
+es, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+es, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+es, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+es, samster0, Rod of discord, Dzseta
+: playing5.29.9.179:1550 is connecting...
+
+Server executed: /playing.
+Online Players (4/69)
+es, samster0, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:25:42 -05:00] [Info] **:green_circle: im blue has joined the server.**
+playing
+Server executed: /playing.
+Online Players (4/69)
+es, samster0, Rod of discord, Dzseta
+: im blue has joined.
+playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: im blue authenticated successfully as user: 628134932455227403.
+playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:25:57 -05:00] [Info] Rod of discord said: i will fish because yes
+Rod of discord: i will fish because yes
+playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:26:05 -05:00] [Info] im blue said: wanna team up?
+im blue: wanna team up?
+playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:26:30 -05:00] [Info] Rod of discord said: maybe
+Rod of discord: maybe
+playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+es, samster0, im blue, Rod of discord, Dzseta
+: 24.61.211.167:59244 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Terracord: [06/25/2021 09:27:01 -05:00] [Info] **:red_circle: es has left the server.**
+Kicked es for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playin5.29.9.179:1550 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked im blue for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+gTerracord: [06/25/2021 09:27:03 -05:00] [Info] **:red_circle: im blue has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+
+Server executed: /playing.
+Online Players (3/69)
+samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (3/69)
+samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (3/69)
+samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (3/69)
+samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (3/69)
+samster0, Rod of discord, Dzseta
+: 24.61.211.167:59258 is connecting...
+plTerracord: [06/25/2021 09:27:13 -05:00] [Info] **:green_circle: a has joined the server.**
+aying
+Server executed: /playing.
+Online Players (3/69)
+samster0, Rod of discord, Dzseta
+: a has joined.
+5.29.9.179:1540 is connecting...
+5.29.9.179:1540 was booted: Kicked: You need to join with a hardcore player.
+Kicked  for : 'You need to join with a hardcore player.'
+a authenticated successfully as user: 419317290119462917.
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:29:16 -05:00] [Info] Rod of discord said: ice bat is a copy of fire bat
+Rod of discord: ice bat is a copy of fire bat
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: 5.29.9.179:1586 is connecting...
+Terracord: [06/25/2021 09:29:27 -05:00] [Info] **:green_circle: im blue has joined the server.**
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: im blue has joined.
+playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: plaim blue authenticated successfully as user: 628134932455227403.
+ying
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:29:46 -05:00] [Info] Rod of discord said: we can say ice  bat is a copy of fire bat
+Rod of discord: we can say ice  bat is a copy of fire bat
+playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:29:53 -05:00] [Info] im blue said: both are annoying
+im blue: both are annoying
+playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:30:01 -05:00] [Info] **:red_circle: im blue has left the server.**
+im blue has left.
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: 5.29.9.179:1055 is connecting...
+playinTerracord: [06/25/2021 09:30:07 -05:00] [Info] **:green_circle: im blue has joined the server.**
+g
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: im blue has joined.
+playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: pTerracord: [06/25/2021 09:30:18 -05:00] [Info] **:red_circle: im blue has left the server.**
+im blue has left.
+laying
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:30:19 -05:00] [Info] Rod of discord said: can you stop lefting the server?
+Rod of discord: can you stop lefting the server?
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: pl5.29.9.179:1543 is connecting...
+aying
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:30:35 -05:00] [Info] **:green_circle: im blue has joined the server.**
+playingim blue has joined.
+
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: plaim blue authenticated successfully as user: 628134932455227403.
+ying
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:30:46 -05:00] [Info] a said: i found his loot btw
+a: i found his loot btw
+playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playingTerracord: [06/25/2021 09:30:49 -05:00] [Info] a said: at least i think i did
+a: at least i think i did
+
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:30:51 -05:00] [Info] im blue said: give me my loot
+im blue: give me my loot
+playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: pTerracord: [06/25/2021 09:30:53 -05:00] [Info] a said: y
+a: y
+laying
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:31:18 -05:00] [Info] Rod of discord said: im doing pickaxes don't ask me why
+Rod of discord: im doing pickaxes don't ask me why
+playinTerracord: [06/25/2021 09:31:20 -05:00] [Info] im blue said: wait you found icy sword?
+im blue: wait you found icy sword?
+g
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:31:23 -05:00] [Info] a said: yes
+a: yes
+playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:31:31 -05:00] [Info] im blue said: can you give me my loot?
+im blue: can you give me my loot?
+playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:31:33 -05:00] [Info] a said: no
+a: no
+Terracord: [06/25/2021 09:31:34 -05:00] [Info] Rod of discord said: haha die bat from bolder
+Rod of discord: haha die bat from bolder
+playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:31:37 -05:00] [Info] im blue said: k
+im blue: k
+playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:31:38 -05:00] [Info] a said: lol
+a: lol
+playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playiTerracord: [06/25/2021 09:31:42 -05:00] [Info] a said: bat bolder
+a: bat bolder
+ng
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: 5.29.9.179:1543 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked im blue for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:32:20 -05:00] [Info] **:red_circle: im blue has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: 5.29.9.179:1537 is connecting...
+playingTerracord: [06/25/2021 09:32:35 -05:00] [Info] **:green_circle: im blue has joined the server.**
+
+Server executed: /playing.
+Online Players (4/69)
+a, samster0, Rod of discord, Dzseta
+: playim blue has joined.
+ing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: im blue authenticated successfully as user: 628134932455227403.
+playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playingTerracord: [06/25/2021 09:32:52 -05:00] [Info] im blue said: fuck it im going to fish
+
+im blue: fuck it im going to fish
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: pTerracord: [06/25/2021 09:32:56 -05:00] [Info] a said: lol fish
+la: lol fish
+aying
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: Dzseta executed: /playing.
+playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, samster0, im blue, Rod of discord, Dzseta
+: 47.45.116.158:49789 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked samster0 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:33:19 -05:00] [Info] **:red_circle: samster0 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:33:26 -05:00] [Info] im blue said: getting bait is annoying
+im blue: getting bait is annoying
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playinTerracord: [06/25/2021 09:33:47 -05:00] [Info] Rod of discord said: thx for the living tree i got 10 baits
+gRod of discord: thx for the living tree i got 10 baits
+
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:33:53 -05:00] [Info] im blue said: wow
+im blue: wow
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: 108.236.41.87:55377 is connecting...
+Terracord: [06/25/2021 09:34:15 -05:00] [Info] **:green_circle: Senor Steam has joined the server.**
+playingSenor Steam has joined.
+
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:34:46 -05:00] [Info] Rod of discord said: i got bombs so that means
+Rod of discord: i got bombs so that means
+playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: plaTerracord: [06/25/2021 09:34:53 -05:00] [Info] im blue said: hellavator
+yim blue: hellavator
+ing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:35:06 -05:00] [Info] Rod of discord said: crimson hearts=broken
+Rod of discord: crimson hearts=broken
+playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, Senor Steam, im blue, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:35:16 -05:00] [Info] **:red_circle: Senor Steam has left the server.**
+Senor Steam has left.
+playTerracord: [06/25/2021 09:35:17 -05:00] [Info] im blue said: oh right
+im blue: oh right
+ing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:35:52 -05:00] [Info] Rod of discord said: nah im goingto jungle
+Rod of discord: nah im goingto jungle
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: 5.29.9.179:1537 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked im blue for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:36:02 -05:00] [Info] **:red_circle: im blue has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (3/69)
+a, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, Rod of discord, Dzseta
+: 5.29.9.179:1066 is connecting...
+playing
+Server executed: /playing.
+Online Players (3/69)
+a, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:36:13 -05:00] [Info] **:green_circle: im blue has joined the server.**
+playingim blue has joined.
+
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: plaim blue authenticated successfully as user: 628134932455227403.
+ying
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: 5.29.9.179:1066 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked im blue for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:37:12 -05:00] [Info] **:red_circle: im blue has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (3/69)
+a, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, Rod of discord, Dzseta
+: 5.29.9.179:1025 is connecting...
+playiTerracord: [06/25/2021 09:37:32 -05:00] [Info] **:green_circle: im blue has joined the server.**
+ng
+Server executed: /playing.
+Online Players (3/69)
+a, Rod of discord, Dzseta
+: im blue has joined.
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playingim blue authenticated successfully as user: 628134932455227403.
+
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: im blue executed: /help.
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: im blue executed: /warp.
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: im blue executed: /warp list.
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:38:17 -05:00] [Info] Rod of discord said: featfall potion
+Rod of discord: featfall potion
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:38:49 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playingTerracord: [06/25/2021 09:38:53 -05:00] [Info] im blue said: oh no
+
+Server executed: /playing.
+im blue: oh no
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: 5.29.9.179:1025 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked im blue for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:38:53 -05:00] [Info] **:red_circle: im blue has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (3/69)
+a, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:39:01 -05:00] [Info] Server broadcast: Screams echo around you...
+playing
+Server executed: /playing.
+Online Players (3/69)
+a, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, Rod of discord, Dzseta
+: playing5.29.9.179:1041 is connecting...
+
+Server executed: /playing.
+Online Players (3/69)
+a, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:39:07 -05:00] [Info] **:green_circle: im blue has joined the server.**
+playiim blue has joined.
+ng
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, Rod of discord, Dzseta
+: 73.253.213.97:50245 is connecting...
+Terracord: [06/25/2021 09:39:13 -05:00] [Info] **:green_circle: M  a  x  e  d has joined the server.**
+M  a  x  e  d has joined.
+playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playim blue authenticated successfully as user: 628134932455227403.
+ing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:39:25 -05:00] [Info] M  a  x  e  d said: oh darkness
+M  a  x  e  d: oh darkness
+playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:39:31 -05:00] [Info] im blue said: yay
+im blue: yay
+playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:39:56 -05:00] [Info] Rod of discord said: i will do boc if im about to die i will use my magic mirror
+Rod of discord: i will do boc if im about to die i will use my magic mirror
+playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: playing
+Server executed: /playing.
+Online Players (5/69)
+a, im blue, M  a  x  e  d, Rod of discord, Dzseta
+: Terracord: [06/25/2021 09:40:25 -05:00] [Info] Rod of discord said: recall better
+Rod of discord: recall better
+playiTerracord: [06/25/2021 09:40:25 -05:00] [Info] M  a  x  e  d said: why cant i move out of spawn
+M  a  x  e  d: why cant i move out of spawn
+84.3.60.130:52041 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Dzseta for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+nTerracord: [06/25/2021 09:40:25 -05:00] [Info] **:red_circle: Dzseta has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+g
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: plTerracord: [06/25/2021 09:40:29 -05:00] [Info] Rod of discord said: login
+aRod of discord: login
+ying
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: Terracord: [06/25/2021 09:40:34 -05:00] [Info] M  a  x  e  d said: oh right
+M  a  x  e  d: oh right
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: a executed: /playing.
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: 5.29.9.179:1041 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked im blue for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:40:40 -05:00] [Info] **:red_circle: im blue has left the server.**
+Terracord: [06/25/2021 09:40:40 -05:00] [Info] Server broadcast: im blue was eviscerated by Frozen Zombie.
+playing
+Server executed: /playing.
+Online Players (3/69)
+a, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, M  a  x  e  d, Rod of discord
+: playingTerracord: [06/25/2021 09:40:45 -05:00] [Info] Rod of discord said: f
+Rod of discord: f
+
+Server executed: /playing.
+Online Players (3/69)
+a, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, M  a  x  e  d, Rod of discord
+: 5.29.9.179:1028 is connecting...
+playingTerracord: [06/25/2021 09:40:52 -05:00] [Info] **:green_circle: im blue has joined the server.**
+
+Server executed: /playing.
+Online Players (3/69)
+a, M  a  x  e  d, Rod of discord
+: im blue has joined.
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: im blue authenticated successfully as user: 628134932455227403.
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: Terracord: [06/25/2021 09:41:22 -05:00] [Info] M  a  x  e  d said: its not working
+M  a  x  e  d: its not working
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: Terracord: [06/25/2021 09:41:43 -05:00] [Info] a said: next night ima spawn eoc prob
+a: next night ima spawn eoc prob
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: Terracord: [06/25/2021 09:41:48 -05:00] [Info] im blue said: cool
+im blue: cool
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playingTerracord: [06/25/2021 09:41:55 -05:00] [Info] im blue said: just dont kill me
+im blue: just dont kill me
+
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playinTerracord: [06/25/2021 09:42:00 -05:00] [Info] Rod of discord said: cool i will spawn boc
+Rod of discord: cool i will spawn boc
+g
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: Terracord: [06/25/2021 09:42:44 -05:00] [Info] **:red_circle: im blue has left the server.**
+im blue has left.
+playing
+Server executed: /playing.
+Online Players (3/69)
+a, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, M  a  x  e  d, Rod of discord
+: 5.29.9.179:1038 is connecting...
+Terracord: [06/25/2021 09:42:49 -05:00] [Info] **:green_circle: im blue has joined the server.**
+playing
+Server executed: /playing.
+Online Players (3/69)
+a, M  a  x  e  d, Rod of discord
+: im blue has joined.
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: im blue authenticated successfully as user: 628134932455227403.
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: 5.29.9.179:1038 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked im blue for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:43:03 -05:00] [Info] **:red_circle: im blue has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (3/69)
+a, M  a  x  e  d, Rod of discord
+: Terracord: [06/25/2021 09:43:04 -05:00] [Info] Rod of discord said: burgor
+Rod of discord: burgor
+playing
+Server executed: /playing.
+Online Players (3/69)
+a, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, M  a  x  e  d, Rod of discord
+: Terracord: [06/25/2021 09:43:08 -05:00] [Info] Rod of discord said: **[Burger]**
+Rod of discord: [Burger]
+playing
+Server executed: /playing.
+Online Players (3/69)
+a, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, M  a  x  e  d, Rod of discord
+: pl5.29.9.179:1539 is connecting...
+aying
+Server executed: /playing.
+Online Players (3/69)
+a, M  a  x  e  d, Rod of discord
+: Terracord: [06/25/2021 09:43:15 -05:00] [Info] **:green_circle: im blue has joined the server.**
+playingim blue has joined.
+
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: Terracord: [06/25/2021 09:43:22 -05:00] [Info] im blue said: im about to rage quit
+im blue: im about to rage quit
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: im blue authenticated successfully as user: 628134932455227403.
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: Terracord: [06/25/2021 09:43:31 -05:00] [Info] Rod of discord said: why?
+Rod of discord: why?
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: Terracord: [06/25/2021 09:43:44 -05:00] [Info] im blue said: mf took my loot and this is night time
+im blue: mf took my loot and this is night time
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: Terracord: [06/25/2021 09:43:58 -05:00] [Info] Rod of discord said: wish me luck
+Rod of discord: wish me luck
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: Terracord: [06/25/2021 09:44:01 -05:00] [Info] a said: gl
+a: gl
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: Terracord: [06/25/2021 09:44:03 -05:00] [Info] Server broadcast: Brain of Cthulhu has awoken!
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: Terracord: [06/25/2021 09:44:06 -05:00] [Info] im blue said: oof
+im blue: oof
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: Terracord: [06/25/2021 09:45:10 -05:00] [Info] M  a  x  e  d said: ok ill brb
+M  a  x  e  d: ok ill brb
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, M  a  x  e  d, Rod of discord
+: Terracord: [06/25/2021 09:45:14 -05:00] [Info] **:red_circle: M  a  x  e  d has left the server.**
+M  a  x  e  d has left.
+playing
+Server executed: /playing.
+Online Players (3/69)
+a, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, im blue, Rod of discord
+: Terracord: [06/25/2021 09:45:20 -05:00] [Info] Rod of discord said: bye
+Rod of discord: bye
+Terracord: [06/25/2021 09:45:21 -05:00] [Info] im blue said: this is like a smp
+im blue: this is like a smp
+playing
+Server executed: /playing.
+Online Players (3/69)
+a, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+a, im blue, Rod of discord
+: Terracord: [06/25/2021 09:45:33 -05:00] [Info] Rod of discord said: take your boc
+Rod of discord: take your boc
+playing
+Server executed: /playing.
+Online Players (3/69)
+a, im blue, Rod of discord
+: pla73.253.213.97:50299 is connecting...
+ying
+Server executed: /playing.
+Online Players (3/69)
+a, im blue, Rod of discord
+: Terracord: [06/25/2021 09:45:38 -05:00] [Info] **:green_circle: MaxedOut has joined the server.**
+MaxedOut has joined.
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, MaxedOut, Rod of discord
+: Terracord: [06/25/2021 09:45:43 -05:00] [Info] MaxedOut said: there we go
+MaxedOut: there we go
+playing
+Server executed: /playing.
+Online Players (4/69)
+a, im blue, MaxedOut, Rod of discord
+: 24.61.211.167:59258 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked a for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:45:44 -05:00] [Info] **:red_circle: a has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (3/69)
+im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+im blue, MaxedOut, Rod of discord
+: 24.61.211.167:59347 is connecting...
+playiTerracord: [06/25/2021 09:45:59 -05:00] [Info] **:green_circle: eg has joined the server.**
+ng
+Server executed: /playing.
+Online Players (3/69)
+im blue, MaxedOut, Rod of discord
+: eg has joined.
+playing
+Server executed: /playing.
+Online Players (4/69)
+eg, im blue, MaxedOut, Rod of discord
+: eg authenticated successfully as user: 419317290119462917.
+playing
+Server executed: /playing.
+Online Players (4/69)
+eg, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+eg, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+eg, im blue, MaxedOut, Rod of discord
+: Terracord: [06/25/2021 09:46:09 -05:00] [Info] im blue said: cmon coconut
+im blue: cmon coconut
+playi24.61.211.167:59347 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked eg for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+nTerracord: [06/25/2021 09:46:10 -05:00] [Info] **:red_circle: eg has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+g
+Server executed: /playing.
+Online Players (3/69)
+im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+im blue, MaxedOut, Rod of discord
+: 24.61.211.167:59352 is connecting...
+Terracord: [06/25/2021 09:46:22 -05:00] [Info] **:green_circle: ne has joined the server.**
+ne has joined.
+playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: ne authenticated successfully as user: 419317290119462917.
+playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: plTerracord: [06/25/2021 09:47:34 -05:00] [Info] im blue said: dont worry ne
+im blue: dont worry ne
+aying
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+ne, im blue, MaxedOut, Rod of discord
+: Terracord: [06/25/2021 09:48:28 -05:00] [Info] **:red_circle: MaxedOut has left the server.**
+MaxedOut has left.
+playing
+Server executed: /playing.
+Online Players (3/69)
+ne, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ne, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ne, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ne, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+ne, im blue, Rod of discord
+: 24.61.211.167:59352 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked ne for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:48:38 -05:00] [Info] **:red_circle: ne has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 09:48:39 -05:00] [Info] Rod of discord said: i will come back when i got more bombs
+Rod of discord: i will come back when i got more bombs
+playing
+Server executed: /playing.
+Online Players (2/69)
+im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (2/69)
+im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (2/69)
+im blue, Rod of discord
+: Terracord: [06/25/2021 09:48:45 -05:00] [Info] **:red_circle: im blue has left the server.**
+im blue has left.
+73.253.213.97:50342 is connecting...
+Terracord: [06/25/2021 09:48:46 -05:00] [Info] **:green_circle: MaxedOutSociety has joined the server.**
+playingMaxedOutSociety has joined.
+
+Server executed: /playing.
+Online Players (2/69)
+MaxedOutSociety, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (2/69)
+MaxedOutSociety, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (2/69)
+MaxedOutSociety, Rod of discord
+: 24.61.211.167:59365 is connecting...
+pTerracord: [06/25/2021 09:48:53 -05:00] [Info] **:green_circle: eg has joined the server.**
+laying
+Server executed: /playing.
+Online Players (2/69)
+MaxedOutSociety, Rod of discord
+: eg has joined.
+MaxedOutSociety executed: /help.
+playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: eg authenticated successfully as user: 419317290119462917.
+playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: MaxedOutSociety executed: /setup.
+playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: Terracord: [06/25/2021 09:49:24 -05:00] [Info] Rod of discord said: hehe
+Rod of discord: hehe
+playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: Terracord: [06/25/2021 09:49:42 -05:00] [Info] Rod of discord said: i found a beehive
+Rod of discord: i found a beehive
+playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: Terracord: [06/25/2021 09:49:51 -05:00] [Info] Rod of discord said: hmmmmmmm
+Rod of discord: hmmmmmmm
+playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: Terracord: [06/25/2021 09:49:54 -05:00] [Info] Rod of discord said: hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+Rod of discord: hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+playingTerracord: [06/25/2021 09:49:55 -05:00] [Info] MaxedOutSociety said: I cant log in
+MaxedOutSociety: I cant log in
+
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: Terracord: [06/25/2021 09:50:02 -05:00] [Info] MaxedOutSociety said: it just doesnt let me
+MaxedOutSociety: it just doesnt let me
+playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: MaxedOutSociety executed: /help.
+playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: MaxedOutSociety executed: /me.
+playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playMaxedOutSociety executed: /rules.
+ing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: 5.29.9.179:1069 is connecting...
+playTerracord: [06/25/2021 09:50:54 -05:00] [Info] **:green_circle: im blue has joined the server.**
+ing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, eg, Rod of discord
+: im blue has joined.
+playing
+Server executed: /playing.
+Online Players (4/69)
+MaxedOutSociety, eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+MaxedOutSociety, eg, im blue, Rod of discord
+: im blue authenticated successfully as user: 628134932455227403.
+MaxedOutSociety executed: /playing.
+playing
+Server executed: /playing.
+Online Players (4/69)
+MaxedOutSociety, eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+MaxedOutSociety, eg, im blue, Rod of discord
+: Terracord: [06/25/2021 09:51:04 -05:00] [Info] im blue said: sorry eg
+im blue: sorry eg
+playing
+Server executed: /playing.
+Online Players (4/69)
+MaxedOutSociety, eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+MaxedOutSociety, eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+MaxedOutSociety, eg, im blue, Rod of discord
+: Terracord: [06/25/2021 09:51:10 -05:00] [Info] Rod of discord said: hehe
+Rod of discord: hehe
+playing
+Server executed: /playing.
+Online Players (4/69)
+MaxedOutSociety, eg, im blue, Rod of discord
+: Terracord: [06/25/2021 09:51:13 -05:00] [Info] Rod of discord said: queen bee?
+Rod of discord: queen bee?
+playing
+Server executed: /playing.
+Online Players (4/69)
+MaxedOutSociety, eg, im blue, Rod of discord
+: Terracord: [06/25/2021 09:51:16 -05:00] [Info] eg said: do it
+eg: do it
+playing
+Server executed: /playing.
+Online Players (4/69)
+MaxedOutSociety, eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+MaxedOutSociety, eg, im blue, Rod of discord
+: Terracord: [06/25/2021 09:51:19 -05:00] [Info] im blue said: no pls
+im blue: no pls
+playing
+Server executed: /playing.
+Online Players (4/69)
+MaxedOutSociety, eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+MaxedOutSociety, eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+MaxedOutSociety, eg, im blue, Rod of discord
+: Terracord: [06/25/2021 09:51:25 -05:00] [Info] im blue said: i will die
+im blue: i will die
+playing
+Server executed: /playing.
+Online Players (4/69)
+MaxedOutSociety, eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+MaxedOutSociety, eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+MaxedOutSociety, eg, im blue, Rod of discord
+: Terracord: [06/25/2021 09:51:32 -05:00] [Info] Rod of discord said: i might do a arena not on the beehive
+Rod of discord: i might do a arena not on the beehive
+Terracord: [06/25/2021 09:51:33 -05:00] [Info] im blue said: death bad
+im blue: death bad
+playing
+Server executed: /playing.
+Online Players (4/69)
+MaxedOutSociety, eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+MaxedOutSociety, eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+MaxedOutSociety, eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+MaxedOutSociety, eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (4/69)
+MaxedOutSociety, eg, im blue, Rod of discord
+: pla24.61.211.167:59365 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+yKicked eg for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:51:44 -05:00] [Info] **:red_circle: eg has left the server.**
+Terracord: [06/25/2021 09:51:44 -05:00] [Info] Server broadcast: eg let their arms get torn off by Blood Crawler.
+ing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, im blue, Rod of discord
+: Terracord: [06/25/2021 09:51:48 -05:00] [Info] Rod of discord said: hi tomb crawler
+Rod of discord: hi tomb crawler
+playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, im blue, Rod of discord
+: playTerracord: [06/25/2021 09:51:51 -05:00] [Info] MaxedOutSociety said: i now see why I cant log in
+MaxedOutSociety: i now see why I cant log in
+ing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+MaxedOutSociety, im blue, Rod of discord
+: 24.61.211.167:59373 is connecting...
+Terracord: [06/25/2021 09:51:57 -05:00] [Info] **:green_circle: not eg has joined the server.**
+Terracord: [06/25/2021 09:51:57 -05:00] [Info] MaxedOutSociety said: goodbye
+MaxedOutSociety: goodbye
+playinot eg has joined.
+ng
+Server executed: /playing.
+Online Players (4/69)
+MaxedOutSociety, not eg, im blue, Rod of discord
+: not eg authenticated successfully as user: 419317290119462917.
+playingTerracord: [06/25/2021 09:52:00 -05:00] [Info] **:red_circle: MaxedOutSociety has left the server.**
+MaxedOutSociety has left.
+
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: Terracord: [06/25/2021 09:53:09 -05:00] [Info] im blue said: hey
+im blue: hey
+playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: Terracord: [06/25/2021 09:53:33 -05:00] [Info] Rod of discord said: wof
+Rod of discord: wof
+playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: Terracord: [06/25/2021 09:53:36 -05:00] [Info] not eg said: no
+not eg: no
+playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: Terracord: [06/25/2021 09:53:38 -05:00] [Info] not eg said: dont
+not eg: dont
+playingTerracord: [06/25/2021 09:53:39 -05:00] [Info] not eg said: you
+not eg: you
+
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: Terracord: [06/25/2021 09:53:40 -05:00] [Info] not eg said: dare
+not eg: dare
+playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: Terracord: [06/25/2021 09:53:45 -05:00] [Info] im blue said: "softly" dont
+im blue: "softly" dont
+Terracord: [06/25/2021 09:53:45 -05:00] [Info] Rod of discord said: queen bee
+Rod of discord: queen bee
+playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playiTerracord: [06/25/2021 09:53:50 -05:00] [Info] not eg said: ok
+not eg: ok
+ng
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: Terracord: [06/25/2021 09:53:56 -05:00] [Info] im blue said: spawn skeletron
+im blue: spawn skeletron
+playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playTerracord: [06/25/2021 09:54:01 -05:00] [Info] Rod of discord said: no
+Rod of discord: no
+iTerracord: [06/25/2021 09:54:01 -05:00] [Info] not eg said: yes
+not eg: yes
+ng
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: Terracord: [06/25/2021 09:54:09 -05:00] [Info] im blue said: i will just be chilling with my enchanted sunicidal
+im blue: i will just be chilling with my enchanted sunicidal
+playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (3/69)
+not eg, im blue, Rod of discord
+: p24.61.211.167:59373 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked not eg for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:54:16 -05:00] [Info] **:red_circle: not eg has left the server.**
+lError on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+aying
+Server executed: /playing.
+Online Players (2/69)
+im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (2/69)
+im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (2/69)
+im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (2/69)
+im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (2/69)
+im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (2/69)
+im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (2/69)
+im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (2/69)
+im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (2/69)
+im blue, Rod of discord
+: playing
+Server executed: /playing.
+Online Players (2/69)
+im blue, Rod of discord
+: 5.29.9.179:1069 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked im blue for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 09:54:37 -05:00] [Info] **:red_circle: im blue has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (1/69)
+Rod of discord
+:

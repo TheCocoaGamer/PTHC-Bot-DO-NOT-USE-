@@ -1,0 +1,579 @@
+[06/13/21 22:27:17] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 22:27:17] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 22:27:17] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 22:27:17] [Server API] Verbose: 	Mono: False
+[06/13/21 22:27:18] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 22:27:18] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:27:19] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:27:20] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 22:27:20] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 22:27:20] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 22:27:20] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 22:27:20] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 22:27:20] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 22:27:20] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 22:27:34] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 22:27:34] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 22:27:34] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 22:27:34] [Server API] Verbose: 	Mono: False
+[06/13/21 22:27:35] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 22:27:35] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:27:36] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:27:36] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 22:27:36] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 22:27:36] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 22:27:36] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 22:27:36] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 22:27:36] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 22:27:36] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 22:30:05] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 22:30:05] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 22:30:05] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 22:30:05] [Server API] Verbose: 	Mono: False
+[06/13/21 22:30:06] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 22:30:06] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:30:07] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:30:07] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 22:30:07] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 22:30:07] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 22:30:07] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 22:30:07] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 22:30:07] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 22:30:07] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 22:32:45] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 22:32:45] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 22:32:45] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 22:32:45] [Server API] Verbose: 	Mono: False
+[06/13/21 22:32:45] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 22:32:45] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:32:46] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:32:47] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 22:32:47] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 22:32:47] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 22:32:47] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 22:32:47] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 22:32:47] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 22:32:47] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 22:33:31] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 22:33:31] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 22:33:31] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 22:33:31] [Server API] Verbose: 	Mono: False
+[06/13/21 22:33:32] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 22:33:32] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:33:33] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:33:33] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 22:33:33] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 22:33:33] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 22:33:33] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 22:33:33] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 22:33:33] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 22:33:33] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 22:34:20] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 22:34:20] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 22:34:20] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 22:34:20] [Server API] Verbose: 	Mono: False
+[06/13/21 22:34:21] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 22:34:21] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:34:22] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:34:22] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 22:34:22] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 22:34:22] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 22:34:22] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 22:34:22] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 22:34:22] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 22:34:22] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 22:35:35] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 22:35:35] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 22:35:35] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 22:35:35] [Server API] Verbose: 	Mono: False
+[06/13/21 22:35:36] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 22:35:36] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:35:37] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:35:37] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 22:35:37] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 22:35:37] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 22:35:37] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 22:35:37] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 22:35:37] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 22:35:37] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 22:35:54] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 22:35:54] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 22:35:54] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 22:35:54] [Server API] Verbose: 	Mono: False
+[06/13/21 22:35:54] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 22:35:54] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:35:55] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:35:56] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 22:35:56] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 22:35:56] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 22:35:56] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 22:35:56] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 22:35:56] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 22:35:56] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 22:36:18] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 22:36:18] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 22:36:18] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 22:36:18] [Server API] Verbose: 	Mono: False
+[06/13/21 22:36:19] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 22:36:19] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:36:19] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:36:20] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 22:36:20] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 22:36:20] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 22:36:20] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 22:36:20] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 22:36:20] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 22:36:20] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 22:36:31] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 22:36:31] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 22:36:31] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 22:36:31] [Server API] Verbose: 	Mono: False
+[06/13/21 22:36:32] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 22:36:32] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:36:33] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:36:33] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 22:36:33] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 22:36:33] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 22:36:33] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 22:36:33] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 22:36:33] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 22:36:33] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 22:38:23] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 22:38:23] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 22:38:23] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 22:38:23] [Server API] Verbose: 	Mono: False
+[06/13/21 22:38:24] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 22:38:24] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:38:25] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:38:25] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 22:38:25] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 22:38:25] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 22:38:25] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 22:38:25] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 22:38:25] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 22:38:25] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 22:38:33] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 22:38:33] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 22:38:33] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 22:38:33] [Server API] Verbose: 	Mono: False
+[06/13/21 22:38:34] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 22:38:34] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:38:34] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:38:35] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 22:38:35] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 22:38:35] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 22:38:35] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 22:38:35] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 22:38:35] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 22:38:35] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 22:39:50] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 22:39:50] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 22:39:50] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 22:39:50] [Server API] Verbose: 	Mono: False
+[06/13/21 22:39:50] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 22:39:50] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:39:51] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:39:52] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 22:39:52] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 22:39:52] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 22:39:52] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 22:39:52] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 22:39:52] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 22:39:52] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 22:40:19] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 22:40:19] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 22:40:19] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 22:40:19] [Server API] Verbose: 	Mono: False
+[06/13/21 22:40:20] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 22:40:20] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:40:21] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:40:21] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 22:40:21] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 22:40:21] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 22:40:21] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 22:40:21] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 22:40:21] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 22:40:21] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 22:40:29] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 22:40:29] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 22:40:29] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 22:40:29] [Server API] Verbose: 	Mono: False
+[06/13/21 22:40:30] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 22:40:30] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:40:31] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:40:31] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 22:40:31] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 22:40:31] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 22:40:31] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 22:40:31] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 22:40:31] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 22:40:31] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 22:41:34] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 22:41:34] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 22:41:34] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 22:41:34] [Server API] Verbose: 	Mono: False
+[06/13/21 22:41:35] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 22:41:35] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:41:36] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:41:36] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 22:41:36] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 22:41:36] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 22:41:36] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 22:41:36] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 22:41:36] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 22:41:36] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 22:42:11] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 22:42:11] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 22:42:11] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 22:42:11] [Server API] Verbose: 	Mono: False
+[06/13/21 22:42:11] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 22:42:11] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:42:12] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:42:13] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 22:42:13] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 22:42:13] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 22:42:13] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 22:42:13] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 22:42:13] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 22:42:13] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 22:47:28] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 22:47:28] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 22:47:28] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 22:47:28] [Server API] Verbose: 	Mono: False
+[06/13/21 22:47:29] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 22:47:29] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:47:30] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:47:30] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 22:47:30] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 22:47:30] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 22:47:30] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 22:47:30] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 22:47:30] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 22:47:30] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 22:47:59] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 22:47:59] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 22:47:59] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 22:47:59] [Server API] Verbose: 	Mono: False
+[06/13/21 22:48:00] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 22:48:00] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:48:01] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:48:01] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 22:48:01] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 22:48:01] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 22:48:01] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 22:48:01] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 22:48:01] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 22:48:01] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 22:48:18] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 22:48:18] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 22:48:18] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 22:48:18] [Server API] Verbose: 	Mono: False
+[06/13/21 22:48:18] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 22:48:18] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:48:19] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:48:20] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 22:48:20] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 22:48:20] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 22:48:20] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 22:48:20] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 22:48:20] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 22:48:20] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 22:48:56] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 22:48:56] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 22:48:56] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 22:48:56] [Server API] Verbose: 	Mono: False
+[06/13/21 22:48:57] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 22:48:57] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:48:58] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 22:48:58] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 22:48:58] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 22:48:58] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 22:48:58] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 22:48:58] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 22:48:58] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 22:48:58] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 22:58:00] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 22:58:00] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 22:58:00] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 22:58:00] [Server API] Verbose: 	Mono: False
+[06/13/21 22:58:01] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 22:58:02] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:02:56] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 23:02:56] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 23:02:56] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 23:02:56] [Server API] Verbose: 	Mono: False
+[06/13/21 23:02:56] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 23:02:56] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:02:57] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:02:57] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 23:02:57] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 23:02:57] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 23:02:57] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 23:02:57] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 23:02:57] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 23:02:57] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 23:05:56] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 23:05:56] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 23:05:56] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 23:05:56] [Server API] Verbose: 	Mono: False
+[06/13/21 23:05:57] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 23:05:57] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:05:58] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:05:58] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 23:05:58] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 23:05:58] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 23:05:58] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 23:05:58] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 23:05:58] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 23:05:58] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 23:06:58] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 23:06:58] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 23:06:58] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 23:06:58] [Server API] Verbose: 	Mono: False
+[06/13/21 23:06:59] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 23:06:59] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:07:00] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:07:00] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 23:07:00] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 23:07:00] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 23:07:00] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 23:07:00] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 23:07:00] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 23:07:00] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 23:07:35] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 23:07:35] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 23:07:35] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 23:07:35] [Server API] Verbose: 	Mono: False
+[06/13/21 23:07:35] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 23:07:35] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:07:36] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:07:36] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 23:07:36] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 23:07:36] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 23:07:36] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 23:07:37] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 23:07:37] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 23:07:37] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 23:09:28] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 23:09:28] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 23:09:28] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 23:09:28] [Server API] Verbose: 	Mono: False
+[06/13/21 23:09:29] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 23:09:29] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:09:30] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:09:30] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 23:09:30] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 23:09:30] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 23:09:30] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 23:09:30] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 23:09:30] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 23:09:30] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 23:10:04] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 23:10:04] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 23:10:04] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 23:10:04] [Server API] Verbose: 	Mono: False
+[06/13/21 23:10:05] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 23:10:05] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:10:06] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:10:06] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 23:10:06] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 23:10:06] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 23:10:06] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 23:10:06] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 23:10:06] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 23:10:06] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 23:11:35] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 23:11:35] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 23:11:35] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 23:11:35] [Server API] Verbose: 	Mono: False
+[06/13/21 23:11:36] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 23:11:36] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:11:37] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:11:37] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 23:11:37] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 23:11:37] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 23:11:37] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 23:11:37] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 23:11:37] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 23:11:37] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 23:11:45] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 23:11:45] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 23:11:45] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 23:11:45] [Server API] Verbose: 	Mono: False
+[06/13/21 23:11:46] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 23:11:46] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:11:47] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:13:08] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 23:13:08] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 23:13:08] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 23:13:08] [Server API] Verbose: 	Mono: False
+[06/13/21 23:13:09] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 23:13:09] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:13:10] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:13:10] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 23:13:10] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 23:13:10] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 23:13:10] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 23:13:10] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 23:13:10] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 23:13:10] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 23:15:28] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 23:15:28] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 23:15:28] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 23:15:28] [Server API] Verbose: 	Mono: False
+[06/13/21 23:15:29] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 23:15:29] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:15:30] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:15:30] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 23:15:30] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 23:15:30] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 23:15:30] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 23:15:30] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 23:15:30] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 23:15:30] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 23:19:14] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 23:19:14] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 23:19:14] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 23:19:14] [Server API] Verbose: 	Mono: False
+[06/13/21 23:19:15] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 23:19:15] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:19:16] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:19:16] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 23:19:16] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 23:19:16] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 23:19:16] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 23:19:16] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 23:19:16] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 23:19:16] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 23:19:21] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 23:19:21] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 23:19:21] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 23:19:21] [Server API] Verbose: 	Mono: False
+[06/13/21 23:19:22] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 23:19:22] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:19:23] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:19:24] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 23:19:24] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 23:19:24] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 23:19:24] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 23:19:24] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 23:19:24] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 23:19:24] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 23:20:36] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 23:20:36] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 23:20:36] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 23:20:36] [Server API] Verbose: 	Mono: False
+[06/13/21 23:20:36] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 23:20:36] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:20:37] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:20:38] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 23:20:38] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 23:20:38] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 23:20:38] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 23:20:38] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 23:20:38] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 23:20:38] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 23:20:42] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 23:20:42] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 23:20:42] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 23:20:42] [Server API] Verbose: 	Mono: False
+[06/13/21 23:20:43] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 23:20:43] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:20:45] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:21:48] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 23:21:48] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 23:21:48] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 23:21:48] [Server API] Verbose: 	Mono: False
+[06/13/21 23:21:49] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 23:21:49] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:21:49] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:21:50] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 23:21:50] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 23:21:50] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 23:21:50] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 23:21:50] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 23:21:50] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 23:21:50] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 23:26:43] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 23:26:43] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 23:26:43] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 23:26:43] [Server API] Verbose: 	Mono: False
+[06/13/21 23:26:44] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 23:26:44] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:27:11] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 23:27:11] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 23:27:11] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 23:27:11] [Server API] Verbose: 	Mono: False
+[06/13/21 23:27:11] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 23:27:11] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:27:12] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:27:20] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 23:27:20] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 23:27:20] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 23:27:20] [Server API] Verbose: 	Mono: False
+[06/13/21 23:27:21] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 23:27:21] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:27:22] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:27:22] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 23:27:22] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 23:27:22] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 23:27:22] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 23:27:22] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 23:27:22] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 23:27:22] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 23:29:09] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 23:29:09] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 23:29:09] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 23:29:09] [Server API] Verbose: 	Mono: False
+[06/13/21 23:29:10] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 23:29:10] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:29:11] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:29:11] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 23:29:11] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 23:29:11] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 23:29:11] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 23:29:11] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 23:29:11] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 23:29:11] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 23:33:39] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 23:33:39] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 23:33:39] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 23:33:39] [Server API] Verbose: 	Mono: False
+[06/13/21 23:33:40] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 23:33:40] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:33:40] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:33:41] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 23:33:41] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 23:33:41] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 23:33:41] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 23:33:41] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 23:33:41] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 23:33:41] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 23:37:00] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 23:37:00] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 23:37:00] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 23:37:00] [Server API] Verbose: 	Mono: False
+[06/13/21 23:37:01] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 23:37:01] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:37:02] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:37:02] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 23:37:02] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 23:37:02] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 23:37:02] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 23:37:02] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 23:37:02] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 23:37:02] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.
+[06/13/21 23:39:22] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/13/21 23:39:22] [Server API] Verbose: 	Command line: "C:\Users\ZebraBoiGamer\Desktop\Stuff\Folders\Tshock Server\TerrariaServer.exe"
+[06/13/21 23:39:22] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/13/21 23:39:22] [Server API] Verbose: 	Mono: False
+[06/13/21 23:39:22] [Server API] Warning: Plugin "EmergencyRoom.EmergencyRoom" is designed for a different Server API version (1.22) and was ignored.
+[06/13/21 23:39:22] [Server API] Warning: Plugin "InvSee.PMain" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:39:23] [Server API] Warning: Plugin "Vote.VotePlugin" is designed for a different Server API version (2.0) and was ignored.
+[06/13/21 23:39:23] [Server API] Info: Plugin TShock v4.5.3.0 (by The TShock Team) initiated.
+[06/13/21 23:39:23] [Server API] Info: Plugin AutoRegister v1.0.1 (by brian91292) initiated.
+[06/13/21 23:39:23] [Server API] Info: Plugin JourneyMixer v1.1 (by rustly) initiated.
+[06/13/21 23:39:23] [Server API] Info: Plugin MapTeleport v1.0.0.0 (by Nova4334) initiated.
+[06/13/21 23:39:23] [Server API] Info: Plugin THC v1.0.1.0 (by James Puleo) initiated.
+[06/13/21 23:39:23] [Server API] Info: Plugin Vanillafier v1.1.0.0 (by Pryaxis) initiated.
+[06/13/21 23:39:23] [Server API] Info: Plugin Ghost v1.0.0.0 (by SirApples) initiated.

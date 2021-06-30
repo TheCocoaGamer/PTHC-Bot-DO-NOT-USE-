@@ -1,0 +1,2778 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7777
+Type 'help' for a list of commands.
+
+Terracord: [06/23/2021 12:25:46 -05:00] [Info] Connecting to Discord...
+Terracord: [06/23/2021 12:25:46 -05:00] [Info] 12:25:46 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/23/2021 12:25:46 -05:00] [Info] 12:25:46 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 10m
+Server executed: /grace begin 10m.
+Terracord: [06/23/2021 12:25:46 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 365534393483395092
+Server started
+Account removed successfully.
+Server successfully deleted account: 365534393483395092.
+: user add 365534393483395092 hg9z default
+Account 365534393483395092 has been added to group default!
+Server added Account 365534393483395092 to group default
+: user del 244501248861011968
+Account removed successfully.
+Server successfully deleted account: 244501248861011968.
+: user add 244501248861011968 d2fl default
+Account 244501248861011968 has been added to group default!
+Server added Account 244501248861011968 to group default
+: user del 262003003186216973
+Account removed successfully.
+Server successfully deleted account: 262003003186216973.
+: user add 262003003186216973 9etf default
+Account 262003003186216973 has been added to group default!
+Server added Account 262003003186216973 to group default
+: user del 602549842367217665
+Account removed successfully.
+Server successfully deleted account: 602549842367217665.
+: user add 602549842367217665 1xah default
+Account 602549842367217665 has been added to group default!
+Server added Account 602549842367217665 to group default
+: user del 414496759809572876
+Account removed successfully.
+Server successfully deleted account: 414496759809572876.
+: user add 414496759809572876 ogdn default
+Terracord: [06/23/2021 12:25:47 -05:00] [Info] 12:25:47 Gateway     Connected
+Account 414496759809572876 has been added to group default!
+Server added Account 414496759809572876 to group default
+: Terracord: [06/23/2021 12:25:47 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/23/2021 12:25:47 -05:00] [Info] 12:25:47 Gateway     Ready
+Terracord: [06/23/2021 12:25:47 -05:00] [Warning] 12:25:47 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+109.252.65.110:4339 is connecting...
+Terracord: [06/23/2021 12:25:47 -05:00] [Warning] 12:25:47 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/23/2021 12:25:47 -05:00] [Warning] 12:25:47 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/23/2021 12:25:48 -05:00] [Warning] 12:25:48 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/23/2021 12:25:48 -05:00] [Warning] 12:25:48 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/23/2021 12:25:48 -05:00] [Warning] 12:25:48 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+178.76.167.55:61213 is connecting...
+Terracord: [06/23/2021 12:25:48 -05:00] [Warning] 12:25:48 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/23/2021 12:25:48 -05:00] [Warning] 12:25:48 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/23/2021 12:25:48 -05:00] [Warning] 12:25:48 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/23/2021 12:25:48 -05:00] [Warning] 12:25:48 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/23/2021 12:25:49 -05:00] [Info] **:green_circle: heroy_105 has joined the server.**
+70.137.105.70:55387 is connecting...
+Terracord: [06/23/2021 12:25:49 -05:00] [Info] **:green_circle: Blazingstopdieingyou has joined the server.**
+Terracord: [06/23/2021 12:25:49 -05:00] [Info] **:green_circle: me has joined the server.**
+94.0.143.92:61729 is connecting...
+me has joined.
+Blazingstopdieingyou has joined.
+heroy_105 has joined.
+Terracord: [06/23/2021 12:25:51 -05:00] [Info] **:green_circle: Baguette has joined the server.**
+188.127.172.99:54811 is connecting...
+Terracord: [06/23/2021 12:25:51 -05:00] [Info] **:green_circle: asdasdasd has joined the server.**
+asdasdasd has joined.
+Baguette has joined.
+Blazingstopdieingyou authenticated successfully as user: 414496759809572876.
+Baguette authenticated successfully as user: 602549842367217665.
+asdasdasd authenticated successfully as user: 365534393483395092.
+me authenticated successfully as user: 262003003186216973.
+heroy_105 authenticated successfully as user: 244501248861011968.
+Terracord: [06/23/2021 12:27:06 -05:00] [Info] Blazingstopdieingyou said: wtf
+Blazingstopdieingyou: wtf
+Terracord: [06/23/2021 12:27:59 -05:00] [Info] me said: LMAO
+me: LMAO
+70.137.105.70:55387 was booted: Kicked: You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.
+Kicked me for : 'You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.'
+Terracord: [06/23/2021 12:31:07 -05:00] [Info] **:red_circle: me has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/23/2021 12:34:15 -05:00] [Info] Server broadcast: Queen Bee has awoken!
+Terracord: [06/23/2021 12:34:18 -05:00] [Info] Blazingstopdieingyou said: wtf
+Blazingstopdieingyou: wtf
+Terracord: [06/23/2021 12:34:20 -05:00] [Info] asdasdasd said: no
+asdasdasd: no
+Terracord: [06/23/2021 12:34:22 -05:00] [Info] Blazingstopdieingyou said: uh
+Blazingstopdieingyou: uh
+Terracord: [06/23/2021 12:34:22 -05:00] [Info] asdasdasd said: banned
+asdasdasd: banned
+Terracord: [06/23/2021 12:34:39 -05:00] [Info] heroy_105 said: how
+heroy_105: how
+Terracord: [06/23/2021 12:34:41 -05:00] [Info] heroy_105 said: did it
+heroy_105: did it
+Terracord: [06/23/2021 12:34:45 -05:00] [Info] heroy_105 said: get here
+heroy_105: get here
+playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: plaTerracord: [06/23/2021 12:35:46 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/23/2021 12:35:46 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+ying
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playingTerracord: [06/23/2021 12:36:48 -05:00] [Info] Blazingstopdieingyou said: **[Strong Snowball Cannon]** now to see how I die stupidly lol
+Blazingstopdieingyou: [Strong Snowball Cannon] now to see how I die stupidly lol
+
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: plBaguette summoned the Eye of Cthulhu!
+Terracord: [06/23/2021 12:37:14 -05:00] [Info] Server broadcast: Eye of Cthulhu has awoken!
+aying
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: Terracord: [06/23/2021 12:37:24 -05:00] [Info] Server broadcast: Queen Bee has been defeated!
+playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: Terracord: [06/23/2021 12:37:30 -05:00] [Info] Blazingstopdieingyou said: what
+Blazingstopdieingyou: what
+playingTerracord: [06/23/2021 12:37:32 -05:00] [Info] Blazingstopdieingyou said: how
+Blazingstopdieingyou: how
+
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: pTerracord: [06/23/2021 12:37:34 -05:00] [Info] Blazingstopdieingyou said: the
+Blazingstopdieingyou: the
+laying
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: Terracord: [06/23/2021 12:37:35 -05:00] [Info] Blazingstopdieingyou said: hell
+Blazingstopdieingyou: hell
+playing
+Server executed: /playing.
+Online Players (4/69)
+heroy_105, Blazingstopdieingyou, Baguette, asdasdasd
+: 188.127.172.99:54811 was booted: Kicked: You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.
+Kicked asdasdasd for : 'You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.'
+Terracord: [06/23/2021 12:37:38 -05:00] [Info] **:red_circle: asdasdasd has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: Terracord: [06/23/2021 12:38:36 -05:00] [Info] Server broadcast: Queen Bee has awoken!
+playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: Terracord: [06/23/2021 12:38:43 -05:00] [Info] Baguette said: BRUH
+Baguette: BRUH
+playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: Terracord: [06/23/2021 12:40:21 -05:00] [Info] Server broadcast: Eye of Cthulhu has been defeated!
+playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: Terracord: [06/23/2021 12:40:24 -05:00] [Info] Baguette said: pog
+Baguette: pog
+playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: Terracord: [06/23/2021 12:41:21 -05:00] [Info] Server broadcast: Queen Bee has been defeated!
+playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playingTerracord: [06/23/2021 12:44:07 -05:00] [Info] Blazingstopdieingyou said: **[Giant Harpy Feather]**
+Blazingstopdieingyou: [Giant Harpy Feather]
+
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: Terracord: [06/23/2021 12:44:12 -05:00] [Info] Baguette said: nice
+Baguette: nice
+playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: playing
+Server executed: /playing.
+Online Players (3/69)
+heroy_105, Blazingstopdieingyou, Baguette
+: 178.76.167.55:61213 was booted: Kicked: You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.
+Kicked Blazingstopdieingyou for : 'You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.'
+Terracord: [06/23/2021 12:46:33 -05:00] [Info] **:red_circle: Blazingstopdieingyou has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: Terracord: [06/23/2021 12:51:21 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: Terracord: [06/23/2021 12:51:42 -05:00] [Info] Server broadcast: Screams echo around you...
+playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playingTerracord: [06/23/2021 12:51:53 -05:00] [Info] Server broadcast: Eater of Worlds has awoken!
+
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playiTerracord: [06/23/2021 12:51:59 -05:00] [Info] Baguette said: oke then
+nBaguette: oke then
+g
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: Terracord: [06/23/2021 12:53:37 -05:00] [Info] Server broadcast: Eater of Worlds has been defeated!
+playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: playing
+Server executed: /playing.
+Online Players (2/69)
+heroy_105, Baguette
+: play94.0.143.92:61729 was booted: Kicked: You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.
+Kicked Baguette for : 'You died, if you died during grace you can rejoin, otherwise you will have to wait till the next round.'
+Terracord: [06/23/2021 12:55:56 -05:00] [Info] **:red_circle: Baguette has left the server.**
+Terracord: [06/23/2021 12:55:56 -05:00] [Info] Server broadcast: Baguette's meat was ripped off the bone by heroy_105's Bee.
+ing
+Server executed: /playing.
+Online Players (1/69)
+heroy_105
+:Terraria Server v1.4.2.3
+
+Listening on port 7777
+Type 'help' for a list of commands.
+
+Terracord: [06/25/2021 12:52:51 -05:00] [Info] Connecting to Discord...
+Terracord: [06/25/2021 12:52:51 -05:00] [Info] 12:52:51 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/25/2021 12:52:52 -05:00] [Info] 12:52:52 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+:
+:
+: Server started
+Terracord: [06/25/2021 12:52:52 -05:00] [Info] 12:52:52 Gateway     Connected
+Terracord: [06/25/2021 12:52:53 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/25/2021 12:52:53 -05:00] [Info] 12:52:53 Gateway     Ready
+Terracord: [06/25/2021 12:52:53 -05:00] [Warning] 12:52:53 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/25/2021 12:52:53 -05:00] [Warning] 12:52:53 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+gTerracord: [06/25/2021 12:52:53 -05:00] [Warning] 12:52:53 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/25/2021 12:52:53 -05:00] [Warning] 12:52:53 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+rTerracord: [06/25/2021 12:52:53 -05:00] [Warning] 12:52:53 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/25/2021 12:52:53 -05:00] [Warning] 12:52:53 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+aTerracord: [06/25/2021 12:52:53 -05:00] [Warning] 12:52:53 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+cTerracord: [06/25/2021 12:52:53 -05:00] [Warning] 12:52:53 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+Terracord: [06/25/2021 12:52:53 -05:00] [Warning] 12:52:53 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+eTerracord: [06/25/2021 12:52:54 -05:00] [Warning] 12:52:54 Rest        Rate limit triggered: PATCH channels/856021921757528134 (Bucket: 9852e1a53c06ffc5a89d65fef85ca4ce)
+ begi71.239.188.130:60686 is connecting...
+n Terracord: [06/25/2021 12:52:57 -05:00] [Info] **:green_circle: SuperLuigi256 has joined the server.**
+5m
+Server executed: /grace begin 5m.
+Terracord: [06/25/2021 12:52:57 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: 74.110.196.221:57613 is connecting...
+Terracord: [06/25/2021 12:52:57 -05:00] [Info] **:green_circle: Devalous has joined the server.**
+SuperLuigi256 has joined.
+Devalous has joined.
+73.56.236.178:51430 is connecting...
+Terracord: [06/25/2021 12:52:59 -05:00] [Info] **:green_circle: Bombee has joined the server.**
+Bombee has joined.
+127.0.0.1:62707 is connecting...
+Terracord: [06/25/2021 12:53:02 -05:00] [Info] **:green_circle: The Supreme One has joined the server.**
+The Supreme One has joined.
+109.252.65.110:8356 is connecting...
+SuperLuigi256 authenticated successfully as user: 468202262829989888.
+Devalous authenticated successfully as user: 570187358683529217.
+Terracord: [06/25/2021 12:53:04 -05:00] [Info] **:green_circle: heroy_105 has joined the server.**
+47.153.60.62:58735 is connecting...
+Terracord: [06/25/2021 12:53:06 -05:00] [Info] **:green_circle: dababy has joined the server.**
+Terracord: [06/25/2021 12:53:06 -05:00] [Info] The Supreme One said: Terraria Server v1.4.2.3Listening on port 7777Type 'help' for a list of commands.Terracord: [06/25/2021 12:33:26 -05:00] [Info] Connecting to Discord...Terracord: [06/25/2021 12:33:26 -05:00] [I
+The Supreme One: Terraria Server v1.4.2.3Listening on port 7777Type 'help' for a list of commands.Terracord: [06/25/2021 12:33:26 -05:00] [Info] Connecting to Discord...Terracord: [06/25/2021 12:33:26 -05:00] [I
+Bombee authenticated successfully as user: 368918822293471232.
+heroy_105 has joined.
+dababy has joined.
+dababy authenticated successfully as user: 321426277699420163.
+The Supreme One authenticated successfully as user: 376522837693038593.
+heroy_105 authenticated successfully as user: 244501248861011968.
+Terracord: [06/25/2021 12:53:15 -05:00] [Info] The Supreme One said: login to your accs guys
+The Supreme One: login to your accs guys
+98.1.76.199:54796 is connecting...
+Terracord: [06/25/2021 12:53:32 -05:00] [Info] **:green_circle: Coba has joined the server.**
+Coba has joined.
+Coba authenticated successfully as user: 684129866148610109.
+Terracord: [06/25/2021 12:54:10 -05:00] [Info] Bombee said: kite
+Bombee: kite
+Terracord: [06/25/2021 12:54:16 -05:00] [Info] Bombee said: do you like kite
+Bombee: do you like kite
+Terracord: [06/25/2021 12:54:21 -05:00] [Info] SuperLuigi256 said: yes
+SuperLuigi256: yes
+Terracord: [06/25/2021 12:54:28 -05:00] [Info] SuperLuigi256 said: beeg hole
+SuperLuigi256: beeg hole
+Terracord: [06/25/2021 12:54:29 -05:00] [Info] Bombee said: ello
+Bombee: ello
+Terracord: [06/25/2021 12:54:32 -05:00] [Info] Bombee said: beeg hole
+Bombee: beeg hole
+Terracord: [06/25/2021 12:54:42 -05:00] [Info] SuperLuigi256 said: should we go down
+SuperLuigi256: should we go down
+Terracord: [06/25/2021 12:54:45 -05:00] [Info] Bombee said: no
+Bombee: no
+Terracord: [06/25/2021 12:54:52 -05:00] [Info] Bombee said: it spooki
+Bombee: it spooki
+Terracord: [06/25/2021 12:54:58 -05:00] [Info] Coba said: diggy diggy hole
+Coba: diggy diggy hole
+74.110.196.221:57613 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Devalous for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 12:55:13 -05:00] [Info] **:red_circle: Devalous has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+47.153.60.62:58735 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked dababy for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 12:56:58 -05:00] [Info] **:red_circle: dababy has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+47.153.60.62:58739 is connecting...
+Terracord: [06/25/2021 12:57:21 -05:00] [Info] **:green_circle: plea has joined the server.**
+plea has joined.
+plea authenticated successfully as user: 321426277699420163.
+Terracord: [06/25/2021 12:57:44 -05:00] [Info] SuperLuigi256 said: we're all gonna die
+SuperLuigi256: we're all gonna die
+Terracord: [06/25/2021 12:57:52 -05:00] [Info] Coba said: just die last
+Coba: just die last
+Terracord: [06/25/2021 12:57:57 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/25/2021 12:57:57 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+Terracord: [06/25/2021 13:00:02 -05:00] [Info] Bombee said: platinum
+Bombee: platinum
+Terracord: [06/25/2021 13:00:06 -05:00] [Info] Bombee said: more like platidumb
+Bombee: more like platidumb
+Terracord: [06/25/2021 13:00:08 -05:00] [Info] Bombee said: comedy
+Bombee: comedy
+Terracord: [06/25/2021 13:00:16 -05:00] [Info] Coba said: gold is superior
+Coba: gold is superior
+Terracord: [06/25/2021 13:00:20 -05:00] [Info] SuperLuigi256 said: *laughs in sitcom*
+SuperLuigi256: *laughs in sitcom*
+Terracord: [06/25/2021 13:00:43 -05:00] [Info] The Supreme One said: hey heroy
+The Supreme One: hey heroy
+127.0.0.1:62707 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked The Supreme One for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 13:00:53 -05:00] [Info] **:red_circle: The Supreme One has left the server.**
+Terracord: [06/25/2021 13:00:53 -05:00] [Info] Server broadcast: The Supreme One didn't bounce.
+Terracord: [06/25/2021 13:00:56 -05:00] [Info] Bombee said: F
+Bombee: F
+Terracord: [06/25/2021 13:01:02 -05:00] [Info] <TheCocoaGamer@Discord> failed the recall damm ittt
+<TheCocoaGamer@Discord> failed the recall damm ittt
+Terracord: [06/25/2021 13:01:06 -05:00] [Info] <TheCocoaGamer@Discord> but that was fun ngl
+<TheCocoaGamer@Discord> but that was fun ngl
+Terracord: [06/25/2021 13:01:11 -05:00] [Info] <TheCocoaGamer@Discord> ill join the next one if its soon
+<TheCocoaGamer@Discord> ill join the next one if its soon
+Terracord: [06/25/2021 13:01:15 -05:00] [Info] SuperLuigi256 said: F
+SuperLuigi256: F
+Terracord: [06/25/2021 13:01:16 -05:00] [Info] Bombee said: lmaooo
+Bombee: lmaooo
+Terracord: [06/25/2021 13:01:21 -05:00] [Info] heroy_105 said: gg
+heroy_105: gg
+Terracord: [06/25/2021 13:01:28 -05:00] [Info] heroy_105 said: thx for arena
+heroy_105: thx for arena
+Terracord: [06/25/2021 13:01:47 -05:00] [Info] <TheCocoaGamer@Discord> lol
+<TheCocoaGamer@Discord> lol
+Terracord: [06/25/2021 13:04:20 -05:00] [Info] Server broadcast: Skeletron has awoken!
+Terracord: [06/25/2021 13:04:25 -05:00] [Info] Bombee said: ohok
+Bombee: ohok
+Terracord: [06/25/2021 13:05:56 -05:00] [Info] Server broadcast: Skeletron has been defeated!
+plea executed: /playing.
+Terracord: [06/25/2021 13:08:42 -05:00] [Info] SuperLuigi256 said: **[Mace]**
+SuperLuigi256: [Mace]
+Terracord: [06/25/2021 13:08:51 -05:00] [Info] SuperLuigi256 said: kinda nice
+SuperLuigi256: kinda nice
+109.252.65.110:8356 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked heroy_105 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 13:10:04 -05:00] [Info] **:red_circle: heroy_105 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 13:15:25 -05:00] [Info] **:red_circle: plea has left the server.**
+plea has left.
+Terracord: [06/25/2021 13:15:31 -05:00] [Info] SuperLuigi256 said: **[Life Crystal]**pog
+SuperLuigi256: [Life Crystal]pog
+71.239.188.130:60686 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked SuperLuigi256 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 13:16:08 -05:00] [Info] **:red_circle: SuperLuigi256 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 13:20:09 -05:00] [Info] Coba said: snapthorn or BoG
+Coba: snapthorn or BoG
+Terracord: [06/25/2021 13:20:16 -05:00] [Info] Bombee said: give me your spores :3
+Bombee: give me your spores :3
+Terracord: [06/25/2021 13:20:18 -05:00] [Info] Coba said: no
+Coba: no
+Terracord: [06/25/2021 13:20:20 -05:00] [Info] Bombee said: sad
+Bombee: sad
+Terracord: [06/25/2021 13:22:49 -05:00] [Info] Coba said: how do you put items in chat?
+Coba: how do you put items in chat?
+Terracord: [06/25/2021 13:22:56 -05:00] [Info] Bombee said: by putting items in chat
+Bombee: by putting items in chat
+Coba executed: /help.
+Terracord: [06/25/2021 13:25:46 -05:00] [Info] Coba said: im immune to poison now
+Coba: im immune to poison now
+Terracord: [06/25/2021 13:25:50 -05:00] [Info] Bombee said: wo
+Bombee: wo
+Terracord: [06/25/2021 13:26:12 -05:00] [Info] Coba said: whos left
+Coba: whos left
+Terracord: [06/25/2021 13:26:20 -05:00] [Info] Bombee said: the people who aren't right
+Bombee: the people who aren't right
+Terracord: [06/25/2021 13:26:30 -05:00] [Info] Bombee said: but fr idk
+Bombee: but fr idk
+Terracord: [06/25/2021 13:26:52 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+Terracord: [06/25/2021 13:26:53 -05:00] [Info] Server broadcast: Screams echo around you...
+Terracord: [06/25/2021 13:27:29 -05:00] [Info] Coba said: its just us
+Coba: its just us
+Terracord: [06/25/2021 13:27:31 -05:00] [Info] Server broadcast: Brain of Cthulhu has awoken!
+Terracord: [06/25/2021 13:28:35 -05:00] [Info] Server broadcast: Brain of Cthulhu has been defeated!
+Bombee summoned the Eye of Cthulhu!
+Terracord: [06/25/2021 13:29:08 -05:00] [Info] Server broadcast: Eye of Cthulhu has awoken!
+Terracord: [06/25/2021 13:30:42 -05:00] [Info] Server broadcast: Eye of Cthulhu has been defeated!
+Terracord: [06/25/2021 13:30:48 -05:00] [Info] Bombee said: **[Binoculars]** :stare:
+Bombee: [Binoculars] :stare:
+Terracord: [06/25/2021 13:30:53 -05:00] [Info] Coba said: nice
+Coba: nice
+Terracord: [06/25/2021 13:32:40 -05:00] [Info] Server broadcast: A meteorite has landed!
+Terracord: [06/25/2021 13:37:06 -05:00] [Info] Bombee said: .
+Bombee: .
+Terracord: [06/25/2021 13:37:07 -05:00] [Info] Bombee said: smh
+Bombee: smh
+Terracord: [06/25/2021 13:38:17 -05:00] [Info] Coba said: you outgear me for sure
+Coba: you outgear me for sure
+Terracord: [06/25/2021 13:38:30 -05:00] [Info] Bombee said: who, me?
+Bombee: who, me?
+Terracord: [06/25/2021 13:38:33 -05:00] [Info] Coba said: yea
+Coba: yea
+Terracord: [06/25/2021 13:38:42 -05:00] [Info] Bombee said: who knows
+Bombee: who knows
+Terracord: [06/25/2021 13:39:11 -05:00] [Info] Bombee said: also are you not able to spawn qb with larvae?
+Bombee: also are you not able to spawn qb with larvae?
+Terracord: [06/25/2021 13:39:16 -05:00] [Info] Coba said: uh
+Coba: uh
+Terracord: [06/25/2021 13:39:19 -05:00] [Info] Coba said: i think its disabled
+Coba: i think its disabled
+Terracord: [06/25/2021 13:39:21 -05:00] [Info] Bombee said: br
+Bombee: br
+Terracord: [06/25/2021 13:39:22 -05:00] [Info] Bombee said: fml
+Bombee: fml
+Terracord: [06/25/2021 13:39:50 -05:00] [Info] Coba said: unfortunate
+Coba: unfortunate
+Terracord: [06/25/2021 13:43:22 -05:00] [Info] Coba said: this is my best game yet
+Coba: this is my best game yet
+Terracord: [06/25/2021 13:47:57 -05:00] [Info] Server broadcast: Coba has defeated the 50th Hornet!
+Terracord: [06/25/2021 13:55:09 -05:00] [Info] Bombee said: immune to poison gang?
+Bombee: immune to poison gang?
+Terracord: [06/25/2021 13:55:18 -05:00] [Info] Coba said: nice
+Coba: nice
+
+: playing
+Server executed: /playing.
+Online Players (2/69)
+Bombee, Coba
+: Terracord: [06/25/2021 13:57:10 -05:00] [Info] <TheCocoaGamer@Discord> just a friendly reminder to make sure you ping me when its done since im on my pc and paused the bot
+<TheCocoaGamer@Discord> just a friendly reminder to make sure you ping me when its done since im on my pc and paused the bot
+Terracord: [06/25/2021 13:57:18 -05:00] [Info] Coba said: alright
+Coba: alright
+Terracord: [06/25/2021 13:57:20 -05:00] [Info] Bombee said: kk
+Bombee: kk
+Terracord: [06/25/2021 13:57:38 -05:00] [Info] <TheCocoaGamer@Discord> also tmrow ima make some big changes to the bot, might even make a second server for it ??
+<TheCocoaGamer@Discord> also tmrow ima make some big changes to the bot, might even make a second server for it ??
+
+: Terracord: [06/25/2021 13:57:54 -05:00] [Info] Bombee said: ohok
+Bombee: ohok
+Terracord: [06/25/2021 13:57:58 -05:00] [Info] Coba said: awesome
+Coba: awesome
+Terracord: [06/25/2021 13:59:28 -05:00] [Info] Bombee said: ow
+Bombee: ow
+Terracord: [06/25/2021 14:01:16 -05:00] [Info] Coba said: YES
+Coba: YES
+Terracord: [06/25/2021 14:01:18 -05:00] [Info] Coba said: feral claws
+Coba: feral claws
+Terracord: [06/25/2021 14:01:28 -05:00] [Info] Bombee said: hm
+Bombee: hm
+Terracord: [06/25/2021 14:01:31 -05:00] [Info] Bombee said: I wonder where you are
+Bombee: I wonder where you are
+Terracord: [06/25/2021 14:03:04 -05:00] [Info] Coba said: trying to catch up
+Coba: trying to catch up
+Terracord: [06/25/2021 14:04:46 -05:00] [Info] Server broadcast: Bombee has defeated the 50th Man Eater!
+Terracord: [06/25/2021 14:08:15 -05:00] [Info] Server broadcast: A horrible chill goes down your spine...
+Terracord: [06/25/2021 14:08:23 -05:00] [Info] Server broadcast: Screams echo around you...
+Terracord: [06/25/2021 14:10:32 -05:00] [Info] Bombee said: hi
+Bombee: hi
+Terracord: [06/25/2021 14:11:43 -05:00] [Info] <TheCocoaGamer@Discord> im dumb, everyone should be able to talk here
+<TheCocoaGamer@Discord> im dumb, everyone should be able to talk here
+Terracord: [06/25/2021 14:11:45 -05:00] [Info] <TheCocoaGamer@Discord> me smol brian
+<TheCocoaGamer@Discord> me smol brian
+Terracord: [06/25/2021 14:11:59 -05:00] [Info] <heroy_105@Discord> gaming
+<heroy_105@Discord> gaming
+Terracord: [06/25/2021 14:12:05 -05:00] [Info] <SuperLuigi256@Discord> thanks for that ability
+<SuperLuigi256@Discord> thanks for that ability
+Terracord: [06/25/2021 14:12:16 -05:00] [Info] <Devalous@Discord> Thank you for this
+<Devalous@Discord> Thank you for this
+Terracord: [06/25/2021 14:12:38 -05:00] [Info] <TheCocoaGamer@Discord> alt f4ing #game-discussion
+<TheCocoaGamer@Discord> alt f4ing #game-discussion
+98.1.76.199:54796 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Coba for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/25/2021 14:13:15 -05:00] [Info] **:red_circle: Coba has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/25/2021 14:13:15 -05:00] [Info] <SuperLuigi256@Discord> it's dead
+<SuperLuigi256@Discord> it's dead
+Terracord: [06/25/2021 14:13:19 -05:00] [Info] Bombee said: pog
+Bombee: pog
+Terracord: [06/25/2021 14:13:20 -05:00] [Info] <Koba@Discord> he used explosives
+<Koba@Discord> he used explosives
+Terracord: [06/25/2021 14:13:21 -05:00] [Info] <Koba@Discord> lol
+<Koba@Discord> lol
+Terracord: [06/25/2021 14:13:33 -05:00] [Info] <heroy_105@Discord> who
+<heroy_105@Discord> who
+Terracord: [06/25/2021 14:13:39 -05:00] [Info] <Koba@Discord> bombee
+<Koba@Discord> bombee
+Terracord: [06/25/2021 14:13:48 -05:00] [Info] <heroy_105@Discord> he bombed you?
+<heroy_105@Discord> he bombed you?
+Terracord: [06/25/2021 14:13:50 -05:00] [Info] <SuperLuigi256@Discord> so if you hit someone with an explosive then you get kicked?
+<SuperLuigi256@Discord> so if you hit someone with an explosive then you get kicked?
+Terracord: [06/25/2021 14:13:51 -05:00] [Info] <Koba@Discord> grenades
+<Koba@Discord> grenades
+Terracord: [06/25/2021 14:13:51 -05:00] [Info] Bombee said: yes
+Bombee: yes
+Terracord: [06/25/2021 14:13:52 -05:00] [Info] <Koba@Discord> yep
+<Koba@Discord> yep
+Terracord: [06/25/2021 14:13:57 -05:00] [Info] <Koba@Discord> they arent allowed iirc
+<Koba@Discord> they arent allowed iirc
+playing
+Server executed: /playing.
+Online Players (1/69)
+Bombee
+:

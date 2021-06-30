@@ -1,0 +1,2710 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7778
+Type 'help' for a list of commands.
+
+Terracord: [06/28/2021 22:14:17 -05:00] [Info] Connecting to Discord...
+Terracord: [06/28/2021 22:14:17 -05:00] [Info] 22:14:17 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/28/2021 22:14:18 -05:00] [Info] 22:14:18 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 20m
+Server executed: /grace begin 20m.
+Terracord: [06/28/2021 22:14:18 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: uuser del 262003003186216973
+Invalid command entered. Type /help for a list of valid commands.
+: user add 262003003186216973 svvk default
+Server started
+User 262003003186216973 already exists!
+: user del 730308043794808854
+Account removed successfully.
+Server successfully deleted account: 730308043794808854.
+: user add 730308043794808854 zyh6 default
+Account 730308043794808854 has been added to group default!
+Server added Account 730308043794808854 to group default
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 kkuk default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: user del 456602298953629696
+Account removed successfully.
+Server successfully deleted account: 456602298953629696.
+: user add 456602298953629696 bg8v default
+Terracord: [06/28/2021 22:14:18 -05:00] [Info] 22:14:18 Gateway     Connected
+Account 456602298953629696 has been added to group default!
+Server added Account 456602298953629696 to group default
+: user del 456602298953629696
+Account removed successfully.
+Server successfully deleted account: 456602298953629696.
+: user add 456602298953629696 i1pk default
+Account 456602298953629696 has been added to group default!
+Server added Account 456602298953629696 to group default
+: user del 456602298953629696
+Account removed successfully.
+Server successfully deleted account: 456602298953629696.
+: user add 456602298953629696 5pvz default
+Account 456602298953629696 has been added to group default!
+Server added Account 456602298953629696 to group default
+: user del 456602298953629696
+Account removed successfully.
+Server successfully deleted account: 456602298953629696.
+: user add 456602298953629696 5s4t default
+Terracord: [06/28/2021 22:14:19 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/28/2021 22:14:19 -05:00] [Info] 22:14:19 Gateway     Ready
+Account 456602298953629696 has been added to group default!
+Server added Account 456602298953629696 to group default
+: user del 632016986658045961
+Account removed successfully.
+Server successfully deleted account: 632016986658045961.
+: user add 632016986658045961 ddho default
+Account 632016986658045961 has been added to group default!
+Server added Account 632016986658045961 to group default
+: user del 753949752843829249
+Account removed successfully.
+Server successfully deleted account: 753949752843829249.
+: user add 753949752843829249 2s3v default
+Account 753949752843829249 has been added to group default!
+Server added Account 753949752843829249 to group default
+: user del 730308043794808854
+Account removed successfully.
+Server successfully deleted account: 730308043794808854.
+: user add 730308043794808854 kh6t default
+Account 730308043794808854 has been added to group default!
+Server added Account 730308043794808854 to group default
+: 70.137.105.70:65533 is connecting...
+67.169.170.162:53146 is connecting...
+Terracord: [06/28/2021 22:14:21 -05:00] [Info] **:green_circle: AAAEEEEAAA has joined the server.**
+Terracord: [06/28/2021 22:14:22 -05:00] [Info] **:green_circle: Bluberry108 has joined the server.**
+121.45.96.10:59933 is connecting...
+Terracord: [06/28/2021 22:14:22 -05:00] [Info] <Copper Shortsword@Discord> when is the start
+<Copper Shortsword@Discord> when is the start
+AAAEEEEAAA has joined.
+Bluberry108 has joined.
+Terracord: [06/28/2021 22:14:23 -05:00] [Info] **:green_circle: shoppercortsword has joined the server.**
+shoppercortsword has joined.
+73.170.246.182:54948 is connecting...
+98.220.227.57:51304 is connecting...
+Terracord: [06/28/2021 22:14:25 -05:00] [Info] **:green_circle: joog has joined the server.**
+Terracord: [06/28/2021 22:14:25 -05:00] [Info] **:green_circle: [c/fe3239:Supremas] has joined the server.**
+Supremas has joined.
+joog has joined.
+shoppercortsword authenticated successfully as user: 730308043794808854.
+[c/fe3239:Supremas] authenticated successfully as user: 376522837693038593.
+joog authenticated successfully as user: 456602298953629696.
+Terracord: [06/28/2021 22:14:29 -05:00] [Info] shoppercortsword said: e
+shoppercortsword: e
+Terracord: [06/28/2021 22:14:30 -05:00] [Info] shoppercortsword said: hi
+shoppercortsword: hi
+Terracord: [06/28/2021 22:14:34 -05:00] [Info] joog said: e
+joog: e
+Bluberry108 authenticated successfully as user: 632016986658045961.
+user del 262003003186216973
+Account removed successfully.
+Server successfully deleted account: 262003003186216973.
+: user add 262003003186216973 0w5d default
+Account 262003003186216973 has been added to group default!
+Server added Account 262003003186216973 to group default
+: Terracord: [06/28/2021 22:14:49 -05:00] [Info] Bluberry108 said: no teams
+Bluberry108: no teams
+AAAEEEEAAA authenticated successfully as user: 262003003186216973.
+Terracord: [06/28/2021 22:14:56 -05:00] [Info] Bluberry108 said: there is only five people
+Bluberry108: there is only five people
+Terracord: [06/28/2021 22:15:11 -05:00] [Info] joog said: are
+joog: are
+Bluberry108 executed: /playing.
+Terracord: [06/28/2021 22:15:46 -05:00] [Info] Bluberry108 said: hah I got a living wood wand
+Bluberry108: hah I got a living wood wand
+Terracord: [06/28/2021 22:15:56 -05:00] [Info] shoppercortsword said: e
+shoppercortsword: e
+Terracord: [06/28/2021 22:16:02 -05:00] [Info] Bluberry108 said: how do you show it in chat?
+Bluberry108: how do you show it in chat?
+Terracord: [06/28/2021 22:16:17 -05:00] [Info] AAAEEEEAAA said: hold left alt while chat open and click item
+AAAEEEEAAA: hold left alt while chat open and click item
+Terracord: [06/28/2021 22:16:31 -05:00] [Info] Bluberry108 said: **[Living Wood Wand]**
+Bluberry108: [Living Wood Wand]
+Terracord: [06/28/2021 22:16:35 -05:00] [Info] Bluberry108 said: thx
+Bluberry108: thx
+Terracord: [06/28/2021 22:16:43 -05:00] [Info] shoppercortsword said: e
+shoppercortsword: e
+Terracord: [06/28/2021 22:18:15 -05:00] [Info] shoppercortsword said: come down here i dare you
+shoppercortsword: come down here i dare you
+Terracord: [06/28/2021 22:19:53 -05:00] [Info] shoppercortsword said: drem luc
+shoppercortsword: drem luc
+70.137.105.70:65533 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked AAAEEEEAAA for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 22:19:59 -05:00] [Info] **:red_circle: AAAEEEEAAA has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/28/2021 22:20:12 -05:00] [Info] shoppercortsword said: slimstat
+shoppercortsword: slimstat
+70.137.105.70:49153 is connecting...
+Terracord: [06/28/2021 22:20:14 -05:00] [Info] **:green_circle: qwe has joined the server.**
+qwe has joined.
+qwe authenticated successfully as user: 262003003186216973.
+Terracord: [06/28/2021 22:20:28 -05:00] [Info] Bluberry108 said: wow that and the living tree wand
+Bluberry108: wow that and the living tree wand
+121.45.96.10:59933 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked shoppercortsword for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 22:20:30 -05:00] [Info] **:red_circle: shoppercortsword has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/28/2021 22:20:38 -05:00] [Info] <Copper Shortsword@Discord> HOW DID I DIE
+<Copper Shortsword@Discord> HOW DID I DIE
+Terracord: [06/28/2021 22:20:43 -05:00] [Info] <Copper Shortsword@Discord> I WAS FUCKING NOT EVEN FALLIN
+<Copper Shortsword@Discord> I WAS FUCKING NOT EVEN FALLIN
+Terracord: [06/28/2021 22:20:48 -05:00] [Info] <Copper Shortsword@Discord> I FELL IN WATER AS  WELL
+<Copper Shortsword@Discord> I FELL IN WATER AS  WELL
+Terracord: [06/28/2021 22:21:09 -05:00] [Info] joog said: who stole my furnace almost u dingus
+joog: who stole my furnace almost u dingus
+49.145.73.219:22580 is connecting...
+Terracord: [06/28/2021 22:21:30 -05:00] [Info] **:green_circle: Potato has joined the server.**
+Potato has joined.
+70.137.105.70:49153 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked qwe for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 22:21:51 -05:00] [Info] **:red_circle: qwe has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+70.137.105.70:49154 is connecting...
+Terracord: [06/28/2021 22:22:00 -05:00] [Info] **:green_circle: ewwe has joined the server.**
+ewwe has joined.
+ewwe authenticated successfully as user: 262003003186216973.
+Potato authenticated successfully as user: 753949752843829249.
+Terracord: [06/28/2021 22:22:10 -05:00] [Info] Potato said: Did the port change or something
+Potato: Did the port change or something
+Terracord: [06/28/2021 22:23:46 -05:00] [Info] ewwe said: these enemies arent despawning wtf
+ewwe: these enemies arent despawning wtf
+70.137.105.70:49154 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked ewwe for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 22:25:11 -05:00] [Info] **:red_circle: ewwe has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+70.137.105.70:49155 is connecting...
+Terracord: [06/28/2021 22:25:22 -05:00] [Info] **:green_circle: igiveup has joined the server.**
+igiveup has joined.
+igiveup authenticated successfully as user: 262003003186216973.
+73.170.246.182:54948 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked joog for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 22:25:42 -05:00] [Info] **:red_circle: joog has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+67.169.170.162:53146 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Bluberry108 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 22:25:56 -05:00] [Info] **:red_circle: Bluberry108 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+67.169.170.162:53184 is connecting...
+73.170.246.182:63116 is connecting...
+Terracord: [06/28/2021 22:26:11 -05:00] [Info] **:green_circle: Bluberry108 has joined the server.**
+Terracord: [06/28/2021 22:26:11 -05:00] [Info] **:green_circle: poop has joined the server.**
+Bluberry108 has joined.
+poop has joined.
+Bluberry108 authenticated successfully as user: 632016986658045961.
+poop authenticated successfully as user: 456602298953629696.
+Terracord: [06/28/2021 22:26:16 -05:00] [Info] Server broadcast: Skeletron has awoken!
+Terracord: [06/28/2021 22:26:22 -05:00] [Info] Potato said: Uhm ok
+Potato: Uhm ok
+Terracord: [06/28/2021 22:26:24 -05:00] [Info] igiveup said: again
+igiveup: again
+Terracord: [06/28/2021 22:26:31 -05:00] [Info] Bluberry108 said: first night
+Bluberry108: first night
+98.220.227.57:51304 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked [c/fe3239:Supremas] for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 22:27:14 -05:00] [Info] **:red_circle: [c/fe3239:Supremas] has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/28/2021 22:27:23 -05:00] [Info] <TheCocoaGamer@Discord> wow first skele death
+<TheCocoaGamer@Discord> wow first skele death
+Terracord: [06/28/2021 22:27:39 -05:00] [Info] igiveup said: rehgoin
+igiveup: rehgoin
+98.220.227.57:63480 is connecting...
+Terracord: [06/28/2021 22:27:41 -05:00] [Info] **:green_circle: [c/fe3239:Supremas] has joined the server.**
+Supremas has joined.
+[c/fe3239:Supremas] authenticated successfully as user: 376522837693038593.
+Terracord: [06/28/2021 22:28:11 -05:00] [Info] <Copper Shortsword@Discord> f
+<Copper Shortsword@Discord> f
+Terracord: [06/28/2021 22:29:06 -05:00] [Info] **:red_circle: Bluberry108 has left the server.**
+Bluberry108 has left.
+Terracord: [06/28/2021 22:29:06 -05:00] [Info] **:red_circle: [c/fe3239:Supremas] has left the server.**
+Supremas has left.
+Terracord: [06/28/2021 22:29:11 -05:00] [Info] **:red_circle: Potato has left the server.**
+Potato has left.
+67.169.170.162:53191 is connecting...
+98.220.227.57:63490 is connecting...
+73.170.246.182:63134 is connecting...
+Terracord: [06/28/2021 22:29:22 -05:00] [Info] **:green_circle: [c/fe3239:Supremas] has joined the server.**
+121.45.96.10:57067 is connecting...
+67.169.170.162:53192 is connecting...
+49.145.73.219:22696 is connecting...
+70.137.105.70:49160 is connecting...
+Terracord: [06/28/2021 22:29:29 -05:00] [Info] **:green_circle: igiveup has joined the server.**
+Terracord: [06/28/2021 22:29:30 -05:00] [Info] **:green_circle: copper shitscvhowerd has joined the server.**
+igiveup has joined.
+igiveup authenticated successfully as user: 262003003186216973.
+copper shitscvhowerd has joined.
+Terracord: [06/28/2021 22:29:34 -05:00] [Info] **:green_circle: Bluberry108 has joined the server.**
+Terracord: [06/28/2021 22:29:34 -05:00] [Info] **:green_circle: poop has joined the server.**
+Terracord: [06/28/2021 22:29:35 -05:00] [Info] **:green_circle: Potato has joined the server.**
+poop has joined.
+copper shitscvhowerd authenticated successfully as user: 730308043794808854.
+Terracord: [06/28/2021 22:29:37 -05:00] [Info] <purple carrot@Discord> frickin bruh
+<purple carrot@Discord> frickin bruh
+Potato has joined.
+Terracord: [06/28/2021 22:29:42 -05:00] [Info] <Bluberry108@Discord> again?
+<Bluberry108@Discord> again?
+Terracord: [06/28/2021 22:29:43 -05:00] [Info] Potato said: I got disconnected
+Potato: I got disconnected
+Potato authenticated successfully as user: 753949752843829249.
+poop authenticated successfully as user: 456602298953629696.
+Bluberry108 has joined.
+Bluberry108 authenticated successfully as user: 632016986658045961.
+Terracord: [06/28/2021 22:30:12 -05:00] [Info] **:red_circle: [c/fe3239:Supremas] has left the server.**
+98.220.227.57:50856 is connecting...
+Terracord: [06/28/2021 22:30:14 -05:00] [Info] **:red_circle: Bluberry108 has left the server.**
+Terracord: [06/28/2021 22:30:14 -05:00] [Info] **:green_circle: [c/fe3239:Supremas] has joined the server.**
+Supremas has joined.
+Terracord: [06/28/2021 22:30:18 -05:00] [Info] Bluberry108 said: did my stuff despawn?
+Bluberry108: did my stuff despawn?
+Terracord: [06/28/2021 22:30:19 -05:00] [Info] [c/fe3239:Supremas] said: lagged out :(
+Supremas: lagged out :(
+[c/fe3239:Supremas] authenticated successfully as user: 376522837693038593.
+Terracord: [06/28/2021 22:30:43 -05:00] [Info] igiveup said: wtf
+igiveup: wtf
+Terracord: [06/28/2021 22:30:45 -05:00] [Info] igiveup said: thats me
+igiveup: thats me
+Terracord: [06/28/2021 22:30:47 -05:00] [Info] **:red_circle: igiveup has left the server.**
+igiveup has left.
+121.45.96.10:57067 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked copper shitscvhowerd for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 22:30:48 -05:00] [Info] **:red_circle: copper shitscvhowerd has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/28/2021 22:30:50 -05:00] [Info] igiveup said: wtf
+igiveup: wtf
+Terracord: [06/28/2021 22:31:00 -05:00] [Info] igiveup said: copper?
+igiveup: copper?
+Terracord: [06/28/2021 22:31:00 -05:00] [Info] Bluberry108 said: hah
+Bluberry108: hah
+70.137.105.70:49160 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked igiveup for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 22:31:04 -05:00] [Info] **:red_circle: igiveup has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/28/2021 22:31:06 -05:00] [Info] **:red_circle: poop has left the server.**
+poop has left.
+Terracord: [06/28/2021 22:31:10 -05:00] [Info] <Zerprent@Discord> i am so confused
+<Zerprent@Discord> i am so confused
+Terracord: [06/28/2021 22:31:14 -05:00] [Info] Potato said: The server is doing funny things
+Potato: The server is doing funny things
+121.45.96.10:56577 is connecting...
+Terracord: [06/28/2021 22:31:16 -05:00] [Info] **:green_circle: css has joined the server.**
+Terracord: [06/28/2021 22:31:17 -05:00] [Info] <Zerprent@Discord> I saw an avatar of myself
+<Zerprent@Discord> I saw an avatar of myself
+css has joined.
+css authenticated successfully as user: 730308043794808854.
+70.137.105.70:49168 is connecting...
+Terracord: [06/28/2021 22:31:31 -05:00] [Info] **:green_circle: WEEEE has joined the server.**
+WEEEE has joined.
+WEEEE authenticated successfully as user: 262003003186216973.
+Terracord: [06/28/2021 22:31:46 -05:00] [Info] poop said: bruuuuuuuuuuh i fInally found iron
+poop: bruuuuuuuuuuh i fInally found iron
+Terracord: [06/28/2021 22:31:53 -05:00] [Info] poop said: then got dced
+poop: then got dced
+Terracord: [06/28/2021 22:32:48 -05:00] [Info] [c/fe3239:Supremas] said: noooo
+Supremas: noooo
+Terracord: [06/28/2021 22:32:56 -05:00] [Info] Bluberry108 said: ok im sorry
+Bluberry108: ok im sorry
+Terracord: [06/28/2021 22:33:04 -05:00] [Info] [c/fe3239:Supremas] said: big sad
+Supremas: big sad
+[Server API] Warning Plugin "TShock" has had an unhandled exception thrown by one of its ServerChat handlers:
+System.OutOfMemoryException: Exception of type 'System.OutOfMemoryException' was thrown.
+   at System.Text.StringBuilder.ToString()
+   at System.Text.RegularExpressions.RegexParser.Escape(String input)
+   at System.Text.RegularExpressions.Regex.Escape(String str)
+   at FragLand.TerracordPlugin.Util.ConvertChannelMentions(String message, DiscordSocketClient discordClient)
+   at FragLand.TerracordPlugin.Terracord.OnChat(PlayerChatEventArgs args)
+   at TShockAPI.Hooks.PlayerHooks.OnPlayerChat(TSPlayer ply, String rawtext, String& tshockText)
+   at TShockAPI.TShock.OnChat(ServerChatEventArgs args)
+   at TerrariaApi.Server.HandlerCollection`1.Invoke(ArgsType args) in D:\a\TShock\TShock\TerrariaServerAPI\TerrariaServerAPI\TerrariaApi.Server\HandlerCollection.cs:line 109
+<poop> #respect if he gives stuff back??!!
+Terracord: [06/28/2021 22:33:36 -05:00] [Info] Bluberry108 said: ill give you some bac
+Bluberry108: ill give you some bac
+Terracord: [06/28/2021 22:33:42 -05:00] [Info] Bluberry108 said: i feel bad
+Bluberry108: i feel bad
+121.45.96.10:56577 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked css for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 22:33:44 -05:00] [Info] **:red_circle: css has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/28/2021 22:33:46 -05:00] [Info] [c/fe3239:Supremas] said: ok thabk
+Supremas: ok thabk
+70.137.105.70:49168 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked WEEEE for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 22:33:51 -05:00] [Info] **:red_circle: WEEEE has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+70.137.105.70:49172 is connecting...
+Terracord: [06/28/2021 22:33:58 -05:00] [Info] **:green_circle: e has joined the server.**
+e has joined.
+e authenticated successfully as user: 262003003186216973.
+98.220.227.57:50856 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked [c/fe3239:Supremas] for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 22:34:08 -05:00] [Info] **:red_circle: [c/fe3239:Supremas] has left the server.**
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+Terracord: [06/28/2021 22:34:16 -05:00] [Info] Bluberry108 said: did u die?
+Bluberry108: did u die?
+Terracord: [06/28/2021 22:34:18 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/28/2021 22:34:18 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+Terracord: [06/28/2021 22:34:22 -05:00] [Info] <TheCocoaGamer@Discord> im not gonna join back bc i think it doesnt help the lag
+<TheCocoaGamer@Discord> im not gonna join back bc i think it doesnt help the lag
+Terracord: [06/28/2021 22:34:26 -05:00] [Info] Potato said: oh dear
+Potato: oh dear
+Terracord: [06/28/2021 22:34:43 -05:00] [Info] e said: pvp
+e: pvp
+Terracord: [06/28/2021 22:34:43 -05:00] [Info] poop said: e peace??
+poop: e peace??
+Terracord: [06/28/2021 22:34:43 -05:00] [Info] <Zerprent@Discord> i think im lagging
+<Zerprent@Discord> i think im lagging
+Terracord: [06/28/2021 22:34:43 -05:00] [Info] <Bluberry108@Discord> oh god
+<Bluberry108@Discord> oh god
+Terracord: [06/28/2021 22:35:04 -05:00] [Info] e said: i am lagging
+e: i am lagging
+Terracord: [06/28/2021 22:35:08 -05:00] [Info] poop said: ugh
+poop: ugh
+Terracord: [06/28/2021 22:35:23 -05:00] [Info] Potato said: some grenades would be nice
+Potato: some grenades would be nice
+Terracord: [06/28/2021 22:35:28 -05:00] [Info] poop said: e stop
+poop: e stop
+Terracord: [06/28/2021 22:35:37 -05:00] [Info] e said: my quarry
+e: my quarry
+playing
+Server executed: /playing.
+Online Players (4/69)
+e, poop, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (4/69)
+e, poop, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (4/69)
+e, poop, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (4/69)
+e, poop, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (4/69)
+e, poop, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (4/69)
+e, poop, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (4/69)
+e, poop, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (4/69)
+e, poop, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (4/69)
+e, poop, Bluberry108, Potato
+: Terracord: [06/28/2021 22:36:59 -05:00] [Info] Potato said: what the heck
+Potato: what the heck
+Terracord: [06/28/2021 22:37:01 -05:00] [Info] Potato said: so many
+Potato: so many
+playing
+Server executed: /playing.
+Online Players (4/69)
+e, poop, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (4/69)
+e, poop, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (4/69)
+e, poop, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (4/69)
+e, poop, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (4/69)
+e, poop, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (4/69)
+e, poop, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (4/69)
+e, poop, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (4/69)
+e, poop, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (4/69)
+e, poop, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (4/69)
+e, poop, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (4/69)
+e, poop, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (4/69)
+e, poop, Bluberry108, Potato
+: 73.170.246.182:63134 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked poop for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 22:37:26 -05:00] [Info] **:red_circle: poop has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: Terracord: [06/28/2021 22:37:33 -05:00] [Info] e said: how did you have a horshoe
+e: how did you have a horshoe
+playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playiTerracord: [06/28/2021 22:38:00 -05:00] [Info] <purple carrot@Discord> e bc the first time I finally found a cave and iron i got dced right after i got that horseshoe
+<purple carrot@Discord> e bc the first time I finally found a cave and iron i got dced right after i got that horseshoe
+ng
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: Terracord: [06/28/2021 22:38:01 -05:00] [Info] Potato said: oh hi  fairy
+Potato: oh hi  fairy
+playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playiTerracord: [06/28/2021 22:38:05 -05:00] [Info] <purple carrot@Discord> i found iron twice
+<purple carrot@Discord> i found iron twice
+Terracord: [06/28/2021 22:38:05 -05:00] [Info] Potato said: where did fairy go????
+Potato: where did fairy go????
+ng
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: Terracord: [06/28/2021 22:38:12 -05:00] [Info] e said: bad luck
+e: bad luck
+playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: Terracord: [06/28/2021 22:38:14 -05:00] [Info] Potato said: it's gone
+Potato: it's gone
+playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playingTerracord: [06/28/2021 22:38:18 -05:00] [Info] <purple carrot@Discord> and the first time i got dced and the second time you were a doof
+<purple carrot@Discord> and the first time i got dced and the second time you were a doof
+
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: Terracord: [06/28/2021 22:38:21 -05:00] [Info] <purple carrot@Discord> and killed me
+<purple carrot@Discord> and killed me
+playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: Terracord: [06/28/2021 22:39:05 -05:00] [Info] Potato said: fairy just came back out of nowhere
+Potato: fairy just came back out of nowhere
+playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playing
+Server executed: /playing.
+Online Players (3/69)
+e, Bluberry108, Potato
+: playin67.169.170.162:53192 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked Bluberry108 for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+gTerracord: [06/28/2021 22:40:16 -05:00] [Info] **:red_circle: Bluberry108 has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playingTerracord: [06/28/2021 22:41:00 -05:00] [Info] Potato said: what the
+Potato: what the
+
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: e executed: /who.
+playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: Terracord: [06/28/2021 22:41:14 -05:00] [Info] e said: its a 1v1
+e: its a 1v1
+playiTerracord: [06/28/2021 22:41:15 -05:00] [Info] e said: how
+e: how
+ng
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: Terracord: [06/28/2021 22:41:23 -05:00] [Info] Potato said: just you and me sir
+Potato: just you and me sir
+playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: Terracord: [06/28/2021 22:41:27 -05:00] [Info] Potato said: and a f
+Potato: and a f
+playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: Terracord: [06/28/2021 22:43:03 -05:00] [Info] Potato said: jeez
+Potato: jeez
+playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: Terracord: [06/28/2021 22:44:29 -05:00] [Info] <Copper Shortsword@Discord> game over?
+<Copper Shortsword@Discord> game over?
+playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: e executed: /who.
+playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: Terracord: [06/28/2021 22:44:37 -05:00] [Info] e said: no
+e: no
+Terracord: [06/28/2021 22:44:37 -05:00] [Info] Potato said: idk
+Potato: idk
+playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: Terracord: [06/28/2021 22:45:47 -05:00] [Info] Potato said: **[Snowball Launcher]**
+Potato: [Snowball Launcher]
+playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playiTerracord: [06/28/2021 22:45:50 -05:00] [Info] e said: no
+e: no
+ng
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: Terracord: [06/28/2021 22:51:04 -05:00] [Info] Potato said: ow
+Potato: ow
+playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: Terracord: [06/28/2021 22:51:07 -05:00] [Info] e said: sorry cocoa but im built different
+e: sorry cocoa but im built different
+playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: Terracord: [06/28/2021 22:51:08 -05:00] [Info] Server broadcast: Skeletron has awoken!
+playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: plTerracord: [06/28/2021 22:54:29 -05:00] [Info] Server broadcast: Skeletron has been defeated!
+aying
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playiTerracord: [06/28/2021 22:54:33 -05:00] [Info] Potato said: sweat
+Potato: sweat
+ng
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: Terracord: [06/28/2021 22:54:46 -05:00] [Info] e said: im wearing palm wood armor
+e: im wearing palm wood armor
+playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: Terracord: [06/28/2021 22:54:52 -05:00] [Info] e said: **[Rapid Shadewood Bow]**
+e: [Rapid Shadewood Bow]
+playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: playing
+Server executed: /playing.
+Online Players (2/69)
+e, Potato
+: play70.137.105.70:49172 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+iKicked e for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/28/2021 22:56:29 -05:00] [Info] **:red_circle: e has left the server.**
+Error on message Terraria.MessageBuffer
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Terraria.NetMessage.SendDataDirect(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7)
+   at Terraria.NetMessage.BootPlayer(Int32 plr, NetworkText msg)
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType)
+   at Terraria.NetMessage.CheckBytesDirect(Int32 bufferIndex)
+ng
+Server executed: /playing.
+Online Players (1/69)
+Potato
+:  
