@@ -10,7 +10,7 @@ SetKeyDelay 1,1
 
 Loop 
 {
-	FileRead, reloading, C:\Users\PTHC1\Desktop\New folder\reload.txt 
+	FileRead, reloading, C:\Users\ZebraBoiGamer\Desktop\Desktop\New folder\reload.txt 
 
     if InStr(reloading, "1"){
 	
@@ -19,33 +19,33 @@ Loop
 	WinClose, ahk_exe cmd.exe
 	
 	
-	Run, C:\Users\PTHC1\Desktop\Console2\Console.exe,,, OutputVarPID
+	Run, C:\Users\ZebraBoiGamer\Desktop\Folders\Console2\Console.exe,,, OutputVarPID
 	sleep 300
 	WinActivate ahk_pid %OutputVarPID%
 	sleep 200
 	Send cd C`: 
 	Send `\ 
-	Send Users\PTHC1\Desktop\New folder 
+	Send Users\ZebraBoiGamer\Desktop\Desktop\New folder
 	Send {Enter} 
 	sleep 150
 	Send node bot.js 
 	Send {Enter} 
 	
-	Run, C:\Users\PTHC1\Desktop\Console2\Console.exe,,, OutputVarPID1
+	Run, C:\Users\ZebraBoiGamer\Desktop\Folders\Console2\Console.exe,,, OutputVarPID1
 	sleep 300
 	WinActivate ahk_pid %OutputVarPID1%
 	sleep 200
 	Send cd C`: 
 	Send `\ 
-	Send Users\PTHC1\Desktop\New folder\DiscordBot2 
+	Send Users\ZebraBoiGamer\Desktop\Desktop\New folder\DiscordBot2 
 	Send {Enter} 
 	sleep 150
 	Send node bot.js 
 	Send {Enter} 
 	
 	
-	FileDelete  C:\Users\PTHC1\Desktop\New folder\reload.txt
-	FileAppend ,0, C:\Users\PTHC1\Desktop\New folder\reload.txt
+	FileDelete  C:\Users\ZebraBoiGamer\Desktop\Desktop\New folder\reload.txt
+	FileAppend ,0, C:\Users\ZebraBoiGamer\Desktop\Desktop\New folder\reload.txt
 	
 	}
 	

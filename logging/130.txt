@@ -1,0 +1,74 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7778
+Type 'help' for a list of commands.
+
+Terracord: [06/30/2021 23:34:11 -05:00] [Info] Connecting to Discord...
+Terracord: [06/30/2021 23:34:11 -05:00] [Info] 23:34:11 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [06/30/2021 23:34:11 -05:00] [Info] 23:34:11 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 5m
+Server executed: /grace begin 5m.
+Terracord: [06/30/2021 23:34:11 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 376522837693038593
+Server started
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 44tj default
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: Terracord: [06/30/2021 23:34:12 -05:00] [Info] 23:34:12 Gateway     Connected
+Terracord: [06/30/2021 23:34:12 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [06/30/2021 23:34:12 -05:00] [Info] 23:34:12 Gateway     Ready
+127.0.0.1:52579 is connecting...
+Terracord: [06/30/2021 23:34:37 -05:00] [Info] **:green_circle: peepee has joined the server.**
+peepee has joined.
+peepee authenticated successfully as user: 376522837693038593.
+127.0.0.1:52579 was booted: Kicked: You can rejoin if grace hasn't ended, or wait till the next round.
+Kicked peepee for : 'You can rejoin if grace hasn't ended, or wait till the next round.'
+Terracord: [06/30/2021 23:35:39 -05:00] [Info] **:red_circle: peepee has left the server.**
+Terracord: [06/30/2021 23:35:39 -05:00] [Info] Server broadcast: Saving world...
+Saving world...
+Terracord: [06/30/2021 23:35:39 -05:00] [Info] Server broadcast: peepee fell to their death.
+Saving world data: 4%
+Saving world data: 5%
+Saving world data: 11%
+Saving world data: 15%
+Saving world data: 20%
+Saving world data: 24%
+Saving world data: 29%
+Saving world data: 34%
+Saving world data: 39%
+Saving world data: 47%
+Saving world data: 51%
+Saving world data: 53%
+Saving world data: 61%
+Saving world data: 66%
+Saving world data: 71%
+Saving world data: 76%
+Saving world data: 80%
+Saving world data: 84%
+Saving world data: 89%
+Saving world data: 94%
+Saving world data: 99%
+Saving world data: 100%
+Validating world save: 73%
+Backing up world file
+Terracord: [06/30/2021 23:35:39 -05:00] [Info] Server broadcast: World saved.
+World saved.
+127.0.0.1:52586 is connecting...
+Terracord: [06/30/2021 23:35:46 -05:00] [Info] **:green_circle: asdada has joined the server.**
+asdada has joined.
+asdada authenticated successfully as user: 376522837693038593.
+Terracord: [06/30/2021 23:39:11 -05:00] [Info] Server broadcast: The grace period has ended.
+The grace period has ended.
+Terracord: [06/30/2021 23:39:11 -05:00] [Info] Server broadcast: You are now at the mercy of yourself and others.
+You are now at the mercy of yourself and others.
+playing
+Server executed: /playing.
+Online Players (1/69)
+asdada
+:

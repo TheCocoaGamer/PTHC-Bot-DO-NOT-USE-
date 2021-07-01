@@ -7,18 +7,18 @@ SetKeyDelay , 30, 30
 
 Loop 
 {
-	FileRead, line,C:\Users\PTHC1\Desktop\New folder\gameStarted.txt
+	FileRead, line,C:\Users\ZebraBoiGamer\Desktop\Desktop\New folder\gameStarted.txt
 	
     if InStr(line, "started"){
 	
 	
 	
-	FileRead, numbers, C:\Users\PTHC1\Desktop\New folder\logging\numbers.txt
+	FileRead, numbers, C:\Users\ZebraBoiGamer\Desktop\Desktop\New folder\logging\numbers.txt
 	
 	newnumbers := numbers + 1
 	
-	FileDelete  C:\Users\PTHC1\Desktop\New folder\logging\numbers.txt
-	FileAppend ,%newnumbers%, C:\Users\PTHC1\Desktop\New folder\logging\numbers.txt
+	FileDelete  C:\Users\ZebraBoiGamer\Desktop\Desktop\New folder\logging\numbers.txt
+	FileAppend ,%newnumbers%, C:\Users\ZebraBoiGamer\Desktop\Desktop\New folder\logging\numbers.txt
 	
 	WinClose, ahk_exe TerrariaServer.exe
 	WinClose, ahk_exe cmd.exe
@@ -30,7 +30,7 @@ Loop
 	sleep 1000
 	ControlSend,,`\, ahk_exe cmd.exe
 	sleep 1000
-	ControlSend,,Users\PTHC1\Desktop\Tshock_Server, ahk_exe cmd.exe
+	ControlSend,,Users\ZebraBoiGamer\Desktop\Folders\Tshock_Server, ahk_exe cmd.exe
 	sleep 100
 	ControlSend,,{Enter} , ahk_exe cmd.exe
 	sleep 100
@@ -59,22 +59,22 @@ Loop
 	ControlSend,,{Enter} , ahk_exe cmd.exe
 	
 	
-	FileRead, worldSize, C:\Users\PTHC1\Desktop\New folder\worldSize.txt 
+	FileRead, worldSize, C:\Users\ZebraBoiGamer\Desktop\Desktop\New folder\worldSize.txt 
 	ControlSend,,%worldSize% , ahk_exe cmd.exe
 	ControlSend,,{Enter}  , ahk_exe cmd.exe
 	
 		
-	FileRead, difficulty, C:\Users\PTHC1\Desktop\New folder\difficulty.txt
+	FileRead, difficulty, C:\Users\ZebraBoiGamer\Desktop\Desktop\New folder\difficulty.txt
 	ControlSend,,%difficulty% , ahk_exe cmd.exe
 	ControlSend,,{Enter} , ahk_exe cmd.exe
 	
 		
-	FileRead, evil, C:\Users\PTHC1\Desktop\New folder\worldEvil.txt
+	FileRead, evil, C:\Users\ZebraBoiGamer\Desktop\Desktop\New folder\worldEvil.txt
 	ControlSend,,%evil% , ahk_exe cmd.exe
 	ControlSend,,{Enter} , ahk_exe cmd.exe
 
 	
-	FileRead, thcAmount, C:\Users\PTHC1\Desktop\New folder\thcAmount.txt
+	FileRead, thcAmount, C:\Users\ZebraBoiGamer\Desktop\Desktop\New folder\thcAmount.txt
 	ControlSend,,{!}%thcAmount% , ahk_exe cmd.exe
 	ControlSend,,{Enter} , ahk_exe cmd.exe
 	
@@ -88,7 +88,7 @@ Loop
 	ControlSend,,{Enter} , ahk_exe cmd.exe
  
  	
-	FileRead, maxPlayer, C:\Users\PTHC1\Desktop\New folder\maxPlayerAmount.txt 
+	FileRead, maxPlayer, C:\Users\ZebraBoiGamer\Desktop\Desktop\New folder\maxPlayerAmount.txt 
 	ControlSend,,%maxPlayer% , ahk_exe cmd.exe
 	ControlSend,,{Enter} , ahk_exe cmd.exe
 	
@@ -101,21 +101,22 @@ Loop
 
 	 ControlSend,,{Enter} , ahk_exe cmd.exe
 	 
+	 
 	
 
-	FileRead, graceTime, C:\Users\PTHC1\Desktop\New folder\graceTime.txt
+	FileRead, graceTime, C:\Users\ZebraBoiGamer\Desktop\Desktop\New folder\graceTime.txt
 	ControlSend,,grace begin %graceTime%m , ahk_exe cmd.exe
 	ControlSend,,{Enter} , ahk_exe cmd.exe
 	terrariaTime := graceTime * 60000
 
-	FileDelete  C:\Users\PTHC1\Desktop\New folder\gameStarted2.txt
-	FileAppend ,1, C:\Users\PTHC1\Desktop\New folder\gameStarted2.txt
+	FileDelete  C:\Users\ZebraBoiGamer\Desktop\Desktop\New folder\gameStarted2.txt
+	FileAppend ,1, C:\Users\ZebraBoiGamer\Desktop\Desktop\New folder\gameStarted2.txt
 
 	sleep 180000
 	sleep terrariaTime
 
-	FileDelete  C:\Users\PTHC1\Desktop\New folder\gameStarted2.txt
-	FileAppend ,0, C:\Users\PTHC1\Desktop\New folder\gameStarted2.txt
+	FileDelete  C:\Users\ZebraBoiGamer\Desktop\Desktop\New folder\gameStarted2.txt
+	FileAppend ,0, C:\Users\ZebraBoiGamer\Desktop\Desktop\New folder\gameStarted2.txt
 
 
 	Clipboard:=
@@ -142,12 +143,12 @@ Loop
 	
 	lastWords := SubStr(clipboard, -30)
 	lineNum := 10
-	FileDelete  C:\Users\PTHC1\Desktop\New folder\endLine.txt
-	FileAppend ,%lastWords%, C:\Users\PTHC1\Desktop\New folder\endLine.txt
+	FileDelete  C:\Users\ZebraBoiGamer\Desktop\Desktop\New folder\endLine.txt
+	FileAppend ,%lastWords%, C:\Users\ZebraBoiGamer\Desktop\Desktop\New folder\endLine.txt
 	fml := 0
 	loop{
 	
-	FileReadLine, endLine, C:\Users\PTHC1\Desktop\New folder\endLine.txt, lineNum
+	FileReadLine, endLine, C:\Users\ZebraBoiGamer\Desktop\Desktop\New folder\endLine.txt, lineNum
 
 
 	if ErrorLevel
@@ -168,9 +169,9 @@ Loop
 	}
 	}
 	
-	FileAppend ,%Clipboard%, C:\Users\PTHC1\Desktop\New folder\logging\%newnumbers%.txt
-	FileDelete  C:\Users\PTHC1\Desktop\New folder\gameStarted.txt
-	FileAppend ,%endline%, C:\Users\PTHC1\Desktop\New folder\gameStarted.txt
+	FileAppend ,%Clipboard%, C:\Users\ZebraBoiGamer\Desktop\Desktop\New folder\logging\%newnumbers%.txt
+	FileDelete  C:\Users\ZebraBoiGamer\Desktop\Desktop\New folder\gameStarted.txt
+	FileAppend ,%endline%, C:\Users\ZebraBoiGamer\Desktop\Desktop\New folder\gameStarted.txt
 	ControlSend,,`exit, ahk_exe cmd.exe
 	ControlSend,,{Enter}, ahk_exe cmd.exe
 	

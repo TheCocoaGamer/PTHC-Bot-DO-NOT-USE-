@@ -25,17 +25,19 @@ var oldPass = false;
 var oldID = false;
 var gameStarted = 0;
 var loop = 1;
-
+var thingo = 0;
 var reactionAmountGreenSquare = 0;
 var reactionAmountYellowSquare = 0;
 
 const readline = require('readline');
 
+
+
 client.on('ready', async (message, user, member) => {
-  client.channels.cache.get('838910207186042920').send("Bot Online!");
-  console.log(`Logged in as ${client.user.tag}!`);
-  
-  					if(startedAlready === true  ){
+var thingo = client.setInterval(function(){
+	
+console.log('loop working')
+if(startedAlready === true  ){
 						if(step1 === true ){
 							if(step2 === true ){
 								if(step3 === true ){
@@ -43,19 +45,13 @@ client.on('ready', async (message, user, member) => {
 										if(step5 === true){
 											if (step6 === true){
 												
-												
-							
-							
-
-							
-							while (loop == 1){
-								console.log('working')
+							console.log('loop in action')
 							simpleReadFileSync('gameStarted.txt');
 							gameStarted = words;
 							
 						if(gameStarted != 0 & gameStarted != "started"){
-							loop = 0
-							message.channel.send('Congrats to ' + gameStarted + ' for winning pthc ' +  thcAmount2 + '!');
+							console.log('ending')
+							client.channels.cache.get('838910207186042920').send('Congrats to ' + gameStarted + ' for winning pthc ' +  thcAmount2 + '!');
 							client.channels.cache.get('854973503241584670').send("Thc " + thcAmount2 + " - " + gameStarted);
 													startedAlready = false;
 															step1 = false;
@@ -64,27 +60,32 @@ client.on('ready', async (message, user, member) => {
 															step4 = false;
 															step5 = false;
 															step6 = false;
+															client.channels.cache.get('838910207186042920').send('Bot reseting...');
 															simpleFileWriteSync('gameStarted.txt', "0");
-															message.channel.send('Reloading...');	
 															simpleFileWriteSync('gameStarted.txt', "0");
 															simpleFileWriteSync('gameStarted2.txt', "0");
-															simpleFileWriteSync('Reload.txt', "1");
-						}
-							}
-					
-
-					
-					
+															simpleFileWriteSync('Reload.txt', "1");	
+															
+																										}
 												}
 											}
 										}
 									}
 								}
 							}
-						}
-  
-  
-  
+}  
+
+
+}, 10000)
+});
+
+
+
+
+client.on('ready', async (message, user, member) => {
+  client.channels.cache.get('838910207186042920').send("Bot Online!");
+  console.log(`Logged in as ${client.user.tag}!`);
+  thingo
 });
 
 function simpleReadFileSync(filePath) {
@@ -172,7 +173,7 @@ client.on('messageReactionAdd', async (reaction, message, user, members) => {
 							
 							
 							
-							  const fileStream = fs.createReadStream("C:/Users/PTHC1/Desktop/New folder/usernames.txt");
+							  const fileStream = fs.createReadStream("C:/Users/ZebraBoiGamer/Desktop/Desktop/New folder/usernames.txt");
 
 							  const rl = readline.createInterface({
 								input: fileStream,
@@ -209,7 +210,7 @@ client.on('messageReactionAdd', async (reaction, message, user, members) => {
 														simpleFileWriteSync('gameStarted.txt', 'started')
 							
 							async function processLineByLine() {
-							  const fileStream = fs.createReadStream("C:/Users/PTHC1/Desktop/New folder/usernames.txt");
+							  const fileStream = fs.createReadStream("C:/Users/ZebraBoiGamer/Desktop/Desktop/New folder/usernames.txt");
 
 							  const rl = readline.createInterface({
 								input: fileStream,
@@ -454,7 +455,7 @@ client.on('message', async (message, user, member) => {
 								 	simpleFileWriteSync('gameStarted.txt', 'started')
 							
 							async function processLineByLine() {
-							  const fileStream = fs.createReadStream("C:/Users/PTHC1/Desktop/New folder/usernames.txt");
+							  const fileStream = fs.createReadStream("C:/Users/ZebraBoiGamer/Desktop/Desktop/New folder/usernames.txt");
 
 							  const rl = readline.createInterface({
 								input: fileStream,
@@ -490,7 +491,7 @@ client.on('message', async (message, user, member) => {
 							simpleFileWriteSync('gameStarted.txt', 'started')
 							
 							async function processLineByLine() {
-							  const fileStream = fs.createReadStream("C:/Users/PTHC1/Desktop/New folder/usernames.txt");
+							  const fileStream = fs.createReadStream("C:/Users/ZebraBoiGamer/Desktop/Desktop/New folder/usernames.txt");
 
 							  const rl = readline.createInterface({
 								input: fileStream,

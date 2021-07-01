@@ -1,0 +1,34 @@
+Terraria Server v1.4.2.3
+
+Listening on port 7778
+Type 'help' for a list of commands.
+
+Terracord: [07/01/2021 00:01:28 -05:00] [Info] Connecting to Discord...
+Terracord: [07/01/2021 00:01:28 -05:00] [Info] 00:01:28 Discord     Discord.Net v2.3.1 (API v6)
+Terracord: [07/01/2021 00:01:28 -05:00] [Info] 00:01:28 Gateway     Connecting
+Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+Login using UUID enabled. Users automatically login via UUID.
+A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+: grace begin 5m
+Server executed: /grace begin 5m.
+Terracord: [07/01/2021 00:01:28 -05:00] [Info] Server broadcast: A grade period has been put into effect, during which you will not be able to participate in PvP.
+A grade period has been put into effect, during which you will not be able to participate in PvP.
+: user del 376522837693038593
+Account removed successfully.
+Server successfully deleted account: 376522837693038593.
+: user add 376522837693038593 2ciy default
+Server started
+Account 376522837693038593 has been added to group default!
+Server added Account 376522837693038593 to group default
+: Terracord: [07/01/2021 00:01:29 -05:00] [Info] 00:01:29 Gateway     Connected
+Terracord: [07/01/2021 00:01:29 -05:00] [Info] Relay available. Connected to Discord as GameChat#5026.
+Terracord: [07/01/2021 00:01:29 -05:00] [Info] 00:01:29 Gateway     Ready
+127.0.0.1:52780 is connecting...
+Terracord: [07/01/2021 00:01:55 -05:00] [Info] **:green_circle: adsfghjk has joined the server.**
+adsfghjk has joined.
+adsfghjk authenticated successfully as user: 376522837693038593.
+playing
+Server executed: /playing.
+Online Players (1/69)
+adsfghjk
+:
